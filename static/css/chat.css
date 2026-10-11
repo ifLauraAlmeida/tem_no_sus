@@ -94,3 +94,38 @@
 .botao--primario:hover:not(:disabled) { background: var(--azul-escuro); }
 .botao--secundario { background: var(--branco); color: var(--azul); }
 .botao--secundario:hover:not(:disabled) { background: var(--azul-fundo); }
+
+.formulario-locais { margin-top: 8px; }
+.formulario-locais .campo { margin-bottom: 10px; }
+.formulario-locais label { display: block; font-size: 0.9rem; margin-bottom: 4px; }
+.formulario-locais select,
+.formulario-locais input {
+  width: 100%;
+  font: inherit;
+  color: inherit;
+  padding: 8px 10px;
+  border: 1px solid #888f96;
+  border-radius: var(--raio);
+  background: var(--branco);
+}
+.formulario-locais .conversa__acoes { justify-content: flex-start; }
+
+.estabelecimento {
+  background: var(--branco);
+  border: 1px solid var(--cinza-borda);
+  border-left: 4px solid var(--azul);
+  border-radius: var(--raio);
+  padding: 10px 12px;
+  margin-top: 8px;
+}
+.estabelecimento--farmacia_popular { border-left-color: var(--azul-escuro); border-left-style: double; border-left-width: 6px; }
+.estabelecimento__nome { font-weight: 500; color: var(--azul-escuro); margin-bottom: 2px; }
+.estabelecimento__tipo {
+  display: inline-block;
+  font-size: 0.8rem;
+  padding: 1px 8px;
+  border-radius: 999px;
+  background: var(--azul-fundo);
+  border: 1px solid var(--azul-claro);
+  margin-bottom: 6px;
+}

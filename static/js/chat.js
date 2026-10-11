@@ -1,5 +1,6 @@
 import { buscarMedicamento, separarEntradas, SITUACAO } from "./busca_medicamentos.js";
 import { criarElemento, criarLink, formatarData } from "./elementos_dom.js";
+import { oferecerBuscaDeLocais } from "./busca_locais.js";
 
 const CAMINHO_ELENCO = "data/reference/farmacia_popular_elenco.json";
 const EXEMPLO_RECEITA = "Losartana 50 mg\nMetformina 500 mg\nDipirona 500 mg";
@@ -116,7 +117,9 @@ function consultarReceita(textoReceita, elenco) {
   ]);
 
   const algumEncontrado = resultados.some(({ resultado }) => resultado.itens.length > 0);
-  if (algumEncontrado) adicionarMensagem("sistema", mensagemProximosPassos(elenco.fonte));
+  if (!algumEncontrado) return;
+  adicionarMensagem("sistema", mensagemProximosPassos(elenco.fonte));
+  oferecerBuscaDeLocais(adicionarMensagem);
 }
 
 function mostrarErroFormulario(texto) {
