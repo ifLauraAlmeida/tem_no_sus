@@ -1,0 +1,4 @@
+# Python 3.12: pyreaddbc ainda não publica wheel para 3.14.
+pyreaddbc==2.0.4
+dbfread==2.0.7
+pytest==9.1.1

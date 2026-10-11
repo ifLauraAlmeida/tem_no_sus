@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Dados brutos baixados das fontes oficiais (reproduzíveis pelo pipeline)
+data/raw/
