@@ -1,0 +1,71 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tem No SUS?</title>
+  <meta name="description" content="Consulta informativa de medicamentos gratuitos no SUS e no Programa Farmácia Popular, com referência às fontes oficiais.">
+  <link rel="stylesheet" href="static/css/tema.css">
+  <link rel="stylesheet" href="static/css/layout.css">
+  <link rel="stylesheet" href="static/css/chat.css">
+</head>
+<body>
+  <a class="pular-conteudo" href="#conversa">Ir para a consulta</a>
+
+  <div class="barra-aviso">
+    <div class="conteudo-centralizado">
+      Projeto independente que organiza dados públicos. Não é um canal oficial do Ministério da Saúde.
+    </div>
+  </div>
+
+  <header class="cabecalho">
+    <div class="conteudo-centralizado">
+      <span class="cabecalho__marca" aria-hidden="true">?</span>
+      <div>
+        <h1 class="cabecalho__titulo">Tem No SUS?</h1>
+        <p class="cabecalho__subtitulo">Descubra se os medicamentos da sua receita constam em programas públicos de distribuição gratuita.</p>
+      </div>
+    </div>
+  </header>
+
+  <main class="principal conteudo-centralizado">
+    <section class="painel conversa" id="conversa" aria-labelledby="titulo-conversa">
+      <h2 id="titulo-conversa">Consulta de medicamentos</h2>
+
+      <div class="conversa__mensagens" id="mensagens" role="log" aria-live="polite"></div>
+
+      <form class="conversa__formulario" id="formulario-consulta" novalidate>
+        <label for="entrada-medicamentos">Medicamentos da receita <span class="rotulo">(um por linha)</span></label>
+        <textarea id="entrada-medicamentos" name="medicamentos" rows="3"
+          placeholder="Losartana 50 mg&#10;Metformina 850 mg" disabled></textarea>
+        <p class="conversa__erro" id="erro-formulario" role="alert" hidden></p>
+        <div class="conversa__acoes">
+          <button type="button" class="botao botao--secundario" id="botao-exemplo" disabled>Usar exemplo</button>
+          <button type="submit" class="botao botao--primario" id="botao-consultar" disabled>Consultar</button>
+        </div>
+      </form>
+    </section>
+
+    <aside class="painel" aria-labelledby="titulo-fonte">
+      <h2 id="titulo-fonte">Sobre os dados</h2>
+      <dl class="lista-fonte" id="dados-fonte">
+        <dt>Fonte</dt>
+        <dd>Carregando…</dd>
+      </dl>
+      <p class="aviso">
+        Estar em uma lista oficial <strong>não garante estoque</strong>. Confirme a disponibilidade diretamente com a farmácia ou unidade de saúde.
+      </p>
+      <p class="rotulo">
+        Ferramenta informativa: não substitui orientação de médico ou farmacêutico e não recomenda troca de medicamentos.
+      </p>
+    </aside>
+  </main>
+
+  <footer class="rodape">
+    <div class="conteudo-centralizado">
+      Tem No SUS? — dados públicos do Ministério da Saúde. Veja as
+      <a href="docs/fontes_oficiais.md">fontes oficiais utilizadas</a>.
+    </div>
+  </footer>
+</body>
+</html>
