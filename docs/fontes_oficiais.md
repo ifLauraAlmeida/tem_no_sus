@@ -72,4 +72,6 @@ Ainda não incorporadas ao MVP. A ausência de um medicamento nas bases usadas *
 
 ## 5. CNES — Cadastro Nacional de Estabelecimentos de Saúde
 
-Necessário para localizar UBS e farmácias públicas (fase de geolocalização). Atualização mensal no DATASUS. Ainda não incorporado.
+Usado para localizar estabelecimentos com serviço de farmácia (serviço 125). Atualização mensal no DATASUS, por competência; complementado pela API de dados abertos (`apidadosabertos.saude.gov.br/cnes/estabelecimentos`) para nome, endereço e coordenadas. Detalhes em [`cnes_servico_farmacia.md`](cnes_servico_farmacia.md).
+
+Painel oficial de farmácias credenciadas ao Farmácia Popular: <https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html> (sem download estruturado; o conjunto "Estabelecimentos do Aqui tem Farmácia Popular" em dados.gov.br retornou acesso negado em 11/10/2026).

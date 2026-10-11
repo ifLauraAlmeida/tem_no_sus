@@ -515,7 +515,20 @@ Testes (Node.js 22+, sem dependências externas):
 npm test
 ```
 
-As fontes oficiais e a frequência de atualização de cada uma estão em [`docs/fontes_oficiais.md`](docs/fontes_oficiais.md).
+### Pipeline de estabelecimentos (CNES)
+
+Requer Python 3.12 (a dependência `pyreaddbc` ainda não tem suporte a 3.14):
+
+```bash
+python3.12 -m venv .venv
+.venv/bin/pip install -r requirements.txt
+.venv/bin/python -m pipeline.cnes.executar --uf TO --competencia 202608
+.venv/bin/python -m pytest
+```
+
+Gera `data/processed/estabelecimentos/{UF}.json` e atualiza o `indice.json` lido pela página. Arquivos brutos ficam em `data/raw/` (fora do git).
+
+As fontes oficiais e a frequência de atualização de cada uma estão em [`docs/fontes_oficiais.md`](docs/fontes_oficiais.md). As regras de uso do CNES estão em [`docs/cnes_servico_farmacia.md`](docs/cnes_servico_farmacia.md).
 
 ---
 
@@ -524,7 +537,8 @@ As fontes oficiais e a frequência de atualização de cada uma estão em [`docs
 ```text
 Em desenvolvimento.
 Consulta ao elenco do Farmácia Popular (atualizado em 31/08/2026) implementada.
-RENAME, SIGTAP, listas municipais e busca de estabelecimentos ainda não incorporados.
+Busca de locais pelo CNES (serviço 125) implementada; base gerada para TO, competência 2026-08.
+RENAME, SIGTAP, listas municipais, geocodificação de endereço e PDF ainda não incorporados.
 ```
 
 ---
