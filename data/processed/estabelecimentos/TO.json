@@ -1,0 +1,1316 @@
+{
+ "fonte": {
+  "orgao": "Ministério da Saúde — DATASUS",
+  "documento": "CNES — Serviço especializado 125 (serviço de farmácia)",
+  "competencia_cnes": "202608",
+  "url_sr": "ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/SR/SRTO2608.dbc",
+  "sha256_sr": "31ada4b757d4bc4d80aed2cf8eb62f70676827dc0a075684ea1f90376a75f8b9",
+  "url_cadastro": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos",
+  "data_obtencao": "2026-10-11"
+ },
+ "uf": "TO",
+ "estabelecimentos": [
+  {
+   "cnes": "0153532",
+   "nome": "FARMACIA BASICA MUNICIPAL REGIAO NORTE",
+   "endereco": {
+    "logradouro": "AVENIDA NACOES UNIDAS",
+    "numero": "S/N",
+    "bairro": "VILA NOVA",
+    "cep": "77501474"
+   },
+   "codigo_municipio": "171820",
+   "municipio": "Porto Nacional",
+   "latitude": -10.6961589,
+   "longitude": -48.4092037,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-23"
+  },
+  {
+   "cnes": "0277657",
+   "nome": "UNIDADE BASICA DE SAUDE DONA JUSCELINA",
+   "endereco": {
+    "logradouro": "AV ARAGUAIA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77850000"
+   },
+   "codigo_municipio": "171395",
+   "municipio": "Muricilândia",
+   "latitude": -7.1469898977095525,
+   "longitude": -48.60527515411377,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-23"
+  },
+  {
+   "cnes": "0801364",
+   "nome": "FARMACIA BASICA MUNICIPAL DE FILADELFIA",
+   "endereco": {
+    "logradouro": "AVENIDA TANCREDO NEVES",
+    "numero": "S/N",
+    "bairro": "NOVA FILADELFIA",
+    "cep": "77795000"
+   },
+   "codigo_municipio": "170770",
+   "municipio": "Filadélfia",
+   "latitude": -7.3376119,
+   "longitude": -47.484964,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2467658",
+   "nome": "UBS DR FRANCISCO BARBOSA DE BRITO ARAGUAINA",
+   "endereco": {
+    "logradouro": "RUA C",
+    "numero": "S/N",
+    "bairro": "VILA ALIANCA",
+    "cep": "77804970"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.2030472,
+   "longitude": -48.1764382,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2467674",
+   "nome": "UBS MANOEL ALVES DE SOUSA ARAGUAINA",
+   "endereco": {
+    "logradouro": "RUA JOAQUIM CABOCLO",
+    "numero": "S/N",
+    "bairro": "PONTE",
+    "cep": "77804901"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.191272925577711,
+   "longitude": -48.208887577056885,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2467682",
+   "nome": "UBS JOSE RONALDO PEREIRA DA COSTA ARAGUAINA",
+   "endereco": {
+    "logradouro": "RUA 09",
+    "numero": "S/N",
+    "bairro": "LOTEAMENTO SAO FRANC",
+    "cep": "77823350"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.2170261,
+   "longitude": -48.2408075,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2467704",
+   "nome": "UBS EURICO CARNEIRO",
+   "endereco": {
+    "logradouro": "RUA ARAGUACY",
+    "numero": "S/N",
+    "bairro": "JK",
+    "cep": "77804970"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.191400658847843,
+   "longitude": -48.20817947387695,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2467739",
+   "nome": "UBS ALBENY SOARES DE PAULA ARAGUAINA",
+   "endereco": {
+    "logradouro": "AVENIDA C",
+    "numero": "1035",
+    "bairro": "ST COUTO MAGALHAES",
+    "cep": "77804970"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -6.413093,
+   "longitude": -48.5294504,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2467755",
+   "nome": "UBS LUZIA DA CRUZ MACHADO",
+   "endereco": {
+    "logradouro": "RUA DA IGREJA",
+    "numero": "S/N",
+    "bairro": "FATIMA",
+    "cep": "77814320"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -6.3020046,
+   "longitude": -48.294561,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-29"
+  },
+  {
+   "cnes": "2467763",
+   "nome": "UBS COUTO MAGALHAES ARAGUAINA",
+   "endereco": {
+    "logradouro": "RUA PERIMETRAL",
+    "numero": "S/N",
+    "bairro": "LOTEAMENTO COUTO MAG",
+    "cep": "77824750"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.1979204,
+   "longitude": -48.1723981,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2467844",
+   "nome": "UBS PALMEIRA DO NORTE",
+   "endereco": {
+    "logradouro": "RUA DAS CAMELIAS",
+    "numero": "1055",
+    "bairro": "RODOVIARIO",
+    "cep": "77818680"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.318881730366743,
+   "longitude": -48.18603515625,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2468247",
+   "nome": "UNIDADE SAUDE DA FAMILIA SETOR ALIANCA",
+   "endereco": {
+    "logradouro": "RUA GASPAR DUTRA",
+    "numero": "S/N",
+    "bairro": "SETOR ALIANCA",
+    "cep": "77470000"
+   },
+   "codigo_municipio": "170820",
+   "municipio": "Formoso do Araguaia",
+   "latitude": -11.816234456941611,
+   "longitude": -49.520729184150696,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-08"
+  },
+  {
+   "cnes": "2468352",
+   "nome": "UNIDADE BASICA DE SAUDE LILIANE VIEIRA GANDARA",
+   "endereco": {
+    "logradouro": "PRIVATO FERREIRA",
+    "numero": "79",
+    "bairro": "CENTRO",
+    "cep": "77328000"
+   },
+   "codigo_municipio": "171215",
+   "municipio": "Lavandeira",
+   "latitude": -12.788337,
+   "longitude": -46.507238,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-14"
+  },
+  {
+   "cnes": "2469340",
+   "nome": "HOSPITAL MUNICIPAL NOSSA SENHORA DA CONCEICAO",
+   "endereco": {
+    "logradouro": "RUA COSTA E SILVA",
+    "numero": "S/N",
+    "bairro": "SETOR AEROPORTO",
+    "cep": "77720000"
+   },
+   "codigo_municipio": "171050",
+   "municipio": "Itacajá",
+   "latitude": -8.396575701528667,
+   "longitude": -47.77472376823425,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2469359",
+   "nome": "CENTRO DE SAUDE PIRAQUE",
+   "endereco": {
+    "logradouro": "RUA PADRE ANTONIO",
+    "numero": "620",
+    "bairro": "CENTRO",
+    "cep": "77888000"
+   },
+   "codigo_municipio": "171720",
+   "municipio": "Piraquê",
+   "latitude": -6.772459071513324,
+   "longitude": -48.29182147979736,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2486725",
+   "nome": "UNIDADE BASICA DE SAUDE VITOR COSTA BARBOSA",
+   "endereco": {
+    "logradouro": "RUA ANTONIO MONTEIRO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77880000"
+   },
+   "codigo_municipio": "172210",
+   "municipio": "Xambioá",
+   "latitude": -6.410964634088476,
+   "longitude": -48.534228801727295,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-04"
+  },
+  {
+   "cnes": "2486768",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA SAO JOSE",
+   "endereco": {
+    "logradouro": "AVENIDA DOM ALANO",
+    "numero": "S/N",
+    "bairro": "VILA SAO JOSE",
+    "cep": "77460000"
+   },
+   "codigo_municipio": "171660",
+   "municipio": "Peixe",
+   "latitude": -12.013800730428152,
+   "longitude": -48.56823921203613,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2486776",
+   "nome": "CENTRO MUNICIPAL DE SAUDE CRISTALANDIA",
+   "endereco": {
+    "logradouro": "AVENIDA MADRE VERONICA",
+    "numero": "976",
+    "bairro": "CENTRO",
+    "cep": "77490000"
+   },
+   "codigo_municipio": "170610",
+   "municipio": "Cristalândia",
+   "latitude": -10.6005559,
+   "longitude": -49.1951318,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2492555",
+   "nome": "UNIDADE DE PRONTO ATENDIMENTO SUL",
+   "endereco": {
+    "logradouro": "RUA PERIMENTRAL 2",
+    "numero": "04",
+    "bairro": "AURENY II",
+    "cep": "77060236"
+   },
+   "codigo_municipio": "172100",
+   "municipio": "Palmas",
+   "latitude": -10.3316328,
+   "longitude": -48.29990231079,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2515245",
+   "nome": "CENTRO DE SAUDE DE MURICILANDIA",
+   "endereco": {
+    "logradouro": "AVENIDA GOIAS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77850000"
+   },
+   "codigo_municipio": "171395",
+   "municipio": "Muricilândia",
+   "latitude": -7.154697156966809,
+   "longitude": -48.60971689224243,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2546531",
+   "nome": "POLICLINICA LUIZ SANTOS FILHO GURUPI",
+   "endereco": {
+    "logradouro": "RUA PRESIDENTE JUSCELINO KUBSTICHEK",
+    "numero": "1976",
+    "bairro": "CENTRO",
+    "cep": "77405110"
+   },
+   "codigo_municipio": "170950",
+   "municipio": "Gurupi",
+   "latitude": -11.732945042654316,
+   "longitude": -49.06365394592285,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2560259",
+   "nome": "UBS PEDRO PACIFICO DE LIMA",
+   "endereco": {
+    "logradouro": "RUA 19",
+    "numero": "S/N",
+    "bairro": "NOVA ARAGUAINA",
+    "cep": "77815380"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.2210311,
+   "longitude": -48.2401595,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2600412",
+   "nome": "UNIDADE B DE SAUDE DE ANGICO PADRE ANACLETO RODRIGUES LIMA",
+   "endereco": {
+    "logradouro": "RUA NOVA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77905000"
+   },
+   "codigo_municipio": "170105",
+   "municipio": "Angico",
+   "latitude": -6.389896593153581,
+   "longitude": -47.866305112838745,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-25"
+  },
+  {
+   "cnes": "2600536",
+   "nome": "HOSPITAL REGIONAL DE ARAGUAINA",
+   "endereco": {
+    "logradouro": "RUA 13 DE MAIO",
+    "numero": "1336",
+    "bairro": "CENTRO",
+    "cep": "77803130"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.193018610492787,
+   "longitude": -48.21051836013794,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-13"
+  },
+  {
+   "cnes": "2649349",
+   "nome": "GERENCIA DE MEDICAMENTOS EXCEPCIONAIS GME PALMAS",
+   "endereco": {
+    "logradouro": "QUADRA 104 NORTE AVENIDA LO 04 CONJ 04 LOTE 46",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77015010"
+   },
+   "codigo_municipio": "172100",
+   "municipio": "Palmas",
+   "latitude": -10.1667917698864,
+   "longitude": -48.332741260528564,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-18"
+  },
+  {
+   "cnes": "2658836",
+   "nome": "UNIDADE BASICA DE SAUDE DE PORTO ALEGRE",
+   "endereco": {
+    "logradouro": "RUA RUI BARBOSA",
+    "numero": "S/N",
+    "bairro": "SETOR ALTO DA GLORIA",
+    "cep": "77395000"
+   },
+   "codigo_municipio": "171800",
+   "municipio": "Porto Alegre do Tocantins",
+   "latitude": -11.60702847220691,
+   "longitude": -47.05345630645752,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2658941",
+   "nome": "UNIDADE BASICA DE SAUDE ELENA MARIA BORGES",
+   "endereco": {
+    "logradouro": "AVENIDA CONTORNO",
+    "numero": "550",
+    "bairro": "CENTRO",
+    "cep": "77365000"
+   },
+   "codigo_municipio": "171575",
+   "municipio": "Palmeirópolis",
+   "latitude": -13.040034944021972,
+   "longitude": -48.405396938323975,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2680386",
+   "nome": "UBS MANOEL MARIA DIAS DE BRITO ARAGUAINA",
+   "endereco": {
+    "logradouro": "RUADOS INGAXIXIS",
+    "numero": "S/N",
+    "bairro": "CIMBA",
+    "cep": "77824804"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.191230347813006,
+   "longitude": -48.208887577056885,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2765659",
+   "nome": "HOSPITAL REGIONAL DE MIRACEMA",
+   "endereco": {
+    "logradouro": "AV IRMA EMMA RUDOLFH NAVARRO",
+    "numero": "S/N",
+    "bairro": "SETOR UNIVERSITARIO",
+    "cep": "77650000"
+   },
+   "codigo_municipio": "171320",
+   "municipio": "Miracema do Tocantins",
+   "latitude": -9.5685983,
+   "longitude": -48.4112047,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3483673",
+   "nome": "FARMACIA BASICA MUNICIPAL DE CARIRI DO TOCANTINS",
+   "endereco": {
+    "logradouro": "RUA EVANGELISTA PEREIRA DOS SANTOS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77453000"
+   },
+   "codigo_municipio": "170386",
+   "municipio": "Cariri do Tocantins",
+   "latitude": -11.89133338782193,
+   "longitude": -49.158853590488434,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-03"
+  },
+  {
+   "cnes": "3501256",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA DE RIACHINHO",
+   "endereco": {
+    "logradouro": "AV JERUSALEM",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77893000"
+   },
+   "codigo_municipio": "171855",
+   "municipio": "Riachinho",
+   "latitude": -6.440006396529451,
+   "longitude": -48.138227462768555,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3663051",
+   "nome": "HOSPITAL MUNICIPAL DE ARAGUAINA DR EDUARDO NOVAES MEDRADO",
+   "endereco": {
+    "logradouro": "AV PERIMETRAL",
+    "numero": "650",
+    "bairro": "URBANISTICO",
+    "cep": "77818060"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.2005056,
+   "longitude": -48.191995,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3840271",
+   "nome": "UBS DR CESAR AUGUSTO DELGADO",
+   "endereco": {
+    "logradouro": "CHACARA",
+    "numero": "364",
+    "bairro": "RAIZAL",
+    "cep": "77804040"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.190825858849268,
+   "longitude": -48.20893049240112,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3905993",
+   "nome": "UBS MANOEL DOS REIS LIMA ARAGUAINA",
+   "endereco": {
+    "logradouro": "RUA DAS HORTENCIAS",
+    "numero": "46",
+    "bairro": "JARDIM DAS FLORES",
+    "cep": "77828418"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.1926554,
+   "longitude": -48.2243107,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-18"
+  },
+  {
+   "cnes": "4095340",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA 04 ESQ COM ALFREDO CORREIA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77470000"
+   },
+   "codigo_municipio": "170820",
+   "municipio": "Formoso do Araguaia",
+   "latitude": -11.80375840791931,
+   "longitude": -49.52834129333496,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-05"
+  },
+  {
+   "cnes": "4228812",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA COQUELIN AIRES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77300000"
+   },
+   "codigo_municipio": "170700",
+   "municipio": "Dianópolis",
+   "latitude": -11.628466900434079,
+   "longitude": -46.82089805603027,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4488229",
+   "nome": "A FARMACEUTICA",
+   "endereco": {
+    "logradouro": "TOCANTINS",
+    "numero": "837",
+    "bairro": "VILA MARIA",
+    "cep": "77660000"
+   },
+   "codigo_municipio": "171330",
+   "municipio": "Miranorte",
+   "latitude": -9.427047929035774,
+   "longitude": -48.471572399139404,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-18"
+  },
+  {
+   "cnes": "5377862",
+   "nome": "FARMACIA BASICA MUNICIPAL DE AXIXA TO",
+   "endereco": {
+    "logradouro": "AVENIDA ELZA LEAL",
+    "numero": "0",
+    "bairro": "CENTRO",
+    "cep": "77930000"
+   },
+   "codigo_municipio": "170290",
+   "municipio": "Axixá do Tocantins",
+   "latitude": -5.614170668682012,
+   "longitude": -47.767449617385864,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-12"
+  },
+  {
+   "cnes": "5382270",
+   "nome": "UBS SENADOR BENEDITO V FERREIRA ARAGUAINA",
+   "endereco": {
+    "logradouro": "07",
+    "numero": "401",
+    "bairro": "LOT JOSE FERREIRA",
+    "cep": "77818834"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.1326431,
+   "longitude": -48.192506975358214,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5823226",
+   "nome": "UNIDADE DE DISPENSACAO DE MEDICAMENTOS EXCEPCIONAIS DE PORTO",
+   "endereco": {
+    "logradouro": "RUA MURILO BRAGA",
+    "numero": "592",
+    "bairro": "CENTRO",
+    "cep": "77500242"
+   },
+   "codigo_municipio": "171820",
+   "municipio": "Porto Nacional",
+   "latitude": -10.708556730431493,
+   "longitude": -48.412134647369385,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-13"
+  },
+  {
+   "cnes": "5823234",
+   "nome": "GERENCIA DE ASSISTENCIA FARMACEUTICA DE ARAGUAINA GAF",
+   "endereco": {
+    "logradouro": "RUA 13 DE MAIO",
+    "numero": "1336",
+    "bairro": "CENTRO",
+    "cep": "77803130"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.1930611880897874,
+   "longitude": -48.210604190826416,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5823390",
+   "nome": "GERENCIA DE ASSISTENCIA FARMACEUTICA DE GURUPI GAF",
+   "endereco": {
+    "logradouro": "AV MATO GROSSO",
+    "numero": "1833",
+    "bairro": "CENTRO",
+    "cep": "77405330"
+   },
+   "codigo_municipio": "170950",
+   "municipio": "Gurupi",
+   "latitude": -11.7282481,
+   "longitude": -49.0701985,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5891868",
+   "nome": "SERVICO AMBULATORIAL ESPECIALIZADO",
+   "endereco": {
+    "logradouro": "AREA PUBLICA ENTRE AS RUAS 7 E 32",
+    "numero": "S/N",
+    "bairro": "PORTO REAL",
+    "cep": "77501358"
+   },
+   "codigo_municipio": "171820",
+   "municipio": "Porto Nacional",
+   "latitude": -10.689854656226677,
+   "longitude": -48.40451717376709,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-23"
+  },
+  {
+   "cnes": "6420966",
+   "nome": "ASSISTENCIA FARMACEUTICA",
+   "endereco": {
+    "logradouro": "RUA DAS MANGUEIRAS",
+    "numero": "1104",
+    "bairro": "CENTRO",
+    "cep": "77804110"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.188827401560655,
+   "longitude": -48.208001950873935,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-18"
+  },
+  {
+   "cnes": "6463274",
+   "nome": "PSF PROGRAMA SAUDE DA FAMILIA",
+   "endereco": {
+    "logradouro": "RUA RAIMUNDO COELHO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77665000"
+   },
+   "codigo_municipio": "170310",
+   "municipio": "Barrolândia",
+   "latitude": -9.846252167575475,
+   "longitude": -48.72305631637573,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6886345",
+   "nome": "UPA ANATOLIO DIAS CARNEIRO ARAGUAINA",
+   "endereco": {
+    "logradouro": "RUA DOS PINHEIROS",
+    "numero": "S/N",
+    "bairro": "ARAGUAINA SUL",
+    "cep": "77804970"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.19298,
+   "longitude": -48.1896628,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7041438",
+   "nome": "CENTER PHARMA",
+   "endereco": {
+    "logradouro": "RUA DR CORINTO FLORENCO DA SILVA",
+    "numero": "1457",
+    "bairro": "CENTRO",
+    "cep": "77760000"
+   },
+   "codigo_municipio": "170550",
+   "municipio": "Colinas do Tocantins",
+   "latitude": -8.054364321424362,
+   "longitude": -48.48000526428223,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-08"
+  },
+  {
+   "cnes": "7062184",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AV PRESIDENTE JHON KENNEDY",
+    "numero": "922",
+    "bairro": "CENTRO",
+    "cep": "77500163"
+   },
+   "codigo_municipio": "171820",
+   "municipio": "Porto Nacional",
+   "latitude": -10.707607949486256,
+   "longitude": -48.41078281402588,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-23"
+  },
+  {
+   "cnes": "7236212",
+   "nome": "FARMACIA CRUZ VERMELHA",
+   "endereco": {
+    "logradouro": "AVENIDA BERNARDO SAYAO",
+    "numero": "1571",
+    "bairro": "CENTRO",
+    "cep": "77760000"
+   },
+   "codigo_municipio": "170550",
+   "municipio": "Colinas do Tocantins",
+   "latitude": -8.059760770577842,
+   "longitude": -48.4676456451416,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7460600",
+   "nome": "UNIDADE SAUDE DA FAMILIA DR MENEZES",
+   "endereco": {
+    "logradouro": "RUA FUNDACAO SESP",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77995000"
+   },
+   "codigo_municipio": "170380",
+   "municipio": "Buriti do Tocantins",
+   "latitude": -5.317646,
+   "longitude": -48.227212,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-29"
+  },
+  {
+   "cnes": "7481845",
+   "nome": "FARMACIA BASICA CENTRAL DE TOCANTINOPOLIS",
+   "endereco": {
+    "logradouro": "AVENIDA NOSSA SENHORA DE FATIMA",
+    "numero": "1418",
+    "bairro": "CENTRO",
+    "cep": "77900000"
+   },
+   "codigo_municipio": "172120",
+   "municipio": "Tocantinópolis",
+   "latitude": -6.328692009088467,
+   "longitude": -47.42379426956177,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7518021",
+   "nome": "UBS DR RAIMUNDO GOMES MARINHO",
+   "endereco": {
+    "logradouro": "RUA FAISAO",
+    "numero": "S/N",
+    "bairro": "MARACANA",
+    "cep": "77804970"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.1572144,
+   "longitude": -48.1967773,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7866658",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "AVENIDA TRES PODERES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77685000"
+   },
+   "codigo_municipio": "170720",
+   "municipio": "Dois Irmãos do Tocantins",
+   "latitude": -9.252686628557253,
+   "longitude": -49.066035747528076,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7962231",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVENIDA LONGUINHO VIEIRA JUNIOR",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77725000"
+   },
+   "codigo_municipio": "171670",
+   "municipio": "Colméia",
+   "latitude": -8.728390224777064,
+   "longitude": -48.765177726745605,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "8032874",
+   "nome": "UBS DR ANTONIO CATINI",
+   "endereco": {
+    "logradouro": "RUA DAS ACACIAS",
+    "numero": "S/N",
+    "bairro": "ARAGUAINA SUL",
+    "cep": "77827380"
+   },
+   "codigo_municipio": "170210",
+   "municipio": "Araguaína",
+   "latitude": -7.6559494,
+   "longitude": -49.0610708,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-17"
+  },
+  {
+   "cnes": "8132836",
+   "nome": "FARMACIA BASICA DE BABACULANDIA",
+   "endereco": {
+    "logradouro": "RUA SEBASTIAO DE SOUSA",
+    "numero": "S/N",
+    "bairro": "BAIRRO DE AREIA",
+    "cep": "77870000"
+   },
+   "codigo_municipio": "170300",
+   "municipio": "Babaçulândia",
+   "latitude": -7.195509393200818,
+   "longitude": -47.77297496795654,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-01"
+  },
+  {
+   "cnes": "8268126",
+   "nome": "FARMACIA DO TRABALHADOR DE AXIXA",
+   "endereco": {
+    "logradouro": "AVENIDA ELZA LEAL",
+    "numero": "2317",
+    "bairro": "CENTRO",
+    "cep": "77930000"
+   },
+   "codigo_municipio": "170290",
+   "municipio": "Axixá do Tocantins",
+   "latitude": -5.613933497503736,
+   "longitude": -47.76801666315504,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "8268134",
+   "nome": "FARMACIA POPULAR ZERO HORA",
+   "endereco": {
+    "logradouro": "AVENIDA ELZA LEAL",
+    "numero": "2385",
+    "bairro": "CENTRO",
+    "cep": "77930000"
+   },
+   "codigo_municipio": "170290",
+   "municipio": "Axixá do Tocantins",
+   "latitude": -5.613861425206772,
+   "longitude": -47.767757159432456,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "8410038",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "AVENIDA GUANABARA",
+    "numero": "1345",
+    "bairro": "CENTRO",
+    "cep": "77403080"
+   },
+   "codigo_municipio": "170950",
+   "municipio": "Gurupi",
+   "latitude": -11.723108,
+   "longitude": -49.074692,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-15"
+  },
+  {
+   "cnes": "8479941",
+   "nome": "FARMACIA BASICA MUNICIPAL DE ALVORADA",
+   "endereco": {
+    "logradouro": "RUA 7 DE SETEMBRO",
+    "numero": "000",
+    "bairro": "CENTRO",
+    "cep": "77480000"
+   },
+   "codigo_municipio": "170070",
+   "municipio": "Alvorada",
+   "latitude": -12.479612830084067,
+   "longitude": -49.12362813949585,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-15"
+  },
+  {
+   "cnes": "9374787",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVENIDA TIRADENTES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77700000"
+   },
+   "codigo_municipio": "170930",
+   "municipio": "Guaraí",
+   "latitude": -8.829798627265077,
+   "longitude": -48.5137152671814,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9458611",
+   "nome": "FARMACIA BASICA MUNICIAPAL PARAISO",
+   "endereco": {
+    "logradouro": "AV CASTELO BRANCO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77600000"
+   },
+   "codigo_municipio": "171610",
+   "municipio": "Paraíso do Tocantins",
+   "latitude": -10.17568347995909,
+   "longitude": -48.866844177246094,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9848770",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVENIDA BERNADO SAYAO",
+    "numero": "1000",
+    "bairro": "CENTRO",
+    "cep": "77660000"
+   },
+   "codigo_municipio": "171330",
+   "municipio": "Miranorte",
+   "latitude": -9.529040838365805,
+   "longitude": -48.589932918548584,
+   "frentes": [
+    "CEAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9898220",
+   "nome": "FARMACIA MUNICIPAL DE ARAGUACU",
+   "endereco": {
+    "logradouro": "R VINTE E OITO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "77475000"
+   },
+   "codigo_municipio": "170200",
+   "municipio": "Araguaçu",
+   "latitude": -12.9276382,
+   "longitude": -49.8352088,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  }
+ ],
+ "cnes_sem_cadastro": []
+}
