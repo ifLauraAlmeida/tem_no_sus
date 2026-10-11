@@ -2,6 +2,7 @@ import { normalizarTexto, extrairDosagens } from "./normalizacao.js";
 
 export const SITUACAO = Object.freeze({
   IDENTIFICADO: "identificado",
+  SEM_CONCENTRACAO_INFORMADA: "sem_concentracao_informada",
   AMBIGUO: "ambiguo",
   CONCENTRACAO_NAO_LISTADA: "concentracao_nao_listada",
   NAO_IDENTIFICADO: "nao_identificado",
@@ -43,6 +44,9 @@ export function buscarMedicamento(entrada, itens) {
   }
 
   const dosagensInformadas = extrairDosagens(entrada);
+  if (dosagensInformadas.length === 0 && candidatos.length > 1) {
+    return { situacao: SITUACAO.SEM_CONCENTRACAO_INFORMADA, itens: candidatos };
+  }
   const compativeis = candidatos.filter((item) =>
     possuiDosagens(item, dosagensInformadas),
   );

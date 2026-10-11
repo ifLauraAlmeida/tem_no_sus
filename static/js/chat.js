@@ -72,6 +72,10 @@ const TEXTOS_SITUACAO = {
     rotulo: "consta no elenco",
     explicacao: "Previsto para distribuição gratuita nas farmácias credenciadas ao Farmácia Popular:",
   },
+  [SITUACAO.SEM_CONCENTRACAO_INFORMADA]: {
+    rotulo: "consta no elenco",
+    explicacao: "Sim, consta no elenco do Farmácia Popular, com distribuição gratuita. Concentrações disponíveis:",
+  },
   [SITUACAO.AMBIGUO]: {
     rotulo: "confirme a apresentação",
     explicacao: "Há mais de uma apresentação no elenco. Confira na receita qual corresponde à sua:",

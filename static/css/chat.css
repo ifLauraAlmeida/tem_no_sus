@@ -39,7 +39,8 @@
   padding: 10px 12px;
   margin-top: 8px;
 }
-.resultado--identificado { border-left-color: var(--azul); }
+.resultado--identificado,
+.resultado--sem_concentracao_informada { border-left-color: var(--azul); }
 .resultado--ambiguo,
 .resultado--concentracao_nao_listada { border-left-color: var(--alerta-borda); }
 

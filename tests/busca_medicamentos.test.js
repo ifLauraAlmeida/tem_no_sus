@@ -33,10 +33,16 @@ test("metformina 500 é ambígua entre liberação imediata e prolongada", () =>
   assert.deepEqual(ids(resultado), ["pfpb-008", "pfpb-009"]);
 });
 
-test("sem dosagem, lista todas as concentrações como ambíguo", () => {
+test("só o nome identifica o medicamento e lista todas as concentrações", () => {
   const resultado = buscarMedicamento("sinvastatina", itens);
-  assert.equal(resultado.situacao, SITUACAO.AMBIGUO);
-  assert.equal(resultado.itens.length, 3);
+  assert.equal(resultado.situacao, SITUACAO.SEM_CONCENTRACAO_INFORMADA);
+  assert.deepEqual(ids(resultado), ["pfpb-029", "pfpb-030", "pfpb-031"]);
+});
+
+test("só o nome com concentração única é identificado direto", () => {
+  const resultado = buscarMedicamento("Glibenclamida", itens);
+  assert.equal(resultado.situacao, SITUACAO.IDENTIFICADO);
+  assert.deepEqual(ids(resultado), ["pfpb-011"]);
 });
 
 test("concentração fora do elenco é sinalizada e mostra as disponíveis", () => {
@@ -61,9 +67,9 @@ test("termo mais específico prevalece entre insulinas", () => {
   assert.deepEqual(ids(resultado), ["pfpb-012"]);
 });
 
-test("insulina sem tipo é ambígua", () => {
+test("insulina sem tipo lista as duas opções do elenco", () => {
   const resultado = buscarMedicamento("insulina", itens);
-  assert.equal(resultado.situacao, SITUACAO.AMBIGUO);
+  assert.equal(resultado.situacao, SITUACAO.SEM_CONCENTRACAO_INFORMADA);
   assert.deepEqual(ids(resultado), ["pfpb-012", "pfpb-013"]);
 });
 
