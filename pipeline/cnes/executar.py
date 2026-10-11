@@ -37,6 +37,15 @@ def descrever_fonte(arquivo_sr: Path, uf: str, competencia: Competencia) -> dict
     }
 
 
+def atualizar_indice(diretorio_saida: Path, uf: str, competencia: Competencia, quantidade: int) -> None:
+    # O frontend lê este índice para saber quais UFs já têm base gerada.
+    arquivo_indice = diretorio_saida / "indice.json"
+    indice = json.loads(arquivo_indice.read_text(encoding="utf-8")) if arquivo_indice.exists() else {"ufs": {}}
+    indice["ufs"][uf] = {"competencia_cnes": competencia.como_texto(), "estabelecimentos": quantidade}
+    indice["ufs"] = dict(sorted(indice["ufs"].items()))
+    arquivo_indice.write_text(json.dumps(indice, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def gerar_base_estabelecimentos(uf: str, competencia: Competencia, raiz_dados: Path) -> Path:
     raiz_bruta = raiz_dados / "raw"
     arquivo_sr = baixar_arquivo_cnes(raiz_bruta, "SR", uf, competencia)
@@ -65,6 +74,7 @@ def gerar_base_estabelecimentos(uf: str, competencia: Competencia, raiz_dados: P
         "cnes_sem_cadastro": cnes_sem_cadastro,
     }
     saida.write_text(json.dumps(conteudo, ensure_ascii=False, indent=1), encoding="utf-8")
+    atualizar_indice(saida.parent, uf, competencia, len(estabelecimentos))
     logger.info("gravado %s com %d estabelecimentos", saida, len(estabelecimentos))
     return saida
 
