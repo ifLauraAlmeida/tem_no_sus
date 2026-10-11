@@ -499,10 +499,32 @@ A primeira versão deverá ser capaz de:
 
 ---
 
+## Como executar
+
+A página usa módulos JavaScript e carrega o elenco via `fetch`, por isso precisa de um servidor HTTP local:
+
+```bash
+python3 -m http.server 8000
+```
+
+Acesse <http://localhost:8000>.
+
+Testes (Node.js 22+, sem dependências externas):
+
+```bash
+npm test
+```
+
+As fontes oficiais e a frequência de atualização de cada uma estão em [`docs/fontes_oficiais.md`](docs/fontes_oficiais.md).
+
+---
+
 ## Status
 
 ```text
-Em planejamento.
+Em desenvolvimento.
+Consulta ao elenco do Farmácia Popular (atualizado em 31/08/2026) implementada.
+RENAME, SIGTAP, listas municipais e busca de estabelecimentos ainda não incorporados.
 ```
 
 ---
