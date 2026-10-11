@@ -1,4 +1,5 @@
 import { buscarMedicamento, separarEntradas, SITUACAO } from "./busca_medicamentos.js";
+import { criarElemento, criarLink, formatarData } from "./elementos_dom.js";
 
 const CAMINHO_ELENCO = "data/reference/farmacia_popular_elenco.json";
 const EXEMPLO_RECEITA = "Losartana 50 mg\nMetformina 500 mg\nDipirona 500 mg";
@@ -12,26 +13,6 @@ const elementos = {
   botaoExemplo: document.getElementById("botao-exemplo"),
   dadosFonte: document.getElementById("dados-fonte"),
 };
-
-function criarElemento(tag, classe, texto) {
-  const elemento = document.createElement(tag);
-  if (classe) elemento.className = classe;
-  if (texto) elemento.textContent = texto;
-  return elemento;
-}
-
-function criarLink(url, texto) {
-  const link = criarElemento("a", null, texto);
-  link.href = url;
-  link.target = "_blank";
-  link.rel = "noopener noreferrer";
-  return link;
-}
-
-function formatarData(dataIso) {
-  const [ano, mes, dia] = dataIso.split("-");
-  return `${dia}/${mes}/${ano}`;
-}
 
 function adicionarMensagem(tipo, conteudo) {
   const mensagem = criarElemento("div", `mensagem mensagem--${tipo}`);
