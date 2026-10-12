@@ -33,3 +33,8 @@ def test_associacao_gera_termos_de_cada_componente():
 def test_remove_anotacoes_entre_parenteses():
     assert derivar_termos_busca("alcachofra (Cynara scolymus L.)") == ["alcachofra"]
     assert derivar_termos_busca("ácido salicílico (FN)") == ["acido salicilico"]
+
+
+def test_remove_parenteses_aninhados_de_nome_cientifico():
+    denominacao = "espinheira-santa (Maytenus ilicifolia e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral )"
+    assert derivar_termos_busca(denominacao) == ["espinheira-santa"]

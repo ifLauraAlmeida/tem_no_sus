@@ -36,8 +36,13 @@ def normalizar(texto: str) -> str:
 
 
 def remover_anotacoes(denominacao: str) -> str:
-    # "(FN)" indica Formulário Nacional; nomes científicos de plantas ficam entre parênteses.
-    return re.sub(r"\([^)]*\)", " ", denominacao)
+    # "(FN)" indica Formulário Nacional; nomes científicos de plantas ficam entre
+    # parênteses, às vezes aninhados. Remove dos mais internos para os externos.
+    texto = denominacao
+    while re.search(r"\([^()]*\)", texto):
+        texto = re.sub(r"\([^()]*\)", " ", texto)
+    # O PDF quebra alguns nomes científicos e deixa parênteses desbalanceados.
+    return re.sub(r"\(.*$", " ", texto).replace(")", " ")
 
 
 def remover_sal(componente: str) -> str:
