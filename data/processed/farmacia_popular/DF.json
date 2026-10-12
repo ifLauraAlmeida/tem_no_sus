@@ -14,6 +14,7 @@
 "cnpj": "05284619000199",
 "cnes": null,
 "nome": "ALTAIR ASSUNCAO DA CUNHA DROGARIA - ME",
+"razao_social": "ALTAIR ASSUNCAO DA CUNHA DROGARIA - ME",
 "endereco": {
 "logradouro": "CL 103",
 "numero": null,
@@ -33,6 +34,7 @@
 "cnpj": "04303916000171",
 "cnes": null,
 "nome": "ALYNE CRISTHIAN FERREIRA - EPP",
+"razao_social": "ALYNE CRISTHIAN FERREIRA - EPP",
 "endereco": {
 "logradouro": "COMERCIO LOCAL BLOCO A",
 "numero": null,
@@ -52,6 +54,7 @@
 "cnpj": "08692807000144",
 "cnes": null,
 "nome": "AM&M COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
+"razao_social": "AM&M COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
 "endereco": {
 "logradouro": "QUADRA 30 CO 22",
 "numero": null,
@@ -71,6 +74,7 @@
 "cnpj": "07326938000145",
 "cnes": null,
 "nome": "AND DROGARIA LTDA - ME",
+"razao_social": "AND DROGARIA LTDA - ME",
 "endereco": {
 "logradouro": "LARA CONJUNTO A",
 "numero": null,
@@ -90,6 +94,7 @@
 "cnpj": "17661409000151",
 "cnes": null,
 "nome": "BIGFARMA COMERCIO DE MEDICAMENTOS LTDA - ME",
+"razao_social": "BIGFARMA COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
 "logradouro": "QUADRA 27 CO 19",
 "numero": null,
@@ -109,6 +114,7 @@
 "cnpj": "02010627000159",
 "cnes": null,
 "nome": "DC COMERCIO DE MEDICAMENTOS LTDA",
+"razao_social": "DC COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
 "logradouro": "CENTRAL BLOCOS 525/635",
 "numero": null,
@@ -127,7 +133,8 @@
 {
 "cnpj": "17978448000187",
 "cnes": "8400067",
-"nome": "DF COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
+"nome": "DROGARIA SAUDE",
+"razao_social": "DF COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
 "endereco": {
 "logradouro": "QN 310 CO 1",
 "numero": "310",
@@ -147,6 +154,7 @@
 "cnpj": "06277527000144",
 "cnes": null,
 "nome": "DROGARIA 44 LTDA - ME",
+"razao_social": "DROGARIA 44 LTDA - ME",
 "endereco": {
 "logradouro": "QE 42 CO A",
 "numero": null,
@@ -166,6 +174,7 @@
 "cnpj": "01276256000199",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "CSB 2",
 "numero": null,
@@ -185,6 +194,7 @@
 "cnpj": "01276256000270",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "SCN QUADRA 2 BL D",
 "numero": null,
@@ -204,6 +214,7 @@
 "cnpj": "01276256000431",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "CNA 2",
 "numero": null,
@@ -223,6 +234,7 @@
 "cnpj": "01276256000601",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "ALECRIM",
 "numero": null,
@@ -242,6 +254,7 @@
 "cnpj": "01276256000784",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "CLS 309 BL C",
 "numero": null,
@@ -261,6 +274,7 @@
 "cnpj": "01276256000865",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "QUADRA 4",
 "numero": null,
@@ -280,6 +294,7 @@
 "cnpj": "01276256000946",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "QNN 1 CO D",
 "numero": null,
@@ -299,6 +314,7 @@
 "cnpj": "01276256001080",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "QNN 20 CO P",
 "numero": null,
@@ -318,6 +334,7 @@
 "cnpj": "01276256001241",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "QN 314 CO 1",
 "numero": null,
@@ -337,6 +354,7 @@
 "cnpj": "01276256001403",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "SHIN QI 13",
 "numero": null,
@@ -356,6 +374,7 @@
 "cnpj": "01276256001675",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "QUADRA 103",
 "numero": null,
@@ -375,6 +394,7 @@
 "cnpj": "01276256001756",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "SHIN QI 1",
 "numero": null,
@@ -394,6 +414,7 @@
 "cnpj": "01276256001918",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "DOS EUCALIPTOS QUADRA 107",
 "numero": null,
@@ -413,6 +434,7 @@
 "cnpj": "01276256002213",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "CENTRAL BLOCO 12",
 "numero": null,
@@ -432,6 +454,7 @@
 "cnpj": "01276256002302",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "CLS 302 BL B",
 "numero": null,
@@ -451,6 +474,7 @@
 "cnpj": "01276256002566",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "205",
 "numero": null,
@@ -470,6 +494,7 @@
 "cnpj": "01276256002647",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "EQ 35/36 BL E",
 "numero": null,
@@ -489,6 +514,7 @@
 "cnpj": "01276256002809",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "COPAIBA",
 "numero": null,
@@ -508,6 +534,7 @@
 "cnpj": "01276256002990",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "QSE 13",
 "numero": null,
@@ -527,6 +554,7 @@
 "cnpj": "01276256003457",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "DAS PAINEIRAS",
 "numero": null,
@@ -546,6 +574,7 @@
 "cnpj": "01276256003538",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "AREA ESPECIAL 4",
 "numero": null,
@@ -565,6 +594,7 @@
 "cnpj": "01276256003880",
 "cnes": null,
 "nome": "DROGARIA ALAMEDA LTDA",
+"razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
 "logradouro": "CLSW 303 BL C",
 "numero": null,
@@ -584,6 +614,7 @@
 "cnpj": "08404574000137",
 "cnes": null,
 "nome": "DROGARIA ALMEIDA E OLIVEIRA LTDA - ME",
+"razao_social": "DROGARIA ALMEIDA E OLIVEIRA LTDA - ME",
 "endereco": {
 "logradouro": "QN 14B CO 5",
 "numero": null,
@@ -603,6 +634,7 @@
 "cnpj": "10520119000149",
 "cnes": null,
 "nome": "DROGARIA ARUANDA E JANAINA LTDA - ME",
+"razao_social": "DROGARIA ARUANDA E JANAINA LTDA - ME",
 "endereco": {
 "logradouro": "13 CONJUNTO D",
 "numero": null,
@@ -622,6 +654,7 @@
 "cnpj": "12028058000122",
 "cnes": null,
 "nome": "DROGARIA B E B LTDA - ME",
+"razao_social": "DROGARIA B E B LTDA - ME",
 "endereco": {
 "logradouro": "QS 402 CO B",
 "numero": null,
@@ -641,6 +674,7 @@
 "cnpj": "06926940000192",
 "cnes": null,
 "nome": "DROGARIA BELA VISTA LTDA",
+"razao_social": "DROGARIA BELA VISTA LTDA",
 "endereco": {
 "logradouro": "ROD DF-150 KM 2,5",
 "numero": null,
@@ -660,6 +694,7 @@
 "cnpj": "07393162000186",
 "cnes": null,
 "nome": "DROGARIA BEM VIVER LTDA - ME",
+"razao_social": "DROGARIA BEM VIVER LTDA - ME",
 "endereco": {
 "logradouro": "CL 216",
 "numero": null,
@@ -679,6 +714,7 @@
 "cnpj": "17247286000107",
 "cnes": null,
 "nome": "DROGARIA BERNA LTDA - ME",
+"razao_social": "DROGARIA BERNA LTDA - ME",
 "endereco": {
 "logradouro": "df RF II QS 14 CONJUNTO 03 LOTE 14 loja 01",
 "numero": null,
@@ -698,6 +734,7 @@
 "cnpj": "00372383000129",
 "cnes": null,
 "nome": "DROGARIA BRASIL LTDA",
+"razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
 "logradouro": "SHCES QUADRA 303 BL C",
 "numero": null,
@@ -717,6 +754,7 @@
 "cnpj": "00372383000200",
 "cnes": null,
 "nome": "DROGARIA BRASIL LTDA",
+"razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
 "logradouro": "SHC/AOS AREA ESPECIAL 4/5 CL",
 "numero": null,
@@ -736,6 +774,7 @@
 "cnpj": "00372383000471",
 "cnes": null,
 "nome": "DROGARIA BRASIL LTDA",
+"razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
 "logradouro": "CLSW 300B BL 1",
 "numero": null,
@@ -755,6 +794,7 @@
 "cnpj": "00372383000714",
 "cnes": null,
 "nome": "DROGARIA BRASIL LTDA",
+"razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
 "logradouro": "DO EXERCITO",
 "numero": null,
@@ -774,6 +814,7 @@
 "cnpj": "00372383000803",
 "cnes": null,
 "nome": "DROGARIA BRASIL LTDA",
+"razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
 "logradouro": "CLSW 105 BL C",
 "numero": null,
@@ -793,6 +834,7 @@
 "cnpj": "00372383000986",
 "cnes": null,
 "nome": "DROGARIA BRASIL LTDA",
+"razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
 "logradouro": "SRES AREA ESPECIAL BLOCO C",
 "numero": null,
@@ -812,6 +854,7 @@
 "cnpj": "00372383001010",
 "cnes": null,
 "nome": "DROGARIA BRASIL LTDA",
+"razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
 "logradouro": "SHCES QUADRA 1501 BL I",
 "numero": null,
@@ -831,6 +874,7 @@
 "cnpj": "97536452000124",
 "cnes": null,
 "nome": "DROGARIA CARDOSO E SILVA LTDA - EPP",
+"razao_social": "DROGARIA CARDOSO E SILVA LTDA - EPP",
 "endereco": {
 "logradouro": "CLS 214 BL B",
 "numero": null,
@@ -850,6 +894,7 @@
 "cnpj": "12091996000177",
 "cnes": null,
 "nome": "DROGARIA CARLOS & LARA LTDA - ME",
+"razao_social": "DROGARIA CARLOS & LARA LTDA - ME",
 "endereco": {
 "logradouro": "QN 305 CO 1",
 "numero": null,
@@ -869,6 +914,7 @@
 "cnpj": "08606173000160",
 "cnes": null,
 "nome": "DROGARIA CLAUDIANA LTDA - ME",
+"razao_social": "DROGARIA CLAUDIANA LTDA - ME",
 "endereco": {
 "logradouro": "QNP 9",
 "numero": null,
@@ -887,7 +933,8 @@
 {
 "cnpj": "04620919000139",
 "cnes": "8302049",
-"nome": "DROGARIA CNJ LTDA",
+"nome": "DROGA FORTE",
+"razao_social": "DROGARIA CNJ LTDA",
 "endereco": {
 "logradouro": "CNJ 1",
 "numero": "89",
@@ -907,6 +954,7 @@
 "cnpj": "07773909000121",
 "cnes": null,
 "nome": "DROGARIA CRUZEIRO NOVO LTDA",
+"razao_social": "DROGARIA CRUZEIRO NOVO LTDA",
 "endereco": {
 "logradouro": "SHCES QUADRA 603 BL C",
 "numero": null,
@@ -926,6 +974,7 @@
 "cnpj": "04493929000150",
 "cnes": null,
 "nome": "DROGARIA DA ECONOMIA SAO SEBASTIAO LTDA",
+"razao_social": "DROGARIA DA ECONOMIA SAO SEBASTIAO LTDA",
 "endereco": {
 "logradouro": "DA GAMELEIRA",
 "numero": null,
@@ -945,6 +994,7 @@
 "cnpj": "04224951000103",
 "cnes": null,
 "nome": "DROGARIA DISTRITO SAUDE LTDA",
+"razao_social": "DROGARIA DISTRITO SAUDE LTDA",
 "endereco": {
 "logradouro": "CND 2",
 "numero": null,
@@ -964,6 +1014,7 @@
 "cnpj": "13505274000184",
 "cnes": null,
 "nome": "DROGARIA DIVINA BACELAR LTDA",
+"razao_social": "DROGARIA DIVINA BACELAR LTDA",
 "endereco": {
 "logradouro": "EQNP 30/34 BL F",
 "numero": null,
@@ -983,6 +1034,7 @@
 "cnpj": "03730556000121",
 "cnes": null,
 "nome": "DROGARIA DROGAFORTE LTDA - ME",
+"razao_social": "DROGARIA DROGAFORTE LTDA - ME",
 "endereco": {
 "logradouro": "SHMA - PRACA DE ATIVIDADES 4 - PA4 - PORTAL DAS CA",
 "numero": null,
@@ -1001,7 +1053,8 @@
 {
 "cnpj": "11985729000180",
 "cnes": "8381291",
-"nome": "DROGARIA DROGAFUJI LTDA",
+"nome": "DROGA VIDA",
+"razao_social": "DROGARIA DROGAFUJI LTDA",
 "endereco": {
 "logradouro": "QNO 2 CO A",
 "numero": "06",
@@ -1020,7 +1073,8 @@
 {
 "cnpj": "15343923000113",
 "cnes": "8310645",
-"nome": "DROGARIA E PERFUMARIA BARBOSA & SILVA LTDA - EPP",
+"nome": "DROGARIA SANTOS",
+"razao_social": "DROGARIA E PERFUMARIA BARBOSA & SILVA LTDA - EPP",
 "endereco": {
 "logradouro": "EQNP 7/11 BL E",
 "numero": "S/N",
@@ -1040,6 +1094,7 @@
 "cnpj": "04070623000191",
 "cnes": null,
 "nome": "DROGARIA E PERFUMARIA BORGES LTDA-EPP",
+"razao_social": "DROGARIA E PERFUMARIA BORGES LTDA-EPP",
 "endereco": {
 "logradouro": "CLS 4 BL A",
 "numero": null,
@@ -1059,6 +1114,7 @@
 "cnpj": "10912735000145",
 "cnes": null,
 "nome": "DROGARIA E PERFUMARIA CERTA LTDA - ME",
+"razao_social": "DROGARIA E PERFUMARIA CERTA LTDA - ME",
 "endereco": {
 "logradouro": "QSB 9",
 "numero": null,
@@ -1078,6 +1134,7 @@
 "cnpj": "07338333000174",
 "cnes": null,
 "nome": "DROGARIA ESTANCIA LTDA EPP",
+"razao_social": "DROGARIA ESTANCIA LTDA EPP",
 "endereco": {
 "logradouro": "ROD BR-020 KM 2,5",
 "numero": null,
@@ -1097,6 +1154,7 @@
 "cnpj": "00477265000185",
 "cnes": null,
 "nome": "DROGARIA ESTRELA LTDA",
+"razao_social": "DROGARIA ESTRELA LTDA",
 "endereco": {
 "logradouro": "QUADRA 9",
 "numero": null,
@@ -1116,6 +1174,7 @@
 "cnpj": "08699200000196",
 "cnes": null,
 "nome": "DROGARIA FARIAS E BRITO LTDA - ME",
+"razao_social": "DROGARIA FARIAS E BRITO LTDA - ME",
 "endereco": {
 "logradouro": "QUADRA 307 CO 16",
 "numero": null,
@@ -1135,6 +1194,7 @@
 "cnpj": "00061325000184",
 "cnes": null,
 "nome": "DROGARIA FARMAFUJI",
+"razao_social": "DROGARIA FARMAFUJI",
 "endereco": {
 "logradouro": "EQNO 11/13 BL F",
 "numero": null,
@@ -1154,6 +1214,7 @@
 "cnpj": "10891495000140",
 "cnes": null,
 "nome": "DROGARIA FATIMA LTDA",
+"razao_social": "DROGARIA FATIMA LTDA",
 "endereco": {
 "logradouro": "CNR 1 CO C",
 "numero": null,
@@ -1173,6 +1234,7 @@
 "cnpj": "08273933000164",
 "cnes": null,
 "nome": "DROGARIA FM LTDA",
+"razao_social": "DROGARIA FM LTDA",
 "endereco": {
 "logradouro": "EQNP 26/30 BL G",
 "numero": null,
@@ -1191,7 +1253,8 @@
 {
 "cnpj": "11042607000150",
 "cnes": "8346720",
-"nome": "DROGARIA FORCA E VIDA LTDA",
+"nome": "DROGAPLAN",
+"razao_social": "DROGARIA FORCA E VIDA LTDA",
 "endereco": {
 "logradouro": "QUADRA 203",
 "numero": "05",
@@ -1211,6 +1274,7 @@
 "cnpj": "13008466000185",
 "cnes": null,
 "nome": "DROGARIA FORTALEZA LTDA",
+"razao_social": "DROGARIA FORTALEZA LTDA",
 "endereco": {
 "logradouro": "RUA 12 CH 312",
 "numero": null,
@@ -1230,6 +1294,7 @@
 "cnpj": "17266929000160",
 "cnes": null,
 "nome": "DROGARIA GABRIEL AKIO LTDA - ME",
+"razao_social": "DROGARIA GABRIEL AKIO LTDA - ME",
 "endereco": {
 "logradouro": "QUADRA 6",
 "numero": null,
@@ -1249,6 +1314,7 @@
 "cnpj": "12020875000134",
 "cnes": null,
 "nome": "DROGARIA GONCALVES CRUZEIRO LTDA - EPP",
+"razao_social": "DROGARIA GONCALVES CRUZEIRO LTDA - EPP",
 "endereco": {
 "logradouro": "QR 408 CO 16",
 "numero": null,
@@ -1268,6 +1334,7 @@
 "cnpj": "10926199000137",
 "cnes": null,
 "nome": "DROGARIA GONÇALVES E SILVA EIRELI",
+"razao_social": "DROGARIA GONÇALVES E SILVA EIRELI",
 "endereco": {
 "logradouro": "QR 323 CO 12",
 "numero": null,
@@ -1287,6 +1354,7 @@
 "cnpj": "19714749000129",
 "cnes": null,
 "nome": "DROGARIA H. S. J. LTDA - ME",
+"razao_social": "DROGARIA H. S. J. LTDA - ME",
 "endereco": {
 "logradouro": "ITAPOA",
 "numero": null,
@@ -1306,6 +1374,7 @@
 "cnpj": "07817377000187",
 "cnes": null,
 "nome": "DROGARIA HIPER-FARMA LTDA ME",
+"razao_social": "DROGARIA HIPER-FARMA LTDA ME",
 "endereco": {
 "logradouro": "QN 15C CO 4",
 "numero": null,
@@ -1325,6 +1394,7 @@
 "cnpj": "05324097000101",
 "cnes": null,
 "nome": "DROGARIA IMPRENSA LTDA - ME",
+"razao_social": "DROGARIA IMPRENSA LTDA - ME",
 "endereco": {
 "logradouro": "QE 28 BL A",
 "numero": null,
@@ -1344,6 +1414,7 @@
 "cnpj": "07234105000154",
 "cnes": null,
 "nome": "DROGARIA J & C LTDA ME",
+"razao_social": "DROGARIA J & C LTDA ME",
 "endereco": {
 "logradouro": "QSC 19",
 "numero": null,
@@ -1363,6 +1434,7 @@
 "cnpj": "00547992000171",
 "cnes": null,
 "nome": "DROGARIA JUNQUEIRA LTDA ME",
+"razao_social": "DROGARIA JUNQUEIRA LTDA ME",
 "endereco": {
 "logradouro": "EQNN 22/24 BL A",
 "numero": null,
@@ -1382,6 +1454,7 @@
 "cnpj": "00615963000108",
 "cnes": null,
 "nome": "DROGARIA LUX LTDA ME",
+"razao_social": "DROGARIA LUX LTDA ME",
 "endereco": {
 "logradouro": "QNM 18 CO A",
 "numero": null,
@@ -1401,6 +1474,7 @@
 "cnpj": "16746608000108",
 "cnes": null,
 "nome": "DROGARIA MACENA LTDA",
+"razao_social": "DROGARIA MACENA LTDA",
 "endereco": {
 "logradouro": "CENTRAL BLOCO 10",
 "numero": null,
@@ -1420,6 +1494,7 @@
 "cnpj": "10798357000110",
 "cnes": null,
 "nome": "DROGARIA MAIA LTDA",
+"razao_social": "DROGARIA MAIA LTDA",
 "endereco": {
 "logradouro": "RUA 5 CH 232",
 "numero": null,
@@ -1439,6 +1514,7 @@
 "cnpj": "03644953000180",
 "cnes": null,
 "nome": "DROGARIA MAIS VIDA LTDA ME",
+"razao_social": "DROGARIA MAIS VIDA LTDA ME",
 "endereco": {
 "logradouro": "QN 8C CO 3",
 "numero": null,
@@ -1458,6 +1534,7 @@
 "cnpj": "15142864000115",
 "cnes": null,
 "nome": "DROGARIA MARCOSFARMA LTDA - ME",
+"razao_social": "DROGARIA MARCOSFARMA LTDA - ME",
 "endereco": {
 "logradouro": "QUADRA 18",
 "numero": null,
@@ -1477,6 +1554,7 @@
 "cnpj": "08761040000168",
 "cnes": null,
 "nome": "DROGARIA MARIANE LTDA - ME",
+"razao_social": "DROGARIA MARIANE LTDA - ME",
 "endereco": {
 "logradouro": "QR 406 CO 16",
 "numero": null,
@@ -1496,6 +1574,7 @@
 "cnpj": "12856638000108",
 "cnes": null,
 "nome": "DROGARIA MEDIVIDA LTDA",
+"razao_social": "DROGARIA MEDIVIDA LTDA",
 "endereco": {
 "logradouro": "ESPECIAL MERCADO 1",
 "numero": null,
@@ -1515,6 +1594,7 @@
 "cnpj": "07351986000193",
 "cnes": null,
 "nome": "DROGARIA MINAS CENTER LTDA",
+"razao_social": "DROGARIA MINAS CENTER LTDA",
 "endereco": {
 "logradouro": "QNN 18 CONJUNTO H LOTE",
 "numero": null,
@@ -1534,6 +1614,7 @@
 "cnpj": "07098159000130",
 "cnes": null,
 "nome": "DROGARIA MOEMA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA-ME",
+"razao_social": "DROGARIA MOEMA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA-ME",
 "endereco": {
 "logradouro": "QR 216 CO N",
 "numero": null,
@@ -1553,6 +1634,7 @@
 "cnpj": "32906422000117",
 "cnes": null,
 "nome": "DROGARIA MONALISA LTDA",
+"razao_social": "DROGARIA MONALISA LTDA",
 "endereco": {
 "logradouro": "EQNN 5/7 BL A",
 "numero": null,
@@ -1572,6 +1654,7 @@
 "cnpj": "11278502000103",
 "cnes": null,
 "nome": "DROGARIA MONTE ALTO LTDA - ME",
+"razao_social": "DROGARIA MONTE ALTO LTDA - ME",
 "endereco": {
 "logradouro": "QR 317 CO A",
 "numero": null,
@@ -1591,6 +1674,7 @@
 "cnpj": "06910233000108",
 "cnes": null,
 "nome": "DROGARIA MÁRTIRE SÃO SEBASTIÃO LTDA EPP",
+"razao_social": "DROGARIA MÁRTIRE SÃO SEBASTIÃO LTDA EPP",
 "endereco": {
 "logradouro": "QUADRA 2",
 "numero": null,
@@ -1610,6 +1694,7 @@
 "cnpj": "10461402000147",
 "cnes": null,
 "nome": "DROGARIA NOVA BAHIA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+"razao_social": "DROGARIA NOVA BAHIA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
 "endereco": {
 "logradouro": "QUADRA 30 CO 22",
 "numero": null,
@@ -1628,7 +1713,8 @@
 {
 "cnpj": "00570432000138",
 "cnes": "8482454",
-"nome": "DROGARIA NOVO MUNDO LTDA - ME",
+"nome": "DROGARIA NOVO MUNDO",
+"razao_social": "DROGARIA NOVO MUNDO LTDA - ME",
 "endereco": {
 "logradouro": "EQNM 36/38 BL A",
 "numero": "06",
@@ -1648,6 +1734,7 @@
 "cnpj": "00484543000121",
 "cnes": null,
 "nome": "DROGARIA PARANA LTDA",
+"razao_social": "DROGARIA PARANA LTDA",
 "endereco": {
 "logradouro": "QI 20 BL A",
 "numero": null,
@@ -1667,6 +1754,7 @@
 "cnpj": "01588508000115",
 "cnes": null,
 "nome": "DROGARIA PLAZA LTDA - EPP",
+"razao_social": "DROGARIA PLAZA LTDA - EPP",
 "endereco": {
 "logradouro": "QUADRA 36 CO S/N",
 "numero": null,
@@ -1685,7 +1773,8 @@
 {
 "cnpj": "37102605000101",
 "cnes": "8273081",
-"nome": "DROGARIA POLIDROGAS LTDA EPP",
+"nome": "DROGARIA POLIDROGAS",
+"razao_social": "DROGARIA POLIDROGAS LTDA EPP",
 "endereco": {
 "logradouro": "QR 2 MO 3",
 "numero": "S/N",
@@ -1704,7 +1793,8 @@
 {
 "cnpj": "19393972000111",
 "cnes": "8328285",
-"nome": "DROGARIA PRAZIFARMA EIRELI - ME",
+"nome": "DROGARIA SANTA MARIA",
+"razao_social": "DROGARIA PRAZIFARMA EIRELI - ME",
 "endereco": {
 "logradouro": "QUADRA 1 CO H",
 "numero": "219",
@@ -1724,6 +1814,7 @@
 "cnpj": "24907925000421",
 "cnes": null,
 "nome": "DROGARIA PRO VIDA LTDA - ME",
+"razao_social": "DROGARIA PRO VIDA LTDA - ME",
 "endereco": {
 "logradouro": "C 8",
 "numero": null,
@@ -1743,6 +1834,7 @@
 "cnpj": "24907925000189",
 "cnes": null,
 "nome": "DROGARIA PRO VIDA LTDA EPP",
+"razao_social": "DROGARIA PRO VIDA LTDA EPP",
 "endereco": {
 "logradouro": "EQNO 13/15 BL D",
 "numero": null,
@@ -1762,6 +1854,7 @@
 "cnpj": "24907925000340",
 "cnes": null,
 "nome": "DROGARIA PRO VIDA LTDA EPP",
+"razao_social": "DROGARIA PRO VIDA LTDA EPP",
 "endereco": {
 "logradouro": "EQNO 9/11 BL D",
 "numero": null,
@@ -1781,6 +1874,7 @@
 "cnpj": "17409785000153",
 "cnes": null,
 "nome": "DROGARIA R & N LTDA",
+"razao_social": "DROGARIA R & N LTDA",
 "endereco": {
 "logradouro": "EQNP 32/36 BL G",
 "numero": null,
@@ -1800,6 +1894,7 @@
 "cnpj": "10189792000148",
 "cnes": null,
 "nome": "DROGARIA R E J LTDA - ME",
+"razao_social": "DROGARIA R E J LTDA - ME",
 "endereco": {
 "logradouro": "QN 206 CO B",
 "numero": null,
@@ -1819,6 +1914,7 @@
 "cnpj": "38044798000146",
 "cnes": null,
 "nome": "DROGARIA RHEMA LTDA - ME",
+"razao_social": "DROGARIA RHEMA LTDA - ME",
 "endereco": {
 "logradouro": "QUADRA 2",
 "numero": null,
@@ -1838,6 +1934,7 @@
 "cnpj": "05290365000111",
 "cnes": null,
 "nome": "DROGARIA RODRIGUES LTDA - ME",
+"razao_social": "DROGARIA RODRIGUES LTDA - ME",
 "endereco": {
 "logradouro": "CLS 406 BL A",
 "numero": null,
@@ -1857,6 +1954,7 @@
 "cnpj": "00447821000170",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SHCS CL QUADRA 102",
 "numero": null,
@@ -1876,6 +1974,7 @@
 "cnpj": "00447821000332",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLS 102 BL C",
 "numero": null,
@@ -1895,6 +1994,7 @@
 "cnpj": "00447821000413",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLN 116 BL B",
 "numero": null,
@@ -1914,6 +2014,7 @@
 "cnpj": "00447821000502",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SCS QUADRA 7",
 "numero": null,
@@ -1933,6 +2034,7 @@
 "cnpj": "00447821000685",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLN 314 BL A",
 "numero": null,
@@ -1951,7 +2053,8 @@
 {
 "cnpj": "00447821000766",
 "cnes": "4038002",
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO FL 306",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "C 12",
 "numero": "S/N",
@@ -1971,6 +2074,7 @@
 "cnpj": "00447821001061",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLSW 103 BL B",
 "numero": null,
@@ -1990,6 +2094,7 @@
 "cnpj": "00447821001142",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QNH AREA ESPECIAL 4",
 "numero": null,
@@ -2009,6 +2114,7 @@
 "cnpj": "00447821001304",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLSW 104 BL C",
 "numero": null,
@@ -2028,6 +2134,7 @@
 "cnpj": "00447821001495",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "AOS 2/8",
 "numero": null,
@@ -2047,6 +2154,7 @@
 "cnpj": "00447821001657",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QUADRA 8 BL 18",
 "numero": null,
@@ -2066,6 +2174,7 @@
 "cnpj": "00447821001819",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLN 216 BL C",
 "numero": null,
@@ -2085,6 +2194,7 @@
 "cnpj": "00447821001908",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLS 209 BL C",
 "numero": null,
@@ -2104,6 +2214,7 @@
 "cnpj": "00447821002033",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CA 1",
 "numero": null,
@@ -2123,6 +2234,7 @@
 "cnpj": "00447821002114",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SHIN QI 2",
 "numero": null,
@@ -2142,6 +2254,7 @@
 "cnpj": "00447821002386",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "RECANTO QUADRA 206",
 "numero": null,
@@ -2161,6 +2274,7 @@
 "cnpj": "00447821002548",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QS 412 CONJUNTO D LOTE 2",
 "numero": null,
@@ -2180,6 +2294,7 @@
 "cnpj": "00447821002629",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QUADRA 4",
 "numero": null,
@@ -2199,6 +2314,7 @@
 "cnpj": "00447821002700",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QNM 33",
 "numero": null,
@@ -2218,6 +2334,7 @@
 "cnpj": "00447821002890",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SHLS BLOCOS",
 "numero": null,
@@ -2237,6 +2354,7 @@
 "cnpj": "00447821003005",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLS 302 BL B",
 "numero": null,
@@ -2256,6 +2374,7 @@
 "cnpj": "00447821003196",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "DE INDUSTRIAS",
 "numero": null,
@@ -2275,6 +2394,7 @@
 "cnpj": "00447821003277",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CA 1",
 "numero": null,
@@ -2294,6 +2414,7 @@
 "cnpj": "00447821003358",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SHIN EQI 9/10",
 "numero": null,
@@ -2313,6 +2434,7 @@
 "cnpj": "00447821003510",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QUADRA 302 CO 7",
 "numero": null,
@@ -2332,6 +2454,7 @@
 "cnpj": "00447821003781",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "PAU BRASIL LOTE 13",
 "numero": null,
@@ -2351,6 +2474,7 @@
 "cnpj": "00447821003862",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "4A CHACARA 01 LOTE",
 "numero": null,
@@ -2370,6 +2494,7 @@
 "cnpj": "00447821004249",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QUADRA 103 CO S/N",
 "numero": null,
@@ -2389,6 +2514,7 @@
 "cnpj": "00447821004320",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "COMERCIAL",
 "numero": null,
@@ -2408,6 +2534,7 @@
 "cnpj": "00447821004591",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CRNW 510 BL A",
 "numero": null,
@@ -2427,6 +2554,7 @@
 "cnpj": "00447821004753",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "2 AREA ESPECIAL 4",
 "numero": null,
@@ -2446,6 +2574,7 @@
 "cnpj": "00447821005725",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "DAS ARAUCARIAS",
 "numero": null,
@@ -2465,6 +2594,7 @@
 "cnpj": "00447821005806",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "DAS ARAUCARIAS",
 "numero": null,
@@ -2484,6 +2614,7 @@
 "cnpj": "00447821005997",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "DAS CASTANHEIRAS",
 "numero": null,
@@ -2503,6 +2634,7 @@
 "cnpj": "00447821006020",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "36",
 "numero": null,
@@ -2522,6 +2654,7 @@
 "cnpj": "00447821006101",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "DAS ARAUCARIAS",
 "numero": null,
@@ -2541,6 +2674,7 @@
 "cnpj": "00447821006292",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "DAS ARAUCARIAS",
 "numero": null,
@@ -2560,6 +2694,7 @@
 "cnpj": "00447821006454",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLN 106 BL B",
 "numero": null,
@@ -2579,6 +2714,7 @@
 "cnpj": "00447821006535",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "12 CHACARA 129A CONJUNTO A",
 "numero": null,
@@ -2598,6 +2734,7 @@
 "cnpj": "00447821006616",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLS 114 BL C",
 "numero": null,
@@ -2617,6 +2754,7 @@
 "cnpj": "00447821006705",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QNM 12",
 "numero": null,
@@ -2636,6 +2774,7 @@
 "cnpj": "00447821006888",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QN 314 CO 1",
 "numero": null,
@@ -2655,6 +2794,7 @@
 "cnpj": "00447821006969",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLN 111 BL B",
 "numero": null,
@@ -2674,6 +2814,7 @@
 "cnpj": "00447821007000",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SHA CONJUNTO 1 CH 60",
 "numero": null,
@@ -2693,6 +2834,7 @@
 "cnpj": "00447821007183",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "INDEPENDENCIA",
 "numero": null,
@@ -2712,6 +2854,7 @@
 "cnpj": "00447821007264",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "STN",
 "numero": null,
@@ -2731,6 +2874,7 @@
 "cnpj": "00447821007345",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QNN 1 CO D",
 "numero": null,
@@ -2750,6 +2894,7 @@
 "cnpj": "00447821007507",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SDN",
 "numero": null,
@@ -2768,7 +2913,8 @@
 {
 "cnpj": "00447821007698",
 "cnes": "3256790",
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO FL 352",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SIBIPIRUNA",
 "numero": "S/N",
@@ -2787,7 +2933,8 @@
 {
 "cnpj": "00447821007779",
 "cnes": "4001753",
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO FL 354",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLS 102 BL C",
 "numero": "S/N",
@@ -2806,7 +2953,8 @@
 {
 "cnpj": "00447821007850",
 "cnes": "3417697",
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO FL 356",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLS 302 BL D",
 "numero": "S/N",
@@ -2826,6 +2974,7 @@
 "cnpj": "00447821007930",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLNW 10/11 LO G",
 "numero": null,
@@ -2845,6 +2994,7 @@
 "cnpj": "00447821008074",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLNW 6/7 LO A",
 "numero": null,
@@ -2864,6 +3014,7 @@
 "cnpj": "00447821008236",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QNM 18 CO B",
 "numero": null,
@@ -2883,6 +3034,7 @@
 "cnpj": "00447821008317",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QUADRA 17 CO 9",
 "numero": null,
@@ -2902,6 +3054,7 @@
 "cnpj": "00447821008406",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SHIS QI 11",
 "numero": null,
@@ -2921,6 +3074,7 @@
 "cnpj": "00447821008589",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLN 209 BL C",
 "numero": null,
@@ -2940,6 +3094,7 @@
 "cnpj": "00447821008740",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QE 11 AREA ESPECIAL L LOJAS 13,14,15,16,17 E 18",
 "numero": null,
@@ -2959,6 +3114,7 @@
 "cnpj": "00447821008821",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "EQ 31/33",
 "numero": null,
@@ -2978,6 +3134,7 @@
 "cnpj": "00447821008902",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "JARDIM BOTANICO I",
 "numero": null,
@@ -2997,6 +3154,7 @@
 "cnpj": "00447821009046",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SHIS QI 15 BL E",
 "numero": null,
@@ -3016,6 +3174,7 @@
 "cnpj": "00447821009127",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SHIS QI 25",
 "numero": null,
@@ -3035,6 +3194,7 @@
 "cnpj": "00447821009208",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SHIS QI 9/11 BL C",
 "numero": null,
@@ -3054,6 +3214,7 @@
 "cnpj": "00447821009470",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "SHIS QI 5 BL C",
 "numero": null,
@@ -3073,6 +3234,7 @@
 "cnpj": "00447821009550",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CENTRAL BLOCOS 525/635",
 "numero": null,
@@ -3092,6 +3254,7 @@
 "cnpj": "00447821009631",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CENTRAL",
 "numero": null,
@@ -3111,6 +3274,7 @@
 "cnpj": "00447821009712",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QS 408 CO B",
 "numero": null,
@@ -3130,6 +3294,7 @@
 "cnpj": "00447821009984",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLSW 103 BL B",
 "numero": null,
@@ -3149,6 +3314,7 @@
 "cnpj": "00447821010052",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CLSW 102 BL C",
 "numero": null,
@@ -3168,6 +3334,7 @@
 "cnpj": "00447821010133",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QUADRA 4",
 "numero": null,
@@ -3187,6 +3354,7 @@
 "cnpj": "00447821010214",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CENTRAL LOTE M",
 "numero": null,
@@ -3206,6 +3374,7 @@
 "cnpj": "00447821010303",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QUADRA 1 CO G",
 "numero": null,
@@ -3225,6 +3394,7 @@
 "cnpj": "00447821010648",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QUADRA 201 CO 17",
 "numero": null,
@@ -3243,7 +3413,8 @@
 {
 "cnpj": "00447821010729",
 "cnes": "0990841",
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO FL 344",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "JACARANDA",
 "numero": "16",
@@ -3263,6 +3434,7 @@
 "cnpj": "00447821012268",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QI 27",
 "numero": null,
@@ -3282,6 +3454,7 @@
 "cnpj": "00447821014120",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "QUADRA 12 CO 1",
 "numero": null,
@@ -3301,6 +3474,7 @@
 "cnpj": "00447821015798",
 "cnes": null,
 "nome": "DROGARIA ROSARIO S/A",
+"razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
 "logradouro": "CL 214 BL D",
 "numero": null,
@@ -3320,6 +3494,7 @@
 "cnpj": "00447821000251",
 "cnes": null,
 "nome": "DROGARIA ROSÁRIO S/A",
+"razao_social": "DROGARIA ROSÁRIO S/A",
 "endereco": {
 "logradouro": "CLN 312 BL E",
 "numero": null,
@@ -3339,6 +3514,7 @@
 "cnpj": "00447821001576",
 "cnes": null,
 "nome": "DROGARIA ROSÁRIO S/A",
+"razao_social": "DROGARIA ROSÁRIO S/A",
 "endereco": {
 "logradouro": "CLN 306 BL B",
 "numero": null,
@@ -3358,6 +3534,7 @@
 "cnpj": "10564431000134",
 "cnes": null,
 "nome": "DROGARIA S&P LTDA",
+"razao_social": "DROGARIA S&P LTDA",
 "endereco": {
 "logradouro": "A",
 "numero": null,
@@ -3377,6 +3554,7 @@
 "cnpj": "00740506000137",
 "cnes": null,
 "nome": "DROGARIA SANTA LUCIA LTDA",
+"razao_social": "DROGARIA SANTA LUCIA LTDA",
 "endereco": {
 "logradouro": "SHCN CL QUADRA 407 BLOCO C TERREO",
 "numero": null,
@@ -3396,6 +3574,7 @@
 "cnpj": "10259805000108",
 "cnes": null,
 "nome": "DROGARIA SANTA TEREZA LTDA ME",
+"razao_social": "DROGARIA SANTA TEREZA LTDA ME",
 "endereco": {
 "logradouro": "TERCEIRA AVENIDA BLOCOS 518A/680A",
 "numero": null,
@@ -3414,7 +3593,8 @@
 {
 "cnpj": "61412110042826",
 "cnes": "5083400",
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIA SAO PAULO 2647",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "CNC 3",
 "numero": "12",
@@ -3434,6 +3614,7 @@
 "cnpj": "61412110051906",
 "cnes": null,
 "nome": "DROGARIA SAO PAULO S.A.",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "CLS 304 BL A",
 "numero": null,
@@ -3453,6 +3634,7 @@
 "cnpj": "61412110053356",
 "cnes": null,
 "nome": "DROGARIA SAO PAULO S.A.",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "SQS 112 BL B",
 "numero": null,
@@ -3471,7 +3653,8 @@
 {
 "cnpj": "61412110054328",
 "cnes": "8110190",
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIA PACHECO 0639",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "CLS 302 BL A",
 "numero": "34",
@@ -3491,6 +3674,7 @@
 "cnpj": "61412110056614",
 "cnes": null,
 "nome": "DROGARIA SAO PAULO S.A.",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "CLS 407 BL D",
 "numero": null,
@@ -3509,7 +3693,8 @@
 {
 "cnpj": "61412110057262",
 "cnes": "0453234",
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIA SAO PAULO 646 413 SUL PAC",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "CLS 413 BL D",
 "numero": "S/N",
@@ -3528,7 +3713,8 @@
 {
 "cnpj": "61412110058234",
 "cnes": "4523229",
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIAS PACHECO DPA 0653",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "CLS 107 BL D",
 "numero": "S/N",
@@ -3548,6 +3734,7 @@
 "cnpj": "61412110058315",
 "cnes": null,
 "nome": "DROGARIA SAO PAULO S.A.",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "DAS ARAUCARIAS",
 "numero": null,
@@ -3566,7 +3753,8 @@
 {
 "cnpj": "61412110058404",
 "cnes": "4954068",
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIAS PACHECO DSP0663",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "DAS CASTANHEIRAS",
 "numero": "S/N",
@@ -3586,6 +3774,7 @@
 "cnpj": "61412110061022",
 "cnes": null,
 "nome": "DROGARIA SAO PAULO S.A.",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "SMDB CONJUNTO 12 BL H",
 "numero": null,
@@ -3605,6 +3794,7 @@
 "cnpj": "61412110061294",
 "cnes": null,
 "nome": "DROGARIA SAO PAULO S.A.",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "CLN 315 BL B",
 "numero": null,
@@ -3624,6 +3814,7 @@
 "cnpj": "61412110064714",
 "cnes": null,
 "nome": "DROGARIA SAO PAULO S.A.",
+"razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
 "logradouro": "CL 116",
 "numero": null,
@@ -3642,7 +3833,8 @@
 {
 "cnpj": "00368589000185",
 "cnes": "4587057",
-"nome": "DROGARIA SAO RAFAEL LTDA",
+"nome": "DROGARIA SAO RAFAEL",
+"razao_social": "DROGARIA SAO RAFAEL LTDA",
 "endereco": {
 "logradouro": "QUADRA 9",
 "numero": "01",
@@ -3662,6 +3854,7 @@
 "cnpj": "09519155000103",
 "cnes": null,
 "nome": "DROGARIA SHALOM LTDA",
+"razao_social": "DROGARIA SHALOM LTDA",
 "endereco": {
 "logradouro": "QNQ",
 "numero": null,
@@ -3681,6 +3874,7 @@
 "cnpj": "07767624000188",
 "cnes": null,
 "nome": "DROGARIA SOCIAL GENERICA LTDA ME",
+"razao_social": "DROGARIA SOCIAL GENERICA LTDA ME",
 "endereco": {
 "logradouro": "QNP 25 CO A",
 "numero": null,
@@ -3700,6 +3894,7 @@
 "cnpj": "33521022000156",
 "cnes": null,
 "nome": "DROGARIA SODRE LTDA - ME",
+"razao_social": "DROGARIA SODRE LTDA - ME",
 "endereco": {
 "logradouro": "QNM 17 CO H",
 "numero": null,
@@ -3719,6 +3914,7 @@
 "cnpj": "01619493000105",
 "cnes": null,
 "nome": "DROGARIA STILO LTDA - ME",
+"razao_social": "DROGARIA STILO LTDA - ME",
 "endereco": {
 "logradouro": "QNM 2",
 "numero": null,
@@ -3738,6 +3934,7 @@
 "cnpj": "07060632000190",
 "cnes": null,
 "nome": "DROGARIA TAKECHI LTDA",
+"razao_social": "DROGARIA TAKECHI LTDA",
 "endereco": {
 "logradouro": "QUADRA 1 CO G",
 "numero": null,
@@ -3757,6 +3954,7 @@
 "cnpj": "07807849000110",
 "cnes": null,
 "nome": "DROGARIA ULTRA-FARMA LTDA",
+"razao_social": "DROGARIA ULTRA-FARMA LTDA",
 "endereco": {
 "logradouro": "QS 410 CO B",
 "numero": null,
@@ -3776,6 +3974,7 @@
 "cnpj": "09488068000136",
 "cnes": null,
 "nome": "DROGARIA VIDE BULA LTDA - ME",
+"razao_social": "DROGARIA VIDE BULA LTDA - ME",
 "endereco": {
 "logradouro": "QR 502 CO 1",
 "numero": null,
@@ -3795,6 +3994,7 @@
 "cnpj": "00844944000145",
 "cnes": null,
 "nome": "DROGARIA VIENNA LTDA",
+"razao_social": "DROGARIA VIENNA LTDA",
 "endereco": {
 "logradouro": "QN 513 CO A",
 "numero": null,
@@ -3814,6 +4014,7 @@
 "cnpj": "03841714000110",
 "cnes": null,
 "nome": "DROGARIA VITAL LTDA - ME",
+"razao_social": "DROGARIA VITAL LTDA - ME",
 "endereco": {
 "logradouro": "QN 15A CO 1",
 "numero": null,
@@ -3832,7 +4033,8 @@
 {
 "cnpj": "61585865032606",
 "cnes": "4433149",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS 0428",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "CSB 6",
 "numero": "S/N",
@@ -3851,7 +4053,8 @@
 {
 "cnpj": "61585865032789",
 "cnes": "4323637",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS 0429",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "Q SCN QUADRA 5 BLOCO A",
 "numero": "S/N",
@@ -3870,7 +4073,8 @@
 {
 "cnpj": "61585865032860",
 "cnes": "4702298",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS 0430",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "SHIS QI 11",
 "numero": "S/N",
@@ -3889,7 +4093,8 @@
 {
 "cnpj": "61585865032940",
 "cnes": "4702255",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS 0431",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "CLS 102 BL C",
 "numero": "S/N",
@@ -3908,7 +4113,8 @@
 {
 "cnpj": "61585865033084",
 "cnes": "4702018",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS 0432",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "SHIS QI 5 BL C",
 "numero": "S/N",
@@ -3927,7 +4133,8 @@
 {
 "cnpj": "61585865033165",
 "cnes": "4424700",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS 0433",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "ST SMAS",
 "numero": "S/N",
@@ -3946,7 +4153,8 @@
 {
 "cnpj": "61585865033327",
 "cnes": "4323688",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS 0435",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "CLN 308 BL E",
 "numero": "S/N",
@@ -3965,7 +4173,8 @@
 {
 "cnpj": "61585865033408",
 "cnes": "4690419",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS0440",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "QS 1 RU 210",
 "numero": "S/N",
@@ -3984,7 +4193,8 @@
 {
 "cnpj": "61585865033670",
 "cnes": "4323920",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS0442",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "CLN 210 BL C",
 "numero": "S/N",
@@ -4003,7 +4213,8 @@
 {
 "cnpj": "61585865033750",
 "cnes": "4702034",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS0443",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "SHIS QI 5 BL C",
 "numero": "S/N",
@@ -4022,7 +4233,8 @@
 {
 "cnpj": "61585865033831",
 "cnes": "4701658",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS0444",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "CLS 314 BL D",
 "numero": "S/N",
@@ -4041,7 +4253,8 @@
 {
 "cnpj": "61585865033912",
 "cnes": "4323807",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS0436",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "CLSW 104 BL C",
 "numero": "S/N",
@@ -4060,7 +4273,8 @@
 {
 "cnpj": "61585865034137",
 "cnes": "4323882",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS 0446",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "CLN 104 BL D",
 "numero": "S/N",
@@ -4079,7 +4293,8 @@
 {
 "cnpj": "61585865034218",
 "cnes": "4323866",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS0439",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "Q SCS QUADRA 7 BLOCO A",
 "numero": "S/N",
@@ -4098,7 +4313,8 @@
 {
 "cnpj": "61585865034307",
 "cnes": "4702239",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS0438",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "CLS 102 BL C",
 "numero": "S/N",
@@ -4117,7 +4333,8 @@
 {
 "cnpj": "61585865034480",
 "cnes": "4865669",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS2286",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "RECANTO QUADRA 300",
 "numero": "S/N",
@@ -4136,7 +4353,8 @@
 {
 "cnpj": "61585865034641",
 "cnes": "4323912",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS 0448",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "CLS 111 BL C",
 "numero": "S/N",
@@ -4155,7 +4373,8 @@
 {
 "cnpj": "61585865034722",
 "cnes": "4323939",
-"nome": "DROGASIL S/A",
+"nome": "DROGASIL DS 0453",
+"razao_social": "DROGASIL S/A",
 "endereco": {
 "logradouro": "CENTRAL BLOCOS 379/505",
 "numero": "S/N",
@@ -4174,7 +4393,8 @@
 {
 "cnpj": "61585865034994",
 "cnes": "4707095",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS0450",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "RODOVIARIA DE BRASILIA",
 "numero": "S/N",
@@ -4193,7 +4413,8 @@
 {
 "cnpj": "61585865035028",
 "cnes": "4702352",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS0454",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "SHLS",
 "numero": "S/N",
@@ -4212,7 +4433,8 @@
 {
 "cnpj": "61585865036008",
 "cnes": "4708121",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS0451",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "CA 4",
 "numero": "S/N",
@@ -4231,7 +4453,8 @@
 {
 "cnpj": "61585865039015",
 "cnes": "4707443",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS0459",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "CLSW 302 BL B",
 "numero": "S/N",
@@ -4250,7 +4473,8 @@
 {
 "cnpj": "61585865039104",
 "cnes": "4324005",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS 0458",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "DAS PITANGUEIRAS",
 "numero": "S/N",
@@ -4269,7 +4493,8 @@
 {
 "cnpj": "61585865039287",
 "cnes": "4433092",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS 0460",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "CLN 315 BL C",
 "numero": "S/N",
@@ -4288,7 +4513,8 @@
 {
 "cnpj": "61585865040293",
 "cnes": "4433947",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS1863",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "AEN 19",
 "numero": "19",
@@ -4307,7 +4533,8 @@
 {
 "cnpj": "61585865042318",
 "cnes": "4433025",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS 0476",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "CLS 102 BL A",
 "numero": "S/N",
@@ -4326,7 +4553,8 @@
 {
 "cnpj": "61585865042407",
 "cnes": "4708504",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS0477",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "CLS 307 BL D",
 "numero": "S/N",
@@ -4345,7 +4573,8 @@
 {
 "cnpj": "61585865042580",
 "cnes": "4713893",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS 0486",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "CLS 116 BL B",
 "numero": "S/N",
@@ -4364,7 +4593,8 @@
 {
 "cnpj": "61585865042660",
 "cnes": "4433068",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS 0489",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "QN 314 CO 1",
 "numero": "S/N",
@@ -4383,7 +4613,8 @@
 {
 "cnpj": "61585865042741",
 "cnes": "4324676",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS 0480",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "INDEPENDENCIA",
 "numero": "06",
@@ -4402,7 +4633,8 @@
 {
 "cnpj": "61585865043470",
 "cnes": "0940631",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS 0482",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "QNN 1 CO C",
 "numero": "S/N",
@@ -4421,7 +4653,8 @@
 {
 "cnpj": "61585865043551",
 "cnes": "4323998",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS0475",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "CLN 307 BL C",
 "numero": "S/N",
@@ -4440,7 +4673,8 @@
 {
 "cnpj": "61585865043632",
 "cnes": "4708466",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS 0481",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "CENTRAL BLOCO 12",
 "numero": "S/N",
@@ -4459,7 +4693,8 @@
 {
 "cnpj": "61585865043985",
 "cnes": "4375890",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS 1741",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "QUADRA 55",
 "numero": "S/N",
@@ -4478,7 +4713,8 @@
 {
 "cnpj": "61585865044019",
 "cnes": "4433041",
-"nome": "DROGASIL SA",
+"nome": "DROGASIL DS0473",
+"razao_social": "DROGASIL SA",
 "endereco": {
 "logradouro": "C 8",
 "numero": "S/N",
@@ -4497,7 +4733,8 @@
 {
 "cnpj": "08338580000133",
 "cnes": "8328633",
-"nome": "DRPGARIA PARACATU LTDA EPP",
+"nome": "DROGARIA PARACATU",
+"razao_social": "DRPGARIA PARACATU LTDA EPP",
 "endereco": {
 "logradouro": "EQNP 30/34 BL B",
 "numero": "S/N",
@@ -4517,6 +4754,7 @@
 "cnpj": "07331331000153",
 "cnes": null,
 "nome": "EDILFARMA DROGARIA LTDA",
+"razao_social": "EDILFARMA DROGARIA LTDA",
 "endereco": {
 "logradouro": "COMERCIAL",
 "numero": null,
@@ -4535,7 +4773,8 @@
 {
 "cnpj": "06626253030573",
 "cnes": "0876747",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIAS PAGUE MENOS 305",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "CLS 309 BL D",
 "numero": "0",
@@ -4554,7 +4793,8 @@
 {
 "cnpj": "06626253033750",
 "cnes": "0869996",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIAS PAGUE MENOS 337",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "CLN 311 BL A",
 "numero": "0",
@@ -4574,6 +4814,7 @@
 "cnpj": "06626253038396",
 "cnes": null,
 "nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "CLN 106 BL C",
 "numero": null,
@@ -4592,7 +4833,8 @@
 {
 "cnpj": "06626253041931",
 "cnes": "0820806",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIAS PAGUE MENOS 419",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "CRS 516 BL B",
 "numero": "516",
@@ -4612,6 +4854,7 @@
 "cnpj": "06626253053786",
 "cnes": null,
 "nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "CLS 407 BL D",
 "numero": null,
@@ -4631,6 +4874,7 @@
 "cnpj": "06626253062262",
 "cnes": null,
 "nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "CRNW 511 BL A",
 "numero": null,
@@ -4649,7 +4893,8 @@
 {
 "cnpj": "06626253064044",
 "cnes": "8504954",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "PAGUE MENOS 640",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "CLSW 304 BL B",
 "numero": "S/N",
@@ -4669,6 +4914,7 @@
 "cnpj": "03396064000141",
 "cnes": null,
 "nome": "G & B COMERCIO DE PRODUTOS FARMACEUTICOS LTDA ME",
+"razao_social": "G & B COMERCIO DE PRODUTOS FARMACEUTICOS LTDA ME",
 "endereco": {
 "logradouro": "NOVA",
 "numero": null,
@@ -4688,6 +4934,7 @@
 "cnpj": "09033940000151",
 "cnes": null,
 "nome": "HIPERFARMA DROGARIA E PERFUMARIA LTDA - ME",
+"razao_social": "HIPERFARMA DROGARIA E PERFUMARIA LTDA - ME",
 "endereco": {
 "logradouro": "AGUAS CLARAS QS 08",
 "numero": null,
@@ -4707,6 +4954,7 @@
 "cnpj": "02006666000182",
 "cnes": null,
 "nome": "J & V COMERCIO DE MEDICAMENTOS LTDA ME",
+"razao_social": "J & V COMERCIO DE MEDICAMENTOS LTDA ME",
 "endereco": {
 "logradouro": "QUADRA 26 CO 20",
 "numero": null,
@@ -4726,6 +4974,7 @@
 "cnpj": "08979790000100",
 "cnes": null,
 "nome": "J G DROGARIA LTDA - ME",
+"razao_social": "J G DROGARIA LTDA - ME",
 "endereco": {
 "logradouro": "QNG 11",
 "numero": null,
@@ -4745,6 +4994,7 @@
 "cnpj": "08998355000123",
 "cnes": null,
 "nome": "JB COMERCIO DE FARMACO LTDA - ME",
+"razao_social": "JB COMERCIO DE FARMACO LTDA - ME",
 "endereco": {
 "logradouro": "EQ 13/15",
 "numero": null,
@@ -4764,6 +5014,7 @@
 "cnpj": "12163373000162",
 "cnes": null,
 "nome": "JC SIQUEIRA DROGARIA LTDA - ME",
+"razao_social": "JC SIQUEIRA DROGARIA LTDA - ME",
 "endereco": {
 "logradouro": "2",
 "numero": null,
@@ -4783,6 +5034,7 @@
 "cnpj": "07555572000186",
 "cnes": null,
 "nome": "L & L DROGARIA E PERFUMARIA LTDA - ME",
+"razao_social": "L & L DROGARIA E PERFUMARIA LTDA - ME",
 "endereco": {
 "logradouro": "AR 9 CO 1",
 "numero": null,
@@ -4802,6 +5054,7 @@
 "cnpj": "05699088000103",
 "cnes": null,
 "nome": "LEANDRO RESENDE SOUZA SILVA ME",
+"razao_social": "LEANDRO RESENDE SOUZA SILVA ME",
 "endereco": {
 "logradouro": "QUADRA 31",
 "numero": null,
@@ -4820,7 +5073,8 @@
 {
 "cnpj": "11723450000129",
 "cnes": "8489440",
-"nome": "LUANA DE FREITAS MOREIRA - ME",
+"nome": "DROGALANA",
+"razao_social": "LUANA DE FREITAS MOREIRA - ME",
 "endereco": {
 "logradouro": "QS 108",
 "numero": "01",
@@ -4840,6 +5094,7 @@
 "cnpj": "15426586000128",
 "cnes": null,
 "nome": "MAGELA PRODUTOS FARMACEUTICOS LTDA",
+"razao_social": "MAGELA PRODUTOS FARMACEUTICOS LTDA",
 "endereco": {
 "logradouro": "QNO 19 CO A",
 "numero": null,
@@ -4858,7 +5113,8 @@
 {
 "cnpj": "72632136000125",
 "cnes": "5953138",
-"nome": "MR DROGARIA LTDA",
+"nome": "DROGARIA SAO LUIZ",
+"razao_social": "MR DROGARIA LTDA",
 "endereco": {
 "logradouro": "QUADRA 39",
 "numero": "23",
@@ -4878,6 +5134,7 @@
 "cnpj": "14870212000134",
 "cnes": null,
 "nome": "NIC DROGARIA LTDA",
+"razao_social": "NIC DROGARIA LTDA",
 "endereco": {
 "logradouro": "1, LOTE",
 "numero": null,
@@ -4897,6 +5154,7 @@
 "cnpj": "01260392000190",
 "cnes": null,
 "nome": "PAGUE MENOS COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+"razao_social": "PAGUE MENOS COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
 "endereco": {
 "logradouro": "QUADRA 9",
 "numero": null,
@@ -4916,6 +5174,7 @@
 "cnpj": "04745752000132",
 "cnes": null,
 "nome": "PHARMACIA MAMEDE LTDA",
+"razao_social": "PHARMACIA MAMEDE LTDA",
 "endereco": {
 "logradouro": "SHIS QI 13",
 "numero": null,
@@ -4935,6 +5194,7 @@
 "cnpj": "00551689000142",
 "cnes": null,
 "nome": "PHARMAGRAN DROGARIA EIRELI",
+"razao_social": "PHARMAGRAN DROGARIA EIRELI",
 "endereco": {
 "logradouro": "EQNL 10/12 BL B",
 "numero": null,
@@ -4954,6 +5214,7 @@
 "cnpj": "02699690000144",
 "cnes": null,
 "nome": "POPULAR COMERCIO DE MEDICAMENTOS LTDA - ME",
+"razao_social": "POPULAR COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
 "logradouro": "QUADRA 4 CO A",
 "numero": null,
@@ -4973,6 +5234,7 @@
 "cnpj": "07304319000150",
 "cnes": null,
 "nome": "R. D. T DROGARIA LTDA ME",
+"razao_social": "R. D. T DROGARIA LTDA ME",
 "endereco": {
 "logradouro": "QNJ 26",
 "numero": null,
@@ -4992,6 +5254,7 @@
 "cnpj": "10924360000133",
 "cnes": null,
 "nome": "R.O.RODRIGUES & J.K.S.BESERRA LTDA - ME",
+"razao_social": "R.O.RODRIGUES & J.K.S.BESERRA LTDA - ME",
 "endereco": {
 "logradouro": "PORTO RICO",
 "numero": null,
@@ -5010,7 +5273,8 @@
 {
 "cnpj": "61585865042156",
 "cnes": "4323963",
-"nome": "RAIA DROGASIL S/A",
+"nome": "DROGASIL DS 0471",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "CNC 3",
 "numero": "S/N",
@@ -5029,7 +5293,8 @@
 {
 "cnpj": "61585865042237",
 "cnes": "4324722",
-"nome": "RAIA DROGASIL S/A",
+"nome": "DROGASIL DS 0484",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "QUADRA 1 CO G",
 "numero": "S/N",
@@ -5048,7 +5313,8 @@
 {
 "cnpj": "61585865044108",
 "cnes": "4712447",
-"nome": "RAIA DROGASIL S/A",
+"nome": "DROGASIL DS 0784",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "CLS 305 BL D",
 "numero": "S/N",
@@ -5067,7 +5333,8 @@
 {
 "cnpj": "61585865115641",
 "cnes": "4711084",
-"nome": "RAIA DROGASIL S/A",
+"nome": "DROGASIL DS0747",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "CLN 303",
 "numero": "S/N",
@@ -5086,7 +5353,8 @@
 {
 "cnpj": "61585865121536",
 "cnes": "4712420",
-"nome": "RAIA DROGASIL S/A",
+"nome": "DROGASIL DS0752",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "CLN 204 BL C",
 "numero": "S/N",
@@ -5106,6 +5374,7 @@
 "cnpj": "03359898000187",
 "cnes": null,
 "nome": "REDE BRASIL EMPREENDIMENTOS FARMACEUTICOS LTDA",
+"razao_social": "REDE BRASIL EMPREENDIMENTOS FARMACEUTICOS LTDA",
 "endereco": {
 "logradouro": "ESTRUTURAL",
 "numero": null,
@@ -5125,6 +5394,7 @@
 "cnpj": "19376483000151",
 "cnes": null,
 "nome": "ROGERIO SANTOS ROSA - ME",
+"razao_social": "ROGERIO SANTOS ROSA - ME",
 "endereco": {
 "logradouro": "QUADRA 13 CO 7",
 "numero": null,
@@ -5144,6 +5414,7 @@
 "cnpj": "13985470000101",
 "cnes": null,
 "nome": "SANTOS MARINHO COMERCIO DE MEDICAMENTOS LTDA",
+"razao_social": "SANTOS MARINHO COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
 "logradouro": "CENTRAL BLOCOS 294/372",
 "numero": null,
@@ -5163,6 +5434,7 @@
 "cnpj": "08784194000175",
 "cnes": null,
 "nome": "SAUDE E BELEZA COMERCIO DE MEDICAMENTOS LTDA",
+"razao_social": "SAUDE E BELEZA COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
 "logradouro": "QUADRA 7 CONJUNTO A LOTE",
 "numero": null,
@@ -5182,6 +5454,7 @@
 "cnpj": "03556637000157",
 "cnes": null,
 "nome": "SO BELA COMERCIO DE MEDICAMENTOS LTDA - ME",
+"razao_social": "SO BELA COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
 "logradouro": "QUADRA 109",
 "numero": null,
@@ -5201,6 +5474,7 @@
 "cnpj": "03575434000108",
 "cnes": null,
 "nome": "SUELY REIS E SILVA - ME",
+"razao_social": "SUELY REIS E SILVA - ME",
 "endereco": {
 "logradouro": "MERCADO  01 LOJAS",
 "numero": null,
@@ -5220,6 +5494,7 @@
 "cnpj": "07628809000101",
 "cnes": null,
 "nome": "TERG COMERCIO DE MEDICAMENTOS LTDA - ME",
+"razao_social": "TERG COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
 "logradouro": "CENTRAL",
 "numero": null,
@@ -5239,6 +5514,7 @@
 "cnpj": "16384368000130",
 "cnes": null,
 "nome": "VERA E DILSON DROGARIA BARBOSA LTDA - ME",
+"razao_social": "VERA E DILSON DROGARIA BARBOSA LTDA - ME",
 "endereco": {
 "logradouro": "RUA 6 CH 272",
 "numero": null,
@@ -5258,6 +5534,7 @@
 "cnpj": "13472805000180",
 "cnes": null,
 "nome": "VIEIRA & VIEIRA COMERCIO DE MEDICAMENTOS LTDA - ME",
+"razao_social": "VIEIRA & VIEIRA COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
 "logradouro": "VARJAO DO TORTO",
 "numero": null,
@@ -5277,6 +5554,7 @@
 "cnpj": "17878743000161",
 "cnes": null,
 "nome": "W.E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
+"razao_social": "W.E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
 "endereco": {
 "logradouro": "QUADRA 1 CO 3",
 "numero": null,

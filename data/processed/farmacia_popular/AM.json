@@ -14,6 +14,7 @@
 "cnpj": "53039908000175",
 "cnes": null,
 "nome": "H. L. XAVIER",
+"razao_social": "H. L. XAVIER",
 "endereco": {
 "logradouro": "GETULIO VARGAS",
 "numero": null,
@@ -33,6 +34,7 @@
 "cnpj": "41900984000144",
 "cnes": null,
 "nome": "RAYSA LOPES FELICIANO",
+"razao_social": "RAYSA LOPES FELICIANO",
 "endereco": {
 "logradouro": "ESTRADA MARIANO",
 "numero": null,
@@ -51,7 +53,8 @@
 {
 "cnpj": "84096510000102",
 "cnes": "0994448",
-"nome": "L. LIMA DA SILVA LTDA",
+"nome": "DROGARIA DO TRABALHADOR",
+"razao_social": "L. LIMA DA SILVA LTDA",
 "endereco": {
 "logradouro": "RIO MADEIRA",
 "numero": "2043",
@@ -71,6 +74,7 @@
 "cnpj": "10554536000102",
 "cnes": null,
 "nome": "L. P. V. DA SILVA",
+"razao_social": "L. P. V. DA SILVA",
 "endereco": {
 "logradouro": "COSTA E SILVA",
 "numero": null,
@@ -90,6 +94,7 @@
 "cnpj": "09648661000100",
 "cnes": null,
 "nome": "FRANCINETE SILVA DE SOUZA - ME",
+"razao_social": "FRANCINETE SILVA DE SOUZA - ME",
 "endereco": {
 "logradouro": "CEL. LUIZ GOMES",
 "numero": null,
@@ -108,7 +113,8 @@
 {
 "cnpj": "06626253044108",
 "cnes": "2886812",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S A",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "PEDRO RATTES",
 "numero": "693",
@@ -127,7 +133,8 @@
 {
 "cnpj": "06626253022805",
 "cnes": "4867467",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+"nome": "FARMACIA PAGUE MENOS",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S.A.",
 "endereco": {
 "logradouro": "JOAO VALERIO",
 "numero": "280",
@@ -146,7 +153,8 @@
 {
 "cnpj": "06626253030069",
 "cnes": "2971178",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIAS PAGUE MENOS",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "AUTAZ MIRIM",
 "numero": "5981",
@@ -165,7 +173,8 @@
 {
 "cnpj": "06626253036342",
 "cnes": "2956780",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIA PAGUE MENOS",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "CARVALHO LEAL",
 "numero": "1259",
@@ -184,7 +193,8 @@
 {
 "cnpj": "06626253050680",
 "cnes": "2890097",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIA PAGUE MENOS",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "ANDRE ARAUJO",
 "numero": "72",
@@ -203,7 +213,8 @@
 {
 "cnpj": "06626253057005",
 "cnes": "4731638",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIA PAGUE MENOS",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "BRASIL",
 "numero": "2395",
@@ -223,6 +234,7 @@
 "cnpj": "08894878000120",
 "cnes": null,
 "nome": "J S ISHIDA - ME",
+"razao_social": "J S ISHIDA - ME",
 "endereco": {
 "logradouro": "PRESIDENTE DUTRA",
 "numero": null,
@@ -242,6 +254,7 @@
 "cnpj": "36514912000129",
 "cnes": null,
 "nome": "NEILA MEDEIROS SALGADO",
+"razao_social": "NEILA MEDEIROS SALGADO",
 "endereco": {
 "logradouro": "PEDRO TINOCO",
 "numero": null,
@@ -261,6 +274,7 @@
 "cnpj": "22111693000122",
 "cnes": null,
 "nome": "E DE CASTRO BRITO",
+"razao_social": "E DE CASTRO BRITO",
 "endereco": {
 "logradouro": "GOVERNADOR BARAO DE SAO DOMINGOS",
 "numero": null,
@@ -280,6 +294,7 @@
 "cnpj": "04003658000108",
 "cnes": null,
 "nome": "C DE F M PAES - ME",
+"razao_social": "C DE F M PAES - ME",
 "endereco": {
 "logradouro": "CASTELO BRANCO",
 "numero": null,
@@ -299,6 +314,7 @@
 "cnpj": "31206240000170",
 "cnes": null,
 "nome": "M S L COMERCIO DE MEDICAMENTOS LTDA",
+"razao_social": "M S L COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
 "logradouro": "DA AMIZADE",
 "numero": null,

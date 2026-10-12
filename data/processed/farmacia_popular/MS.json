@@ -13,7 +13,8 @@
 {
 "cnpj": "00694663000153",
 "cnes": "8277354",
-"nome": "SAVIA CHRISTINA BERALDO COSTA LUCIANO EIRELI - ME",
+"nome": "DROGARIA MODELO",
+"razao_social": "SAVIA CHRISTINA BERALDO COSTA LUCIANO EIRELI - ME",
 "endereco": {
 "logradouro": "ADOLFO ALVES CARNEIRO",
 "numero": "1243",
@@ -32,7 +33,8 @@
 {
 "cnpj": "33193160000153",
 "cnes": "0180955",
-"nome": "DROGARIA BIOFARMA LTDA",
+"nome": "BIOFARMA",
+"razao_social": "DROGARIA BIOFARMA LTDA",
 "endereco": {
 "logradouro": "RIO BRANCO",
 "numero": "1180",
@@ -51,7 +53,8 @@
 {
 "cnpj": "03377845000199",
 "cnes": "0185140",
-"nome": "FARMACIA TOBIAS LTDA",
+"nome": "DROGARIA SAO JOSE",
+"razao_social": "FARMACIA TOBIAS LTDA",
 "endereco": {
 "logradouro": "DA REPUBLICA",
 "numero": "3299",
@@ -71,6 +74,7 @@
 "cnpj": "03100938000171",
 "cnes": null,
 "nome": "MAURICIO & FERNANDES LTDA",
+"razao_social": "MAURICIO & FERNANDES LTDA",
 "endereco": {
 "logradouro": "PEDRO MANVAILER",
 "numero": null,
@@ -89,7 +93,8 @@
 {
 "cnpj": "10695648000183",
 "cnes": "0158305",
-"nome": "MAZZUCO & CIA LTDA ME",
+"nome": "FARMACIA POPULAR",
+"razao_social": "MAZZUCO & CIA LTDA ME",
 "endereco": {
 "logradouro": "PEDRO MANVAILER",
 "numero": "3227",
@@ -108,7 +113,8 @@
 {
 "cnpj": "11674137000148",
 "cnes": "8407509",
-"nome": "IVANA RODRIGUES DE OLIVEIRA",
+"nome": "MEGA FARMA",
+"razao_social": "IVANA RODRIGUES DE OLIVEIRA",
 "endereco": {
 "logradouro": "MANOEL MURTINHO",
 "numero": "2121",
@@ -128,6 +134,7 @@
 "cnpj": "01548999000170",
 "cnes": null,
 "nome": "JOAO FRANCISCO DE ANDRADE EPP",
+"razao_social": "JOAO FRANCISCO DE ANDRADE EPP",
 "endereco": {
 "logradouro": "BRASIL",
 "numero": null,
@@ -146,7 +153,8 @@
 {
 "cnpj": "13466694000107",
 "cnes": "8387486",
-"nome": "EMILIO NASCIMENTO MILHORANCA",
+"nome": "DROGARIA VIDA",
+"razao_social": "EMILIO NASCIMENTO MILHORANCA",
 "endereco": {
 "logradouro": "ANTONIO ALVES DE SOUZA",
 "numero": "1166",
@@ -166,6 +174,7 @@
 "cnpj": "13236004000204",
 "cnes": null,
 "nome": "FALAVINA DROGARIA E COSMETICOS LTDA",
+"razao_social": "FALAVINA DROGARIA E COSMETICOS LTDA",
 "endereco": {
 "logradouro": "STEFAN DUDAS",
 "numero": null,
@@ -184,7 +193,8 @@
 {
 "cnpj": "10739757000155",
 "cnes": "8301115",
-"nome": "R N AMARAL & CIA LTDA - ME",
+"nome": "FARMACIA MONTE ALEGRE",
+"razao_social": "R N AMARAL & CIA LTDA - ME",
 "endereco": {
 "logradouro": "PANTALEAO COELHO XAVIER",
 "numero": "645",
@@ -204,6 +214,7 @@
 "cnpj": "13538013000160",
 "cnes": null,
 "nome": "VERON E DUARTE LTDA - ME",
+"razao_social": "VERON E DUARTE LTDA - ME",
 "endereco": {
 "logradouro": "URIAS DE ALMEIDA",
 "numero": null,
@@ -222,7 +233,8 @@
 {
 "cnpj": "08967701000106",
 "cnes": "8260230",
-"nome": "BUZON COMERCIO DE PRODUTOS FARMACEUTICOS LTDA ME",
+"nome": "BIOFARMA",
+"razao_social": "BUZON COMERCIO DE PRODUTOS FARMACEUTICOS LTDA ME",
 "endereco": {
 "logradouro": "PRESIDENTE VARGAS",
 "numero": "3110",
@@ -241,7 +253,8 @@
 {
 "cnpj": "09555593000127",
 "cnes": "8261601",
-"nome": "DROGARIA COMPRE CERTO APARECIDA DO TABOADO LTDA",
+"nome": "DROGARIA COMPRE CERTO",
+"razao_social": "DROGARIA COMPRE CERTO APARECIDA DO TABOADO LTDA",
 "endereco": {
 "logradouro": "SAO CRISTOVAO",
 "numero": "1763",
@@ -260,7 +273,8 @@
 {
 "cnpj": "15722907000131",
 "cnes": "8330883",
-"nome": "NATALIA FERREIRA GARCIA - ME",
+"nome": "MEDICAL DROGARIA",
+"razao_social": "NATALIA FERREIRA GARCIA - ME",
 "endereco": {
 "logradouro": "ORLANDO MASCARENHAS PEREIRA",
 "numero": "2015",
@@ -279,7 +293,8 @@
 {
 "cnpj": "03480787000205",
 "cnes": "8352283",
-"nome": "VENANCIO & SAMARA LTDA",
+"nome": "FARMACIA SAO JOSE II",
+"razao_social": "VENANCIO & SAMARA LTDA",
 "endereco": {
 "logradouro": "SAO CRISTOVAO",
 "numero": "1250",
@@ -299,6 +314,7 @@
 "cnpj": "01944172000186",
 "cnes": null,
 "nome": "M B MARQUES & CIA LTDA",
+"razao_social": "M B MARQUES & CIA LTDA",
 "endereco": {
 "logradouro": "SETE DE SETEMBRO",
 "numero": null,
@@ -318,6 +334,7 @@
 "cnpj": "37568672000108",
 "cnes": null,
 "nome": "MARIZETE MARQUES BRUM - EPP",
+"razao_social": "MARIZETE MARQUES BRUM - EPP",
 "endereco": {
 "logradouro": "SETE DE SETEMBRO",
 "numero": null,
@@ -337,6 +354,7 @@
 "cnpj": "37568672000450",
 "cnes": null,
 "nome": "MARIZETE MARQUES BRUM - EPP",
+"razao_social": "MARIZETE MARQUES BRUM - EPP",
 "endereco": {
 "logradouro": "GIOVANI TOSCANO DE BRITO",
 "numero": null,
@@ -356,6 +374,7 @@
 "cnpj": "17967556000154",
 "cnes": null,
 "nome": "MARTINS & CARRILHO LTDA - EPP",
+"razao_social": "MARTINS & CARRILHO LTDA - EPP",
 "endereco": {
 "logradouro": "ESTEVAO ALVES CORREIA",
 "numero": null,
@@ -375,6 +394,7 @@
 "cnpj": "15698994000139",
 "cnes": null,
 "nome": "PAULA ALVES DE ALBRES - ME",
+"razao_social": "PAULA ALVES DE ALBRES - ME",
 "endereco": {
 "logradouro": "ESTEVAO ALVES CORREA",
 "numero": null,
@@ -394,6 +414,7 @@
 "cnpj": "01531920000107",
 "cnes": null,
 "nome": "ARALFARMA DROGARIA LTDA - ME",
+"razao_social": "ARALFARMA DROGARIA LTDA - ME",
 "endereco": {
 "logradouro": "31 DE MARCO",
 "numero": null,
@@ -413,6 +434,7 @@
 "cnpj": "01116114000164",
 "cnes": null,
 "nome": "COMERCIAL VIDA NOVA LTDA - ME",
+"razao_social": "COMERCIAL VIDA NOVA LTDA - ME",
 "endereco": {
 "logradouro": "ROGERIO FRANCISCO SANTANA",
 "numero": null,
@@ -432,6 +454,7 @@
 "cnpj": "04002849000155",
 "cnes": null,
 "nome": "ESTEVES & FERNANDES LTDA - EPP",
+"razao_social": "ESTEVES & FERNANDES LTDA - EPP",
 "endereco": {
 "logradouro": "AQUIDAUANA",
 "numero": null,
@@ -450,7 +473,8 @@
 {
 "cnpj": "05255309000146",
 "cnes": "4371607",
-"nome": "PRUDEN-MED PRODUTOS FARMACEUTICOS LTDA - ME",
+"nome": "BIONATIVA MULTIDROGAS",
+"razao_social": "PRUDEN-MED PRODUTOS FARMACEUTICOS LTDA - ME",
 "endereco": {
 "logradouro": "CAMPO GRANDE",
 "numero": "439",
@@ -469,7 +493,8 @@
 {
 "cnpj": "37562303000108",
 "cnes": "8409331",
-"nome": "LOPES & BOMFIM LTDA - ME",
+"nome": "DROGASUL FARMACIA",
+"razao_social": "LOPES & BOMFIM LTDA - ME",
 "endereco": {
 "logradouro": "BRASIL",
 "numero": "1401",
@@ -488,7 +513,8 @@
 {
 "cnpj": "15070588000127",
 "cnes": "8261415",
-"nome": "LUIZ H. PATRONI - ME",
+"nome": "NOVA FARMA",
+"razao_social": "LUIZ H. PATRONI - ME",
 "endereco": {
 "logradouro": "MANOEL  RODRIGUES  DE OLIVEIRA",
 "numero": "270",
@@ -508,6 +534,7 @@
 "cnpj": "11288508000153",
 "cnes": null,
 "nome": "JULIANO ROGLING - ME",
+"razao_social": "JULIANO ROGLING - ME",
 "endereco": {
 "logradouro": "CEL PILAD REBUA",
 "numero": null,
@@ -527,6 +554,7 @@
 "cnpj": "09433797000195",
 "cnes": null,
 "nome": "FARMACIA FARMAKO LTDA",
+"razao_social": "FARMACIA FARMAKO LTDA",
 "endereco": {
 "logradouro": "SAO JOSE",
 "numero": null,
@@ -546,6 +574,7 @@
 "cnpj": "12104635000118",
 "cnes": null,
 "nome": "BIAZI & WATTHIER LTDA - ME",
+"razao_social": "BIAZI & WATTHIER LTDA - ME",
 "endereco": {
 "logradouro": "DOM PEDRO II",
 "numero": null,
@@ -565,6 +594,7 @@
 "cnpj": "37205325000110",
 "cnes": null,
 "nome": "DONALDSON DIEGO DE LIMA E SILVA",
+"razao_social": "DONALDSON DIEGO DE LIMA E SILVA",
 "endereco": {
 "logradouro": "FERNANDO CORREA DA COSTA",
 "numero": null,
@@ -584,6 +614,7 @@
 "cnpj": "01756694000154",
 "cnes": null,
 "nome": "DROGARIA CAARAPO AVENIDA LTDA",
+"razao_social": "DROGARIA CAARAPO AVENIDA LTDA",
 "endereco": {
 "logradouro": "SETE DE SETEMBRO",
 "numero": null,
@@ -603,6 +634,7 @@
 "cnpj": "00193631000174",
 "cnes": null,
 "nome": "FARMACIA NAKAYAMA LTDA - ME",
+"razao_social": "FARMACIA NAKAYAMA LTDA - ME",
 "endereco": {
 "logradouro": "15 DE NOVEMBRO",
 "numero": null,
@@ -622,6 +654,7 @@
 "cnpj": "05112326000124",
 "cnes": null,
 "nome": "SILVANA BARATELLA FERNANDES",
+"razao_social": "SILVANA BARATELLA FERNANDES",
 "endereco": {
 "logradouro": "BARAO DO RIO BRANCO",
 "numero": null,
@@ -641,6 +674,7 @@
 "cnpj": "14511974000144",
 "cnes": null,
 "nome": "A. A. GODOI DROGARIA - ME",
+"razao_social": "A. A. GODOI DROGARIA - ME",
 "endereco": {
 "logradouro": "PEDRO PAULO SOARES DE OLIVEIRA",
 "numero": null,
@@ -659,7 +693,8 @@
 {
 "cnpj": "13537905000147",
 "cnes": "8319227",
-"nome": "ANDRE LUIZ FERNANDES - ME",
+"nome": "DROGARIA FAMILIA",
+"razao_social": "ANDRE LUIZ FERNANDES - ME",
 "endereco": {
 "logradouro": "PADRE MUSA TUMA",
 "numero": "1099",
@@ -679,6 +714,7 @@
 "cnpj": "84683481030084",
 "cnes": null,
 "nome": "CIA LATINO AMERICANA DE MEDICAMENTOS",
+"razao_social": "CIA LATINO AMERICANA DE MEDICAMENTOS",
 "endereco": {
 "logradouro": "QUATORZE DE JULHO",
 "numero": null,
@@ -697,7 +733,8 @@
 {
 "cnpj": "84683481032966",
 "cnes": "0709719",
-"nome": "CIA LATINO AMERICANA DE MEDICAMENTOS",
+"nome": "FARMACIA PRECO POPULAR",
+"razao_social": "CIA LATINO AMERICANA DE MEDICAMENTOS",
 "endereco": {
 "logradouro": "MARECHAL RONDON",
 "numero": "2111",
@@ -717,6 +754,7 @@
 "cnpj": "84683481034233",
 "cnes": null,
 "nome": "CIA LATINO AMERICANA DE MEDICAMENTOS",
+"razao_social": "CIA LATINO AMERICANA DE MEDICAMENTOS",
 "endereco": {
 "logradouro": "QUATORZE DE JULHO",
 "numero": null,
@@ -736,6 +774,7 @@
 "cnpj": "12509749000148",
 "cnes": null,
 "nome": "DROGARIA 2 GAROTOS LTDA - ME",
+"razao_social": "DROGARIA 2 GAROTOS LTDA - ME",
 "endereco": {
 "logradouro": "MASCARENHAS DE MORAES",
 "numero": null,
@@ -755,6 +794,7 @@
 "cnpj": "10363102000125",
 "cnes": null,
 "nome": "DROGARIA BEM ESTAR LTDA",
+"razao_social": "DROGARIA BEM ESTAR LTDA",
 "endereco": {
 "logradouro": "GOIATUBA",
 "numero": null,
@@ -774,6 +814,7 @@
 "cnpj": "12515832000120",
 "cnes": null,
 "nome": "DROGARIA CAMPO GRANDE LTDA",
+"razao_social": "DROGARIA CAMPO GRANDE LTDA",
 "endereco": {
 "logradouro": "INDIANAPOLIS",
 "numero": null,
@@ -793,6 +834,7 @@
 "cnpj": "08039386000157",
 "cnes": null,
 "nome": "DROGARIA ESTRELA LTDA - ME",
+"razao_social": "DROGARIA ESTRELA LTDA - ME",
 "endereco": {
 "logradouro": "DAS BALSAS",
 "numero": null,
@@ -812,6 +854,7 @@
 "cnpj": "12939588000122",
 "cnes": null,
 "nome": "DROGARIA FRENTTINI LTDA - ME",
+"razao_social": "DROGARIA FRENTTINI LTDA - ME",
 "endereco": {
 "logradouro": "MARQUES DE POMBAL",
 "numero": null,
@@ -831,6 +874,7 @@
 "cnpj": "00864017000197",
 "cnes": null,
 "nome": "DROGARIA GUERRA LTDA - ME",
+"razao_social": "DROGARIA GUERRA LTDA - ME",
 "endereco": {
 "logradouro": "MONSENHOR SARRION",
 "numero": null,
@@ -850,6 +894,7 @@
 "cnpj": "86869567000114",
 "cnes": null,
 "nome": "DROGARIA MARIFARMA LTDA - ME",
+"razao_social": "DROGARIA MARIFARMA LTDA - ME",
 "endereco": {
 "logradouro": "CACHOEIRA DO CAMPO",
 "numero": null,
@@ -869,6 +914,7 @@
 "cnpj": "33792896000148",
 "cnes": null,
 "nome": "DROGARIA NISSEY LTDA - EPP",
+"razao_social": "DROGARIA NISSEY LTDA - EPP",
 "endereco": {
 "logradouro": "TENENTE LIRA",
 "numero": null,
@@ -888,6 +934,7 @@
 "cnpj": "01621083000107",
 "cnes": null,
 "nome": "DROGARIA SAO EXPEDITO LTDA - ME",
+"razao_social": "DROGARIA SAO EXPEDITO LTDA - ME",
 "endereco": {
 "logradouro": "SPIPE CALARGE",
 "numero": null,
@@ -907,6 +954,7 @@
 "cnpj": "07460103000183",
 "cnes": null,
 "nome": "DROGARIA VIEIRA LTDA",
+"razao_social": "DROGARIA VIEIRA LTDA",
 "endereco": {
 "logradouro": "PAULO HIDEO KATAYAMA",
 "numero": null,
@@ -925,7 +973,8 @@
 {
 "cnpj": "06626253035028",
 "cnes": "4610210",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIAS PAGUE MENOS",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "MATO GROSSO",
 "numero": "1462",
@@ -944,7 +993,8 @@
 {
 "cnpj": "06626253043802",
 "cnes": "4343646",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIA PAGUE MENOS",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "CEARA",
 "numero": "1826",
@@ -963,7 +1013,8 @@
 {
 "cnpj": "06626253044795",
 "cnes": "0867926",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIA PAGUE MENOS TREZE DE MAIO",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "TREZE DE MAIO",
 "numero": "3278",
@@ -983,6 +1034,7 @@
 "cnpj": "06626253051309",
 "cnes": null,
 "nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "EDUARDO ELIAS ZAHRAN",
 "numero": null,
@@ -1002,6 +1054,7 @@
 "cnpj": "05975679000158",
 "cnes": null,
 "nome": "FARMACIA ESTRELA DALVA LTDA - ME",
+"razao_social": "FARMACIA ESTRELA DALVA LTDA - ME",
 "endereco": {
 "logradouro": "DO PANDA",
 "numero": null,
@@ -1021,6 +1074,7 @@
 "cnpj": "36785293000107",
 "cnes": null,
 "nome": "FARMACIA NIELLY LTDA",
+"razao_social": "FARMACIA NIELLY LTDA",
 "endereco": {
 "logradouro": "GENERAL ALBERTO CARLOS MENDONCA LIMA",
 "numero": null,
@@ -1039,7 +1093,8 @@
 {
 "cnpj": "08374428000106",
 "cnes": "8343470",
-"nome": "FARMACIA POPULAR ITAMARACA EIRELI",
+"nome": "FARMACIA POPULAR ITAMARACA",
+"razao_social": "FARMACIA POPULAR ITAMARACA EIRELI",
 "endereco": {
 "logradouro": "PADRE MUSA TUMA",
 "numero": "689",
@@ -1059,6 +1114,7 @@
 "cnpj": "18736289000177",
 "cnes": null,
 "nome": "FARMACIA POPULAR TIJUCA LTDA - ME",
+"razao_social": "FARMACIA POPULAR TIJUCA LTDA - ME",
 "endereco": {
 "logradouro": "PARA",
 "numero": null,
@@ -1078,6 +1134,7 @@
 "cnpj": "09494161000153",
 "cnes": null,
 "nome": "FREIRE & FILHOS MEDICAMENTOS E PERFUMARIA LTDA ME",
+"razao_social": "FREIRE & FILHOS MEDICAMENTOS E PERFUMARIA LTDA ME",
 "endereco": {
 "logradouro": "MASCARENHAS DE MORAES",
 "numero": null,
@@ -1097,6 +1154,7 @@
 "cnpj": "09494161000234",
 "cnes": null,
 "nome": "FREIRE & FILHOS MEDICAMENTOS E PERFUMARIA LTDA ME",
+"razao_social": "FREIRE & FILHOS MEDICAMENTOS E PERFUMARIA LTDA ME",
 "endereco": {
 "logradouro": "RUI BARBOSA",
 "numero": null,
@@ -1116,6 +1174,7 @@
 "cnpj": "11058284000193",
 "cnes": null,
 "nome": "JRR DROGARIA LTDA ME",
+"razao_social": "JRR DROGARIA LTDA ME",
 "endereco": {
 "logradouro": "MARECHAL DEODORO",
 "numero": null,
@@ -1135,6 +1194,7 @@
 "cnpj": "13938314000181",
 "cnes": null,
 "nome": "LLI COMERCIO DE MEDICAMENTOS E PERFUMARIAS LTDA - ME",
+"razao_social": "LLI COMERCIO DE MEDICAMENTOS E PERFUMARIAS LTDA - ME",
 "endereco": {
 "logradouro": "MINISTRO JOSE LINHARES",
 "numero": null,
@@ -1154,6 +1214,7 @@
 "cnpj": "13938314000262",
 "cnes": null,
 "nome": "LLI COMERCIO DE MEDICAMENTOS E PERFUMARIAS LTDA - ME",
+"razao_social": "LLI COMERCIO DE MEDICAMENTOS E PERFUMARIAS LTDA - ME",
 "endereco": {
 "logradouro": "TAMANDARE",
 "numero": null,
@@ -1173,6 +1234,7 @@
 "cnpj": "73399826000149",
 "cnes": null,
 "nome": "LUZ & SLAVEC LTDA-ME",
+"razao_social": "LUZ & SLAVEC LTDA-ME",
 "endereco": {
 "logradouro": "FILOMENA SEGUNDO NASCIMENTO",
 "numero": null,
@@ -1192,6 +1254,7 @@
 "cnpj": "17660742000146",
 "cnes": null,
 "nome": "M & T DROGARIA LTDA - ME",
+"razao_social": "M & T DROGARIA LTDA - ME",
 "endereco": {
 "logradouro": "MARECHAL RONDON",
 "numero": null,
@@ -1211,6 +1274,7 @@
 "cnpj": "08986750000196",
 "cnes": null,
 "nome": "M.L. COMERCIO DE MEDICAMENTOS LTDA - ME",
+"razao_social": "M.L. COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
 "logradouro": "BENJAMIN ADESE",
 "numero": null,
@@ -1230,6 +1294,7 @@
 "cnpj": "06100892000189",
 "cnes": null,
 "nome": "MACEDO & ALBUQUERQUE COMERCIO DE MEDICAMENTOS LTDA",
+"razao_social": "MACEDO & ALBUQUERQUE COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
 "logradouro": "ANACA",
 "numero": null,
@@ -1249,6 +1314,7 @@
 "cnpj": "18984466000134",
 "cnes": null,
 "nome": "N & N COMERCIO DE MEDICAMENTOS LTDA",
+"razao_social": "N & N COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
 "logradouro": "PRESIDENTE TANCREDO NEVES",
 "numero": null,
@@ -1268,6 +1334,7 @@
 "cnpj": "04050862000341",
 "cnes": null,
 "nome": "OLIVEIRA  &  IBANHEZ  LTDA",
+"razao_social": "OLIVEIRA  &  IBANHEZ  LTDA",
 "endereco": {
 "logradouro": "YOKOAMA",
 "numero": null,
@@ -1287,6 +1354,7 @@
 "cnpj": "04050862000260",
 "cnes": null,
 "nome": "OLIVEIRA & IBANHEZ LTDA - EPP",
+"razao_social": "OLIVEIRA & IBANHEZ LTDA - EPP",
 "endereco": {
 "logradouro": "OLIMPIO KLAFKE",
 "numero": null,
@@ -1306,6 +1374,7 @@
 "cnpj": "04050862000180",
 "cnes": null,
 "nome": "OLIVEIRA E IBANHEZ LTDA",
+"razao_social": "OLIVEIRA E IBANHEZ LTDA",
 "endereco": {
 "logradouro": "RACHEL DE QUEIROZ",
 "numero": null,
@@ -1324,7 +1393,8 @@
 {
 "cnpj": "17479487000130",
 "cnes": "8373892",
-"nome": "PELUCIO & CIA LTDA - ME",
+"nome": "FARMACIA POPULAR SANTA LUZIA COMPER",
+"razao_social": "PELUCIO & CIA LTDA - ME",
 "endereco": {
 "logradouro": "TAMANDARE",
 "numero": "2957",
@@ -1344,6 +1414,7 @@
 "cnpj": "04895459000151",
 "cnes": null,
 "nome": "PEREIRA & BRAGA LTDA -ME",
+"razao_social": "PEREIRA & BRAGA LTDA -ME",
 "endereco": {
 "logradouro": "CLOVIS MATO GROSSO",
 "numero": null,
@@ -1362,7 +1433,8 @@
 {
 "cnpj": "61585865049592",
 "cnes": "5764629",
-"nome": "RAIA DROGASIL S/A",
+"nome": "DROGASIL",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "AFONSO PENA",
 "numero": "2940",
@@ -1381,7 +1453,8 @@
 {
 "cnpj": "61585865049673",
 "cnes": "5454123",
-"nome": "RAIA DROGASIL S/A",
+"nome": "DROGASIL DS0715",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "AMAZONAS",
 "numero": "1405",
@@ -1400,7 +1473,8 @@
 {
 "cnpj": "61585865049754",
 "cnes": "4851242",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL S A",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "CEARA",
 "numero": "2360",
@@ -1419,7 +1493,8 @@
 {
 "cnpj": "61585865051813",
 "cnes": "4711122",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL S A",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "JERIBA",
 "numero": "553",
@@ -1438,7 +1513,8 @@
 {
 "cnpj": "61585865104879",
 "cnes": "4695526",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL S A",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "QUATORZE DE JULHO",
 "numero": "1933",
@@ -1457,7 +1533,8 @@
 {
 "cnpj": "61585865105689",
 "cnes": "5848636",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "AV AFONSO PENA 4909",
 "numero": "4909",
@@ -1476,7 +1553,8 @@
 {
 "cnpj": "61585865108785",
 "cnes": "5742765",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "MATO GROSSO",
 "numero": "520",
@@ -1495,7 +1573,8 @@
 {
 "cnpj": "61585865111220",
 "cnes": "4484010",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL S A",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "AFONSO PENA",
 "numero": "4126",
@@ -1514,7 +1593,8 @@
 {
 "cnpj": "61585865113193",
 "cnes": "5571642",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "PADRE JOAO CRIPPA",
 "numero": "1232",
@@ -1533,7 +1613,8 @@
 {
 "cnpj": "61585865113274",
 "cnes": "5777070",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "EDUARDO ELIAS ZAHRAN",
 "numero": "2284",
@@ -1552,7 +1633,8 @@
 {
 "cnpj": "61585865114912",
 "cnes": "5790530",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "JULIO DE CASTILHO",
 "numero": "1156",
@@ -1571,7 +1653,8 @@
 {
 "cnpj": "61585865115056",
 "cnes": "8262187",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL DS1518",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "MATO GROSSO",
 "numero": "1944",
@@ -1590,7 +1673,8 @@
 {
 "cnpj": "61585865117342",
 "cnes": "4715497",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL S A",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "JERONYMA PAES BENJAMIM",
 "numero": "20",
@@ -1610,6 +1694,7 @@
 "cnpj": "03511815000123",
 "cnes": null,
 "nome": "RINALDO MINEI - ME",
+"razao_social": "RINALDO MINEI - ME",
 "endereco": {
 "logradouro": "DOLORES DURAN",
 "numero": null,
@@ -1629,6 +1714,7 @@
 "cnpj": "06934577000157",
 "cnes": null,
 "nome": "SHALOM COMERCIO DE MEDICAMENTOS E PERFUMARIA - ME",
+"razao_social": "SHALOM COMERCIO DE MEDICAMENTOS E PERFUMARIA - ME",
 "endereco": {
 "logradouro": "BARUERI",
 "numero": null,
@@ -1647,7 +1733,8 @@
 {
 "cnpj": "08604819000170",
 "cnes": "8339864",
-"nome": "A P G VIUDES - EPP",
+"nome": "DROGA SOL",
+"razao_social": "A P G VIUDES - EPP",
 "endereco": {
 "logradouro": "AMIN JOSE",
 "numero": "330",
@@ -1666,7 +1753,8 @@
 {
 "cnpj": "03484949000100",
 "cnes": "9546359",
-"nome": "ADMAR FERREIRA LEAL FILHO - ME",
+"nome": "FARMACIA ALQUIMIA",
+"razao_social": "ADMAR FERREIRA LEAL FILHO - ME",
 "endereco": {
 "logradouro": "SEBASTIAO LEAL",
 "numero": "530",
@@ -1685,7 +1773,8 @@
 {
 "cnpj": "09537719000130",
 "cnes": "8295816",
-"nome": "CLEITON ANDRADE THEODORO - ME",
+"nome": "DROGA CENTER",
+"razao_social": "CLEITON ANDRADE THEODORO - ME",
 "endereco": {
 "logradouro": "SEBASTIAO LEAL",
 "numero": "589",
@@ -1704,7 +1793,8 @@
 {
 "cnpj": "11238924000147",
 "cnes": "8357641",
-"nome": "FARMACIA BRUGNOLI TOLEDO LTDA",
+"nome": "FARMACIA CONFIANCA",
+"razao_social": "FARMACIA BRUGNOLI TOLEDO LTDA",
 "endereco": {
 "logradouro": "ANTONIO PAULINO",
 "numero": "611",
@@ -1724,6 +1814,7 @@
 "cnpj": "01478274000153",
 "cnes": null,
 "nome": "N.F.N.A. FARMACEUTICA LTDA",
+"razao_social": "N.F.N.A. FARMACEUTICA LTDA",
 "endereco": {
 "logradouro": "ANTONIO PAULINO",
 "numero": null,
@@ -1742,7 +1833,8 @@
 {
 "cnpj": "11536032000122",
 "cnes": "8357684",
-"nome": "SOUZA & CORTES LTDA - ME",
+"nome": "DROGARIA SUPER FARMA",
+"razao_social": "SOUZA & CORTES LTDA - ME",
 "endereco": {
 "logradouro": "ANTONIO PAULINO",
 "numero": "634",
@@ -1761,7 +1853,8 @@
 {
 "cnpj": "15910375000166",
 "cnes": "6086446",
-"nome": "FARMACIA SANRIVAL LTDA- EPP",
+"nome": "MINAS FARMA",
+"razao_social": "FARMACIA SANRIVAL LTDA- EPP",
 "endereco": {
 "logradouro": "OITO",
 "numero": "761",
@@ -1780,7 +1873,8 @@
 {
 "cnpj": "03476160000108",
 "cnes": "0669571",
-"nome": "FARMACIA SANTA MONICA LTDA",
+"nome": "FARMACIA SANTA MONICA",
+"razao_social": "FARMACIA SANTA MONICA LTDA",
 "endereco": {
 "logradouro": "GOIAS",
 "numero": "625",
@@ -1799,7 +1893,8 @@
 {
 "cnpj": "18332251000139",
 "cnes": "8276684",
-"nome": "SCHNEIDER & CARVALHO SCHNEIDER LTDA",
+"nome": "DROGARIA ULTRAPOPULAR",
+"razao_social": "SCHNEIDER & CARVALHO SCHNEIDER LTDA",
 "endereco": {
 "logradouro": "ONZE",
 "numero": "232",
@@ -1819,6 +1914,7 @@
 "cnpj": "05544883000114",
 "cnes": null,
 "nome": "UNIAO FARMA LTDA - ME",
+"razao_social": "UNIAO FARMA LTDA - ME",
 "endereco": {
 "logradouro": "GOIAS",
 "numero": null,
@@ -1838,6 +1934,7 @@
 "cnpj": "02100833000150",
 "cnes": null,
 "nome": "DROGATOP LTDA",
+"razao_social": "DROGATOP LTDA",
 "endereco": {
 "logradouro": "DELAMARE",
 "numero": null,
@@ -1857,6 +1954,7 @@
 "cnpj": "00062560000251",
 "cnes": null,
 "nome": "ALVES & GARCIA LTDA - EPP",
+"razao_social": "ALVES & GARCIA LTDA - EPP",
 "endereco": {
 "logradouro": "VEREADOR KENDI NAKAI",
 "numero": null,
@@ -1876,6 +1974,7 @@
 "cnpj": "04877066000115",
 "cnes": null,
 "nome": "ANDERSON FERREIRA DIAS - ME",
+"razao_social": "ANDERSON FERREIRA DIAS - ME",
 "endereco": {
 "logradouro": "JOSE FERREIRA DA COSTA",
 "numero": null,
@@ -1895,6 +1994,7 @@
 "cnpj": "18768425000100",
 "cnes": null,
 "nome": "LAUANA FONSECA AGUIAR - EIRELI",
+"razao_social": "LAUANA FONSECA AGUIAR - EIRELI",
 "endereco": {
 "logradouro": "JOSE FERREIRA DA COSTA",
 "numero": null,
@@ -1914,6 +2014,7 @@
 "cnpj": "00062560000170",
 "cnes": null,
 "nome": "LOURIVALDO FELIPE ALVES ME",
+"razao_social": "LOURIVALDO FELIPE ALVES ME",
 "endereco": {
 "logradouro": "JOSE FERREIRA DA COSTA",
 "numero": null,
@@ -1933,6 +2034,7 @@
 "cnpj": "11964668000175",
 "cnes": null,
 "nome": "RONALDO GALDINO DE AMORIM - ME",
+"razao_social": "RONALDO GALDINO DE AMORIM - ME",
 "endereco": {
 "logradouro": "ARY PLATERO LAR",
 "numero": null,
@@ -1951,7 +2053,8 @@
 {
 "cnpj": "18332251000210",
 "cnes": "8344833",
-"nome": "SCHNEIDER & CARVALHO SCHNEIDER LTDA - ME",
+"nome": "DROGARIA ULTRAPOPULAR",
+"razao_social": "SCHNEIDER & CARVALHO SCHNEIDER LTDA - ME",
 "endereco": {
 "logradouro": "VIRGINIA FERREIRA",
 "numero": "915",
@@ -1971,6 +2074,7 @@
 "cnpj": "11277593000154",
 "cnes": null,
 "nome": "GRZESIUK & SILVA LTDA ME",
+"razao_social": "GRZESIUK & SILVA LTDA ME",
 "endereco": {
 "logradouro": "DEODATO LEONARDO DA SILVA",
 "numero": null,
@@ -1990,6 +2094,7 @@
 "cnpj": "13159261000109",
 "cnes": null,
 "nome": "EDINEI DE OLIVEIRA ROCHA LTDA",
+"razao_social": "EDINEI DE OLIVEIRA ROCHA LTDA",
 "endereco": {
 "logradouro": "REGINALDO LEMES DA SILVA",
 "numero": null,
@@ -2009,6 +2114,7 @@
 "cnpj": "12550675000193",
 "cnes": null,
 "nome": "ANDREIA CRISTINA DE PAULA DEUS - ME",
+"razao_social": "ANDREIA CRISTINA DE PAULA DEUS - ME",
 "endereco": {
 "logradouro": "MARCELINO PIRES",
 "numero": null,
@@ -2028,6 +2134,7 @@
 "cnpj": "21406206000196",
 "cnes": null,
 "nome": "BARBOSA ALVES E CIA LTDA",
+"razao_social": "BARBOSA ALVES E CIA LTDA",
 "endereco": {
 "logradouro": "WEIMAR GONCALVES TORRES",
 "numero": null,
@@ -2047,6 +2154,7 @@
 "cnpj": "84683481029906",
 "cnes": null,
 "nome": "CIA LATINO AMERICANA DE MEDICAMENTOS",
+"razao_social": "CIA LATINO AMERICANA DE MEDICAMENTOS",
 "endereco": {
 "logradouro": "MARCELINO PIRES",
 "numero": null,
@@ -2066,6 +2174,7 @@
 "cnpj": "84683481032290",
 "cnes": null,
 "nome": "CIA LATINO AMERICANA DE MEDICAMENTOS",
+"razao_social": "CIA LATINO AMERICANA DE MEDICAMENTOS",
 "endereco": {
 "logradouro": "MARCELINO PIRES",
 "numero": null,
@@ -2085,6 +2194,7 @@
 "cnpj": "05235693000115",
 "cnes": null,
 "nome": "CIPOLLA & FERREIRA LTDA - ME",
+"razao_social": "CIPOLLA & FERREIRA LTDA - ME",
 "endereco": {
 "logradouro": "MANOEL RASSELEM",
 "numero": null,
@@ -2104,6 +2214,7 @@
 "cnpj": "16022063000189",
 "cnes": null,
 "nome": "DROGARIA BELA VISTA LTDA EPP",
+"razao_social": "DROGARIA BELA VISTA LTDA EPP",
 "endereco": {
 "logradouro": "BELA VISTA",
 "numero": null,
@@ -2123,6 +2234,7 @@
 "cnpj": "06626253040455",
 "cnes": null,
 "nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "DOUTOR NELSON DE ARAUJO",
 "numero": null,
@@ -2141,7 +2253,8 @@
 {
 "cnpj": "06626253058664",
 "cnes": "8271046",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIA PAGUE MENOS",
+"razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
 "logradouro": "WEIMAR GONCALVES TORRES",
 "numero": "2596",
@@ -2161,6 +2274,7 @@
 "cnpj": "05382051000149",
 "cnes": null,
 "nome": "FARMACIA DROGACITY LTDA ME",
+"razao_social": "FARMACIA DROGACITY LTDA ME",
 "endereco": {
 "logradouro": "MARCELINO PIRES",
 "numero": null,
@@ -2179,7 +2293,8 @@
 {
 "cnpj": "05867754000167",
 "cnes": "9740597",
-"nome": "FARMACIA RM LTDA",
+"nome": "FARMACIA POPULAR",
+"razao_social": "FARMACIA RM LTDA",
 "endereco": {
 "logradouro": "WEIMAR GONCALVES TORRES",
 "numero": "433",
@@ -2198,7 +2313,8 @@
 {
 "cnpj": "20947414000130",
 "cnes": "4834925",
-"nome": "JACKELINE DE LIMA SOUZA - ME",
+"nome": "ESPACO FARMACIA SAUDE",
+"razao_social": "JACKELINE DE LIMA SOUZA - ME",
 "endereco": {
 "logradouro": "MONTE ALEGRE",
 "numero": "4395",
@@ -2218,6 +2334,7 @@
 "cnpj": "26860338000107",
 "cnes": null,
 "nome": "LAURO MONTEIRO GOMES",
+"razao_social": "LAURO MONTEIRO GOMES",
 "endereco": {
 "logradouro": "JOAO EDUARDO ISIDORO",
 "numero": null,
@@ -2236,7 +2353,8 @@
 {
 "cnpj": "05795831000110",
 "cnes": "8291659",
-"nome": "MARCIANO MARTINS DE PAULA - ME",
+"nome": "DROGARIA DOM BOSCO",
+"razao_social": "MARCIANO MARTINS DE PAULA - ME",
 "endereco": {
 "logradouro": "DOM BOSCO",
 "numero": "0000",
@@ -2256,6 +2374,7 @@
 "cnpj": "09025095000172",
 "cnes": null,
 "nome": "MATOS & DIAS LTDA - ME",
+"razao_social": "MATOS & DIAS LTDA - ME",
 "endereco": {
 "logradouro": "NATAL",
 "numero": null,
@@ -2275,6 +2394,7 @@
 "cnpj": "04411142000100",
 "cnes": null,
 "nome": "ORTIZ & FELTRIM LTDA - ME",
+"razao_social": "ORTIZ & FELTRIM LTDA - ME",
 "endereco": {
 "logradouro": "CAMILO ERMELINDO DA SILVA",
 "numero": null,
@@ -2294,6 +2414,7 @@
 "cnpj": "03419909000177",
 "cnes": null,
 "nome": "P. D. SOZZI & CIA LTDA - ME",
+"razao_social": "P. D. SOZZI & CIA LTDA - ME",
 "endereco": {
 "logradouro": "ALVARO BRANDAO",
 "numero": null,
@@ -2313,6 +2434,7 @@
 "cnpj": "12837408000100",
 "cnes": null,
 "nome": "QUALIFARMA MEDICAMENTOS LTDA-ME",
+"razao_social": "QUALIFARMA MEDICAMENTOS LTDA-ME",
 "endereco": {
 "logradouro": "ALBINO TORRACA",
 "numero": null,
@@ -2332,6 +2454,7 @@
 "cnpj": "10322682000102",
 "cnes": null,
 "nome": "TANIA MACIEL MEES",
+"razao_social": "TANIA MACIEL MEES",
 "endereco": {
 "logradouro": "MARCELINO PIRES",
 "numero": null,
@@ -2351,6 +2474,7 @@
 "cnpj": "12217119000108",
 "cnes": null,
 "nome": "M. H. MOMOSE - ME",
+"razao_social": "M. H. MOMOSE - ME",
 "endereco": {
 "logradouro": "BRASIL",
 "numero": null,
@@ -2369,7 +2493,8 @@
 {
 "cnpj": "08596888000189",
 "cnes": "8236542",
-"nome": "A. V. BORGES & CIA LTDA - ME",
+"nome": "SUPER POPULAR",
+"razao_social": "A. V. BORGES & CIA LTDA - ME",
 "endereco": {
 "logradouro": "09 DE JULHO",
 "numero": "1316",
@@ -2388,7 +2513,8 @@
 {
 "cnpj": "05205069000175",
 "cnes": "8227071",
-"nome": "AVENIDA COMERCIO DE MEDICAMENTOS LTDA - ME",
+"nome": "FARMACIA AVENIDA",
+"razao_social": "AVENIDA COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
 "logradouro": "PRESIDENTE VARGAS",
 "numero": "1455",
@@ -2407,7 +2533,8 @@
 {
 "cnpj": "15317875000199",
 "cnes": "8209405",
-"nome": "D. FERNANDES JUNIOR & CIA LTDA - ME",
+"nome": "FARMAVIDA",
+"razao_social": "D. FERNANDES JUNIOR & CIA LTDA - ME",
 "endereco": {
 "logradouro": "09 DE JULHO",
 "numero": "1535",
@@ -2427,6 +2554,7 @@
 "cnpj": "03477379000113",
 "cnes": null,
 "nome": "K. M. KLEM LTDA",
+"razao_social": "K. M. KLEM LTDA",
 "endereco": {
 "logradouro": "09 DE JULHO",
 "numero": null,
@@ -2445,7 +2573,8 @@
 {
 "cnpj": "19934714000103",
 "cnes": "8205051",
-"nome": "SIENA A. LITTER - EIRELI - ME",
+"nome": "FARMACIA FARMALITTER",
+"razao_social": "SIENA A. LITTER - EIRELI - ME",
 "endereco": {
 "logradouro": "09 DE JULHO",
 "numero": "1661",
@@ -2464,7 +2593,8 @@
 {
 "cnpj": "08226395000157",
 "cnes": "8302782",
-"nome": "B M R MEDICAMENTOS LTDA - ME",
+"nome": "FARMACIA NAJA I I I",
+"razao_social": "B M R MEDICAMENTOS LTDA - ME",
 "endereco": {
 "logradouro": "PRESIDENTE VARGAS",
 "numero": "1411",
@@ -2484,6 +2614,7 @@
 "cnpj": "18162779000107",
 "cnes": null,
 "nome": "CORREIA & LIMA LTDA",
+"razao_social": "CORREIA & LIMA LTDA",
 "endereco": {
 "logradouro": "PRESIDENTE VARGAS",
 "numero": null,
@@ -2503,6 +2634,7 @@
 "cnpj": "07215000000158",
 "cnes": null,
 "nome": "JG FARMA LTDA",
+"razao_social": "JG FARMA LTDA",
 "endereco": {
 "logradouro": "PRESIDENTE VARGAS",
 "numero": null,
@@ -2521,7 +2653,8 @@
 {
 "cnpj": "16042681000190",
 "cnes": "8247781",
-"nome": "JOSE CARLOS PARECIS ALVES DE OLIVEIRA - ME",
+"nome": "INOFARMA",
+"razao_social": "JOSE CARLOS PARECIS ALVES DE OLIVEIRA - ME",
 "endereco": {
 "logradouro": "JOAO BATISTA PARREIRA",
 "numero": "589",
@@ -2540,7 +2673,8 @@
 {
 "cnpj": "10488667000139",
 "cnes": "4453921",
-"nome": "REGINA DE SOUZA VASCO ME",
+"nome": "FARMACIA VASCO",
+"razao_social": "REGINA DE SOUZA VASCO ME",
 "endereco": {
 "logradouro": "TRES LAGOAS",
 "numero": "69",
@@ -2560,6 +2694,7 @@
 "cnpj": "07110508000191",
 "cnes": null,
 "nome": "FARMACIA ORTIZ LTDA",
+"razao_social": "FARMACIA ORTIZ LTDA",
 "endereco": {
 "logradouro": "PEDRO CELESTINO CORREA DA COSTA",
 "numero": null,
@@ -2579,6 +2714,7 @@
 "cnpj": "02956282000120",
 "cnes": null,
 "nome": "MAM-DAP COMERCIO FARMACEUTICO LTDA-EPP",
+"razao_social": "MAM-DAP COMERCIO FARMACEUTICO LTDA-EPP",
 "endereco": {
 "logradouro": "PEDRO CELESTINO CORREA DA COSTA",
 "numero": null,
@@ -2598,6 +2734,7 @@
 "cnpj": "15302745000182",
 "cnes": null,
 "nome": "MORAIS & ORTIZ LTDA - ME",
+"razao_social": "MORAIS & ORTIZ LTDA - ME",
 "endereco": {
 "logradouro": "DUQUE DE CAXIAS",
 "numero": null,
@@ -2617,6 +2754,7 @@
 "cnpj": "00569000000107",
 "cnes": null,
 "nome": "PASTORI COMERCIO FARMACEUTICO LTDA-ME",
+"razao_social": "PASTORI COMERCIO FARMACEUTICO LTDA-ME",
 "endereco": {
 "logradouro": "ARAL MOREIRA",
 "numero": null,
@@ -2635,7 +2773,8 @@
 {
 "cnpj": "26829291000119",
 "cnes": "8270589",
-"nome": "FARMACIA NAJA LTDA",
+"nome": "DROGARIA NAJA",
+"razao_social": "FARMACIA NAJA LTDA",
 "endereco": {
 "logradouro": "INDUSTRIAL",
 "numero": "423",
@@ -2654,7 +2793,8 @@
 {
 "cnpj": "09165147000106",
 "cnes": "8273995",
-"nome": "LORCA & PACHECO LTDA ME",
+"nome": "FARMACIA BRASIL",
+"razao_social": "LORCA & PACHECO LTDA ME",
 "endereco": {
 "logradouro": "MATO GROSSO",
 "numero": "1404",
@@ -2673,7 +2813,8 @@
 {
 "cnpj": "04070732000109",
 "cnes": "8325502",
-"nome": "SONIA DE MELLO - MEDICAMENTOS - ME",
+"nome": "FARMACIA CENTRAL",
+"razao_social": "SONIA DE MELLO - MEDICAMENTOS - ME",
 "endereco": {
 "logradouro": "INDUSTRIAL",
 "numero": "573",
@@ -2693,6 +2834,7 @@
 "cnpj": "05778971000180",
 "cnes": null,
 "nome": "ANGELIM & GRANDI LTDA - EPP",
+"razao_social": "ANGELIM & GRANDI LTDA - EPP",
 "endereco": {
 "logradouro": "PANAMA",
 "numero": null,
@@ -2712,6 +2854,7 @@
 "cnpj": "17176661000175",
 "cnes": null,
 "nome": "BAZIQUETTO & KOL LTDA",
+"razao_social": "BAZIQUETTO & KOL LTDA",
 "endereco": {
 "logradouro": "BRASIL",
 "numero": null,
@@ -2731,6 +2874,7 @@
 "cnpj": "13236004000115",
 "cnes": null,
 "nome": "FALAVINA & CIA DROGARIA E COSMETICOS LTDA",
+"razao_social": "FALAVINA & CIA DROGARIA E COSMETICOS LTDA",
 "endereco": {
 "logradouro": "JOSE CACCIA",
 "numero": null,
@@ -2750,6 +2894,7 @@
 "cnpj": "03622347000164",
 "cnes": null,
 "nome": "FARMACIA IVINHEMA LTDA",
+"razao_social": "FARMACIA IVINHEMA LTDA",
 "endereco": {
 "logradouro": "PANAMA",
 "numero": null,
@@ -2769,6 +2914,7 @@
 "cnpj": "05997669000113",
 "cnes": null,
 "nome": "L R DE SOUZA & CIA. LTDA EPP",
+"razao_social": "L R DE SOUZA & CIA. LTDA EPP",
 "endereco": {
 "logradouro": "PANAMA",
 "numero": null,
@@ -2788,6 +2934,7 @@
 "cnpj": "24601502000136",
 "cnes": null,
 "nome": "OLIVEIRA & TOLFO LTDA. EPP",
+"razao_social": "OLIVEIRA & TOLFO LTDA. EPP",
 "endereco": {
 "logradouro": "BRASIL",
 "numero": null,
@@ -2806,7 +2953,8 @@
 {
 "cnpj": "33193095000166",
 "cnes": "4446232",
-"nome": "CARLOS ROBERTO PEREIRA FARMACIA",
+"nome": "DROGARIA DROGAO",
+"razao_social": "CARLOS ROBERTO PEREIRA FARMACIA",
 "endereco": {
 "logradouro": "11 DE DEZEMBRO",
 "numero": "363",
@@ -2826,6 +2974,7 @@
 "cnpj": "04745484000159",
 "cnes": null,
 "nome": "LEME & SANTANA LTDA-EPP",
+"razao_social": "LEME & SANTANA LTDA-EPP",
 "endereco": {
 "logradouro": "SERGIO MACIEL",
 "numero": null,
@@ -2844,7 +2993,8 @@
 {
 "cnpj": "05112326000396",
 "cnes": "8315299",
-"nome": "SILVANA BARATELLA FERNANDES - EPP",
+"nome": "FARMACIA POPULAR MAIS",
+"razao_social": "SILVANA BARATELLA FERNANDES - EPP",
 "endereco": {
 "logradouro": "SERGIO MACIEL",
 "numero": "1034",
@@ -2864,6 +3014,7 @@
 "cnpj": "07651473000106",
 "cnes": null,
 "nome": "VOLPE & HERMES LTDA - ME",
+"razao_social": "VOLPE & HERMES LTDA - ME",
 "endereco": {
 "logradouro": "JOAO LOURENCO DE LIMA",
 "numero": null,
@@ -2883,6 +3034,7 @@
 "cnpj": "73706830000102",
 "cnes": null,
 "nome": "DROGARIA SAO LOURENCO LTDA - EPP",
+"razao_social": "DROGARIA SAO LOURENCO LTDA - EPP",
 "endereco": {
 "logradouro": "JOAO PEDRO PEDROSSIAN",
 "numero": null,
@@ -2902,6 +3054,7 @@
 "cnpj": "10816100000144",
 "cnes": null,
 "nome": "GNANN & JORGE LTDA- ME",
+"razao_social": "GNANN & JORGE LTDA- ME",
 "endereco": {
 "logradouro": "13  DE  JUNHO",
 "numero": null,
@@ -2921,6 +3074,7 @@
 "cnpj": "15219482000142",
 "cnes": null,
 "nome": "LOPES & LINO LTDA - ME",
+"razao_social": "LOPES & LINO LTDA - ME",
 "endereco": {
 "logradouro": "RUA NICOLA CANDIA",
 "numero": null,
@@ -2940,6 +3094,7 @@
 "cnpj": "04427375000193",
 "cnes": null,
 "nome": "MARQUES & MARTINS LTDA-EPP",
+"razao_social": "MARQUES & MARTINS LTDA-EPP",
 "endereco": {
 "logradouro": "MAL FLORIANO PEIXOTO",
 "numero": null,
@@ -2959,6 +3114,7 @@
 "cnpj": "09652569000106",
 "cnes": null,
 "nome": "DROGARIA DO GILBERTO LTDA",
+"razao_social": "DROGARIA DO GILBERTO LTDA",
 "endereco": {
 "logradouro": "CAMPO GRANDE",
 "numero": null,
@@ -2978,6 +3134,7 @@
 "cnpj": "09210569000156",
 "cnes": null,
 "nome": "FARMASUL-MEDICAMENTOS LTDA - ME",
+"razao_social": "FARMASUL-MEDICAMENTOS LTDA - ME",
 "endereco": {
 "logradouro": "CAMPO GRANDE",
 "numero": null,
@@ -2997,6 +3154,7 @@
 "cnpj": "00388531000101",
 "cnes": null,
 "nome": "ANTONIO RAIMUNDO DA SILVA-FARMACIA - ME",
+"razao_social": "ANTONIO RAIMUNDO DA SILVA-FARMACIA - ME",
 "endereco": {
 "logradouro": "VISCONDE DE TAUNAY",
 "numero": null,
@@ -3016,6 +3174,7 @@
 "cnpj": "01916184000105",
 "cnes": null,
 "nome": "ROSANGELA HENRIQUE DE SOUZA DA SILVA",
+"razao_social": "ROSANGELA HENRIQUE DE SOUZA DA SILVA",
 "endereco": {
 "logradouro": "VISCONDE DE TAUNAY",
 "numero": null,
@@ -3035,6 +3194,7 @@
 "cnpj": "00531367000212",
 "cnes": null,
 "nome": "SILVIA CANDIDA DE OLIVEIRA DE SOUZA & CIA LTDA - EPP",
+"razao_social": "SILVIA CANDIDA DE OLIVEIRA DE SOUZA & CIA LTDA - EPP",
 "endereco": {
 "logradouro": "JOFRE DE ARAUJO",
 "numero": null,
@@ -3054,6 +3214,7 @@
 "cnpj": "00531367000301",
 "cnes": null,
 "nome": "SILVIA CANDIDA DE OLIVEIRA DE SOUZA & CIA LTDA - EPP",
+"razao_social": "SILVIA CANDIDA DE OLIVEIRA DE SOUZA & CIA LTDA - EPP",
 "endereco": {
 "logradouro": "IRINEU DE SOUZA ARAUJO",
 "numero": null,
@@ -3073,6 +3234,7 @@
 "cnpj": "00531367000131",
 "cnes": null,
 "nome": "SILVIA CANDIDA DE OLIVEIRA DE SOUZA EPP",
+"razao_social": "SILVIA CANDIDA DE OLIVEIRA DE SOUZA EPP",
 "endereco": {
 "logradouro": "ANTONIO DINIZ GONCALVES",
 "numero": null,
@@ -3092,6 +3254,7 @@
 "cnpj": "10682198000194",
 "cnes": null,
 "nome": "ADILSON CORTICA DIONISIO - ME",
+"razao_social": "ADILSON CORTICA DIONISIO - ME",
 "endereco": {
 "logradouro": "PROFESSOR JOAO DE LIMA PAES",
 "numero": null,
@@ -3111,6 +3274,7 @@
 "cnpj": "01904263000198",
 "cnes": null,
 "nome": "BRAMBILA PRODUTOS FARMACEUTICOS LTDA - ME",
+"razao_social": "BRAMBILA PRODUTOS FARMACEUTICOS LTDA - ME",
 "endereco": {
 "logradouro": "ANTONIO JOAQUIM DE MOURA ANDRADE",
 "numero": null,
@@ -3130,6 +3294,7 @@
 "cnpj": "84683481034829",
 "cnes": null,
 "nome": "CIA LATINO AMERICANA DE MEDICAMENTOS",
+"razao_social": "CIA LATINO AMERICANA DE MEDICAMENTOS",
 "endereco": {
 "logradouro": "ANTONIO JOAQUIM DE MOURA ANDRADE",
 "numero": null,
@@ -3149,6 +3314,7 @@
 "cnpj": "03657735000180",
 "cnes": null,
 "nome": "GONCALO & CIA LTDA - EPP",
+"razao_social": "GONCALO & CIA LTDA - EPP",
 "endereco": {
 "logradouro": "ANTONIO J. MOURA ANDRADE",
 "numero": null,
@@ -3168,6 +3334,7 @@
 "cnpj": "05015978000140",
 "cnes": null,
 "nome": "MARLEY ZEILINGER - ME",
+"razao_social": "MARLEY ZEILINGER - ME",
 "endereco": {
 "logradouro": "ANTONIO JOAQUIM DE MOURA ANDRADE",
 "numero": null,
@@ -3187,6 +3354,7 @@
 "cnpj": "07371052000113",
 "cnes": null,
 "nome": "S R DO NASCIMENTO MACHADO LTDA",
+"razao_social": "S R DO NASCIMENTO MACHADO LTDA",
 "endereco": {
 "logradouro": "DILSON CASAROTTO",
 "numero": null,
@@ -3206,6 +3374,7 @@
 "cnpj": "08797505000130",
 "cnes": null,
 "nome": "EUNICE MORAIS DE SANTANA RODRIGUES - ME",
+"razao_social": "EUNICE MORAIS DE SANTANA RODRIGUES - ME",
 "endereco": {
 "logradouro": "MARCOS FREIRE",
 "numero": null,
@@ -3225,6 +3394,7 @@
 "cnpj": "16925842000194",
 "cnes": null,
 "nome": "ALVES & SILVA LTDA",
+"razao_social": "ALVES & SILVA LTDA",
 "endereco": {
 "logradouro": "BRUNO MARIANO FARIA",
 "numero": null,
@@ -3244,6 +3414,7 @@
 "cnpj": "13119588000149",
 "cnes": null,
 "nome": "DROGARIA CENTRAL LTDA",
+"razao_social": "DROGARIA CENTRAL LTDA",
 "endereco": {
 "logradouro": "BRUNO MARIANO DE FARIA",
 "numero": null,
@@ -3263,6 +3434,7 @@
 "cnpj": "10189364000115",
 "cnes": null,
 "nome": "DROGARIA E PERFUMARIA EXTRA LTDA",
+"razao_social": "DROGARIA E PERFUMARIA EXTRA LTDA",
 "endereco": {
 "logradouro": "ANTONIO GARCIA DE FREITAS",
 "numero": null,
@@ -3281,7 +3453,8 @@
 {
 "cnpj": "11486656000182",
 "cnes": "8408114",
-"nome": "DUARTE SEBASTIAO GERMANO & CIA LTDA - ME",
+"nome": "DROGAESSE",
+"razao_social": "DUARTE SEBASTIAO GERMANO & CIA LTDA - ME",
 "endereco": {
 "logradouro": "CEL CARLOS",
 "numero": "2012",
@@ -3301,6 +3474,7 @@
 "cnpj": "05215960000192",
 "cnes": null,
 "nome": "FARMA MIL LTDA - EPP",
+"razao_social": "FARMA MIL LTDA - EPP",
 "endereco": {
 "logradouro": "DA REPUBLICA",
 "numero": null,
@@ -3319,7 +3493,8 @@
 {
 "cnpj": "12713424000182",
 "cnes": "8408092",
-"nome": "GRACIELA SOUZA FERREIRA - ME",
+"nome": "DROGARIA AMERICA",
+"razao_social": "GRACIELA SOUZA FERREIRA - ME",
 "endereco": {
 "logradouro": "QUEDU LEAL",
 "numero": "909",
@@ -3338,7 +3513,8 @@
 {
 "cnpj": "37203783000110",
 "cnes": "8408130",
-"nome": "JANIO JOSE DOS REIS ME",
+"nome": "REYFARMA",
+"razao_social": "JANIO JOSE DOS REIS ME",
 "endereco": {
 "logradouro": "AUTOGAMIS R DA SILVA",
 "numero": "777",
@@ -3357,7 +3533,8 @@
 {
 "cnpj": "09442870000195",
 "cnes": "8408262",
-"nome": "LUCIMEIRE APARECIDA GUIMARAES DO NASCIMENTO & CIA LTDA - ME",
+"nome": "FARMACIAS ASSOCIADAS A FARMACIA DO LUCIO",
+"razao_social": "LUCIMEIRE APARECIDA GUIMARAES DO NASCIMENTO & CIA LTDA - ME",
 "endereco": {
 "logradouro": "VISCONDE DE TAUNAY",
 "numero": "1056",
@@ -3377,6 +3554,7 @@
 "cnpj": "10309605000112",
 "cnes": null,
 "nome": "PINHEIRO & GUIMARAES LTDA ME",
+"razao_social": "PINHEIRO & GUIMARAES LTDA ME",
 "endereco": {
 "logradouro": "MARIA ANTONIA",
 "numero": null,
@@ -3396,6 +3574,7 @@
 "cnpj": "04078272000165",
 "cnes": null,
 "nome": "ARAUJO & ARAUJO LTDA - EPP",
+"razao_social": "ARAUJO & ARAUJO LTDA - EPP",
 "endereco": {
 "logradouro": "ALBERTO RATIER",
 "numero": null,
@@ -3414,7 +3593,8 @@
 {
 "cnpj": "04965294000147",
 "cnes": "0493708",
-"nome": "ANDRADE & VIEIRA LTDA - ME",
+"nome": "DROGAMED",
+"razao_social": "ANDRADE & VIEIRA LTDA - ME",
 "endereco": {
 "logradouro": "MANOEL RODRIGUES DA CRUZ",
 "numero": "147",
@@ -3433,7 +3613,8 @@
 {
 "cnpj": "26861435000114",
 "cnes": "8283303",
-"nome": "CELINE JOAQUIM DA SILVA",
+"nome": "FARMACIA DROGA SILVA",
+"razao_social": "CELINE JOAQUIM DA SILVA",
 "endereco": {
 "logradouro": "MANOEL ALVES DE MORAES JUNIOR",
 "numero": "224",
@@ -3452,7 +3633,8 @@
 {
 "cnpj": "11806555000141",
 "cnes": "8325936",
-"nome": "LEONITA GONTIJO BARBOSA BRAGA ME",
+"nome": "FARMA VIDA",
+"razao_social": "LEONITA GONTIJO BARBOSA BRAGA ME",
 "endereco": {
 "logradouro": "MANOEL ALVES DE MORAIS JUNIOR",
 "numero": "437",
@@ -3472,6 +3654,7 @@
 "cnpj": "09495338000136",
 "cnes": null,
 "nome": "COELHO & SANTOS LTDA - ME",
+"razao_social": "COELHO & SANTOS LTDA - ME",
 "endereco": {
 "logradouro": "TIRADENTES",
 "numero": null,
@@ -3491,6 +3674,7 @@
 "cnpj": "13396869000149",
 "cnes": null,
 "nome": "LORETO INSAURRALDE NETO - ME",
+"razao_social": "LORETO INSAURRALDE NETO - ME",
 "endereco": {
 "logradouro": "ROD MS-164 KM 45",
 "numero": null,
@@ -3510,6 +3694,7 @@
 "cnpj": "03518003000100",
 "cnes": null,
 "nome": "ELIANE ANDREO ALVES DOS SANTOS - ME",
+"razao_social": "ELIANE ANDREO ALVES DOS SANTOS - ME",
 "endereco": {
 "logradouro": "RIO BRANCO",
 "numero": null,
@@ -3529,6 +3714,7 @@
 "cnpj": "04083576000110",
 "cnes": null,
 "nome": "DROGARIA DROGADONI LTDA",
+"razao_social": "DROGARIA DROGADONI LTDA",
 "endereco": {
 "logradouro": "AURELIANO MOURA BRANDAO",
 "numero": null,
@@ -3548,6 +3734,7 @@
 "cnpj": "01569938000190",
 "cnes": null,
 "nome": "ANTONIO CESAR MAZURKEVITZ-ME",
+"razao_social": "ANTONIO CESAR MAZURKEVITZ-ME",
 "endereco": {
 "logradouro": "BENJAMIN CONSTANT",
 "numero": null,
@@ -3567,6 +3754,7 @@
 "cnpj": "16825373000131",
 "cnes": null,
 "nome": "BORBA COMERCIO DE PRODUTOS FARMACEUTICOS EIRELI - EPP",
+"razao_social": "BORBA COMERCIO DE PRODUTOS FARMACEUTICOS EIRELI - EPP",
 "endereco": {
 "logradouro": "LOURIVAL BARBOSA",
 "numero": null,
@@ -3586,6 +3774,7 @@
 "cnpj": "15900640000125",
 "cnes": null,
 "nome": "LURDES MARLENE WEIRICH - ME",
+"razao_social": "LURDES MARLENE WEIRICH - ME",
 "endereco": {
 "logradouro": "BENJAMIN CONSTANT",
 "numero": null,
@@ -3605,6 +3794,7 @@
 "cnpj": "02441488000118",
 "cnes": null,
 "nome": "PREISSLER & VINCENSI LTDA.-EPP",
+"razao_social": "PREISSLER & VINCENSI LTDA.-EPP",
 "endereco": {
 "logradouro": "BENJAMIN CONSTANT",
 "numero": null,
@@ -3624,6 +3814,7 @@
 "cnpj": "12966068000109",
 "cnes": null,
 "nome": "FARMACIA RIO NEGRO LTDA",
+"razao_social": "FARMACIA RIO NEGRO LTDA",
 "endereco": {
 "logradouro": "BRASIL",
 "numero": null,
@@ -3643,6 +3834,7 @@
 "cnpj": "02567590000164",
 "cnes": null,
 "nome": "JOSE BRANDAO DA SILVA - ME",
+"razao_social": "JOSE BRANDAO DA SILVA - ME",
 "endereco": {
 "logradouro": "BRASIL",
 "numero": null,
@@ -3662,6 +3854,7 @@
 "cnpj": "18235089000130",
 "cnes": null,
 "nome": "CLW DROGARIA LTDA - ME",
+"razao_social": "CLW DROGARIA LTDA - ME",
 "endereco": {
 "logradouro": "BARAO DO RIO BRANCO",
 "numero": null,
@@ -3681,6 +3874,7 @@
 "cnpj": "15389877000193",
 "cnes": null,
 "nome": "DROGARIA ELITE LTDA",
+"razao_social": "DROGARIA ELITE LTDA",
 "endereco": {
 "logradouro": "PORFIRIO GONCALVES",
 "numero": null,
@@ -3700,6 +3894,7 @@
 "cnpj": "10983283000192",
 "cnes": null,
 "nome": "MARTA GOMES NANTES - ME",
+"razao_social": "MARTA GOMES NANTES - ME",
 "endereco": {
 "logradouro": "BARAO DO RIO BRANCO",
 "numero": null,
@@ -3718,7 +3913,8 @@
 {
 "cnpj": "01249483000125",
 "cnes": "8290008",
-"nome": "ISALTINA FERNANDES ALVES - ME",
+"nome": "FARMACIA VITORIA",
+"razao_social": "ISALTINA FERNANDES ALVES - ME",
 "endereco": {
 "logradouro": "DEPUTADO JULIO CESAR PAULINO MAIA",
 "numero": "1470",
@@ -3737,7 +3933,8 @@
 {
 "cnpj": "03070289000103",
 "cnes": "5664578",
-"nome": "FARMACIA ALTERNATIVA LTDA",
+"nome": "HIPER POPULAR FARMACIA ALTERNATIVA",
+"razao_social": "FARMACIA ALTERNATIVA LTDA",
 "endereco": {
 "logradouro": "JOAO SELVIRIO DE SOUZA",
 "numero": "872",
@@ -3757,6 +3954,7 @@
 "cnpj": "15463847000180",
 "cnes": null,
 "nome": "DROGARIA DO ADAO LTDA - ME",
+"razao_social": "DROGARIA DO ADAO LTDA - ME",
 "endereco": {
 "logradouro": "RUI BARBOSA",
 "numero": null,
@@ -3776,6 +3974,7 @@
 "cnpj": "01719283000199",
 "cnes": null,
 "nome": "DROGARIA SYDRO LTDA - ME",
+"razao_social": "DROGARIA SYDRO LTDA - ME",
 "endereco": {
 "logradouro": "SERGIPE",
 "numero": null,
@@ -3795,6 +3994,7 @@
 "cnpj": "00513029000177",
 "cnes": null,
 "nome": "LAURINDO DOS SANTOS FABRICIO-ME",
+"razao_social": "LAURINDO DOS SANTOS FABRICIO-ME",
 "endereco": {
 "logradouro": "JOAO MARCIO FERREIRA TERRA",
 "numero": null,
@@ -3813,7 +4013,8 @@
 {
 "cnpj": "00328405000153",
 "cnes": "8247048",
-"nome": "DROGARIA DOS AMIGOS LTDA",
+"nome": "DROGARIA DOS AMIGOS",
+"razao_social": "DROGARIA DOS AMIGOS LTDA",
 "endereco": {
 "logradouro": "EDSON APARECIDO FERNANDES DE CAMPOS",
 "numero": "808",
@@ -3832,7 +4033,8 @@
 {
 "cnpj": "18096092000110",
 "cnes": "8272654",
-"nome": "DEISE PILTZ - ME",
+"nome": "DROGAMED",
+"razao_social": "DEISE PILTZ - ME",
 "endereco": {
 "logradouro": "DAS ANHUMAS",
 "numero": "1883",
@@ -3852,6 +4054,7 @@
 "cnpj": "08965507000191",
 "cnes": null,
 "nome": "SILVEIRA & GIMENES LTDA ME",
+"razao_social": "SILVEIRA & GIMENES LTDA ME",
 "endereco": {
 "logradouro": "PARANA",
 "numero": null,
@@ -3871,6 +4074,7 @@
 "cnpj": "00199752000123",
 "cnes": null,
 "nome": "DROGARIA ODEON LTDA",
+"razao_social": "DROGARIA ODEON LTDA",
 "endereco": {
 "logradouro": "DOUTOR MUNIR THOME",
 "numero": null,
@@ -3890,6 +4094,7 @@
 "cnpj": "07352285000179",
 "cnes": null,
 "nome": "JORGE & URBAN LTDA - EPP",
+"razao_social": "JORGE & URBAN LTDA - EPP",
 "endereco": {
 "logradouro": "CORONEL CACILDO ARANTES",
 "numero": null,
@@ -3909,6 +4114,7 @@
 "cnpj": "86878691000146",
 "cnes": null,
 "nome": "OSVALDO DANTAS - EPP",
+"razao_social": "OSVALDO DANTAS - EPP",
 "endereco": {
 "logradouro": "DR ELOY M. CHAVES",
 "numero": null,
@@ -3927,7 +4133,8 @@
 {
 "cnpj": "61585865105760",
 "cnes": "4200675",
-"nome": "RAIA DROGASIL S/A",
+"nome": "RAIA DROGASIL",
+"razao_social": "RAIA DROGASIL S/A",
 "endereco": {
 "logradouro": "ANTONIO TRAJANO DOS SANTOS",
 "numero": "461",
@@ -3947,6 +4154,7 @@
 "cnpj": "10773555000120",
 "cnes": null,
 "nome": "J A FARMA LTDA",
+"razao_social": "J A FARMA LTDA",
 "endereco": {
 "logradouro": "RAINHA DOS APOSTOLOS",
 "numero": null,
@@ -3965,7 +4173,8 @@
 {
 "cnpj": "04994525000140",
 "cnes": "8202850",
-"nome": "VALDIR JACINTO DE LIRA LUNA - ME",
+"nome": "DROGARIA SATELLITE POPULAR",
+"razao_social": "VALDIR JACINTO DE LIRA LUNA - ME",
 "endereco": {
 "logradouro": "PADRE JOSE DANIEL",
 "numero": "1314",
@@ -3985,6 +4194,7 @@
 "cnpj": "13304645000160",
 "cnes": null,
 "nome": "BENARDETE DE LOURDES SANCHES ME",
+"razao_social": "BENARDETE DE LOURDES SANCHES ME",
 "endereco": {
 "logradouro": "JULIO MAIA",
 "numero": null,
