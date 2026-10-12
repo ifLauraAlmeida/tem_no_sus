@@ -77,4 +77,24 @@ Ainda não incorporadas ao MVP. A ausência de um medicamento nas bases usadas *
 
 Usado para localizar estabelecimentos com serviço de farmácia (serviço 125). Atualização mensal no DATASUS, por competência; complementado pela API de dados abertos (`apidadosabertos.saude.gov.br/cnes/estabelecimentos`) para nome, endereço e coordenadas. Detalhes em [`cnes_servico_farmacia.md`](cnes_servico_farmacia.md).
 
-Painel oficial de farmácias credenciadas ao Farmácia Popular: <https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html> (sem download estruturado; o conjunto "Estabelecimentos do Aqui tem Farmácia Popular" em dados.gov.br retornou acesso negado em 11/10/2026).
+Base completa do CNES (`ftp://ftp.datasus.gov.br/cnes/BASE_DE_DADOS_CNES_{aaaamm}.ZIP`, ~740 MB, mensal): a tabela `tbEstabelecimento` traz CNPJ, número do endereço e coordenadas, usados para localizar as farmácias credenciadas.
+
+---
+
+## 6. Farmácias credenciadas ao Farmácia Popular
+
+- Fonte: painel "Consulta de Endereço das Farmácias", <https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html>, atualizado diariamente pelo Ministério da Saúde.
+- Campos: CNPJ, nome, logradouro (sem número), bairro, município, UF e data do credenciamento. Sem coordenadas.
+- Extração em 12/10/2026: 20.782 farmácias ativas, dados até 08/10/2026.
+- O painel só responde a navegadores; o pipeline abre a página em Chrome headless e lê os dados pela mesma API Qlik que o botão "Baixar dados" da página usa.
+- Coordenadas: cruzamento pelo CNPJ com a base completa do CNES — 8.196 farmácias (39%) localizadas.
+- As portarias do programa consultadas (página de legislação) tratam de elenco, gratuidade e valores; não trazem relação nominal de estabelecimentos. O painel é a fonte oficial dos endereços.
+- O conjunto "Estabelecimentos do Aqui tem Farmácia Popular" em dados.gov.br retornou acesso negado em 11/10/2026.
+
+---
+
+## 7. Nomes comerciais (ANVISA)
+
+- Fonte: <https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv> (medicamentos registrados; arquivo de 07/10/2026).
+- Gera `data/reference/nomes_comerciais.json`: 3.470 marcas associadas a princípios ativos das listas usadas (ex.: Aerolin → salbutamol).
+- Marcas cujo produto tem componente fora das listas (ex.: dipirona + cafeína) ou registros divergentes são descartadas.
