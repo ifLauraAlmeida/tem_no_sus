@@ -39,8 +39,11 @@ O elenco é publicado apenas em PDF. A transcrição para `data/reference/farmac
 - Atualização bienal; a RENAME 2024 foi instituída pela Portaria GM/MS nº 6.324 e substituiu a RENAME 2022.
 - Separa os medicamentos por componente da assistência farmacêutica (Básico, Estratégico, Especializado).
 - Existe consulta "RENAME em tempo real" no painel BNAFAR do Ministério da Saúde.
+- PDF da 2ª edição: <https://bvsms.saude.gov.br/bvs/publicacoes/relacao_nacional_medicamentos_2024_2ed.pdf> (criado em 17/10/2025, 267 páginas).
 
-Ainda não incorporada ao MVP.
+Incorporado: **Anexo I — Componente Básico** (páginas 134 a 155), extraído para `data/reference/rename_2024_componente_basico.json` com 386 apresentações de 187 denominações. Os termos de busca removem o sal da DCB ("cloridrato de metformina" → "metformina"), exceto quando o restante seria só um íon ("cloreto de sódio" continua inteiro).
+
+A RENAME é a referência nacional; a oferta efetiva na UBS depende da REMUME do município. Os anexos II (Estratégico), III (Especializado), IV (Insumos) e V (uso hospitalar) ainda não foram incorporados.
 
 ---
 
