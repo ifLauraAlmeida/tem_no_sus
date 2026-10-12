@@ -1,0 +1,128 @@
+{
+"fonte": {
+"programa": "Programa Farmácia Popular do Brasil",
+"orgao": "Ministério da Saúde",
+"documento": "Consulta de Endereço das Farmácias (farmácias ativas)",
+"url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
+"data_referencia": "2026-10-08",
+"data_obtencao": "2026-10-12",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+},
+"uf": "AC",
+"estabelecimentos": [
+{
+"cnpj": "06626253045686",
+"cnes": null,
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "DOUTOR MANOEL MARINHO MONTE",
+"numero": null,
+"bairro": "BOTEQUINS",
+"cep": null
+},
+"codigo_municipio": "120010",
+"municipio": "Brasiléia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/11/2013"
+},
+{
+"cnpj": "06626253052208",
+"cnes": "0637289",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "CORONEL MANCIO LIMA",
+"numero": "421",
+"bairro": "BAIXA",
+"cep": "69980000"
+},
+"codigo_municipio": "120020",
+"municipio": "Cruzeiro do Sul",
+"latitude": -7.634690857189324,
+"longitude": -72.67151355743408,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/11/2013"
+},
+{
+"cnpj": "06011700000168",
+"cnes": null,
+"nome": "H. R. LIMA",
+"endereco": {
+"logradouro": "CEL. MANCIO LIMA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "120020",
+"municipio": "Cruzeiro do Sul",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/06/2015"
+},
+{
+"cnpj": "04509006000140",
+"cnes": null,
+"nome": "SERGIO CARLOS VIEIRA - EPP",
+"endereco": {
+"logradouro": "EPITACIO PESSOA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "120038",
+"municipio": "Plácido de Castro",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/05/2014"
+},
+{
+"cnpj": "06626253040102",
+"cnes": "0479861",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "NACOES UNIDAS",
+"numero": "2890",
+"bairro": "ESTACAO EXPERIMENTAL",
+"cep": "69900715"
+},
+"codigo_municipio": "120040",
+"municipio": "Rio Branco",
+"latitude": -9.965512,
+"longitude": -67.833482,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/02/2013"
+},
+{
+"cnpj": "04521258000356",
+"cnes": "0821136",
+"nome": "J CRUZ LTDA - EPP",
+"endereco": {
+"logradouro": "6 DE AGOSTO",
+"numero": "209",
+"bairro": "SEIS DE AGOSTO",
+"cep": "69905629"
+},
+"codigo_municipio": "120040",
+"municipio": "Rio Branco",
+"latitude": -9.97518,
+"longitude": -67.79639,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/04/2015"
+}
+]
+}

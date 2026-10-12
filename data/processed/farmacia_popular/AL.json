@@ -1,0 +1,2636 @@
+{
+"fonte": {
+"programa": "Programa Farmácia Popular do Brasil",
+"orgao": "Ministério da Saúde",
+"documento": "Consulta de Endereço das Farmácias (farmácias ativas)",
+"url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
+"data_referencia": "2026-10-08",
+"data_obtencao": "2026-10-12",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+},
+"uf": "AL",
+"estabelecimentos": [
+{
+"cnpj": "16692260000105",
+"cnes": null,
+"nome": "F CORREIA DA SILVA FARMACIA - ME",
+"endereco": {
+"logradouro": "POVOADO TABULEIRO GRANDE",
+"numero": null,
+"bairro": "POVOADO",
+"cep": null
+},
+"codigo_municipio": "270020",
+"municipio": "Anadia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "16780567000168",
+"cnes": null,
+"nome": "L C FERNANDES FARMACIA - ME - ME",
+"endereco": {
+"logradouro": "DR CAMPELO DE ALMEIDA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270020",
+"municipio": "Anadia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/08/2013"
+},
+{
+"cnpj": "05230009002156",
+"cnes": null,
+"nome": "COMERCIAL DRUGSTORE LTDA",
+"endereco": {
+"logradouro": "LUIZ PEREIRA LIMA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270030",
+"municipio": "Arapiraca",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "05325467000397",
+"cnes": null,
+"nome": "D A L COMERCIO LTDA - ME",
+"endereco": {
+"logradouro": "PAULO AFONSO",
+"numero": null,
+"bairro": "PRIMAVERA",
+"cep": null
+},
+"codigo_municipio": "270030",
+"municipio": "Arapiraca",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/04/2015"
+},
+{
+"cnpj": "06198619003235",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "FERNANDES LIMA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270030",
+"municipio": "Arapiraca",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "06198619004800",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "LUIZ PEREIRA LIMA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270030",
+"municipio": "Arapiraca",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "06198619005955",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "TRINTA DE OUTUBRO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270030",
+"municipio": "Arapiraca",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "12451050000336",
+"cnes": null,
+"nome": "FARMACIA NACIONAL LTDA - EPP",
+"endereco": {
+"logradouro": "PEDRO NUNES DE ALBUQUERQUE",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270030",
+"municipio": "Arapiraca",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "03/03/2015"
+},
+{
+"cnpj": "07335550000100",
+"cnes": null,
+"nome": "J ROBERTO DE JESUS MEDICAMENTOS - EPP",
+"endereco": {
+"logradouro": "EXPEDICIONARIOS BRASILEIROS",
+"numero": null,
+"bairro": "ELDORADO",
+"cep": null
+},
+"codigo_municipio": "270030",
+"municipio": "Arapiraca",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/07/2014"
+},
+{
+"cnpj": "03402150000110",
+"cnes": null,
+"nome": "VALMIR OLIVEIRA BARBOSA DROGARIA - ME",
+"endereco": {
+"logradouro": "VICENTE MAGALHAES",
+"numero": null,
+"bairro": "BANANEIRA",
+"cep": null
+},
+"codigo_municipio": "270030",
+"municipio": "Arapiraca",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/12/2012"
+},
+{
+"cnpj": "19252526000197",
+"cnes": null,
+"nome": "ARNON S R FARMA LTDA",
+"endereco": {
+"logradouro": "PEDRO PEREIRA ACIOLI",
+"numero": null,
+"bairro": "JOSE PAULINO",
+"cep": null
+},
+"codigo_municipio": "270040",
+"municipio": "Atalaia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/10/2018"
+},
+{
+"cnpj": "32088625000143",
+"cnes": null,
+"nome": "E A N DA SILVA FARMACIA",
+"endereco": {
+"logradouro": "BENEDITO CASADO",
+"numero": null,
+"bairro": "BARRA 01",
+"cep": null
+},
+"codigo_municipio": "270050",
+"municipio": "Barra de Santo Antônio",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/09/2023"
+},
+{
+"cnpj": "32088625000224",
+"cnes": null,
+"nome": "E A N DA SILVA FARMACIA",
+"endereco": {
+"logradouro": "AVENIDA CECILIA CANDIDA DA SILVA",
+"numero": null,
+"bairro": "ILHA DA CROA",
+"cep": null
+},
+"codigo_municipio": "270050",
+"municipio": "Barra de Santo Antônio",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/05/2024"
+},
+{
+"cnpj": "04162881000106",
+"cnes": null,
+"nome": "JOSE MATIAS DROGARIA",
+"endereco": {
+"logradouro": "SANTA MARIA",
+"numero": null,
+"bairro": "SAO PEDRO",
+"cep": null
+},
+"codigo_municipio": "270070",
+"municipio": "Batalha",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/05/2012"
+},
+{
+"cnpj": "11910387000130",
+"cnes": "8302391",
+"nome": "DROGARIA JEANE LTDA.",
+"endereco": {
+"logradouro": "11 DE NOVEMBRO",
+"numero": "50",
+"bairro": "CENTRO",
+"cep": "57680000"
+},
+"codigo_municipio": "270100",
+"municipio": "Boca da Mata",
+"latitude": -9.641855743435375,
+"longitude": -36.21662378311157,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/08/2011"
+},
+{
+"cnpj": "14379182000168",
+"cnes": null,
+"nome": "GLAUCIO GOMES LOPES - ME",
+"endereco": {
+"logradouro": "CORONEL CLARINDO AMORIM",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270120",
+"municipio": "Cacimbinhas",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/05/2014"
+},
+{
+"cnpj": "14207312000185",
+"cnes": null,
+"nome": "M J S. RIBEIRO - ME",
+"endereco": {
+"logradouro": "IZAURA TOLEDO COSTA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270130",
+"municipio": "Cajueiro",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/04/2014"
+},
+{
+"cnpj": "12040691000136",
+"cnes": null,
+"nome": "ALEX FERREIRA DOS SANTOS",
+"endereco": {
+"logradouro": "ENOQUE BARBOSA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270150",
+"municipio": "Campo Grande",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "02/08/2024"
+},
+{
+"cnpj": "03759648000134",
+"cnes": null,
+"nome": "ELAINE MARIA FARIAS DE OLIVEIRA",
+"endereco": {
+"logradouro": "JOAQUIM TETE",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270160",
+"municipio": "Canapi",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "42223830000128",
+"cnes": null,
+"nome": "E M P RIBEIRO COMERCIO E DROGARIA",
+"endereco": {
+"logradouro": "JUVENCIO CORREIA ARAUJO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270170",
+"municipio": "Capela",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "04/12/2023"
+},
+{
+"cnpj": "51284049000154",
+"cnes": null,
+"nome": "M. M. NEVES LTDA",
+"endereco": {
+"logradouro": "ROBSON MEDEIROS DE MELO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270170",
+"municipio": "Capela",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "27/06/2024"
+},
+{
+"cnpj": "24409261000390",
+"cnes": null,
+"nome": "GERALDO MESSIAS DE OLIVEIRA FILHO LTDA",
+"endereco": {
+"logradouro": "CONEGO JOSE BULHOES",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270180",
+"municipio": "Carneiros",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/05/2024"
+},
+{
+"cnpj": "45634493000150",
+"cnes": null,
+"nome": "DROGARIA TENORIO LTDA",
+"endereco": {
+"logradouro": "HIGINO CAZUZA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270200",
+"municipio": "Coité do Nóia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/12/2023"
+},
+{
+"cnpj": "05156696000163",
+"cnes": null,
+"nome": "MARIA DE FATIMA MIZAEL DA SILVA LTDA",
+"endereco": {
+"logradouro": "GOVERNADOR LUIZ CAVALCANTE",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270200",
+"municipio": "Coité do Nóia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/03/2024"
+},
+{
+"cnpj": "09318207000183",
+"cnes": null,
+"nome": "FARMACIA PEREIRA LTDA",
+"endereco": {
+"logradouro": "15 DE NOVEMBRO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270210",
+"municipio": "Colônia Leopoldina",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2014"
+},
+{
+"cnpj": "02316261000140",
+"cnes": null,
+"nome": "DROGCENTRO LTDA",
+"endereco": {
+"logradouro": "LINDOLFO SIMOES",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270230",
+"municipio": "Coruripe",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "03/02/2010"
+},
+{
+"cnpj": "14562217000108",
+"cnes": null,
+"nome": "G. L. DROGARIA N S DO PERPETUO SOCORRO LTDA - ME",
+"endereco": {
+"logradouro": "ANTONIO LUIZ DOS SANTOS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270230",
+"municipio": "Coruripe",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "13/05/2015"
+},
+{
+"cnpj": "04970318000156",
+"cnes": null,
+"nome": "EMERSON CLECIO CALIXTO SIQUEIRA - ME",
+"endereco": {
+"logradouro": "MANOEL NUNES DA SILVA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270235",
+"municipio": "Craíbas",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/01/2010"
+},
+{
+"cnpj": "05462423000147",
+"cnes": null,
+"nome": "DROGARIA FARMACENTER LTDA",
+"endereco": {
+"logradouro": "DELMIRO GOUVEIA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270240",
+"municipio": "Delmiro Gouveia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/11/2009"
+},
+{
+"cnpj": "02684542000237",
+"cnes": "8295581",
+"nome": "HUMBERTO JORGE FARIAS DE OLIVEIRA",
+"endereco": {
+"logradouro": "PRESIDENTE CASTELO BRANCO",
+"numero": "299",
+"bairro": "CENTRO",
+"cep": "57480000"
+},
+"codigo_municipio": "270240",
+"municipio": "Delmiro Gouveia",
+"latitude": -9.383365237648158,
+"longitude": -37.9995122551918,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/10/2018"
+},
+{
+"cnpj": "09592388000131",
+"cnes": null,
+"nome": "ALBERTO EUZEBIO DA SILVA - ME",
+"endereco": {
+"logradouro": "DA INDEPENDENCIA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270250",
+"municipio": "Dois Riachos",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/05/2013"
+},
+{
+"cnpj": "11914627000174",
+"cnes": null,
+"nome": "DEYSE JANE MONTEIRO BEZERRA DE SIQUEIRA - ME",
+"endereco": {
+"logradouro": "MIGUEL VIEIRA DE NOVAIS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270250",
+"municipio": "Dois Riachos",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "21210934000128",
+"cnes": null,
+"nome": "E. S. DE AMORIM",
+"endereco": {
+"logradouro": "PADRE LUDUGERO",
+"numero": null,
+"bairro": "PREFEITO ALDABERON DUARTE",
+"cep": null
+},
+"codigo_municipio": "270255",
+"municipio": "Estrela de Alagoas",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/12/2023"
+},
+{
+"cnpj": "32831874000187",
+"cnes": null,
+"nome": "J. J. DE OLIVEIRA NETO DROGARIA",
+"endereco": {
+"logradouro": "PREFEITO ENEAS SIMPLICIO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270255",
+"municipio": "Estrela de Alagoas",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/03/2024"
+},
+{
+"cnpj": "17514771000108",
+"cnes": null,
+"nome": "S S DA SILVA SANTOS - ME",
+"endereco": {
+"logradouro": "TEIXEIRA DE FREITAS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270260",
+"municipio": "Feira Grande",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/05/2015"
+},
+{
+"cnpj": "40907966000121",
+"cnes": null,
+"nome": "J. F. B. PINHEIRO FARMACIA - ME",
+"endereco": {
+"logradouro": "SAO JOSE",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270290",
+"municipio": "Girau do Ponciano",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "08/12/2014"
+},
+{
+"cnpj": "09318207000264",
+"cnes": null,
+"nome": "FARMACIA PEREIRA LTDA - ME",
+"endereco": {
+"logradouro": "DRA JANETE DE ARAUJO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270300",
+"municipio": "Ibateguara",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2014"
+},
+{
+"cnpj": "14970796000110",
+"cnes": null,
+"nome": "NIVALDO ALVES CORREIA - ME",
+"endereco": {
+"logradouro": "DOUTORA JANETE DE ARAUJO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270300",
+"municipio": "Ibateguara",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/02/2015"
+},
+{
+"cnpj": "10838555000160",
+"cnes": null,
+"nome": "JOSE FERREIRA DE LIMA DROGARIA ME",
+"endereco": {
+"logradouro": "DO COMERCIO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270310",
+"municipio": "Igaci",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/09/2010"
+},
+{
+"cnpj": "21983447000106",
+"cnes": null,
+"nome": "DROGATOP COMERCIO DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "NOSSA SENHORA APARECIDA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270320",
+"municipio": "Igreja Nova",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/12/2023"
+},
+{
+"cnpj": "02684542000156",
+"cnes": null,
+"nome": "HUMBERTO JORGE FARIAS DE OLIVEIRA LTDA",
+"endereco": {
+"logradouro": "DO COMERCIO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270330",
+"municipio": "Inhapi",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "19130155000170",
+"cnes": null,
+"nome": "KRISHNA SISNANDO ARAUJO AMORIM - ME",
+"endereco": {
+"logradouro": "SANTO ANTONIO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270340",
+"municipio": "Jacaré dos Homens",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "13/05/2015"
+},
+{
+"cnpj": "10929776000144",
+"cnes": null,
+"nome": "IVONETE BARBOSA GOMES - ME",
+"endereco": {
+"logradouro": "SANTA CRUZ",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270375",
+"municipio": "Jequiá da Praia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "53418754000122",
+"cnes": null,
+"nome": "MIX MED PHARMA LTDA",
+"endereco": {
+"logradouro": "DOUTOR TEOFILO DE BARROS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270380",
+"municipio": "Joaquim Gomes",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "27/06/2024"
+},
+{
+"cnpj": "02287961000154",
+"cnes": null,
+"nome": "DROGARIA DOIS IRMAOS LTDA",
+"endereco": {
+"logradouro": "PADRE ANTONIO PROCOPIO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270400",
+"municipio": "Junqueiro",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/01/2010"
+},
+{
+"cnpj": "27314326000140",
+"cnes": null,
+"nome": "WALLACE DE LIMA E SILVA MG FARMACIA",
+"endereco": {
+"logradouro": "VICENTE FERREIRA DE FARIAS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270410",
+"municipio": "Lagoa da Canoa",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/05/2024"
+},
+{
+"cnpj": "03402150000209",
+"cnes": null,
+"nome": "VALMIR OLIVEIRA BARBOSA DROGARIA - ME",
+"endereco": {
+"logradouro": "MAJOR LUIZ CARLOS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270420",
+"municipio": "Limoeiro de Anadia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "15088572000141",
+"cnes": "8463743",
+"nome": "A M DE ESPINDOLA NETO",
+"endereco": {
+"logradouro": "DR JULIO MARQUES LUZ",
+"numero": "2019",
+"bairro": "JATIUCA",
+"cep": "57035700"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6532429,
+"longitude": -35.7200748,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/07/2014"
+},
+{
+"cnpj": "05230009000617",
+"cnes": null,
+"nome": "COMERCIAL DRUGSTORE LTDA",
+"endereco": {
+"logradouro": "JUCA SAMPAIO",
+"numero": null,
+"bairro": "FEITOSA",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "05230009000889",
+"cnes": null,
+"nome": "COMERCIAL DRUGSTORE LTDA",
+"endereco": {
+"logradouro": "MOREIRA LIMA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "05230009000960",
+"cnes": null,
+"nome": "COMERCIAL DRUGSTORE LTDA",
+"endereco": {
+"logradouro": "TOMAS ESPINDOLA",
+"numero": null,
+"bairro": "FAROL",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/08/2006"
+},
+{
+"cnpj": "05230009001184",
+"cnes": null,
+"nome": "COMERCIAL DRUGSTORE LTDA",
+"endereco": {
+"logradouro": "LOURIVAL MELO MOTA",
+"numero": null,
+"bairro": "CIDADE UNIVERSITARIA",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "05230009001265",
+"cnes": null,
+"nome": "COMERCIAL DRUGSTORE LTDA",
+"endereco": {
+"logradouro": "MOREIRA LIMA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "05230009001346",
+"cnes": null,
+"nome": "COMERCIAL DRUGSTORE LTDA",
+"endereco": {
+"logradouro": "DOUTOR DURVAL DE GOIS MONTEIRO",
+"numero": null,
+"bairro": "SANTA LUCIA",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/08/2006"
+},
+{
+"cnpj": "05230009001427",
+"cnes": null,
+"nome": "COMERCIAL DRUGSTORE LTDA",
+"endereco": {
+"logradouro": "FERNANDES LIMA",
+"numero": null,
+"bairro": "FAROL",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/08/2006"
+},
+{
+"cnpj": "05230009001508",
+"cnes": null,
+"nome": "COMERCIAL DRUGSTORE LTDA",
+"endereco": {
+"logradouro": "JOAO DAVINO",
+"numero": null,
+"bairro": "MANGABEIRAS",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/08/2006"
+},
+{
+"cnpj": "05230009002580",
+"cnes": null,
+"nome": "COMERCIAL DRUGSTORE LTDA",
+"endereco": {
+"logradouro": "PROFESSORA MARIA ESTHER DA COSTA BARROS",
+"numero": null,
+"bairro": "JATIUCA",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "03004699000156",
+"cnes": null,
+"nome": "DROGA C LTDA",
+"endereco": {
+"logradouro": "DOUTOR DURVAL DE GOIS MONTEIRO",
+"numero": null,
+"bairro": "TABULEIRO DO MARTINS",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/02/2008"
+},
+{
+"cnpj": "35266097000163",
+"cnes": null,
+"nome": "DROGA LUZ LTDA",
+"endereco": {
+"logradouro": "PROFESSOR SANDOVAL ARROXELAS",
+"numero": null,
+"bairro": "PONTA VERDE",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/05/2015"
+},
+{
+"cnpj": "12622999000190",
+"cnes": null,
+"nome": "DROGARIA BARROS LTDA - EPP",
+"endereco": {
+"logradouro": "PROFESSOR JOSE DA SILVEIRA CAMERINO",
+"numero": null,
+"bairro": "PINHEIRO",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/04/2014"
+},
+{
+"cnpj": "08626608000138",
+"cnes": null,
+"nome": "DROGARIA CLIMA BOM LTDA",
+"endereco": {
+"logradouro": "DR. JOAO CRISOSTOMO FARIAS",
+"numero": null,
+"bairro": "TABULEIRO DOS MARTINS",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/09/2006"
+},
+{
+"cnpj": "12499604000103",
+"cnes": null,
+"nome": "DROGARIA COMENDADOR LTDA",
+"endereco": {
+"logradouro": "COMENDADOR LEAO",
+"numero": null,
+"bairro": "POCO",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/05/2012"
+},
+{
+"cnpj": "03668154000144",
+"cnes": null,
+"nome": "DROGARIA MACHADO LTDA - ME",
+"endereco": {
+"logradouro": "VEREADOR DARIO MARSIGLIA",
+"numero": null,
+"bairro": "TABULEIRO DO MARTINS",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/05/2012"
+},
+{
+"cnpj": "06198619000562",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "FERNANDES LIMA",
+"numero": null,
+"bairro": "GRUTA DE LOURDES",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/04/2010"
+},
+{
+"cnpj": "06198619001291",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "DEPUTADO JOSE LAGES",
+"numero": null,
+"bairro": "PONTA VERDE",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/04/2010"
+},
+{
+"cnpj": "06198619001453",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "JANGADEIROS ALAGOANOS",
+"numero": null,
+"bairro": "PAJUCARA",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/11/2010"
+},
+{
+"cnpj": "06198619001887",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "PADRE SIZENANDO SILVA",
+"numero": null,
+"bairro": "JACINTINHO",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/04/2010"
+},
+{
+"cnpj": "06198619001968",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "SIQUEIRA CAMPOS",
+"numero": null,
+"bairro": "TRAPICHE DA BARRA",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/04/2010"
+},
+{
+"cnpj": "06198619002697",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "PRATAGY",
+"numero": null,
+"bairro": "BENEDITO BENTES",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/11/2010"
+},
+{
+"cnpj": "06198619003073",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "AV COMENDADOR GUSTAVO PAIVA 2990",
+"numero": null,
+"bairro": "MANGABEIRAS",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/11/2010"
+},
+{
+"cnpj": "06198619003901",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "FERNANDES LIMA",
+"numero": null,
+"bairro": "GRUTA DE LOURDES",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/11/2010"
+},
+{
+"cnpj": "06198619005360",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "FERNANDES LIMA",
+"numero": null,
+"bairro": "GRUTA DE LOURDES",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "06198619005793",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "MENINO MARCELO",
+"numero": null,
+"bairro": "SERRARIA",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "13651985000167",
+"cnes": null,
+"nome": "E L DE ARAUJO FARMACIA - ME",
+"endereco": {
+"logradouro": "ZACARIAS FONTAN DE MELO",
+"numero": null,
+"bairro": "TABULEIRO DOS MARTINS",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "06626253013806",
+"cnes": "2923238",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+"endereco": {
+"logradouro": "LUIZ CALHEIROS JUNIOR",
+"numero": "20",
+"bairro": "FAROL",
+"cep": "57055230"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6381007,
+"longitude": -35.7346196,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/03/2006"
+},
+{
+"cnpj": "06626253014020",
+"cnes": "0992208",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+"endereco": {
+"logradouro": "ALVARO OTACILIO",
+"numero": "7093",
+"bairro": "PONTA VERDE",
+"cep": "57035180"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6561947,
+"longitude": -35.700996,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/03/2006"
+},
+{
+"cnpj": "06626253016317",
+"cnes": "0808598",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+"endereco": {
+"logradouro": "FERNANDES LIMA",
+"numero": "315",
+"bairro": "FAROL",
+"cep": "57055000"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6508181,
+"longitude": -35.7394906,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/03/2006"
+},
+{
+"cnpj": "06626253017399",
+"cnes": "8233608",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+"endereco": {
+"logradouro": "JOAO DAVINO",
+"numero": "266",
+"bairro": "MANGABEIRAS",
+"cep": "57037590"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6433137,
+"longitude": -35.7039859,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/03/2006"
+},
+{
+"cnpj": "06626253018603",
+"cnes": "0451622",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+"endereco": {
+"logradouro": "JOSE TENORIO DE ALBUQUERQUE LINS",
+"numero": "4500",
+"bairro": "SERRARIA",
+"cep": "57045140"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6071743,
+"longitude": -35.9452453,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/03/2006"
+},
+{
+"cnpj": "06626253031545",
+"cnes": "0837229",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+"endereco": {
+"logradouro": "DOUTOR DURVAL DE GOIS MONTEIRO",
+"numero": "32",
+"bairro": "TABULEIRO DO MARTINS",
+"cep": "57061000"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.5898091,
+"longitude": -35.7625561,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/09/2009"
+},
+{
+"cnpj": "06626253015183",
+"cnes": "0465631",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "JANGADEIROS ALAGOANOS",
+"numero": "1173",
+"bairro": "PAJUCARA",
+"cep": "57030000"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.0077239,
+"longitude": -35.2170054,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/03/2006"
+},
+{
+"cnpj": "06626253015264",
+"cnes": "2897652",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "ENGENHEIRO MARIO DE GUSMAO",
+"numero": "441",
+"bairro": "PONTA VERDE",
+"cep": "57035000"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6621488,
+"longitude": -35.7046651,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/05/2006"
+},
+{
+"cnpj": "06626253018280",
+"cnes": "4417968",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "MOREIRA LIMA",
+"numero": "263",
+"bairro": "CENTRO",
+"cep": "57020220"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6636225,
+"longitude": -35.7426053,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/03/2006"
+},
+{
+"cnpj": "06626253027602",
+"cnes": "4284844",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "DEPUTADO JOSE LAGES",
+"numero": "627",
+"bairro": "PONTA VERDE",
+"cep": "57080000"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6564686,
+"longitude": -35.70689,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/05/2006"
+},
+{
+"cnpj": "06626253042580",
+"cnes": "4363353",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "JUCA SAMPAIO",
+"numero": "2179",
+"bairro": "FEITOSA",
+"cep": "57080000"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6270351,
+"longitude": -35.7193483,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/02/2013"
+},
+{
+"cnpj": "06626253056378",
+"cnes": "0429317",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "FERNANDES LIMA",
+"numero": "3500",
+"bairro": "GRUTA DE LOURDES",
+"cep": "57052400"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6502198,
+"longitude": -35.7335266,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "16/09/2014"
+},
+{
+"cnpj": "41159252000145",
+"cnes": null,
+"nome": "F TORRES VIEIRA ME",
+"endereco": {
+"logradouro": "DR. ANDRE PAPINI GOIS QD. A 5",
+"numero": null,
+"bairro": "CIDADE UNIVERSITARIA",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "27/10/2014"
+},
+{
+"cnpj": "15494462000180",
+"cnes": null,
+"nome": "FARMACIA SANTA ANITA LTDA - ME",
+"endereco": {
+"logradouro": "FERNANDES LIMA",
+"numero": null,
+"bairro": "FAROL",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "15511317000160",
+"cnes": null,
+"nome": "FARMACIA SAO SEVERINO LTDA - ME",
+"endereco": {
+"logradouro": "DOUTOR DURVAL DE GOIS MONTEIRO",
+"numero": null,
+"bairro": "SANTA LUCIA",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "04444703000160",
+"cnes": null,
+"nome": "H. PORTO VIEIRA LTDA-ME",
+"endereco": {
+"logradouro": "PRATAGY",
+"numero": null,
+"bairro": "BENEDITO BENTES",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/10/2009"
+},
+{
+"cnpj": "41182072000265",
+"cnes": null,
+"nome": "MAX DROGARIA LTDA ME",
+"endereco": {
+"logradouro": "SANTA ROSA",
+"numero": null,
+"bairro": "VERGEL DO LAGO",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/03/2008"
+},
+{
+"cnpj": "07294449000159",
+"cnes": null,
+"nome": "PATRICIA DA SILVA CARVALHO SENNA - ME",
+"endereco": {
+"logradouro": "JORNALISTA JOSE NILTON DE OLIVEIRA CORRE",
+"numero": null,
+"bairro": "JACARECICA",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/01/2010"
+},
+{
+"cnpj": "12057505000171",
+"cnes": null,
+"nome": "R J INACIO COMERCIO LTDA - ME",
+"endereco": {
+"logradouro": "MOREIRA LIMA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "61585865118233",
+"cnes": "4312236",
+"nome": "RAIA DROGASIL S/A",
+"endereco": {
+"logradouro": "FERNANDES LIMA",
+"numero": "452",
+"bairro": "FAROL",
+"cep": "57080000"
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": -9.6333067,
+"longitude": -35.7398768,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/03/2015"
+},
+{
+"cnpj": "13265300000144",
+"cnes": null,
+"nome": "RENAN OLIVEIRA DE ARAUJO - ME",
+"endereco": {
+"logradouro": "MINISTRO MARIO ANDREAZZA",
+"numero": null,
+"bairro": "VERGEL DO LAGO",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "02961743000153",
+"cnes": null,
+"nome": "S M SOUTO LOU FARMACIA - ME",
+"endereco": {
+"logradouro": "COMENDADOR LEAO",
+"numero": null,
+"bairro": "POCO",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/06/2015"
+},
+{
+"cnpj": "40920803000189",
+"cnes": null,
+"nome": "VIEIRA E SILVA FARMACIA LTDA - ME",
+"endereco": {
+"logradouro": "SANTO ANTONIO",
+"numero": null,
+"bairro": "PONTA GROSSA",
+"cep": null
+},
+"codigo_municipio": "270430",
+"municipio": "Maceió",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/02/2015"
+},
+{
+"cnpj": "20729815000113",
+"cnes": null,
+"nome": "FARMACIA LABOFARMA LTDA - ME",
+"endereco": {
+"logradouro": "R WALFRIDO JERONIMO DA ROCHA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270440",
+"municipio": "Major Isidoro",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/06/2015"
+},
+{
+"cnpj": "47502244000136",
+"cnes": null,
+"nome": "J I DA S BARBOSA MEDICAMENTOS",
+"endereco": {
+"logradouro": "JOSE DELFINO FILHO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270490",
+"municipio": "Mar Vermelho",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/12/2023"
+},
+{
+"cnpj": "03924692000152",
+"cnes": null,
+"nome": "ROZILEIDE MATIAS DE AZEVEDO - ME",
+"endereco": {
+"logradouro": "SAGRADA FAMILIA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270460",
+"municipio": "Maravilha",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/07/2014"
+},
+{
+"cnpj": "08610677000153",
+"cnes": null,
+"nome": "JOSE ARCANJO DA SILVA NETO - ME",
+"endereco": {
+"logradouro": "RUA BARAO DE ALAGOAS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270470",
+"municipio": "Marechal Deodoro",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/12/2012"
+},
+{
+"cnpj": "00278292000129",
+"cnes": null,
+"nome": "MARIA TEREZA BARROS DE ARAUJO - ME",
+"endereco": {
+"logradouro": "DOS CAJUEIROS",
+"numero": null,
+"bairro": "TAPERAGUA",
+"cep": null
+},
+"codigo_municipio": "270470",
+"municipio": "Marechal Deodoro",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/12/2012"
+},
+{
+"cnpj": "35565548000163",
+"cnes": null,
+"nome": "JOSE CARLOS FERNANDES DOS SANTOS",
+"endereco": {
+"logradouro": "COMERCIO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270480",
+"municipio": "Maribondo",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2009"
+},
+{
+"cnpj": "02461250000154",
+"cnes": null,
+"nome": "FARMACIA FARIAS LTDA",
+"endereco": {
+"logradouro": "UBALDO MALTA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270500",
+"municipio": "Mata Grande",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/12/2013"
+},
+{
+"cnpj": "07978167000170",
+"cnes": null,
+"nome": "P. R. FERNANDES DE BARROS - ME",
+"endereco": {
+"logradouro": "FLORIANO PEIXOTO",
+"numero": null,
+"bairro": "CONJ. TEOTONIO VILELA",
+"cep": null
+},
+"codigo_municipio": "270520",
+"municipio": "Messias",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/12/2012"
+},
+{
+"cnpj": "41701912000178",
+"cnes": null,
+"nome": "BELLA FARMA FARMACIA LTDA.",
+"endereco": {
+"logradouro": "BELARMINO VIEIRA BARROS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270530",
+"municipio": "Minador do Negrão",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/09/2023"
+},
+{
+"cnpj": "24072984000184",
+"cnes": null,
+"nome": "FARMACIA AGRAMED LTDA",
+"endereco": {
+"logradouro": "ANTONIO PRUDENTE DE MELO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270540",
+"municipio": "Monteirópolis",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/10/2023"
+},
+{
+"cnpj": "20708908000161",
+"cnes": null,
+"nome": "TORRES E BEZERRA COMERCIO DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "DO COMERCIO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270540",
+"municipio": "Monteirópolis",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/05/2024"
+},
+{
+"cnpj": "09634679000145",
+"cnes": "8358923",
+"nome": "M G PINO E CIA LTDA ME",
+"endereco": {
+"logradouro": "FIRMINO DE QUEIROZ",
+"numero": "88",
+"bairro": "CENTRO",
+"cep": "57820000"
+},
+"codigo_municipio": "270550",
+"municipio": "Murici",
+"latitude": -9.309969749179539,
+"longitude": -35.943628549575806,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "00284937000136",
+"cnes": null,
+"nome": "ELIZANGELA SILVA",
+"endereco": {
+"logradouro": "JOAO FRANCISCO SOARES",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270580",
+"municipio": "Olho d'Água do Casado",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/12/2023"
+},
+{
+"cnpj": "06198619002859",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "VIEIRA DE BRITO",
+"numero": null,
+"bairro": "SAO CRISTOVAO",
+"cep": null
+},
+"codigo_municipio": "270630",
+"municipio": "Palmeira dos Índios",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "08529011000256",
+"cnes": null,
+"nome": "EDLA ALESSANDRA BORGES MACHADO DE OLIVEIRA",
+"endereco": {
+"logradouro": "CICERO TEIXEIRA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270642",
+"municipio": "Pariconha",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/03/2024"
+},
+{
+"cnpj": "32265283000351",
+"cnes": null,
+"nome": "M C GALDINO ANJOS - FARMACIA",
+"endereco": {
+"logradouro": "CICERO TEIXEIRA LIMA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270642",
+"municipio": "Pariconha",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "16/04/2024"
+},
+{
+"cnpj": "15088572000222",
+"cnes": "8506329",
+"nome": "A M DE ESPINDOLA NETO - ME",
+"endereco": {
+"logradouro": "NOVA",
+"numero": "122",
+"bairro": "CENTRO",
+"cep": "57935000"
+},
+"codigo_municipio": "270644",
+"municipio": "Paripueira",
+"latitude": -9.46569831979683,
+"longitude": -35.55405378341675,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/12/2014"
+},
+{
+"cnpj": "06198619006099",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "WANDERLEY",
+"numero": null,
+"bairro": "SANTA LUCIA",
+"cep": null
+},
+"codigo_municipio": "270670",
+"municipio": "Penedo",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "19/11/2014"
+},
+{
+"cnpj": "00284937000306",
+"cnes": null,
+"nome": "ELIZANGELA SILVA",
+"endereco": {
+"logradouro": "DELMIRO GOUVEIA",
+"numero": null,
+"bairro": "NOSSA SENHORA DA SAUDE",
+"cep": null
+},
+"codigo_municipio": "270710",
+"municipio": "Piranhas",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/12/2023"
+},
+{
+"cnpj": "15211249000113",
+"cnes": null,
+"nome": "J A S RODRIGUES - ME",
+"endereco": {
+"logradouro": "BERNARDO SOARES DE SOUZA",
+"numero": null,
+"bairro": "DISTRITO PIAU",
+"cep": null
+},
+"codigo_municipio": "270710",
+"municipio": "Piranhas",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/11/2013"
+},
+{
+"cnpj": "31970231000151",
+"cnes": null,
+"nome": "LUZIANE MAYRA V DA SILVA FARMACIA LTDA",
+"endereco": {
+"logradouro": "BERNARDO SOARES DE SOUZA",
+"numero": null,
+"bairro": "DISTRITO PIAU",
+"cep": null
+},
+"codigo_municipio": "270710",
+"municipio": "Piranhas",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/12/2023"
+},
+{
+"cnpj": "09318207000345",
+"cnes": null,
+"nome": "FARMACIA PEREIRA LTDA",
+"endereco": {
+"logradouro": "DR FERNANDES LIMA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270730",
+"municipio": "Porto Calvo",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/10/2023"
+},
+{
+"cnpj": "06198619006412",
+"cnes": "8293163",
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "PRESIDENTE GETULIO VARGAS",
+"numero": "39",
+"bairro": "CENTRO",
+"cep": "57100000"
+},
+"codigo_municipio": "270770",
+"municipio": "Rio Largo",
+"latitude": -9.48819437249106,
+"longitude": -35.85342769351176,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/12/2014"
+},
+{
+"cnpj": "15218814000174",
+"cnes": null,
+"nome": "V B G DE OMENA FARMACIA - ME",
+"endereco": {
+"logradouro": "BR 104, KM 91",
+"numero": null,
+"bairro": "PREF ANTONIO L DE SOUZA",
+"cep": null
+},
+"codigo_municipio": "270770",
+"municipio": "Rio Largo",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/10/2014"
+},
+{
+"cnpj": "34832464000186",
+"cnes": null,
+"nome": "SANTOS CAVALCANTE FARMACIA LTDA",
+"endereco": {
+"logradouro": "DO LIVRAMENTO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270780",
+"municipio": "Roteiro",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/03/2024"
+},
+{
+"cnpj": "06626253052895",
+"cnes": "0992046",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "CORONEL LUCENA MARANHAO",
+"numero": "0220",
+"bairro": "MONUMENTO",
+"cep": "57500000"
+},
+"codigo_municipio": "270800",
+"municipio": "Santana do Ipanema",
+"latitude": -9.374822812066395,
+"longitude": -37.25266456604004,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/11/2013"
+},
+{
+"cnpj": "17341782000125",
+"cnes": null,
+"nome": "JONAS ALMEIDA DA SILVA LTDA",
+"endereco": {
+"logradouro": "SILVESTRE PERICLES",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270810",
+"municipio": "Santana do Mundaú",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/11/2013"
+},
+{
+"cnpj": "24409261000209",
+"cnes": null,
+"nome": "GERALDO MESSIAS DE OLIVEIRA FILHO LTDA",
+"endereco": {
+"logradouro": "DO COMERCIO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270895",
+"municipio": "Senador Rui Palmeira",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/05/2024"
+},
+{
+"cnpj": "03653693000100",
+"cnes": null,
+"nome": "JOSE GEORGE P. CORREIA - ME",
+"endereco": {
+"logradouro": "DOUTOR OSCA GORDILHO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270830",
+"municipio": "São José da Laje",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/08/2014"
+},
+{
+"cnpj": "09268552000150",
+"cnes": null,
+"nome": "J. F. DO NASCIMENTO ROCHA - ME",
+"endereco": {
+"logradouro": "ELISIO MAIA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270840",
+"municipio": "São José da Tapera",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/12/2012"
+},
+{
+"cnpj": "06198619003405",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "CORONEL MIGUEL CESAR TEIXEIRA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270860",
+"municipio": "São Miguel dos Campos",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/11/2010"
+},
+{
+"cnpj": "11305013000195",
+"cnes": null,
+"nome": "TENORIO & CAVALCANTE LTDA - ME",
+"endereco": {
+"logradouro": "DOUTOR ROMULO DE ALMEIDA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270860",
+"municipio": "São Miguel dos Campos",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "09207511000153",
+"cnes": null,
+"nome": "A F DOS SANTOS FARMACIA - ME",
+"endereco": {
+"logradouro": "ANTONIO CUSTODIO PORTO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270880",
+"municipio": "São Sebastião",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/12/2012"
+},
+{
+"cnpj": "23028312000109",
+"cnes": null,
+"nome": "DROGARIA POPULAR DO BRASIL LTDA",
+"endereco": {
+"logradouro": "PADRE CICERO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270910",
+"municipio": "Taquarana",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/03/2016"
+},
+{
+"cnpj": "07659446000171",
+"cnes": null,
+"nome": "DROGARIA PAPS LTDA",
+"endereco": {
+"logradouro": "TEOFILO PEREIRA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270915",
+"municipio": "Teotônio Vilela",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/12/2009"
+},
+{
+"cnpj": "02992593000145",
+"cnes": null,
+"nome": "W S DROGARIA SANTA LUZIA LTDA",
+"endereco": {
+"logradouro": "MARIA JEANE MOREIRA SAMPAIO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270915",
+"municipio": "Teotônio Vilela",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/12/2012"
+},
+{
+"cnpj": "51144787000104",
+"cnes": null,
+"nome": "MELO MEDEIROS DROGARIA LTDA",
+"endereco": {
+"logradouro": "CORONEL NETO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270920",
+"municipio": "Traipu",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/05/2024"
+},
+{
+"cnpj": "46765515000183",
+"cnes": null,
+"nome": "PHARMA K COMERCIO DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "DISTRITO MUMBAÇA",
+"numero": null,
+"bairro": "ZONA RURAL",
+"cep": null
+},
+"codigo_municipio": "270920",
+"municipio": "Traipu",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/05/2024"
+},
+{
+"cnpj": "13229812000155",
+"cnes": null,
+"nome": "DROGARIA CENTRAL LTDA",
+"endereco": {
+"logradouro": "MAL DEODORO DA FONSECA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270930",
+"municipio": "União dos Palmares",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "06198619005602",
+"cnes": null,
+"nome": "DROGATIM DROGARIAS LTDA",
+"endereco": {
+"logradouro": "MONSENHOR CLOVIS DUARTE DE BARROS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270930",
+"municipio": "União dos Palmares",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/07/2014"
+},
+{
+"cnpj": "08529011000175",
+"cnes": null,
+"nome": "EDLA ALESSANDRA BORGES MACHADO DE OLIVEIRA - ME",
+"endereco": {
+"logradouro": "SAO BENTO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "270010",
+"municipio": "Água Branca",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/11/2013"
+}
+]
+}

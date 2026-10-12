@@ -1,0 +1,2237 @@
+{
+"fonte": {
+"programa": "Programa Farmácia Popular do Brasil",
+"orgao": "Ministério da Saúde",
+"documento": "Consulta de Endereço das Farmácias (farmácias ativas)",
+"url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
+"data_referencia": "2026-10-08",
+"data_obtencao": "2026-10-12",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+},
+"uf": "RO",
+"estabelecimentos": [
+{
+"cnpj": "07814785000185",
+"cnes": null,
+"nome": "E.F. DE CARVALHO LTDA",
+"endereco": {
+"logradouro": "RIO GRANDE DO SUL",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110001",
+"municipio": "Alta Floresta D'Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2009"
+},
+{
+"cnpj": "05389824000119",
+"cnes": null,
+"nome": "F. J. SILVA & SILVA LTDA.",
+"endereco": {
+"logradouro": "RONDONIA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110001",
+"municipio": "Alta Floresta D'Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2011"
+},
+{
+"cnpj": "00713544000109",
+"cnes": null,
+"nome": "S GALDINO RODRIGUES & CIA LTDA ME",
+"endereco": {
+"logradouro": "BRASIL",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110001",
+"municipio": "Alta Floresta D'Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "10770960000194",
+"cnes": "0227846",
+"nome": "ALCANTARA & ALCANTARA COM. DE MEDICAMENTOS LTDA -ME",
+"endereco": {
+"logradouro": "TANCREDO DE ALMEIDA NEVES",
+"numero": "3505",
+"bairro": "CENTRO",
+"cep": "76952000"
+},
+"codigo_municipio": "110037",
+"municipio": "Alto Alegre dos Parecis",
+"latitude": -12.13283751776333,
+"longitude": -61.862876415252686,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "08/09/2011"
+},
+{
+"cnpj": "17271414000158",
+"cnes": "0227900",
+"nome": "REIS & GOUVEIA COMERCIO DE PRODUTOS FARMACEUTICOS - LTDA - ME",
+"endereco": {
+"logradouro": "TANCREDO DE ALMEIDA NEVES",
+"numero": "3636",
+"bairro": "CENTRO",
+"cep": "76952000"
+},
+"codigo_municipio": "110037",
+"municipio": "Alto Alegre dos Parecis",
+"latitude": -12.132732625888746,
+"longitude": -61.863112449645996,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/10/2013"
+},
+{
+"cnpj": "34767335000151",
+"cnes": null,
+"nome": "ALVES & NASCIMENTO COMERCIO DE MEDICAMENTO LTDA",
+"endereco": {
+"logradouro": "JORGE TEIXEIRA",
+"numero": null,
+"bairro": "SETOR 01",
+"cep": null
+},
+"codigo_municipio": "110040",
+"municipio": "Alto Paraíso",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/08/2006"
+},
+{
+"cnpj": "84716836000187",
+"cnes": null,
+"nome": "COMERCIO DE MEDICAMENTO ROCHA LTDA - ME",
+"endereco": {
+"logradouro": "JORGE TEIXEIRA",
+"numero": null,
+"bairro": "SETOR 02",
+"cep": null
+},
+"codigo_municipio": "110040",
+"municipio": "Alto Paraíso",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/10/2014"
+},
+{
+"cnpj": "15833841000157",
+"cnes": "8236801",
+"nome": "R. DE F. BABOLIM CASTRO & CIA LTDA - ME",
+"endereco": {
+"logradouro": "MARECHAL RONDON",
+"numero": "S/N",
+"bairro": "CENTRO",
+"cep": "76930000"
+},
+"codigo_municipio": "110034",
+"municipio": "Alvorada D'Oeste",
+"latitude": -11.347872429307241,
+"longitude": -62.28705167770386,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/12/2012"
+},
+{
+"cnpj": "08599642000160",
+"cnes": null,
+"nome": "BRAGANHOL E CANUTO COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+"endereco": {
+"logradouro": "GUAPORE",
+"numero": null,
+"bairro": "SETOR 05",
+"cep": null
+},
+"codigo_municipio": "110002",
+"municipio": "Ariquemes",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/09/2014"
+},
+{
+"cnpj": "08068518000179",
+"cnes": "8418543",
+"nome": "DROGARIA DA ECONOMIA LTDA EPP",
+"endereco": {
+"logradouro": "TANCREDO NEVES",
+"numero": "1745",
+"bairro": "SETOR 01",
+"cep": "76870046"
+},
+"codigo_municipio": "110002",
+"municipio": "Ariquemes",
+"latitude": -9.905527893271254,
+"longitude": -63.034465312957764,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/05/2012"
+},
+{
+"cnpj": "05909551000196",
+"cnes": "8236615",
+"nome": "DROGARIA E PERFUMARIA ANDRADINA LTDA - EPP",
+"endereco": {
+"logradouro": "TANCREDO NEVES",
+"numero": "1381",
+"bairro": "SETOR 01",
+"cep": "76870023"
+},
+"codigo_municipio": "110002",
+"municipio": "Ariquemes",
+"latitude": -9.915462507352009,
+"longitude": -63.03435802459717,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "03/02/2010"
+},
+{
+"cnpj": "05792080000189",
+"cnes": null,
+"nome": "DROGARIA IDEAL LTDA - ME",
+"endereco": {
+"logradouro": "GARAPEIRA",
+"numero": null,
+"bairro": "SETOR 01",
+"cep": null
+},
+"codigo_municipio": "110002",
+"municipio": "Ariquemes",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/12/2012"
+},
+{
+"cnpj": "84583129000836",
+"cnes": "0772593",
+"nome": "FARMACIA DINAMICA LTDA",
+"endereco": {
+"logradouro": "TANCREDO NEVES",
+"numero": "1765",
+"bairro": "SETOR 01",
+"cep": "76870046"
+},
+"codigo_municipio": "110002",
+"municipio": "Ariquemes",
+"latitude": -9.910431825495557,
+"longitude": -63.03455114364624,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/09/2013"
+},
+{
+"cnpj": "84583129000917",
+"cnes": "0772585",
+"nome": "FARMACIA DINAMICA LTDA",
+"endereco": {
+"logradouro": "TANCREDO NEVES",
+"numero": "2343",
+"bairro": "SETOR 03",
+"cep": "76870511"
+},
+"codigo_municipio": "110002",
+"municipio": "Ariquemes",
+"latitude": -9.91632912962453,
+"longitude": -63.03435802459717,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/10/2013"
+},
+{
+"cnpj": "07898441000100",
+"cnes": null,
+"nome": "SOUZA & ZAMBIAZI LTDA - EPP",
+"endereco": {
+"logradouro": "CACAPAVA",
+"numero": null,
+"bairro": "SETOR 09",
+"cep": null
+},
+"codigo_municipio": "110002",
+"municipio": "Ariquemes",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "07118487000150",
+"cnes": null,
+"nome": "D. S. ROCHA & CIA LTDA - ME",
+"endereco": {
+"logradouro": "PORTO VELHO",
+"numero": null,
+"bairro": "SETOR 03",
+"cep": null
+},
+"codigo_municipio": "110045",
+"municipio": "Buritis",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "34754978000160",
+"cnes": null,
+"nome": "DROGA MIL COMERCIO DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "PORTO VELHO",
+"numero": null,
+"bairro": "SETOR 03",
+"cep": null
+},
+"codigo_municipio": "110045",
+"municipio": "Buritis",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/10/2013"
+},
+{
+"cnpj": "05789089000130",
+"cnes": null,
+"nome": "RODRIGUES E COSTA LTDA - EPP",
+"endereco": {
+"logradouro": "PORTO VELHO",
+"numero": null,
+"bairro": "SETOR 02",
+"cep": null
+},
+"codigo_municipio": "110045",
+"municipio": "Buritis",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/05/2006"
+},
+{
+"cnpj": "05705579000101",
+"cnes": "3697282",
+"nome": "L D M C PRADO LTDA",
+"endereco": {
+"logradouro": "TAMOIOS",
+"numero": "4116",
+"bairro": "CENTRO",
+"cep": "76994000"
+},
+"codigo_municipio": "110003",
+"municipio": "Cabixi",
+"latitude": -13.49411499744707,
+"longitude": -60.54170608520508,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "04/07/2011"
+},
+{
+"cnpj": "04927794000194",
+"cnes": "7940440",
+"nome": "SOUZA & FELTRIN LTDA",
+"endereco": {
+"logradouro": "TAMOIOS",
+"numero": "4224",
+"bairro": "CENTRO",
+"cep": "76994000"
+},
+"codigo_municipio": "110003",
+"municipio": "Cabixi",
+"latitude": -13.492570959564476,
+"longitude": -60.54215669631958,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "03/02/2010"
+},
+{
+"cnpj": "34741819000121",
+"cnes": null,
+"nome": "POSTO DE MEDICAMENTOS OUTRAFARMA LTDA - ME",
+"endereco": {
+"logradouro": "DO CACAU",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110060",
+"municipio": "Cacaulândia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/10/2013"
+},
+{
+"cnpj": "10841362000169",
+"cnes": "7940890",
+"nome": "DROGARIA R R MOREIRA LTDA ME - ME",
+"endereco": {
+"logradouro": "DAS COMUNICACOES",
+"numero": "2225",
+"bairro": "TEIXEIRAO",
+"cep": "76965674"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.430792891045806,
+"longitude": -61.435954570770264,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/10/2014"
+},
+{
+"cnpj": "06626253047620",
+"cnes": "7902484",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "GENERAL OSORIO",
+"numero": "1153",
+"bairro": "CENTRO",
+"cep": "76963890"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.441855535960608,
+"longitude": -61.447627544403076,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/02/2013"
+},
+{
+"cnpj": "09544266000170",
+"cnes": "7944144",
+"nome": "FERNANDES & CASTILHO LTDA - ME",
+"endereco": {
+"logradouro": "DAS MANGUEIRAS",
+"numero": "1689",
+"bairro": "VISTA ALEGRE",
+"cep": "76960050"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.4301552,
+"longitude": -61.4739598,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/09/2011"
+},
+{
+"cnpj": "01162564000193",
+"cnes": "0831670",
+"nome": "FPMB RODRIGUES LTDA",
+"endereco": {
+"logradouro": "INDERVAL JOSE BRASIL",
+"numero": "395",
+"bairro": "NOVO CACOAL",
+"cep": "76962219"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.422169617322538,
+"longitude": -61.45827054977417,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/09/2015"
+},
+{
+"cnpj": "34468306000199",
+"cnes": "7933991",
+"nome": "GLOBOFARMA MEDICAMENTOS E PERFUMARIA LTDA - ME",
+"endereco": {
+"logradouro": "DOIS DE JUNHO",
+"numero": "2162",
+"bairro": "CENTRO",
+"cep": "76960970"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.433148471414443,
+"longitude": -61.44779920578003,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "05422127000112",
+"cnes": "0453676",
+"nome": "GONCALVES & BRANCHIER LTDA",
+"endereco": {
+"logradouro": "MALAQUITA",
+"numero": "2659",
+"bairro": "BALNEARIO ARCO-IRIS",
+"cep": "76961869"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.427932517130525,
+"longitude": -61.463613510131836,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/01/2011"
+},
+{
+"cnpj": "10739686000190",
+"cnes": "7923678",
+"nome": "J ALVES PEREIRA JUNIOR E CIA LTDA - ME",
+"endereco": {
+"logradouro": "ALMIRANTE BARROSO",
+"numero": "3456",
+"bairro": "NOVO CACOAL",
+"cep": "76962224"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.423557771781258,
+"longitude": -61.45702600479126,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "01689426000167",
+"cnes": "7935994",
+"nome": "J. C DE S.LEITE E CIA LTDA EPP",
+"endereco": {
+"logradouro": "DOIS DE JUNHO",
+"numero": "2387",
+"bairro": "CENTRO",
+"cep": "76960970"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.439142493836588,
+"longitude": -61.44773483276367,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/11/2006"
+},
+{
+"cnpj": "05987839000189",
+"cnes": "7912048",
+"nome": "J. V. COSTA QUARESMA",
+"endereco": {
+"logradouro": "CASTELO BRANCO",
+"numero": "188860",
+"bairro": "CENTRO",
+"cep": "76960970"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.4357033,
+"longitude": -61.4711795,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/05/2006"
+},
+{
+"cnpj": "12409334000100",
+"cnes": "7934130",
+"nome": "LIMA & LIMA COMERCIO DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "DAS COMUNICACOES",
+"numero": "2701",
+"bairro": "TEIXEIRAO",
+"cep": "76965580"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.433821490779762,
+"longitude": -61.44331455230713,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/12/2014"
+},
+{
+"cnpj": "22870240000180",
+"cnes": "7934149",
+"nome": "LOBIANCO & LIMA LTDA ME",
+"endereco": {
+"logradouro": "DOIS DE JUNHO",
+"numero": "2197",
+"bairro": "CENTRO",
+"cep": "76960970"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.440867066259306,
+"longitude": -61.447691917419434,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/10/2010"
+},
+{
+"cnpj": "10903996000107",
+"cnes": "6629962",
+"nome": "N A DO NASCIMENTO ALMEIDA  LTDA",
+"endereco": {
+"logradouro": "SAO PAULO",
+"numero": "2490",
+"bairro": "JARDIM CLODOALDO",
+"cep": "76963578"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.43735481621381,
+"longitude": -61.44902229309082,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/08/2011"
+},
+{
+"cnpj": "15829120000173",
+"cnes": "7934114",
+"nome": "N. LOBIANCO & CIA LTDA - ME",
+"endereco": {
+"logradouro": "RIO DE JANEIRO",
+"numero": "1175",
+"bairro": "NOVO HORIZONTE",
+"cep": "76962126"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.427490839173629,
+"longitude": -61.463366746902466,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/12/2014"
+},
+{
+"cnpj": "04943403000125",
+"cnes": "7955472",
+"nome": "PRADO & VACARIO LTDA - ME",
+"endereco": {
+"logradouro": "GENERAL OSORIO",
+"numero": "1063",
+"bairro": "CENTRO",
+"cep": "76963890"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.441968578818228,
+"longitude": -61.44584387540817,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "00647694000153",
+"cnes": "7973187",
+"nome": "R N F DE SOUZA & CIA LTDA - ME",
+"endereco": {
+"logradouro": "DOS PIONEIROS",
+"numero": "2368",
+"bairro": "CENTRO",
+"cep": "76963726"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.434599667427765,
+"longitude": -61.432693004608154,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/12/2013"
+},
+{
+"cnpj": "34768960000118",
+"cnes": "7942729",
+"nome": "RECH & OLIVEIRA LTDA",
+"endereco": {
+"logradouro": "ROSINEIA DE SOUZA",
+"numero": "3320",
+"bairro": "VILLAGE DO SOL",
+"cep": "76960970"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.421938257585445,
+"longitude": -61.437950134277344,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/12/2012"
+},
+{
+"cnpj": "05707674000144",
+"cnes": "6232671",
+"nome": "YASSUDA FARMACIA E LABORATORIO DE MANIPULACAO LTDA - ME",
+"endereco": {
+"logradouro": "DOIS DE JUNHO",
+"numero": "2154",
+"bairro": "CENTRO",
+"cep": "76960970"
+},
+"codigo_municipio": "110004",
+"municipio": "Cacoal",
+"latitude": -11.441540067281972,
+"longitude": -61.44801378250122,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/08/2011"
+},
+{
+"cnpj": "13383224000171",
+"cnes": null,
+"nome": "F A PEREIRA DA SILVA - ME",
+"endereco": {
+"logradouro": "PRIMEIRO DE MAIO",
+"numero": null,
+"bairro": "SETOR 01",
+"cep": null
+},
+"codigo_municipio": "110070",
+"municipio": "Campo Novo de Rondônia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/05/2013"
+},
+{
+"cnpj": "63749329000170",
+"cnes": "4791118",
+"nome": "PORTO FARMA CANDEIAS EIRELI - ME",
+"endereco": {
+"logradouro": "TANCREDO NEVES",
+"numero": "2009",
+"bairro": "NOVO HORIZONTE",
+"cep": "76860000"
+},
+"codigo_municipio": "110080",
+"municipio": "Candeias do Jamari",
+"latitude": -8.78308464944005,
+"longitude": -63.69740009307861,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "27/04/2015"
+},
+{
+"cnpj": "34739557000160",
+"cnes": "7437277",
+"nome": "A . P. DA SILVA & SILVA LTDA ME",
+"endereco": {
+"logradouro": "INTEGRACAO NACIONAL",
+"numero": "10431",
+"bairro": "CENTRO",
+"cep": "76997000"
+},
+"codigo_municipio": "110005",
+"municipio": "Cerejeiras",
+"latitude": -13.189,
+"longitude": -60.812,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/09/2010"
+},
+{
+"cnpj": "04802930000110",
+"cnes": null,
+"nome": "ALBONETTE & CAMPANA COMERCIO DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "INTEGRACAO NACIONAL",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110005",
+"municipio": "Cerejeiras",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/02/2016"
+},
+{
+"cnpj": "13595084000103",
+"cnes": null,
+"nome": "MACHADO & SILVA FARMACIA LTDA",
+"endereco": {
+"logradouro": "TANCREDO NEVES",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110092",
+"municipio": "Chupinguaia",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/11/2011"
+},
+{
+"cnpj": "04286217000160",
+"cnes": null,
+"nome": "CORREIA E TEODORO LTDA",
+"endereco": {
+"logradouro": "POTIGUARA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110006",
+"municipio": "Colorado do Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/09/2011"
+},
+{
+"cnpj": "84583129001050",
+"cnes": "4721179",
+"nome": "FARMACIA DINAMICA LTDA",
+"endereco": {
+"logradouro": "MARECHAL RONDON",
+"numero": "3261",
+"bairro": "CENTRO",
+"cep": "76993000"
+},
+"codigo_municipio": "110006",
+"municipio": "Colorado do Oeste",
+"latitude": -13.133668601106347,
+"longitude": -60.54322957992554,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "15843345000184",
+"cnes": "8317429",
+"nome": "R.M.D. COMERCIO DE MEDICAMENTOS LTDA - ME",
+"endereco": {
+"logradouro": "POTIGUARA",
+"numero": "3705",
+"bairro": "CENTRO",
+"cep": "76993000"
+},
+"codigo_municipio": "110006",
+"municipio": "Colorado do Oeste",
+"latitude": -13.123700818214635,
+"longitude": -60.542564392089844,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/10/2010"
+},
+{
+"cnpj": "08695109000100",
+"cnes": "4721225",
+"nome": "SANTA ISABEL COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+"endereco": {
+"logradouro": "MARECHAL RONDON",
+"numero": "3319",
+"bairro": "CENTRO",
+"cep": "76993000"
+},
+"codigo_municipio": "110006",
+"municipio": "Colorado do Oeste",
+"latitude": -13.127545880914296,
+"longitude": -60.544259548187256,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "22877666000165",
+"cnes": "3533034",
+"nome": "NASCIMENTO RIBEIRO FARMACIA LTDA",
+"endereco": {
+"logradouro": "ITALIA CAUTIERO FRANCO",
+"numero": "1963",
+"bairro": "CENTRO",
+"cep": "76995000"
+},
+"codigo_municipio": "110007",
+"municipio": "Corumbiara",
+"latitude": -12.998695,
+"longitude": -60.94348,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "04/07/2011"
+},
+{
+"cnpj": "03996962000130",
+"cnes": "3782859",
+"nome": "SOUZA FARMACIA LTDA",
+"endereco": {
+"logradouro": "ITALIA CAUTIERO FRANCO",
+"numero": "1879",
+"bairro": "CENTRO",
+"cep": "76995000"
+},
+"codigo_municipio": "110007",
+"municipio": "Corumbiara",
+"latitude": -12.998695,
+"longitude": -60.945621,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/01/2011"
+},
+{
+"cnpj": "63777882000116",
+"cnes": null,
+"nome": "M C DA SILVA DROGARIA - ME",
+"endereco": {
+"logradouro": "CHIANCA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110008",
+"municipio": "Costa Marques",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/08/2011"
+},
+{
+"cnpj": "14612725000145",
+"cnes": "8121060",
+"nome": "WAGNER EBER RIBEIRO - ME",
+"endereco": {
+"logradouro": "CHIANCA",
+"numero": "530",
+"bairro": "CENTRO",
+"cep": "76937000"
+},
+"codigo_municipio": "110008",
+"municipio": "Costa Marques",
+"latitude": -12.436500579510808,
+"longitude": -64.22934383153915,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "07314320000165",
+"cnes": null,
+"nome": "RIGOLON COMERCIO DE MEDICAMENTOS E DROGARIA LTDA ME",
+"endereco": {
+"logradouro": "CUJUBIM",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110094",
+"municipio": "Cujubim",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "05598263000168",
+"cnes": null,
+"nome": "FARMACIA BRASIL LTDA - EPP",
+"endereco": {
+"logradouro": "SETE DE SETEMBRO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110009",
+"municipio": "Espigão D'Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/05/2012"
+},
+{
+"cnpj": "84583129000755",
+"cnes": "7727984",
+"nome": "FARMACIA DINAMICA LTDA",
+"endereco": {
+"logradouro": "SETE DE SETEMBRO",
+"numero": "452",
+"bairro": "CENTRO",
+"cep": "76900690"
+},
+"codigo_municipio": "110009",
+"municipio": "Espigão D'Oeste",
+"latitude": -10.874292599691497,
+"longitude": -61.96299806128415,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/12/2012"
+},
+{
+"cnpj": "63778625000107",
+"cnes": null,
+"nome": "ALEXIS & DE NADAI LTDA ME",
+"endereco": {
+"logradouro": "COSTA MARQUES",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110010",
+"municipio": "Guajará-Mirim",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/09/2009"
+},
+{
+"cnpj": "09395227000158",
+"cnes": null,
+"nome": "J A DE OLIVEIRA FACCAS - ME",
+"endereco": {
+"logradouro": "DR LEWERGER",
+"numero": null,
+"bairro": "10 DE ABRIL",
+"cep": null
+},
+"codigo_municipio": "110010",
+"municipio": "Guajará-Mirim",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "84572197000123",
+"cnes": null,
+"nome": "MANUSSAKIS IMP E EXP LTDA",
+"endereco": {
+"logradouro": "MARECHAL DEODORO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110010",
+"municipio": "Guajará-Mirim",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/10/2010"
+},
+{
+"cnpj": "14231072000154",
+"cnes": null,
+"nome": "DAM MEDICAMENTOS - LTDA",
+"endereco": {
+"logradouro": "COSTA E SILVA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110110",
+"municipio": "Itapuã do Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/04/2012"
+},
+{
+"cnpj": "08606059000130",
+"cnes": "9250239",
+"nome": "FARMACIA E DROGARIA FONSECA LTDA",
+"endereco": {
+"logradouro": "DOM PEDRO I",
+"numero": "2616",
+"bairro": "SETOR 05",
+"cep": "76890000"
+},
+"codigo_municipio": "110011",
+"municipio": "Jaru",
+"latitude": -10.430796621806499,
+"longitude": -62.477638721466064,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "03/02/2010"
+},
+{
+"cnpj": "34464859000173",
+"cnes": "9247335",
+"nome": "MOREIRA & NOVAES LTDA",
+"endereco": {
+"logradouro": "J K",
+"numero": "1187",
+"bairro": "LIBERDADE",
+"cep": "76890000"
+},
+"codigo_municipio": "110011",
+"municipio": "Jaru",
+"latitude": -10.438815684712097,
+"longitude": -62.46600866317749,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/08/2011"
+},
+{
+"cnpj": "04896304000130",
+"cnes": "9250425",
+"nome": "PADANOSKI & RIBEIRO LTDA",
+"endereco": {
+"logradouro": "PADRE ADOLPHO ROHL",
+"numero": "S/N",
+"bairro": "SETOR 02",
+"cep": "76890000"
+},
+"codigo_municipio": "110011",
+"municipio": "Jaru",
+"latitude": -10.438815684712097,
+"longitude": -62.466158866882324,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/05/2010"
+},
+{
+"cnpj": "84617232000183",
+"cnes": "9250441",
+"nome": "TERRA SANTA COM DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "D. PEDRO I",
+"numero": "2552",
+"bairro": "SETOR 05",
+"cep": "76890000"
+},
+"codigo_municipio": "110011",
+"municipio": "Jaru",
+"latitude": -10.431092064632985,
+"longitude": -62.47791767120361,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/12/2013"
+},
+{
+"cnpj": "05652383000104",
+"cnes": "7400748",
+"nome": "ANTONIO & MELO LTDA ME",
+"endereco": {
+"logradouro": "BRASIL",
+"numero": "1659",
+"bairro": "NOVA BRASILIA",
+"cep": "76900803"
+},
+"codigo_municipio": "110012",
+"municipio": "Ji-Paraná",
+"latitude": -10.88642990276275,
+"longitude": -61.91534191710596,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/01/2011"
+},
+{
+"cnpj": "34756304000103",
+"cnes": "7338864",
+"nome": "COMERCIO DE MEDICAMENTOS MONTE CASTELO LTDA - ME",
+"endereco": {
+"logradouro": "MONTE CASTELO",
+"numero": "314",
+"bairro": "JARDIM DOS MIGRANTES",
+"cep": "76900690"
+},
+"codigo_municipio": "110012",
+"municipio": "Ji-Paraná",
+"latitude": -10.876654644673039,
+"longitude": -61.96442484855652,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/05/2012"
+},
+{
+"cnpj": "06626253052119",
+"cnes": "7338651",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "MARECHAL RONDON",
+"numero": "2142",
+"bairro": "DOIS DE ABRIL",
+"cep": "76900827"
+},
+"codigo_municipio": "110012",
+"municipio": "Ji-Paraná",
+"latitude": -10.875832827756026,
+"longitude": -61.95490837097168,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "84583129000674",
+"cnes": "7338023",
+"nome": "FARMÁCIA DINÂMICA LTDA",
+"endereco": {
+"logradouro": "MARECHAL RONDON",
+"numero": "1783",
+"bairro": "CENTRO",
+"cep": "76900121"
+},
+"codigo_municipio": "110012",
+"municipio": "Ji-Paraná",
+"latitude": -10.87563,
+"longitude": -61.95484,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "19/05/2008"
+},
+{
+"cnpj": "06020229000174",
+"cnes": null,
+"nome": "NIDIA NOGUEIRA - ME",
+"endereco": {
+"logradouro": "RO 257",
+"numero": null,
+"bairro": "QUINTO BEC",
+"cep": null
+},
+"codigo_municipio": "110013",
+"municipio": "Machadinho D'Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/05/2012"
+},
+{
+"cnpj": "05686712000120",
+"cnes": null,
+"nome": "SOUZA & LOPES - LTDA - ME",
+"endereco": {
+"logradouro": "GETULIO VARGAS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110013",
+"municipio": "Machadinho D'Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/01/2011"
+},
+{
+"cnpj": "17843060000179",
+"cnes": null,
+"nome": "V. PEIXOTO DA SILVA & CIA LTDA - ME",
+"endereco": {
+"logradouro": "GETULIO VARGAS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110013",
+"municipio": "Machadinho D'Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/04/2014"
+},
+{
+"cnpj": "84638998000144",
+"cnes": null,
+"nome": "DROGARIA NOIA LTDA - ME",
+"endereco": {
+"logradouro": "PAU BRASIL",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110120",
+"municipio": "Ministro Andreazza",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/01/2010"
+},
+{
+"cnpj": "15837057000117",
+"cnes": "8275688",
+"nome": "CAMARGO E SCUSSEL LTDA ME",
+"endereco": {
+"logradouro": "RIO BRANCO",
+"numero": "2466",
+"bairro": "CENTRO",
+"cep": "76926000"
+},
+"codigo_municipio": "110130",
+"municipio": "Mirante da Serra",
+"latitude": -11.02969432287827,
+"longitude": -62.673417421307335,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "04/07/2011"
+},
+{
+"cnpj": "09318125000139",
+"cnes": "8275564",
+"nome": "R. D. DE OLIVEIRA SOUZA & CIA LTDA",
+"endereco": {
+"logradouro": "DOS MIGRANTES C/ A AVENIDA RIO BRANCO",
+"numero": "2585",
+"bairro": "CENTRO",
+"cep": "76926000"
+},
+"codigo_municipio": "110130",
+"municipio": "Mirante da Serra",
+"latitude": -11.02998772314076,
+"longitude": -62.67326270540398,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2009"
+},
+{
+"cnpj": "63618631000199",
+"cnes": null,
+"nome": "B. S. R. PRODUTOS FARMACEUTICOS LTDA - EPP",
+"endereco": {
+"logradouro": "13 DE MAIO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110014",
+"municipio": "Nova Brasilândia D'Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/10/2014"
+},
+{
+"cnpj": "43683464000152",
+"cnes": null,
+"nome": "DROGARIA HIPER POPULAR DE NOVA MAMORE LTDA",
+"endereco": {
+"logradouro": "DEZIDERIO DOMINGOS LOPES",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110033",
+"municipio": "Nova Mamoré",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/08/2023"
+},
+{
+"cnpj": "20739844004587",
+"cnes": null,
+"nome": "MODENA & SILVA S/A",
+"endereco": {
+"logradouro": "DEZIDERIO DOMINGOS LOPES",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110033",
+"municipio": "Nova Mamoré",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/09/2023"
+},
+{
+"cnpj": "04210418000184",
+"cnes": null,
+"nome": "NOSSA PHARMACIA LTDA",
+"endereco": {
+"logradouro": "MANOEL FRANCISCO DE LIMA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110050",
+"municipio": "Novo Horizonte do Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/01/2011"
+},
+{
+"cnpj": "17730050000127",
+"cnes": null,
+"nome": "A G DE OLIVEIRA & CIA LTDA - ME",
+"endereco": {
+"logradouro": "DUQUE DE CAXIAS",
+"numero": null,
+"bairro": "NOVA OURO PRETO",
+"cep": null
+},
+"codigo_municipio": "110015",
+"municipio": "Ouro Preto do Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "16/01/2015"
+},
+{
+"cnpj": "03041110000190",
+"cnes": null,
+"nome": "AEROPORTO MEDICAMENTOS LTDA - ME",
+"endereco": {
+"logradouro": "MARIO ANDREAZZA",
+"numero": null,
+"bairro": "JARDIM AEROPORTO",
+"cep": null
+},
+"codigo_municipio": "110015",
+"municipio": "Ouro Preto do Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/05/2012"
+},
+{
+"cnpj": "84579457000192",
+"cnes": null,
+"nome": "NOVAFARMA MEDICAMENTOS E PERFUMARIA LTDA ME",
+"endereco": {
+"logradouro": "CARLOS GOMES",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110145",
+"municipio": "Parecis",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/05/2013"
+},
+{
+"cnpj": "05122395000119",
+"cnes": "7351992",
+"nome": "DROGA POPULAR LTDA - EPP",
+"endereco": {
+"logradouro": "MARECHAL RONDON",
+"numero": "590",
+"bairro": "DOS PIONEIROS",
+"cep": "76970000"
+},
+"codigo_municipio": "110018",
+"municipio": "Pimenta Bueno",
+"latitude": -11.67297789052427,
+"longitude": -61.19260311126709,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "17/12/2013"
+},
+{
+"cnpj": "14585053000126",
+"cnes": "7340214",
+"nome": "FARMACIA MARINGA LTDA - ME",
+"endereco": {
+"logradouro": "PRUDENTE DE MORAIS",
+"numero": "101",
+"bairro": "DOS PIONEIROS",
+"cep": "76970000"
+},
+"codigo_municipio": "110018",
+"municipio": "Pimenta Bueno",
+"latitude": -11.672830793242202,
+"longitude": -61.192967891693115,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "04/07/2011"
+},
+{
+"cnpj": "05560768000133",
+"cnes": "7340311",
+"nome": "J. RIDON BORGES - ME",
+"endereco": {
+"logradouro": "CARLOS DONEJE",
+"numero": "21",
+"bairro": "SERINGAL",
+"cep": "76970000"
+},
+"codigo_municipio": "110018",
+"municipio": "Pimenta Bueno",
+"latitude": -11.673019918304826,
+"longitude": -61.19292497634888,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/05/2006"
+},
+{
+"cnpj": "63778211000170",
+"cnes": "7340176",
+"nome": "MOYSES MEDICAMENTOS LTDA - EPP",
+"endereco": {
+"logradouro": "CASSIMIRO DE ABREU",
+"numero": "113",
+"bairro": "DOS PIONEIROS",
+"cep": "76970000"
+},
+"codigo_municipio": "110018",
+"municipio": "Pimenta Bueno",
+"latitude": -11.672998904415351,
+"longitude": -61.19281768798828,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "17/12/2013"
+},
+{
+"cnpj": "84583129000240",
+"cnes": "7434561",
+"nome": "REDE DE LOGISTICA FARMACEUTICA DINAMICA LTDA",
+"endereco": {
+"logradouro": "CARLOS DONEJE",
+"numero": "149",
+"bairro": "SERINGAL",
+"cep": "76970000"
+},
+"codigo_municipio": "110018",
+"municipio": "Pimenta Bueno",
+"latitude": -11.672767751526,
+"longitude": -61.19301080703735,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/08/2007"
+},
+{
+"cnpj": "06626253030735",
+"cnes": "8154805",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "SETE DE SETEMBRO",
+"numero": "1409",
+"bairro": "CENTRO",
+"cep": "76801028"
+},
+"codigo_municipio": "110020",
+"municipio": "Porto Velho",
+"latitude": -8.763439376005405,
+"longitude": -63.897699415683746,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "03/06/2009"
+},
+{
+"cnpj": "06626253038809",
+"cnes": "0893188",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "JATUARANA",
+"numero": "4469",
+"bairro": "NOVA FLORESTA",
+"cep": "76807313"
+},
+"codigo_municipio": "110020",
+"municipio": "Porto Velho",
+"latitude": -8.791598780266876,
+"longitude": -63.8858762383461,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/01/2011"
+},
+{
+"cnpj": "84597020000181",
+"cnes": "0966126",
+"nome": "M F NECRE EIRELI - ME",
+"endereco": {
+"logradouro": "UNIAO",
+"numero": "2331",
+"bairro": "SAO FRANCISCO",
+"cep": "76813304"
+},
+"codigo_municipio": "110020",
+"municipio": "Porto Velho",
+"latitude": -8.769729899852925,
+"longitude": -63.829702734947205,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/10/2014"
+},
+{
+"cnpj": "05320802000100",
+"cnes": "8303010",
+"nome": "GLOBO COMERCIAL LTDA - ME",
+"endereco": {
+"logradouro": "NOVA BRASILIA",
+"numero": "2770",
+"bairro": "CENTRO",
+"cep": "76916000"
+},
+"codigo_municipio": "110025",
+"municipio": "Presidente Médici",
+"latitude": -11.171307740240739,
+"longitude": -61.90394639968872,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/01/2011"
+},
+{
+"cnpj": "04789026000111",
+"cnes": "8179247",
+"nome": "M S REVERS  LTDA",
+"endereco": {
+"logradouro": "ERMELINDO MILANI",
+"numero": "1142",
+"bairro": "SETOR 01",
+"cep": "76863000"
+},
+"codigo_municipio": "110026",
+"municipio": "Rio Crespo",
+"latitude": -9.705567245973626,
+"longitude": -62.90014028549194,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/12/2012"
+},
+{
+"cnpj": "10340261000104",
+"cnes": null,
+"nome": "DROGARIA BENATI LTDA - ME",
+"endereco": {
+"logradouro": "25 DE AGOSTO",
+"numero": null,
+"bairro": "CIDADE ALTA",
+"cep": null
+},
+"codigo_municipio": "110028",
+"municipio": "Rolim de Moura",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "04/07/2011"
+},
+{
+"cnpj": "05373390000169",
+"cnes": null,
+"nome": "FARMACIA GLOBO LTDA - ME",
+"endereco": {
+"logradouro": "25 DE AGOSTO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110028",
+"municipio": "Rolim de Moura",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/12/2012"
+},
+{
+"cnpj": "34775866000196",
+"cnes": null,
+"nome": "JESUS & HENNING LTDA - EPP",
+"endereco": {
+"logradouro": "25 DE AGOSTO",
+"numero": null,
+"bairro": "CIDADE ALTA",
+"cep": null
+},
+"codigo_municipio": "110028",
+"municipio": "Rolim de Moura",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "03/03/2009"
+},
+{
+"cnpj": "04797536000130",
+"cnes": null,
+"nome": "JOAO CARLOS ANACLETO - EPP",
+"endereco": {
+"logradouro": "25 DE AGOSTO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110028",
+"municipio": "Rolim de Moura",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/12/2012"
+},
+{
+"cnpj": "19954003000192",
+"cnes": "8305129",
+"nome": "LAB COMERCIAL EIRELI - ME",
+"endereco": {
+"logradouro": "TANCREDO DE ALMEIDA NEVES",
+"numero": "2977",
+"bairro": "DISTRITO DE NOVA ESTRELA",
+"cep": "76940000"
+},
+"codigo_municipio": "110028",
+"municipio": "Rolim de Moura",
+"latitude": -11.72674934839673,
+"longitude": -61.548900809099905,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/04/2015"
+},
+{
+"cnpj": "07405987000173",
+"cnes": null,
+"nome": "M. A. DA SILVA & CIA LTDA - EPP",
+"endereco": {
+"logradouro": "ARACAJU",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110028",
+"municipio": "Rolim de Moura",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/01/2011"
+},
+{
+"cnpj": "08227391000193",
+"cnes": null,
+"nome": "PALMIERI & CIA LTDA - EPP",
+"endereco": {
+"logradouro": "NORTE SUL",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110028",
+"municipio": "Rolim de Moura",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "07022474000183",
+"cnes": null,
+"nome": "PASIEKA & SANTOS - PRODUTOS FARMACEUTICOS LTDA EPP",
+"endereco": {
+"logradouro": "NORTE SUL",
+"numero": null,
+"bairro": "BOA ESPERANCA",
+"cep": null
+},
+"codigo_municipio": "110028",
+"municipio": "Rolim de Moura",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/09/2010"
+},
+{
+"cnpj": "12811919000144",
+"cnes": null,
+"nome": "J. OSTROWSKI DE SOUZA & SOUZA LTDA",
+"endereco": {
+"logradouro": "BRASIL",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110029",
+"municipio": "Santa Luzia D'Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2011"
+},
+{
+"cnpj": "02300256000140",
+"cnes": "8095388",
+"nome": "AUREO MOURA BARTOLINI",
+"endereco": {
+"logradouro": "FLAMBOYANT",
+"numero": "481",
+"bairro": "CENTRO",
+"cep": "76934000"
+},
+"codigo_municipio": "110150",
+"municipio": "Seringueiras",
+"latitude": -11.767408704229638,
+"longitude": -63.038791716098785,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/10/2010"
+},
+{
+"cnpj": "03322321000109",
+"cnes": "8094721",
+"nome": "SOARES & BOLZON LTDA ME",
+"endereco": {
+"logradouro": "FLAMBOYANT",
+"numero": "436",
+"bairro": "CENTRO",
+"cep": "76934000"
+},
+"codigo_municipio": "110150",
+"municipio": "Seringueiras",
+"latitude": -11.767358813293395,
+"longitude": -63.03854763507843,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/08/2011"
+},
+{
+"cnpj": "09433892000199",
+"cnes": null,
+"nome": "M. I. DA SILVEIRA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - EPP",
+"endereco": {
+"logradouro": "VALDIVINO MARQUES BARBOSA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110148",
+"municipio": "São Felipe D'Oeste",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/08/2011"
+},
+{
+"cnpj": "10326124000115",
+"cnes": null,
+"nome": "S R COMERCIO DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "TANCREDO NEVES",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110149",
+"municipio": "São Francisco do Guaporé",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "04/07/2011"
+},
+{
+"cnpj": "63796718000156",
+"cnes": "0549843",
+"nome": "DROGARIA LIDER DE URUPA LTDA EPP - ME",
+"endereco": {
+"logradouro": "MOACIR DE PAULA VIEIRA",
+"numero": "3747",
+"bairro": "CENTRO",
+"cep": "76929000"
+},
+"codigo_municipio": "110170",
+"municipio": "Urupá",
+"latitude": -11.126254896226614,
+"longitude": -62.36661672592163,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/08/2014"
+},
+{
+"cnpj": "06326740000107",
+"cnes": "0561037",
+"nome": "J. MARIA TEIXEIRA & CIA LTDA - ME",
+"endereco": {
+"logradouro": "AV MOACIR DE PAULA VIEIRA 3706-A",
+"numero": "2026",
+"bairro": "CENTRO",
+"cep": "76929970"
+},
+"codigo_municipio": "110170",
+"municipio": "Urupá",
+"latitude": -11.125918026255441,
+"longitude": -62.366251945495605,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/10/2013"
+},
+{
+"cnpj": "09561680000197",
+"cnes": "0547808",
+"nome": "J. RABELO DE FREITAS & CIA LTDA ME",
+"endereco": {
+"logradouro": "MOACIR DE PAULA VIEIRA",
+"numero": "4169",
+"bairro": "NOVO HORIZONTE",
+"cep": "76929000"
+},
+"codigo_municipio": "110170",
+"municipio": "Urupá",
+"latitude": -11.125007422665092,
+"longitude": -62.37006068229675,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/05/2010"
+},
+{
+"cnpj": "00821555000102",
+"cnes": null,
+"nome": "J.R.COSTA & CIA LTDA",
+"endereco": {
+"logradouro": "ACIR JOSE  DAMACENO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110175",
+"municipio": "Vale do Anari",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "04/07/2011"
+},
+{
+"cnpj": "07781927000155",
+"cnes": null,
+"nome": "FANCHETTI & FANCHETTI LTDA",
+"endereco": {
+"logradouro": "PARANA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "110180",
+"municipio": "Vale do Paraíso",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2011"
+},
+{
+"cnpj": "02027438000199",
+"cnes": "8222282",
+"nome": "G. DE ANDRADE PEREIRA-ME",
+"endereco": {
+"logradouro": "PARANA",
+"numero": "4359",
+"bairro": "CENTRO",
+"cep": "76923000"
+},
+"codigo_municipio": "110180",
+"municipio": "Vale do Paraíso",
+"latitude": -10.428385586829528,
+"longitude": -62.130308747291565,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/08/2011"
+},
+{
+"cnpj": "16587112000120",
+"cnes": null,
+"nome": "BEM ESTAR COMERCIO DE MEDICAMENTOS LTDA - ME",
+"endereco": {
+"logradouro": "PERNAMBUCO",
+"numero": null,
+"bairro": "RESIDENCIAL MORIA",
+"cep": null
+},
+"codigo_municipio": "110030",
+"municipio": "Vilhena",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/10/2013"
+},
+{
+"cnpj": "04012000000162",
+"cnes": "4283082",
+"nome": "DROGAMAIS MEDICAMENTOS LTDA - EPP",
+"endereco": {
+"logradouro": "PARANA",
+"numero": "1108",
+"bairro": "NOVA VILHENA",
+"cep": "76987300"
+},
+"codigo_municipio": "110030",
+"municipio": "Vilhena",
+"latitude": -12.740609,
+"longitude": -60.1139267,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "17/06/2011"
+},
+{
+"cnpj": "06626253048197",
+"cnes": "0906123",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "MARECHAL RONDON",
+"numero": "3476",
+"bairro": "CENTRO (S-01)",
+"cep": "76980002"
+},
+"codigo_municipio": "110030",
+"municipio": "Vilhena",
+"latitude": -12.73991901352992,
+"longitude": -60.14167070388794,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/02/2013"
+},
+{
+"cnpj": "84583129000160",
+"cnes": "0783331",
+"nome": "FARMACIA DINAMICA LTDA",
+"endereco": {
+"logradouro": "MAJOR AMARANTE",
+"numero": "3008",
+"bairro": "CENTRO (S-01)",
+"cep": "76980152"
+},
+"codigo_municipio": "110030",
+"municipio": "Vilhena",
+"latitude": -12.740295742604971,
+"longitude": -60.139760971069336,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/08/2007"
+},
+{
+"cnpj": "84583129001131",
+"cnes": "9879978",
+"nome": "FARMACIA DINAMICA LTDA",
+"endereco": {
+"logradouro": "MARQUES HENRIQUE",
+"numero": "238",
+"bairro": "CENTRO (S-01)",
+"cep": "76980086"
+},
+"codigo_municipio": "110030",
+"municipio": "Vilhena",
+"latitude": -12.740128307529647,
+"longitude": -60.13984680175781,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/08/2014"
+},
+{
+"cnpj": "10609860000180",
+"cnes": null,
+"nome": "JOSE UYLAME DA SILVA & CIA LTDA ME",
+"endereco": {
+"logradouro": "MELVIN JONES",
+"numero": null,
+"bairro": "CRISTO REI",
+"cep": null
+},
+"codigo_municipio": "110030",
+"municipio": "Vilhena",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/07/2010"
+},
+{
+"cnpj": "07262515000109",
+"cnes": null,
+"nome": "L. P. STRANIERI & CIA LTDA - EPP",
+"endereco": {
+"logradouro": "JO SATO",
+"numero": null,
+"bairro": "JARDIM AMERICA",
+"cep": null
+},
+"codigo_municipio": "110030",
+"municipio": "Vilhena",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "07283759000178",
+"cnes": "9770186",
+"nome": "L. ZANIN & CIA LTDA - ME",
+"endereco": {
+"logradouro": "PARANA",
+"numero": "822",
+"bairro": "SAO PAULO",
+"cep": "76987300"
+},
+"codigo_municipio": "110030",
+"municipio": "Vilhena",
+"latitude": -12.734581958141773,
+"longitude": -60.112595558166504,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/09/2013"
+},
+{
+"cnpj": "63617419000107",
+"cnes": null,
+"nome": "SEGANTINI & CIA LTDA - EPP",
+"endereco": {
+"logradouro": "MARECHAL RONDON",
+"numero": null,
+"bairro": "CENTRO (S-01)",
+"cep": null
+},
+"codigo_municipio": "110030",
+"municipio": "Vilhena",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/12/2014"
+}
+]
+}

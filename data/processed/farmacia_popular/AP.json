@@ -1,0 +1,204 @@
+{
+"fonte": {
+"programa": "Programa Farmácia Popular do Brasil",
+"orgao": "Ministério da Saúde",
+"documento": "Consulta de Endereço das Farmácias (farmácias ativas)",
+"url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
+"data_referencia": "2026-10-08",
+"data_obtencao": "2026-10-12",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+},
+"uf": "AP",
+"estabelecimentos": [
+{
+"cnpj": "18393870000133",
+"cnes": "8314438",
+"nome": "DROGAO POPULAR LTDA",
+"endereco": {
+"logradouro": "GUANABARA",
+"numero": "768",
+"bairro": "PACOVAL",
+"cep": "68908360"
+},
+"codigo_municipio": "160030",
+"municipio": "Macapá",
+"latitude": 0.038967129564370026,
+"longitude": -51.057608127593994,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "16/06/2015"
+},
+{
+"cnpj": "06626253033912",
+"cnes": "2897008",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "ELIEZER LEVY",
+"numero": "1902",
+"bairro": "CENTRAL",
+"cep": "68900083"
+},
+"codigo_municipio": "160030",
+"municipio": "Macapá",
+"latitude": 0.03913879090144508,
+"longitude": -51.0573935508728,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/01/2011"
+},
+{
+"cnpj": "06626253044523",
+"cnes": "4248430",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "TIRADENTES",
+"numero": "844",
+"bairro": "CENTRAL",
+"cep": "68900098"
+},
+"codigo_municipio": "160030",
+"municipio": "Macapá",
+"latitude": 0.8013026,
+"longitude": -50.7359093,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/02/2013"
+},
+{
+"cnpj": "06626253048278",
+"cnes": "2885247",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "GUANABARA",
+"numero": "126",
+"bairro": "PACOVAL",
+"cep": "68908360"
+},
+"codigo_municipio": "160030",
+"municipio": "Macapá",
+"latitude": 0.0584177,
+"longitude": -51.055086,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/02/2013"
+},
+{
+"cnpj": "14440437000150",
+"cnes": "8314411",
+"nome": "FARMACIA DO POVO LTDA",
+"endereco": {
+"logradouro": "CICERO MARQUES DE SOUZA",
+"numero": "2474",
+"bairro": "NOVO HORIZONTE",
+"cep": "68909803"
+},
+"codigo_municipio": "160030",
+"municipio": "Macapá",
+"latitude": 0.038967129564370026,
+"longitude": -51.05754375457764,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/06/2015"
+},
+{
+"cnpj": "14906672000175",
+"cnes": "8314527",
+"nome": "FARMACIA PRECO POPULAR LTDA - EPP",
+"endereco": {
+"logradouro": "LEOPOLDO MACHADO",
+"numero": "1991",
+"bairro": "CENTRAL",
+"cep": "68900067"
+},
+"codigo_municipio": "160030",
+"municipio": "Macapá",
+"latitude": 0.025491713636530182,
+"longitude": -51.0629940032959,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "16/06/2015"
+},
+{
+"cnpj": "11242801000180",
+"cnes": "8314403",
+"nome": "VENANCIO E VENANCIO LTDA",
+"endereco": {
+"logradouro": "GENERAL RONDON",
+"numero": "1046",
+"bairro": "JULIAO RAMOS",
+"cep": "68908181"
+},
+"codigo_municipio": "160030",
+"municipio": "Macapá",
+"latitude": 0.03894567189721338,
+"longitude": -51.05754375457764,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "16/06/2015"
+},
+{
+"cnpj": "27284669000109",
+"cnes": null,
+"nome": "JK SUPLEMENTOS LTDA",
+"endereco": {
+"logradouro": "BR 156",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "160050",
+"municipio": "Oiapoque",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/09/2023"
+},
+{
+"cnpj": "16889181000199",
+"cnes": "0642614",
+"nome": "DROGARIA ULTRA POPULAR LTDA",
+"endereco": {
+"logradouro": "PEDRO SALVADOR DINIZ",
+"numero": "923",
+"bairro": "CENTRAL",
+"cep": "68925001"
+},
+"codigo_municipio": "160060",
+"municipio": "Santana",
+"latitude": -0.04396676585715345,
+"longitude": -51.17023944854736,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/06/2015"
+},
+{
+"cnpj": "06626253055568",
+"cnes": "8507929",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "SOUZA MAR",
+"numero": "632",
+"bairro": "COMERCIAL",
+"cep": "68925186"
+},
+"codigo_municipio": "160060",
+"municipio": "Santana",
+"latitude": -0.04186391457946286,
+"longitude": -51.17257833480835,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/04/2014"
+}
+]
+}

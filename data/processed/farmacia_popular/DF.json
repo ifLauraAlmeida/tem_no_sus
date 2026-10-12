@@ -1,0 +1,5296 @@
+{
+"fonte": {
+"programa": "Programa Farmácia Popular do Brasil",
+"orgao": "Ministério da Saúde",
+"documento": "Consulta de Endereço das Farmácias (farmácias ativas)",
+"url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
+"data_referencia": "2026-10-08",
+"data_obtencao": "2026-10-12",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+},
+"uf": "DF",
+"estabelecimentos": [
+{
+"cnpj": "05284619000199",
+"cnes": null,
+"nome": "ALTAIR ASSUNCAO DA CUNHA DROGARIA - ME",
+"endereco": {
+"logradouro": "CL 103",
+"numero": null,
+"bairro": "SANTA MARIA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "04303916000171",
+"cnes": null,
+"nome": "ALYNE CRISTHIAN FERREIRA - EPP",
+"endereco": {
+"logradouro": "COMERCIO LOCAL BLOCO A",
+"numero": null,
+"bairro": "CRUZEIRO VELHO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/12/2013"
+},
+{
+"cnpj": "08692807000144",
+"cnes": null,
+"nome": "AM&M COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
+"endereco": {
+"logradouro": "QUADRA 30 CO 22",
+"numero": null,
+"bairro": "PARANOA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "07326938000145",
+"cnes": null,
+"nome": "AND DROGARIA LTDA - ME",
+"endereco": {
+"logradouro": "LARA CONJUNTO A",
+"numero": null,
+"bairro": "NOVA COLINA (SOBRADINHO)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "17661409000151",
+"cnes": null,
+"nome": "BIGFARMA COMERCIO DE MEDICAMENTOS LTDA - ME",
+"endereco": {
+"logradouro": "QUADRA 27 CO 19",
+"numero": null,
+"bairro": "PARANOA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "08/12/2014"
+},
+{
+"cnpj": "02010627000159",
+"cnes": null,
+"nome": "DC COMERCIO DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "CENTRAL BLOCOS 525/635",
+"numero": null,
+"bairro": "NUCLEO BANDEIRANTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/07/2006"
+},
+{
+"cnpj": "17978448000187",
+"cnes": "8400067",
+"nome": "DF COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
+"endereco": {
+"logradouro": "QN 310 CO 1",
+"numero": "310",
+"bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
+"cep": "72306701"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.87372,
+"longitude": -48.072222,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/10/2014"
+},
+{
+"cnpj": "06277527000144",
+"cnes": null,
+"nome": "DROGARIA 44 LTDA - ME",
+"endereco": {
+"logradouro": "QE 42 CO A",
+"numero": null,
+"bairro": "GUARA II",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/09/2014"
+},
+{
+"cnpj": "01276256000199",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "CSB 2",
+"numero": null,
+"bairro": "TAGUATINGA SUL (TAGUATINGA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256000270",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "SCN QUADRA 2 BL D",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256000431",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "CNA 2",
+"numero": null,
+"bairro": "TAGUATINGA NORTE (TAGUATINGA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256000601",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "ALECRIM",
+"numero": null,
+"bairro": "NORTE (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256000784",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "CLS 309 BL C",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256000865",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "QUADRA 4",
+"numero": null,
+"bairro": "SETOR NORTE (BRAZLANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256000946",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "QNN 1 CO D",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256001080",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "QNN 20 CO P",
+"numero": null,
+"bairro": "CEILANDIA SUL (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256001241",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "QN 314 CO 1",
+"numero": null,
+"bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256001403",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "SHIN QI 13",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256001675",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "QUADRA 103",
+"numero": null,
+"bairro": "RECANTO DAS EMAS",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256001756",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "SHIN QI 1",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/08/2007"
+},
+{
+"cnpj": "01276256001918",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "DOS EUCALIPTOS QUADRA 107",
+"numero": null,
+"bairro": "NORTE (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "22/09/2010"
+},
+{
+"cnpj": "01276256002213",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "CENTRAL BLOCO 12",
+"numero": null,
+"bairro": "SOBRADINHO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/05/2011"
+},
+{
+"cnpj": "01276256002302",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "CLS 302 BL B",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "01276256002566",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "205",
+"numero": null,
+"bairro": "SUL (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "13/08/2013"
+},
+{
+"cnpj": "01276256002647",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "EQ 35/36 BL E",
+"numero": null,
+"bairro": "VILA SAO JOSE (BRAZLANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "01276256002809",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "COPAIBA",
+"numero": null,
+"bairro": "NORTE (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "01276256002990",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "QSE 13",
+"numero": null,
+"bairro": "TAGUATINGA SUL (TAGUATINGA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "01276256003457",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "DAS PAINEIRAS",
+"numero": null,
+"bairro": "NORTE (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/08/2014"
+},
+{
+"cnpj": "01276256003538",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "AREA ESPECIAL 4",
+"numero": null,
+"bairro": "GUARA II",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/08/2014"
+},
+{
+"cnpj": "01276256003880",
+"cnes": null,
+"nome": "DROGARIA ALAMEDA LTDA",
+"endereco": {
+"logradouro": "CLSW 303 BL C",
+"numero": null,
+"bairro": "SETOR SUDOESTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/06/2015"
+},
+{
+"cnpj": "08404574000137",
+"cnes": null,
+"nome": "DROGARIA ALMEIDA E OLIVEIRA LTDA - ME",
+"endereco": {
+"logradouro": "QN 14B CO 5",
+"numero": null,
+"bairro": "RIACHO FUNDO II",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "19/11/2014"
+},
+{
+"cnpj": "10520119000149",
+"cnes": null,
+"nome": "DROGARIA ARUANDA E JANAINA LTDA - ME",
+"endereco": {
+"logradouro": "13 CONJUNTO D",
+"numero": null,
+"bairro": "ARAPOANGA (PLANALTINA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/06/2015"
+},
+{
+"cnpj": "12028058000122",
+"cnes": null,
+"nome": "DROGARIA B E B LTDA - ME",
+"endereco": {
+"logradouro": "QS 402 CO B",
+"numero": null,
+"bairro": "SAMAMBAIA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "19/11/2014"
+},
+{
+"cnpj": "06926940000192",
+"cnes": null,
+"nome": "DROGARIA BELA VISTA LTDA",
+"endereco": {
+"logradouro": "ROD DF-150 KM 2,5",
+"numero": null,
+"bairro": "GRANDE COLORADO (SOBRADINHO)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/12/2012"
+},
+{
+"cnpj": "07393162000186",
+"cnes": null,
+"nome": "DROGARIA BEM VIVER LTDA - ME",
+"endereco": {
+"logradouro": "CL 216",
+"numero": null,
+"bairro": "SANTA MARIA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "17247286000107",
+"cnes": null,
+"nome": "DROGARIA BERNA LTDA - ME",
+"endereco": {
+"logradouro": "df RF II QS 14 CONJUNTO 03 LOTE 14 loja 01",
+"numero": null,
+"bairro": "RIACHO FUNDO II",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "17/12/2013"
+},
+{
+"cnpj": "00372383000129",
+"cnes": null,
+"nome": "DROGARIA BRASIL LTDA",
+"endereco": {
+"logradouro": "SHCES QUADRA 303 BL C",
+"numero": null,
+"bairro": "CRUZEIRO NOVO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2009"
+},
+{
+"cnpj": "00372383000200",
+"cnes": null,
+"nome": "DROGARIA BRASIL LTDA",
+"endereco": {
+"logradouro": "SHC/AOS AREA ESPECIAL 4/5 CL",
+"numero": null,
+"bairro": "AREA OCTOGONAL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2009"
+},
+{
+"cnpj": "00372383000471",
+"cnes": null,
+"nome": "DROGARIA BRASIL LTDA",
+"endereco": {
+"logradouro": "CLSW 300B BL 1",
+"numero": null,
+"bairro": "SETOR SUDOESTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2009"
+},
+{
+"cnpj": "00372383000714",
+"cnes": null,
+"nome": "DROGARIA BRASIL LTDA",
+"endereco": {
+"logradouro": "DO EXERCITO",
+"numero": null,
+"bairro": "SETOR MILITAR URBANO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/03/2018"
+},
+{
+"cnpj": "00372383000803",
+"cnes": null,
+"nome": "DROGARIA BRASIL LTDA",
+"endereco": {
+"logradouro": "CLSW 105 BL C",
+"numero": null,
+"bairro": "SETOR SUDOESTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/03/2018"
+},
+{
+"cnpj": "00372383000986",
+"cnes": null,
+"nome": "DROGARIA BRASIL LTDA",
+"endereco": {
+"logradouro": "SRES AREA ESPECIAL BLOCO C",
+"numero": null,
+"bairro": "CRUZEIRO VELHO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/03/2018"
+},
+{
+"cnpj": "00372383001010",
+"cnes": null,
+"nome": "DROGARIA BRASIL LTDA",
+"endereco": {
+"logradouro": "SHCES QUADRA 1501 BL I",
+"numero": null,
+"bairro": "CRUZEIRO NOVO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/03/2018"
+},
+{
+"cnpj": "97536452000124",
+"cnes": null,
+"nome": "DROGARIA CARDOSO E SILVA LTDA - EPP",
+"endereco": {
+"logradouro": "CLS 214 BL B",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/10/2013"
+},
+{
+"cnpj": "12091996000177",
+"cnes": null,
+"nome": "DROGARIA CARLOS & LARA LTDA - ME",
+"endereco": {
+"logradouro": "QN 305 CO 1",
+"numero": null,
+"bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "08606173000160",
+"cnes": null,
+"nome": "DROGARIA CLAUDIANA LTDA - ME",
+"endereco": {
+"logradouro": "QNP 9",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/12/2014"
+},
+{
+"cnpj": "04620919000139",
+"cnes": "8302049",
+"nome": "DROGARIA CNJ LTDA",
+"endereco": {
+"logradouro": "CNJ 1",
+"numero": "89",
+"bairro": "TAGUATINGA NORTE (TAGUATINGA)",
+"cep": "72140015"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.811258993111492,
+"longitude": -48.084062510877054,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/08/2010"
+},
+{
+"cnpj": "07773909000121",
+"cnes": null,
+"nome": "DROGARIA CRUZEIRO NOVO LTDA",
+"endereco": {
+"logradouro": "SHCES QUADRA 603 BL C",
+"numero": null,
+"bairro": "CRUZEIRO NOVO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "08/09/2011"
+},
+{
+"cnpj": "04493929000150",
+"cnes": null,
+"nome": "DROGARIA DA ECONOMIA SAO SEBASTIAO LTDA",
+"endereco": {
+"logradouro": "DA GAMELEIRA",
+"numero": null,
+"bairro": "CENTRO (SAO SEBASTIAO)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/12/2012"
+},
+{
+"cnpj": "04224951000103",
+"cnes": null,
+"nome": "DROGARIA DISTRITO SAUDE LTDA",
+"endereco": {
+"logradouro": "CND 2",
+"numero": null,
+"bairro": "TAGUATINGA NORTE (TAGUATINGA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/05/2010"
+},
+{
+"cnpj": "13505274000184",
+"cnes": null,
+"nome": "DROGARIA DIVINA BACELAR LTDA",
+"endereco": {
+"logradouro": "EQNP 30/34 BL F",
+"numero": null,
+"bairro": "CEILANDIA SUL (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "03730556000121",
+"cnes": null,
+"nome": "DROGARIA DROGAFORTE LTDA - ME",
+"endereco": {
+"logradouro": "SHMA - PRACA DE ATIVIDADES 4 - PA4 - PORTAL DAS CA",
+"numero": null,
+"bairro": "SAO SEBASTIAO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/03/2013"
+},
+{
+"cnpj": "11985729000180",
+"cnes": "8381291",
+"nome": "DROGARIA DROGAFUJI LTDA",
+"endereco": {
+"logradouro": "QNO 2 CO A",
+"numero": "06",
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": "72250201"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.797125186423381,
+"longitude": -48.120391450333784,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/12/2010"
+},
+{
+"cnpj": "15343923000113",
+"cnes": "8310645",
+"nome": "DROGARIA E PERFUMARIA BARBOSA & SILVA LTDA - EPP",
+"endereco": {
+"logradouro": "EQNP 7/11 BL E",
+"numero": "S/N",
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": "72240545"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.818278383964696,
+"longitude": -48.129652440737246,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/09/2013"
+},
+{
+"cnpj": "04070623000191",
+"cnes": null,
+"nome": "DROGARIA E PERFUMARIA BORGES LTDA-EPP",
+"endereco": {
+"logradouro": "CLS 4 BL A",
+"numero": null,
+"bairro": "RIACHO FUNDO I",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/03/2010"
+},
+{
+"cnpj": "10912735000145",
+"cnes": null,
+"nome": "DROGARIA E PERFUMARIA CERTA LTDA - ME",
+"endereco": {
+"logradouro": "QSB 9",
+"numero": null,
+"bairro": "TAGUATINGA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/10/2013"
+},
+{
+"cnpj": "07338333000174",
+"cnes": null,
+"nome": "DROGARIA ESTANCIA LTDA EPP",
+"endereco": {
+"logradouro": "ROD BR-020 KM 2,5",
+"numero": null,
+"bairro": "REGIAO DOS LAGOS (SOBRADINHO)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/09/2010"
+},
+{
+"cnpj": "00477265000185",
+"cnes": null,
+"nome": "DROGARIA ESTRELA LTDA",
+"endereco": {
+"logradouro": "QUADRA 9",
+"numero": null,
+"bairro": "SETOR OESTE GAMA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/09/2006"
+},
+{
+"cnpj": "08699200000196",
+"cnes": null,
+"nome": "DROGARIA FARIAS E BRITO LTDA - ME",
+"endereco": {
+"logradouro": "QUADRA 307 CO 16",
+"numero": null,
+"bairro": "RECANTO DAS EMAS",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "03/11/2014"
+},
+{
+"cnpj": "00061325000184",
+"cnes": null,
+"nome": "DROGARIA FARMAFUJI",
+"endereco": {
+"logradouro": "EQNO 11/13 BL F",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/11/2006"
+},
+{
+"cnpj": "10891495000140",
+"cnes": null,
+"nome": "DROGARIA FATIMA LTDA",
+"endereco": {
+"logradouro": "CNR 1 CO C",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/04/2011"
+},
+{
+"cnpj": "08273933000164",
+"cnes": null,
+"nome": "DROGARIA FM LTDA",
+"endereco": {
+"logradouro": "EQNP 26/30 BL G",
+"numero": null,
+"bairro": "CEILANDIA SUL (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "28/04/2015"
+},
+{
+"cnpj": "11042607000150",
+"cnes": "8346720",
+"nome": "DROGARIA FORCA E VIDA LTDA",
+"endereco": {
+"logradouro": "QUADRA 203",
+"numero": "05",
+"bairro": "RECANTO DAS EMAS",
+"cep": "72610300"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.905158047256725,
+"longitude": -48.06594060000725,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/08/2011"
+},
+{
+"cnpj": "13008466000185",
+"cnes": null,
+"nome": "DROGARIA FORTALEZA LTDA",
+"endereco": {
+"logradouro": "RUA 12 CH 312",
+"numero": null,
+"bairro": "SETOR HABITACIONAL VICENTE PIRES",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/09/2013"
+},
+{
+"cnpj": "17266929000160",
+"cnes": null,
+"nome": "DROGARIA GABRIEL AKIO LTDA - ME",
+"endereco": {
+"logradouro": "QUADRA 6",
+"numero": null,
+"bairro": "SETOR OESTE (GAMA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/10/2013"
+},
+{
+"cnpj": "12020875000134",
+"cnes": null,
+"nome": "DROGARIA GONCALVES CRUZEIRO LTDA - EPP",
+"endereco": {
+"logradouro": "QR 408 CO 16",
+"numero": null,
+"bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/09/2013"
+},
+{
+"cnpj": "10926199000137",
+"cnes": null,
+"nome": "DROGARIA GONÇALVES E SILVA EIRELI",
+"endereco": {
+"logradouro": "QR 323 CO 12",
+"numero": null,
+"bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "27/04/2015"
+},
+{
+"cnpj": "19714749000129",
+"cnes": null,
+"nome": "DROGARIA H. S. J. LTDA - ME",
+"endereco": {
+"logradouro": "ITAPOA",
+"numero": null,
+"bairro": "ITAPOA I",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/05/2015"
+},
+{
+"cnpj": "07817377000187",
+"cnes": null,
+"nome": "DROGARIA HIPER-FARMA LTDA ME",
+"endereco": {
+"logradouro": "QN 15C CO 4",
+"numero": null,
+"bairro": "RIACHO FUNDO II",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/03/2010"
+},
+{
+"cnpj": "05324097000101",
+"cnes": null,
+"nome": "DROGARIA IMPRENSA LTDA - ME",
+"endereco": {
+"logradouro": "QE 28 BL A",
+"numero": null,
+"bairro": "GUARA II",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "07234105000154",
+"cnes": null,
+"nome": "DROGARIA J & C LTDA ME",
+"endereco": {
+"logradouro": "QSC 19",
+"numero": null,
+"bairro": "TAGUATINGA SUL (TAGUATINGA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2009"
+},
+{
+"cnpj": "00547992000171",
+"cnes": null,
+"nome": "DROGARIA JUNQUEIRA LTDA ME",
+"endereco": {
+"logradouro": "EQNN 22/24 BL A",
+"numero": null,
+"bairro": "CEILANDIA SUL (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/08/2010"
+},
+{
+"cnpj": "00615963000108",
+"cnes": null,
+"nome": "DROGARIA LUX LTDA ME",
+"endereco": {
+"logradouro": "QNM 18 CO A",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/08/2011"
+},
+{
+"cnpj": "16746608000108",
+"cnes": null,
+"nome": "DROGARIA MACENA LTDA",
+"endereco": {
+"logradouro": "CENTRAL BLOCO 10",
+"numero": null,
+"bairro": "SOBRADINHO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "13/08/2013"
+},
+{
+"cnpj": "10798357000110",
+"cnes": null,
+"nome": "DROGARIA MAIA LTDA",
+"endereco": {
+"logradouro": "RUA 5 CH 232",
+"numero": null,
+"bairro": "SETOR HABITACIONAL VICENTE PIRES",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/08/2010"
+},
+{
+"cnpj": "03644953000180",
+"cnes": null,
+"nome": "DROGARIA MAIS VIDA LTDA ME",
+"endereco": {
+"logradouro": "QN 8C CO 3",
+"numero": null,
+"bairro": "RIACHO FUNDO II",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "15142864000115",
+"cnes": null,
+"nome": "DROGARIA MARCOSFARMA LTDA - ME",
+"endereco": {
+"logradouro": "QUADRA 18",
+"numero": null,
+"bairro": "SETOR OESTE (GAMA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "08761040000168",
+"cnes": null,
+"nome": "DROGARIA MARIANE LTDA - ME",
+"endereco": {
+"logradouro": "QR 406 CO 16",
+"numero": null,
+"bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "12856638000108",
+"cnes": null,
+"nome": "DROGARIA MEDIVIDA LTDA",
+"endereco": {
+"logradouro": "ESPECIAL MERCADO 1",
+"numero": null,
+"bairro": "SETOR INDUSTRIAL (GAMA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/08/2011"
+},
+{
+"cnpj": "07351986000193",
+"cnes": null,
+"nome": "DROGARIA MINAS CENTER LTDA",
+"endereco": {
+"logradouro": "QNN 18 CONJUNTO H LOTE",
+"numero": null,
+"bairro": "CEILANDIA SUL (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "03/09/2007"
+},
+{
+"cnpj": "07098159000130",
+"cnes": null,
+"nome": "DROGARIA MOEMA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA-ME",
+"endereco": {
+"logradouro": "QR 216 CO N",
+"numero": null,
+"bairro": "SANTA MARIA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "03/02/2010"
+},
+{
+"cnpj": "32906422000117",
+"cnes": null,
+"nome": "DROGARIA MONALISA LTDA",
+"endereco": {
+"logradouro": "EQNN 5/7 BL A",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "08/10/2014"
+},
+{
+"cnpj": "11278502000103",
+"cnes": null,
+"nome": "DROGARIA MONTE ALTO LTDA - ME",
+"endereco": {
+"logradouro": "QR 317 CO A",
+"numero": null,
+"bairro": "SANTA MARIA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/12/2012"
+},
+{
+"cnpj": "06910233000108",
+"cnes": null,
+"nome": "DROGARIA MÁRTIRE SÃO SEBASTIÃO LTDA EPP",
+"endereco": {
+"logradouro": "QUADRA 2",
+"numero": null,
+"bairro": "SETOR SUL (GAMA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/05/2006"
+},
+{
+"cnpj": "10461402000147",
+"cnes": null,
+"nome": "DROGARIA NOVA BAHIA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+"endereco": {
+"logradouro": "QUADRA 30 CO 22",
+"numero": null,
+"bairro": "PARANOA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "02/03/2010"
+},
+{
+"cnpj": "00570432000138",
+"cnes": "8482454",
+"nome": "DROGARIA NOVO MUNDO LTDA - ME",
+"endereco": {
+"logradouro": "EQNM 36/38 BL A",
+"numero": "06",
+"bairro": "TAGUATINGA NORTE (TAGUATINGA)",
+"cep": "72145511"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.80253248796875,
+"longitude": -48.099086546649,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/12/2012"
+},
+{
+"cnpj": "00484543000121",
+"cnes": null,
+"nome": "DROGARIA PARANA LTDA",
+"endereco": {
+"logradouro": "QI 20 BL A",
+"numero": null,
+"bairro": "GUARA I",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "04/07/2011"
+},
+{
+"cnpj": "01588508000115",
+"cnes": null,
+"nome": "DROGARIA PLAZA LTDA - EPP",
+"endereco": {
+"logradouro": "QUADRA 36 CO S/N",
+"numero": null,
+"bairro": "SETOR LESTE (GAMA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "27/04/2015"
+},
+{
+"cnpj": "37102605000101",
+"cnes": "8273081",
+"nome": "DROGARIA POLIDROGAS LTDA EPP",
+"endereco": {
+"logradouro": "QR 2 MO 3",
+"numero": "S/N",
+"bairro": "CANDANGOLANDIA",
+"cep": "71725213"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.851183983519352,
+"longitude": -47.950708866119385,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/01/2011"
+},
+{
+"cnpj": "19393972000111",
+"cnes": "8328285",
+"nome": "DROGARIA PRAZIFARMA EIRELI - ME",
+"endereco": {
+"logradouro": "QUADRA 1 CO H",
+"numero": "219",
+"bairro": "SETOR NORTE (GAMA)",
+"cep": "72430108"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -16.01218993806426,
+"longitude": -48.06727227269602,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/05/2015"
+},
+{
+"cnpj": "24907925000421",
+"cnes": null,
+"nome": "DROGARIA PRO VIDA LTDA - ME",
+"endereco": {
+"logradouro": "C 8",
+"numero": null,
+"bairro": "TAGUATINGA CENTRO (TAGUATINGA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "17/07/2015"
+},
+{
+"cnpj": "24907925000189",
+"cnes": null,
+"nome": "DROGARIA PRO VIDA LTDA EPP",
+"endereco": {
+"logradouro": "EQNO 13/15 BL D",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/08/2010"
+},
+{
+"cnpj": "24907925000340",
+"cnes": null,
+"nome": "DROGARIA PRO VIDA LTDA EPP",
+"endereco": {
+"logradouro": "EQNO 9/11 BL D",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/05/2011"
+},
+{
+"cnpj": "17409785000153",
+"cnes": null,
+"nome": "DROGARIA R & N LTDA",
+"endereco": {
+"logradouro": "EQNP 32/36 BL G",
+"numero": null,
+"bairro": "CEILANDIA SUL (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/10/2013"
+},
+{
+"cnpj": "10189792000148",
+"cnes": null,
+"nome": "DROGARIA R E J LTDA - ME",
+"endereco": {
+"logradouro": "QN 206 CO B",
+"numero": null,
+"bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/10/2013"
+},
+{
+"cnpj": "38044798000146",
+"cnes": null,
+"nome": "DROGARIA RHEMA LTDA - ME",
+"endereco": {
+"logradouro": "QUADRA 2",
+"numero": null,
+"bairro": "VEREDAS (BRAZLANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/12/2014"
+},
+{
+"cnpj": "05290365000111",
+"cnes": null,
+"nome": "DROGARIA RODRIGUES LTDA - ME",
+"endereco": {
+"logradouro": "CLS 406 BL A",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/04/2014"
+},
+{
+"cnpj": "00447821000170",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SHCS CL QUADRA 102",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821000332",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLS 102 BL C",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821000413",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLN 116 BL B",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821000502",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SCS QUADRA 7",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821000685",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLN 314 BL A",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821000766",
+"cnes": "4038002",
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "C 12",
+"numero": "S/N",
+"bairro": "TAGUATINGA CENTRO (TAGUATINGA)",
+"cep": "72010120"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.834889,
+"longitude": -48.056829,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821001061",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLSW 103 BL B",
+"numero": null,
+"bairro": "SETOR SUDOESTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821001142",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QNH AREA ESPECIAL 4",
+"numero": null,
+"bairro": "TAGUATINGA NORTE (TAGUATINGA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821001304",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLSW 104 BL C",
+"numero": null,
+"bairro": "SETOR SUDOESTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821001495",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "AOS 2/8",
+"numero": null,
+"bairro": "AREA OCTOGONAL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821001657",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QUADRA 8 BL 18",
+"numero": null,
+"bairro": "SOBRADINHO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/04/2006"
+},
+{
+"cnpj": "00447821001819",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLN 216 BL C",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821001908",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLS 209 BL C",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821002033",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CA 1",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821002114",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SHIN QI 2",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821002386",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "RECANTO QUADRA 206",
+"numero": null,
+"bairro": "RECANTO DAS EMAS",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/10/2009"
+},
+{
+"cnpj": "00447821002548",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QS 412 CONJUNTO D LOTE 2",
+"numero": null,
+"bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/10/2010"
+},
+{
+"cnpj": "00447821002629",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QUADRA 4",
+"numero": null,
+"bairro": "SETOR NORTE (BRAZLANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/10/2010"
+},
+{
+"cnpj": "00447821002700",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QNM 33",
+"numero": null,
+"bairro": "CEILANDIA SUL (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/10/2010"
+},
+{
+"cnpj": "00447821002890",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SHLS BLOCOS",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/10/2010"
+},
+{
+"cnpj": "00447821003005",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLS 302 BL B",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/10/2010"
+},
+{
+"cnpj": "00447821003196",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "DE INDUSTRIAS",
+"numero": null,
+"bairro": "SETOR LESTE (GAMA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "02/06/2011"
+},
+{
+"cnpj": "00447821003277",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CA 1",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/10/2010"
+},
+{
+"cnpj": "00447821003358",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SHIN EQI 9/10",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/10/2010"
+},
+{
+"cnpj": "00447821003510",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QUADRA 302 CO 7",
+"numero": null,
+"bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "02/06/2011"
+},
+{
+"cnpj": "00447821003781",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "PAU BRASIL LOTE 13",
+"numero": null,
+"bairro": "SUL (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "02/06/2011"
+},
+{
+"cnpj": "00447821003862",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "4A CHACARA 01 LOTE",
+"numero": null,
+"bairro": "SETOR HABITACIONAL VICENTE PIRES",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "02/06/2011"
+},
+{
+"cnpj": "00447821004249",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QUADRA 103 CO S/N",
+"numero": null,
+"bairro": "RECANTO DAS EMAS",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "00447821004320",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "COMERCIAL",
+"numero": null,
+"bairro": "CENTRO (SAO SEBASTIAO)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "00447821004591",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CRNW 510 BL A",
+"numero": null,
+"bairro": "SETOR NOROESTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "00447821004753",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "2 AREA ESPECIAL 4",
+"numero": null,
+"bairro": "SETOR DE INDUSTRIAS BERNARDO SAYAO (NUCLEO BANDEIR",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "00447821005725",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "DAS ARAUCARIAS",
+"numero": null,
+"bairro": "SUL (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821005806",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "DAS ARAUCARIAS",
+"numero": null,
+"bairro": "SUL (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821005997",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "DAS CASTANHEIRAS",
+"numero": null,
+"bairro": "NORTE (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821006020",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "36",
+"numero": null,
+"bairro": "NORTE (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821006101",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "DAS ARAUCARIAS",
+"numero": null,
+"bairro": "SUL (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821006292",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "DAS ARAUCARIAS",
+"numero": null,
+"bairro": "SUL (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "00447821006454",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLN 106 BL B",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821006535",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "12 CHACARA 129A CONJUNTO A",
+"numero": null,
+"bairro": "SETOR HABITACIONAL VICENTE PIRES",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821006616",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLS 114 BL C",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821006705",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QNM 12",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821006888",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QN 314 CO 1",
+"numero": null,
+"bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821006969",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLN 111 BL B",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821007000",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SHA CONJUNTO 1 CH 60",
+"numero": null,
+"bairro": "SETOR HABITACIONAL ARNIQUEIRA (AGUAS CLA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821007183",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "INDEPENDENCIA",
+"numero": null,
+"bairro": "SETOR TRADICIONAL (PLANALTINA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821007264",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "STN",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821007345",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QNN 1 CO D",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "00447821007507",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SDN",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821007698",
+"cnes": "3256790",
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SIBIPIRUNA",
+"numero": "S/N",
+"bairro": "SUL (AGUAS CLARAS)",
+"cep": "71928720"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.84213,
+"longitude": -48.03182,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821007779",
+"cnes": "4001753",
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLS 102 BL C",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70330535"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8013,
+"longitude": -47.88947,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821007850",
+"cnes": "3417697",
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLS 302 BL D",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70338540"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.80098,
+"longitude": -47.89099,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821007930",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLNW 10/11 LO G",
+"numero": null,
+"bairro": "SETOR NOROESTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821008074",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLNW 6/7 LO A",
+"numero": null,
+"bairro": "SETOR NOROESTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821008236",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QNM 18 CO B",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821008317",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QUADRA 17 CO 9",
+"numero": null,
+"bairro": "PARANOA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821008406",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SHIS QI 11",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821008589",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLN 209 BL C",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821008740",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QE 11 AREA ESPECIAL L LOJAS 13,14,15,16,17 E 18",
+"numero": null,
+"bairro": "GUARA I",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821008821",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "EQ 31/33",
+"numero": null,
+"bairro": "GUARA II",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821008902",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "JARDIM BOTANICO I",
+"numero": null,
+"bairro": "SETOR HABITACIONAL JARDIM BOTANICO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821009046",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SHIS QI 15 BL E",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821009127",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SHIS QI 25",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821009208",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SHIS QI 9/11 BL C",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821009470",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "SHIS QI 5 BL C",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821009550",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CENTRAL BLOCOS 525/635",
+"numero": null,
+"bairro": "NUCLEO BANDEIRANTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821009631",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CENTRAL",
+"numero": null,
+"bairro": "VILA NOVA (SAO SEBASTIAO)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "00447821009712",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QS 408 CO B",
+"numero": null,
+"bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821009984",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLSW 103 BL B",
+"numero": null,
+"bairro": "SETOR SUDOESTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821010052",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CLSW 102 BL C",
+"numero": null,
+"bairro": "SETOR SUDOESTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821010133",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QUADRA 4",
+"numero": null,
+"bairro": "SOBRADINHO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821010214",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CENTRAL LOTE M",
+"numero": null,
+"bairro": "SOBRADINHO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821010303",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QUADRA 1 CO G",
+"numero": null,
+"bairro": "SETOR SUL (GAMA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821010648",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QUADRA 201 CO 17",
+"numero": null,
+"bairro": "RECANTO DAS EMAS",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821010729",
+"cnes": "0990841",
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "JACARANDA",
+"numero": "16",
+"bairro": "SUL (AGUAS CLARAS)",
+"cep": "71927540"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.845930259114722,
+"longitude": -48.03055316190756,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2012"
+},
+{
+"cnpj": "00447821012268",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QI 27",
+"numero": null,
+"bairro": "GUARA II",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "00447821014120",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "QUADRA 12 CO 1",
+"numero": null,
+"bairro": "SOBRADINHO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "00447821015798",
+"cnes": null,
+"nome": "DROGARIA ROSARIO S/A",
+"endereco": {
+"logradouro": "CL 214 BL D",
+"numero": null,
+"bairro": "SANTA MARIA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/04/2015"
+},
+{
+"cnpj": "00447821000251",
+"cnes": null,
+"nome": "DROGARIA ROSÁRIO S/A",
+"endereco": {
+"logradouro": "CLN 312 BL E",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/03/2006"
+},
+{
+"cnpj": "00447821001576",
+"cnes": null,
+"nome": "DROGARIA ROSÁRIO S/A",
+"endereco": {
+"logradouro": "CLN 306 BL B",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/04/2006"
+},
+{
+"cnpj": "10564431000134",
+"cnes": null,
+"nome": "DROGARIA S&P LTDA",
+"endereco": {
+"logradouro": "A",
+"numero": null,
+"bairro": "RESIDENCIAL SANDRAY (PLANALTINA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/07/2010"
+},
+{
+"cnpj": "00740506000137",
+"cnes": null,
+"nome": "DROGARIA SANTA LUCIA LTDA",
+"endereco": {
+"logradouro": "SHCN CL QUADRA 407 BLOCO C TERREO",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "17/12/2013"
+},
+{
+"cnpj": "10259805000108",
+"cnes": null,
+"nome": "DROGARIA SANTA TEREZA LTDA ME",
+"endereco": {
+"logradouro": "TERCEIRA AVENIDA BLOCOS 518A/680A",
+"numero": null,
+"bairro": "NUCLEO BANDEIRANTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/03/2009"
+},
+{
+"cnpj": "61412110042826",
+"cnes": "5083400",
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "CNC 3",
+"numero": "12",
+"bairro": "TAGUATINGA NORTE (TAGUATINGA)",
+"cep": "72115535"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.82263297,
+"longitude": -48.065074188,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "61412110051906",
+"cnes": null,
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "CLS 304 BL A",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/08/2014"
+},
+{
+"cnpj": "61412110053356",
+"cnes": null,
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "SQS 112 BL B",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/08/2014"
+},
+{
+"cnpj": "61412110054328",
+"cnes": "8110190",
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "CLS 302 BL A",
+"numero": "34",
+"bairro": "ASA SUL",
+"cep": "70338510"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.802376328,
+"longitude": -47.8910058859,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/08/2014"
+},
+{
+"cnpj": "61412110056614",
+"cnes": null,
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "CLS 407 BL D",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/09/2014"
+},
+{
+"cnpj": "61412110057262",
+"cnes": "0453234",
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "CLS 413 BL D",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70296540"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.83122556771842,
+"longitude": -47.91158173887114,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/08/2014"
+},
+{
+"cnpj": "61412110058234",
+"cnes": "4523229",
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "CLS 107 BL D",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70346540"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.815401118052096,
+"longitude": -47.90218117614904,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/08/2014"
+},
+{
+"cnpj": "61412110058315",
+"cnes": null,
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "DAS ARAUCARIAS",
+"numero": null,
+"bairro": "SUL (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/08/2014"
+},
+{
+"cnpj": "61412110058404",
+"cnes": "4954068",
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "DAS CASTANHEIRAS",
+"numero": "S/N",
+"bairro": "NORTE (AGUAS CLARAS)",
+"cep": "71900100"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.835180254098743,
+"longitude": -48.01884574236148,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/08/2014"
+},
+{
+"cnpj": "61412110061022",
+"cnes": null,
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "SMDB CONJUNTO 12 BL H",
+"numero": null,
+"bairro": "SETOR DE MANSOES DOM BOSCO (LAGO SUL)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/08/2014"
+},
+{
+"cnpj": "61412110061294",
+"cnes": null,
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "CLN 315 BL B",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/08/2014"
+},
+{
+"cnpj": "61412110064714",
+"cnes": null,
+"nome": "DROGARIA SAO PAULO S.A.",
+"endereco": {
+"logradouro": "CL 116",
+"numero": null,
+"bairro": "SANTA MARIA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/06/2015"
+},
+{
+"cnpj": "00368589000185",
+"cnes": "4587057",
+"nome": "DROGARIA SAO RAFAEL LTDA",
+"endereco": {
+"logradouro": "QUADRA 9",
+"numero": "01",
+"bairro": "SETOR OESTE (GAMA)",
+"cep": "72425090"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -16.008908677589382,
+"longitude": -48.070221159069526,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "28/04/2008"
+},
+{
+"cnpj": "09519155000103",
+"cnes": null,
+"nome": "DROGARIA SHALOM LTDA",
+"endereco": {
+"logradouro": "QNQ",
+"numero": null,
+"bairro": "ST. Q/CEILANDIA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "07767624000188",
+"cnes": null,
+"nome": "DROGARIA SOCIAL GENERICA LTDA ME",
+"endereco": {
+"logradouro": "QNP 25 CO A",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/09/2011"
+},
+{
+"cnpj": "33521022000156",
+"cnes": null,
+"nome": "DROGARIA SODRE LTDA - ME",
+"endereco": {
+"logradouro": "QNM 17 CO H",
+"numero": null,
+"bairro": "CEILANDIA SUL (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/10/2013"
+},
+{
+"cnpj": "01619493000105",
+"cnes": null,
+"nome": "DROGARIA STILO LTDA - ME",
+"endereco": {
+"logradouro": "QNM 2",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "07060632000190",
+"cnes": null,
+"nome": "DROGARIA TAKECHI LTDA",
+"endereco": {
+"logradouro": "QUADRA 1 CO G",
+"numero": null,
+"bairro": "SETOR SUL (GAMA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/12/2012"
+},
+{
+"cnpj": "07807849000110",
+"cnes": null,
+"nome": "DROGARIA ULTRA-FARMA LTDA",
+"endereco": {
+"logradouro": "QS 410 CO B",
+"numero": null,
+"bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/07/2010"
+},
+{
+"cnpj": "09488068000136",
+"cnes": null,
+"nome": "DROGARIA VIDE BULA LTDA - ME",
+"endereco": {
+"logradouro": "QR 502 CO 1",
+"numero": null,
+"bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/09/2012"
+},
+{
+"cnpj": "00844944000145",
+"cnes": null,
+"nome": "DROGARIA VIENNA LTDA",
+"endereco": {
+"logradouro": "QN 513 CO A",
+"numero": null,
+"bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "12/03/2010"
+},
+{
+"cnpj": "03841714000110",
+"cnes": null,
+"nome": "DROGARIA VITAL LTDA - ME",
+"endereco": {
+"logradouro": "QN 15A CO 1",
+"numero": null,
+"bairro": "RIACHO FUNDO II",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "61585865032606",
+"cnes": "4433149",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "CSB 6",
+"numero": "S/N",
+"bairro": "TAGUATINGA SUL (TAGUATINGA)",
+"cep": "72015565"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8395498,
+"longitude": -48.0535015,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865032789",
+"cnes": "4323637",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "Q SCN QUADRA 5 BLOCO A",
+"numero": "S/N",
+"bairro": "ASA NORTE",
+"cep": "70715900"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.786146941550518,
+"longitude": -47.88942843909316,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/08/2008"
+},
+{
+"cnpj": "61585865032860",
+"cnes": "4702298",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "SHIS QI 11",
+"numero": "S/N",
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
+"cep": "71625205"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8357021,
+"longitude": -47.8671959,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865032940",
+"cnes": "4702255",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "CLS 102 BL C",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70330535"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8018249,
+"longitude": -47.8897178,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/08/2008"
+},
+{
+"cnpj": "61585865033084",
+"cnes": "4702018",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "SHIS QI 5 BL C",
+"numero": "S/N",
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
+"cep": "71615530"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8523813,
+"longitude": -47.8942307,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865033165",
+"cnes": "4424700",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "ST SMAS",
+"numero": "S/N",
+"bairro": "ZONA INDUSTRIAL (GUARA)",
+"cep": "71219900"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8337425,
+"longitude": -47.9549868,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/08/2008"
+},
+{
+"cnpj": "61585865033327",
+"cnes": "4323688",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "CLN 308 BL E",
+"numero": "S/N",
+"bairro": "ASA NORTE",
+"cep": "70747550"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.76294197312134,
+"longitude": -47.889307737350464,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/08/2008"
+},
+{
+"cnpj": "61585865033408",
+"cnes": "4690419",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "QS 1 RU 210",
+"numero": "S/N",
+"bairro": "AREAL (AGUAS CLARAS)",
+"cep": "71950770"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.833294,
+"longitude": -48.055845,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865033670",
+"cnes": "4323920",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "CLN 210 BL C",
+"numero": "S/N",
+"bairro": "ASA NORTE",
+"cep": "70862530"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.748689,
+"longitude": -47.884976,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865033750",
+"cnes": "4702034",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "SHIS QI 5 BL C",
+"numero": "S/N",
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
+"cep": "71615530"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8463744,
+"longitude": -47.8945585,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865033831",
+"cnes": "4701658",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "CLS 314 BL D",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70383540"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.764087,
+"longitude": -47.887905,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865033912",
+"cnes": "4323807",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "CLSW 104 BL C",
+"numero": "S/N",
+"bairro": "SETOR SUDOESTE",
+"cep": "70670533"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8034447,
+"longitude": -47.9291939,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865034137",
+"cnes": "4323882",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "CLN 104 BL D",
+"numero": "S/N",
+"bairro": "ASA NORTE",
+"cep": "70733540"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.7772147,
+"longitude": -47.883846,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865034218",
+"cnes": "4323866",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "Q SCS QUADRA 7 BLOCO A",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70307902"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.7954396,
+"longitude": -47.8917929,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865034307",
+"cnes": "4702239",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "CLS 102 BL C",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70330535"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8078971,
+"longitude": -47.8893457,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/08/2008"
+},
+{
+"cnpj": "61585865034480",
+"cnes": "4865669",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "RECANTO QUADRA 300",
+"numero": "S/N",
+"bairro": "RECANTO DAS EMAS",
+"cep": "72620159"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.9068981,
+"longitude": -48.0816513,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865034641",
+"cnes": "4323912",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "CLS 111 BL C",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70374530"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8222922,
+"longitude": -47.9133865,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865034722",
+"cnes": "4323939",
+"nome": "DROGASIL S/A",
+"endereco": {
+"logradouro": "CENTRAL BLOCOS 379/505",
+"numero": "S/N",
+"bairro": "NUCLEO BANDEIRANTE",
+"cep": "71710510"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8683638,
+"longitude": -47.9650378,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "01/09/2008"
+},
+{
+"cnpj": "61585865034994",
+"cnes": "4707095",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "RODOVIARIA DE BRASILIA",
+"numero": "S/N",
+"bairro": "ZONA CIVICO-ADMINISTRATIVA",
+"cep": "70089000"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.7934887,
+"longitude": -47.8824501,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2009"
+},
+{
+"cnpj": "61585865035028",
+"cnes": "4702352",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "SHLS",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70390700"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.827281,
+"longitude": -47.928415,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2009"
+},
+{
+"cnpj": "61585865036008",
+"cnes": "4708121",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "CA 4",
+"numero": "S/N",
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
+"cep": "71503504"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.7216875,
+"longitude": -47.8830625,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/08/2010"
+},
+{
+"cnpj": "61585865039015",
+"cnes": "4707443",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "CLSW 302 BL B",
+"numero": "S/N",
+"bairro": "SETOR SUDOESTE",
+"cep": "70673612"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.799363,
+"longitude": -47.923114,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/08/2010"
+},
+{
+"cnpj": "61585865039104",
+"cnes": "4324005",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "DAS PITANGUEIRAS",
+"numero": "S/N",
+"bairro": "SUL (AGUAS CLARAS)",
+"cep": "71938540"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.835452,
+"longitude": -48.017576,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/08/2010"
+},
+{
+"cnpj": "61585865039287",
+"cnes": "4433092",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "CLN 315 BL C",
+"numero": "S/N",
+"bairro": "ASA NORTE",
+"cep": "70774530"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.7437401,
+"longitude": -47.8950447,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/08/2010"
+},
+{
+"cnpj": "61585865040293",
+"cnes": "4433947",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "AEN 19",
+"numero": "19",
+"bairro": "SETOR NORTE (PLANALTINA)",
+"cep": "73340190"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.6110747,
+"longitude": -47.6526809,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/08/2010"
+},
+{
+"cnpj": "61585865042318",
+"cnes": "4433025",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "CLS 102 BL A",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70330515"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8025275,
+"longitude": -47.8887005,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2011"
+},
+{
+"cnpj": "61585865042407",
+"cnes": "4708504",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "CLS 307 BL D",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70354540"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8114525,
+"longitude": -47.902177,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2011"
+},
+{
+"cnpj": "61585865042580",
+"cnes": "4713893",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "CLS 116 BL B",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70386520"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8309777,
+"longitude": -47.9243193,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2011"
+},
+{
+"cnpj": "61585865042660",
+"cnes": "4433068",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "QN 314 CO 1",
+"numero": "S/N",
+"bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
+"cep": "72308201"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.8722969,
+"longitude": -48.0763268,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/01/2011"
+},
+{
+"cnpj": "61585865042741",
+"cnes": "4324676",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "INDEPENDENCIA",
+"numero": "06",
+"bairro": "SETOR TRADICIONAL (PLANALTINA)",
+"cep": "73330002"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.6211462,
+"longitude": -47.658087,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2011"
+},
+{
+"cnpj": "61585865043470",
+"cnes": "0940631",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "QNN 1 CO C",
+"numero": "S/N",
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": "72225013"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.819715,
+"longitude": -48.109818,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/08/2011"
+},
+{
+"cnpj": "61585865043551",
+"cnes": "4323998",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "CLN 307 BL C",
+"numero": "S/N",
+"bairro": "ASA NORTE",
+"cep": "70746530"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.757183,
+"longitude": -47.8829556,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/08/2011"
+},
+{
+"cnpj": "61585865043632",
+"cnes": "4708466",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "CENTRAL BLOCO 12",
+"numero": "S/N",
+"bairro": "SOBRADINHO",
+"cep": "73010522"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.6511238,
+"longitude": -47.7899537,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/08/2011"
+},
+{
+"cnpj": "61585865043985",
+"cnes": "4375890",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "QUADRA 55",
+"numero": "S/N",
+"bairro": "SETOR CENTRAL (GAMA)",
+"cep": "72405550"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -16.017069,
+"longitude": -48.063334,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "10/01/2011"
+},
+{
+"cnpj": "61585865044019",
+"cnes": "4433041",
+"nome": "DROGASIL SA",
+"endereco": {
+"logradouro": "C 8",
+"numero": "S/N",
+"bairro": "TAGUATINGA CENTRO (TAGUATINGA)",
+"cep": "72010080"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.833731,
+"longitude": -48.0559098,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/08/2011"
+},
+{
+"cnpj": "08338580000133",
+"cnes": "8328633",
+"nome": "DRPGARIA PARACATU LTDA EPP",
+"endereco": {
+"logradouro": "EQNP 30/34 BL B",
+"numero": "S/N",
+"bairro": "CEILANDIA SUL (CEILANDIA)",
+"cep": "72236502"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.849760753705812,
+"longitude": -48.118870496749764,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "03/06/2009"
+},
+{
+"cnpj": "07331331000153",
+"cnes": null,
+"nome": "EDILFARMA DROGARIA LTDA",
+"endereco": {
+"logradouro": "COMERCIAL",
+"numero": null,
+"bairro": "CENTRO (SAO SEBASTIAO)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/08/2011"
+},
+{
+"cnpj": "06626253030573",
+"cnes": "0876747",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "CLS 309 BL D",
+"numero": "0",
+"bairro": "ASA SUL",
+"cep": "70362540"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.78,
+"longitude": -47.93,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/09/2009"
+},
+{
+"cnpj": "06626253033750",
+"cnes": "0869996",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "CLN 311 BL A",
+"numero": "0",
+"bairro": "ASA NORTE",
+"cep": "70757510"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.756571122108928,
+"longitude": -47.8839111328125,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/01/2011"
+},
+{
+"cnpj": "06626253038396",
+"cnes": null,
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "CLN 106 BL C",
+"numero": null,
+"bairro": "ASA NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/01/2011"
+},
+{
+"cnpj": "06626253041931",
+"cnes": "0820806",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "CRS 516 BL B",
+"numero": "516",
+"bairro": "ASA SUL",
+"cep": "70381525"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.831232764969906,
+"longitude": -47.923736572265625,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/02/2013"
+},
+{
+"cnpj": "06626253053786",
+"cnes": null,
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "CLS 407 BL D",
+"numero": null,
+"bairro": "ASA SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/11/2013"
+},
+{
+"cnpj": "06626253062262",
+"cnes": null,
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "CRNW 511 BL A",
+"numero": null,
+"bairro": "SETOR NOROESTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/04/2014"
+},
+{
+"cnpj": "06626253064044",
+"cnes": "8504954",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "CLSW 304 BL B",
+"numero": "S/N",
+"bairro": "SETOR SUDOESTE",
+"cep": "70673632"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.802432,
+"longitude": -47.928632,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/04/2014"
+},
+{
+"cnpj": "03396064000141",
+"cnes": null,
+"nome": "G & B COMERCIO DE PRODUTOS FARMACEUTICOS LTDA ME",
+"endereco": {
+"logradouro": "NOVA",
+"numero": null,
+"bairro": "VILA PLANALTO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/09/2009"
+},
+{
+"cnpj": "09033940000151",
+"cnes": null,
+"nome": "HIPERFARMA DROGARIA E PERFUMARIA LTDA - ME",
+"endereco": {
+"logradouro": "AGUAS CLARAS QS 08",
+"numero": null,
+"bairro": "AREAL (AGUAS CLARAS)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/10/2013"
+},
+{
+"cnpj": "02006666000182",
+"cnes": null,
+"nome": "J & V COMERCIO DE MEDICAMENTOS LTDA ME",
+"endereco": {
+"logradouro": "QUADRA 26 CO 20",
+"numero": null,
+"bairro": "PARANOA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "08/12/2010"
+},
+{
+"cnpj": "08979790000100",
+"cnes": null,
+"nome": "J G DROGARIA LTDA - ME",
+"endereco": {
+"logradouro": "QNG 11",
+"numero": null,
+"bairro": "TAGUATINGA NORTE (TAGUATINGA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/02/2015"
+},
+{
+"cnpj": "08998355000123",
+"cnes": null,
+"nome": "JB COMERCIO DE FARMACO LTDA - ME",
+"endereco": {
+"logradouro": "EQ 13/15",
+"numero": null,
+"bairro": "SETOR SUL (GAMA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/09/2012"
+},
+{
+"cnpj": "12163373000162",
+"cnes": null,
+"nome": "JC SIQUEIRA DROGARIA LTDA - ME",
+"endereco": {
+"logradouro": "2",
+"numero": null,
+"bairro": "RESIDENCIAL DO BOSQUE (SAO SEBASTIAO)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "07555572000186",
+"cnes": null,
+"nome": "L & L DROGARIA E PERFUMARIA LTDA - ME",
+"endereco": {
+"logradouro": "AR 9 CO 1",
+"numero": null,
+"bairro": "SETOR OESTE (SOBRADINHO II)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/10/2014"
+},
+{
+"cnpj": "05699088000103",
+"cnes": null,
+"nome": "LEANDRO RESENDE SOUZA SILVA ME",
+"endereco": {
+"logradouro": "QUADRA 31",
+"numero": null,
+"bairro": "DEL LAGO I (ITAPOA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2011"
+},
+{
+"cnpj": "11723450000129",
+"cnes": "8489440",
+"nome": "LUANA DE FREITAS MOREIRA - ME",
+"endereco": {
+"logradouro": "QS 108",
+"numero": "01",
+"bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
+"cep": "72302520"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.873419062238888,
+"longitude": -48.07679682970047,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/12/2012"
+},
+{
+"cnpj": "15426586000128",
+"cnes": null,
+"nome": "MAGELA PRODUTOS FARMACEUTICOS LTDA",
+"endereco": {
+"logradouro": "QNO 19 CO A",
+"numero": null,
+"bairro": "CEILANDIA NORTE (CEILANDIA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/12/2013"
+},
+{
+"cnpj": "72632136000125",
+"cnes": "5953138",
+"nome": "MR DROGARIA LTDA",
+"endereco": {
+"logradouro": "QUADRA 39",
+"numero": "23",
+"bairro": "SETOR CENTRAL (GAMA)",
+"cep": "72405390"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -16.02555384674927,
+"longitude": -48.06638529999999,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/05/2006"
+},
+{
+"cnpj": "14870212000134",
+"cnes": null,
+"nome": "NIC DROGARIA LTDA",
+"endereco": {
+"logradouro": "1, LOTE",
+"numero": null,
+"bairro": "VILA SAO JOSE (SAO SEBASTIAO)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "27/10/2014"
+},
+{
+"cnpj": "01260392000190",
+"cnes": null,
+"nome": "PAGUE MENOS COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+"endereco": {
+"logradouro": "QUADRA 9",
+"numero": null,
+"bairro": "SETOR LESTE (GAMA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/08/2011"
+},
+{
+"cnpj": "04745752000132",
+"cnes": null,
+"nome": "PHARMACIA MAMEDE LTDA",
+"endereco": {
+"logradouro": "SHIS QI 13",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/09/2013"
+},
+{
+"cnpj": "00551689000142",
+"cnes": null,
+"nome": "PHARMAGRAN DROGARIA EIRELI",
+"endereco": {
+"logradouro": "EQNL 10/12 BL B",
+"numero": null,
+"bairro": "TAGUATINGA NORTE (TAGUATINGA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/10/2013"
+},
+{
+"cnpj": "02699690000144",
+"cnes": null,
+"nome": "POPULAR COMERCIO DE MEDICAMENTOS LTDA - ME",
+"endereco": {
+"logradouro": "QUADRA 4 CO A",
+"numero": null,
+"bairro": "VARJAO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/11/2014"
+},
+{
+"cnpj": "07304319000150",
+"cnes": null,
+"nome": "R. D. T DROGARIA LTDA ME",
+"endereco": {
+"logradouro": "QNJ 26",
+"numero": null,
+"bairro": "TAGUATINGA NORTE (TAGUATINGA)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "21/07/2014"
+},
+{
+"cnpj": "10924360000133",
+"cnes": null,
+"nome": "R.O.RODRIGUES & J.K.S.BESERRA LTDA - ME",
+"endereco": {
+"logradouro": "PORTO RICO",
+"numero": null,
+"bairro": "SANTA MARIA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "13/02/2015"
+},
+{
+"cnpj": "61585865042156",
+"cnes": "4323963",
+"nome": "RAIA DROGASIL S/A",
+"endereco": {
+"logradouro": "CNC 3",
+"numero": "S/N",
+"bairro": "TAGUATINGA NORTE (TAGUATINGA)",
+"cep": "72115535"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.822678,
+"longitude": -48.0653244,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "08/09/2011"
+},
+{
+"cnpj": "61585865042237",
+"cnes": "4324722",
+"nome": "RAIA DROGASIL S/A",
+"endereco": {
+"logradouro": "QUADRA 1 CO G",
+"numero": "S/N",
+"bairro": "SETOR SUL (GAMA)",
+"cep": "72410107"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -16.0256083,
+"longitude": -48.0694427,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/08/2011"
+},
+{
+"cnpj": "61585865044108",
+"cnes": "4712447",
+"nome": "RAIA DROGASIL S/A",
+"endereco": {
+"logradouro": "CLS 305 BL D",
+"numero": "S/N",
+"bairro": "ASA SUL",
+"cep": "70352540"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.807759,
+"longitude": -47.896988,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/08/2011"
+},
+{
+"cnpj": "61585865115641",
+"cnes": "4711084",
+"nome": "RAIA DROGASIL S/A",
+"endereco": {
+"logradouro": "CLN 303",
+"numero": "S/N",
+"bairro": "ASA NORTE",
+"cep": "70735500"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.780648,
+"longitude": -47.886248,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/03/2015"
+},
+{
+"cnpj": "61585865121536",
+"cnes": "4712420",
+"nome": "RAIA DROGASIL S/A",
+"endereco": {
+"logradouro": "CLN 204 BL C",
+"numero": "S/N",
+"bairro": "ASA NORTE",
+"cep": "70842530"
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": -15.7768369,
+"longitude": -47.8783623,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "17/07/2015"
+},
+{
+"cnpj": "03359898000187",
+"cnes": null,
+"nome": "REDE BRASIL EMPREENDIMENTOS FARMACEUTICOS LTDA",
+"endereco": {
+"logradouro": "ESTRUTURAL",
+"numero": null,
+"bairro": "VILA ESTRUTURAL",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "09/12/2014"
+},
+{
+"cnpj": "19376483000151",
+"cnes": null,
+"nome": "ROGERIO SANTOS ROSA - ME",
+"endereco": {
+"logradouro": "QUADRA 13 CO 7",
+"numero": null,
+"bairro": "PARANOA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/10/2014"
+},
+{
+"cnpj": "13985470000101",
+"cnes": null,
+"nome": "SANTOS MARINHO COMERCIO DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "CENTRAL BLOCOS 294/372",
+"numero": null,
+"bairro": "NUCLEO BANDEIRANTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "08784194000175",
+"cnes": null,
+"nome": "SAUDE E BELEZA COMERCIO DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "QUADRA 7 CONJUNTO A LOTE",
+"numero": null,
+"bairro": "VARJAO",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/11/2014"
+},
+{
+"cnpj": "03556637000157",
+"cnes": null,
+"nome": "SO BELA COMERCIO DE MEDICAMENTOS LTDA - ME",
+"endereco": {
+"logradouro": "QUADRA 109",
+"numero": null,
+"bairro": "RECANTO DAS EMAS",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/02/2015"
+},
+{
+"cnpj": "03575434000108",
+"cnes": null,
+"nome": "SUELY REIS E SILVA - ME",
+"endereco": {
+"logradouro": "MERCADO  01 LOJAS",
+"numero": null,
+"bairro": "GAMA",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/11/2006"
+},
+{
+"cnpj": "07628809000101",
+"cnes": null,
+"nome": "TERG COMERCIO DE MEDICAMENTOS LTDA - ME",
+"endereco": {
+"logradouro": "CENTRAL",
+"numero": null,
+"bairro": "VILA NOVA (SAO SEBASTIAO)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/12/2013"
+},
+{
+"cnpj": "16384368000130",
+"cnes": null,
+"nome": "VERA E DILSON DROGARIA BARBOSA LTDA - ME",
+"endereco": {
+"logradouro": "RUA 6 CH 272",
+"numero": null,
+"bairro": "SETOR HABITACIONAL VICENTE PIRES",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/12/2013"
+},
+{
+"cnpj": "13472805000180",
+"cnes": null,
+"nome": "VIEIRA & VIEIRA COMERCIO DE MEDICAMENTOS LTDA - ME",
+"endereco": {
+"logradouro": "VARJAO DO TORTO",
+"numero": null,
+"bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "17878743000161",
+"cnes": null,
+"nome": "W.E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
+"endereco": {
+"logradouro": "QUADRA 1 CO 3",
+"numero": null,
+"bairro": "MORRO AZUL (SAO SEBASTIAO)",
+"cep": null
+},
+"codigo_municipio": "530010",
+"municipio": "Brasília",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/05/2015"
+}
+]
+}

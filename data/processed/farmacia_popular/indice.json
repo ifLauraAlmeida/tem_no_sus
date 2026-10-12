@@ -1,0 +1,121 @@
+{
+ "fonte": {
+  "programa": "Programa Farmácia Popular do Brasil",
+  "orgao": "Ministério da Saúde",
+  "documento": "Consulta de Endereço das Farmácias (farmácias ativas)",
+  "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
+  "data_referencia": "2026-10-08",
+  "data_obtencao": "2026-10-12",
+  "coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+ },
+ "ufs": {
+  "AC": {
+   "farmacias": 6,
+   "com_coordenadas": 3
+  },
+  "AL": {
+   "farmacias": 138,
+   "com_coordenadas": 20
+  },
+  "AM": {
+   "farmacias": 16,
+   "com_coordenadas": 7
+  },
+  "AP": {
+   "farmacias": 10,
+   "com_coordenadas": 9
+  },
+  "BA": {
+   "farmacias": 701,
+   "com_coordenadas": 167
+  },
+  "CE": {
+   "farmacias": 421,
+   "com_coordenadas": 183
+  },
+  "DF": {
+   "farmacias": 278,
+   "com_coordenadas": 66
+  },
+  "ES": {
+   "farmacias": 577,
+   "com_coordenadas": 248
+  },
+  "GO": {
+   "farmacias": 982,
+   "com_coordenadas": 243
+  },
+  "MA": {
+   "farmacias": 205,
+   "com_coordenadas": 63
+  },
+  "MG": {
+   "farmacias": 3718,
+   "com_coordenadas": 1464
+  },
+  "MS": {
+   "farmacias": 210,
+   "com_coordenadas": 72
+  },
+  "MT": {
+   "farmacias": 216,
+   "com_coordenadas": 120
+  },
+  "PA": {
+   "farmacias": 168,
+   "com_coordenadas": 82
+  },
+  "PB": {
+   "farmacias": 435,
+   "com_coordenadas": 74
+  },
+  "PE": {
+   "farmacias": 381,
+   "com_coordenadas": 104
+  },
+  "PI": {
+   "farmacias": 202,
+   "com_coordenadas": 31
+  },
+  "PR": {
+   "farmacias": 2039,
+   "com_coordenadas": 935
+  },
+  "RJ": {
+   "farmacias": 1182,
+   "com_coordenadas": 293
+  },
+  "RN": {
+   "farmacias": 376,
+   "com_coordenadas": 115
+  },
+  "RO": {
+   "farmacias": 117,
+   "com_coordenadas": 67
+  },
+  "RR": {
+   "farmacias": 17,
+   "com_coordenadas": 10
+  },
+  "RS": {
+   "farmacias": 2237,
+   "com_coordenadas": 1387
+  },
+  "SC": {
+   "farmacias": 1464,
+   "com_coordenadas": 900
+  },
+  "SE": {
+   "farmacias": 99,
+   "com_coordenadas": 23
+  },
+  "SP": {
+   "farmacias": 4484,
+   "com_coordenadas": 1498
+  },
+  "TO": {
+   "farmacias": 103,
+   "com_coordenadas": 12
+  }
+ }
+}

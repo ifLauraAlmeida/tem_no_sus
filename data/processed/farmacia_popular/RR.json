@@ -1,0 +1,337 @@
+{
+"fonte": {
+"programa": "Programa Farmácia Popular do Brasil",
+"orgao": "Ministério da Saúde",
+"documento": "Consulta de Endereço das Farmácias (farmácias ativas)",
+"url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
+"data_referencia": "2026-10-08",
+"data_obtencao": "2026-10-12",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+},
+"uf": "RR",
+"estabelecimentos": [
+{
+"cnpj": "16631042000160",
+"cnes": null,
+"nome": "ANGELA M C SILVA - ME",
+"endereco": {
+"logradouro": "GETULIO VARGAS",
+"numero": null,
+"bairro": "MULTIRAO",
+"cep": null
+},
+"codigo_municipio": "140005",
+"municipio": "Alto Alegre",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/12/2012"
+},
+{
+"cnpj": "03852851000150",
+"cnes": null,
+"nome": "CENTER FARMA LTDA ME",
+"endereco": {
+"logradouro": "LAURA PINHEIRO MAIA",
+"numero": null,
+"bairro": "PINTOLANDIA",
+"cep": null
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/08/2011"
+},
+{
+"cnpj": "84042027000137",
+"cnes": "8261180",
+"nome": "DROGARIA MEGAFARMA LTDA",
+"endereco": {
+"logradouro": "CAPITAO JULIO BEZERRA",
+"numero": "1253",
+"bairro": "SAO FRANCISCO",
+"cep": "69305025"
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": 2.833124313866106,
+"longitude": -60.67006587982178,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "27/07/2010"
+},
+{
+"cnpj": "84042027000480",
+"cnes": null,
+"nome": "DROGARIA MEGAFARMA LTDA",
+"endereco": {
+"logradouro": "VILLE ROY",
+"numero": null,
+"bairro": "CACARI",
+"cep": null
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "04683454000165",
+"cnes": null,
+"nome": "DROGARIA POPULAR LTDA",
+"endereco": {
+"logradouro": "MARIO HOMEM DE MELO",
+"numero": null,
+"bairro": "MECEJANA",
+"cep": null
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/10/2007"
+},
+{
+"cnpj": "00866557000100",
+"cnes": null,
+"nome": "EDIMAR P LIMA & CIA LTDA",
+"endereco": {
+"logradouro": "GENERAL ATAIDE TEIVE",
+"numero": null,
+"bairro": "TANCREDO NEVES",
+"cep": null
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "02/06/2011"
+},
+{
+"cnpj": "06626253032860",
+"cnes": "8393079",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "GETULIO VARGAS",
+"numero": "6070",
+"bairro": "CENTRO",
+"cep": "69301030"
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": 2.8171149139526066,
+"longitude": -60.67148208618164,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/01/2011"
+},
+{
+"cnpj": "06626253038205",
+"cnes": "4269888",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "GENERAL ATAIDE TEIVE",
+"numero": "5300",
+"bairro": "TANCREDO NEVES",
+"cep": "69313520"
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": 2.8179721832585725,
+"longitude": -60.725040435791016,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/01/2011"
+},
+{
+"cnpj": "06626253041265",
+"cnes": "4550978",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "VILLE ROY",
+"numero": "5050",
+"bairro": "SAO FRANCISCO",
+"cep": "69305098"
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": 2.8281924,
+"longitude": -60.6663453,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/02/2013"
+},
+{
+"cnpj": "07099640000140",
+"cnes": "8380295",
+"nome": "GOMES E SANTANA LTDA",
+"endereco": {
+"logradouro": "CENTENARIO",
+"numero": "2182",
+"bairro": "CINTURAO VERDE",
+"cep": "69301970"
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": 2.800440900661791,
+"longitude": -60.71177959442139,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "25/11/2010"
+},
+{
+"cnpj": "07240962000167",
+"cnes": "8196508",
+"nome": "J J BARBOSA CARVALHO & CIA. LTDA. ME",
+"endereco": {
+"logradouro": "GENERAL ATAIDE TEIVE",
+"numero": "3933",
+"bairro": "ASA BRANCA",
+"cep": "69312242"
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": 2.8180579101544403,
+"longitude": -60.72092056274414,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "04/07/2011"
+},
+{
+"cnpj": "84019132000155",
+"cnes": null,
+"nome": "JUDIVAN F LIRA ME",
+"endereco": {
+"logradouro": "JOCA FARIAS",
+"numero": null,
+"bairro": "CARANA",
+"cep": null
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/10/2010"
+},
+{
+"cnpj": "22902092000138",
+"cnes": "8171653",
+"nome": "LEITAO & COSTA LTDA ME",
+"endereco": {
+"logradouro": "DAS FLORES",
+"numero": "2114",
+"bairro": "PRICUMA",
+"cep": "69309393"
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": 2.813632250908756,
+"longitude": -60.70088982582092,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "23/05/2012"
+},
+{
+"cnpj": "07288668000125",
+"cnes": "8382735",
+"nome": "LIRA E COSTA LTDA",
+"endereco": {
+"logradouro": "CARLOS PEREIRA DE MELO",
+"numero": "2331",
+"bairro": "CAIMBE",
+"cep": "69312212"
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": 2.81979387843718,
+"longitude": -60.715781450271606,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/12/2013"
+},
+{
+"cnpj": "13171977000113",
+"cnes": "8231559",
+"nome": "PAIVA & SOARES LTDA - ME",
+"endereco": {
+"logradouro": "BELO HORIZONTE",
+"numero": "79",
+"bairro": "NOVA CIDADE",
+"cep": "69316214"
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": 2.7620769119697144,
+"longitude": -60.73559761047363,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "15/10/2014"
+},
+{
+"cnpj": "84053404000133",
+"cnes": "8402671",
+"nome": "SILVEIRA & CAMPOS LTDA - ME",
+"endereco": {
+"logradouro": "NIVALDO DA CONCEICAO GUTIERREZ",
+"numero": "201",
+"bairro": "NOVA CANAA",
+"cep": "69314386"
+},
+"codigo_municipio": "140010",
+"municipio": "Boa Vista",
+"latitude": 2.812539228361706,
+"longitude": -60.738290548324585,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/10/2012"
+},
+{
+"cnpj": "29994930000190",
+"cnes": null,
+"nome": "L R PINHEIRO COUTINHO & CIA LTDA",
+"endereco": {
+"logradouro": "ARACAJU",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "140023",
+"municipio": "Caroebe",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "07/12/2023"
+}
+]
+}

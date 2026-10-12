@@ -1,0 +1,318 @@
+{
+"fonte": {
+"programa": "Programa Farmácia Popular do Brasil",
+"orgao": "Ministério da Saúde",
+"documento": "Consulta de Endereço das Farmácias (farmácias ativas)",
+"url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
+"data_referencia": "2026-10-08",
+"data_obtencao": "2026-10-12",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+},
+"uf": "AM",
+"estabelecimentos": [
+{
+"cnpj": "53039908000175",
+"cnes": null,
+"nome": "H. L. XAVIER",
+"endereco": {
+"logradouro": "GETULIO VARGAS",
+"numero": null,
+"bairro": "NOSSA SENHORA DE FATIMA",
+"cep": null
+},
+"codigo_municipio": "130140",
+"municipio": "Eirunepé",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "14/05/2024"
+},
+{
+"cnpj": "41900984000144",
+"cnes": null,
+"nome": "RAYSA LOPES FELICIANO",
+"endereco": {
+"logradouro": "ESTRADA MARIANO",
+"numero": null,
+"bairro": "SANTA RITA",
+"cep": null
+},
+"codigo_municipio": "130150",
+"municipio": "Envira",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/08/2023"
+},
+{
+"cnpj": "84096510000102",
+"cnes": "0994448",
+"nome": "L. LIMA DA SILVA LTDA",
+"endereco": {
+"logradouro": "RIO MADEIRA",
+"numero": "2043",
+"bairro": "SAO PEDRO",
+"cep": "69800000"
+},
+"codigo_municipio": "130170",
+"municipio": "Humaitá",
+"latitude": -7.512577045417814,
+"longitude": -63.02562475204468,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/11/2014"
+},
+{
+"cnpj": "10554536000102",
+"cnes": null,
+"nome": "L. P. V. DA SILVA",
+"endereco": {
+"logradouro": "COSTA E SILVA",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "130230",
+"municipio": "Jutaí",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "29/09/2023"
+},
+{
+"cnpj": "09648661000100",
+"cnes": null,
+"nome": "FRANCINETE SILVA DE SOUZA - ME",
+"endereco": {
+"logradouro": "CEL. LUIZ GOMES",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "130240",
+"municipio": "Lábrea",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "08/05/2014"
+},
+{
+"cnpj": "06626253044108",
+"cnes": "2886812",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "PEDRO RATTES",
+"numero": "693",
+"bairro": "CENTRO",
+"cep": "69400030"
+},
+"codigo_municipio": "130250",
+"municipio": "Manacapuru",
+"latitude": -3.2993092359760903,
+"longitude": -60.62285900115967,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "18/02/2013"
+},
+{
+"cnpj": "06626253022805",
+"cnes": "4867467",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S.A.",
+"endereco": {
+"logradouro": "JOAO VALERIO",
+"numero": "280",
+"bairro": "NOSSA SENHORA DAS GRACAS",
+"cep": "69050010"
+},
+"codigo_municipio": "130260",
+"municipio": "Manaus",
+"latitude": -3.1067949,
+"longitude": -60.0236695,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "24/03/2006"
+},
+{
+"cnpj": "06626253030069",
+"cnes": "2971178",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "AUTAZ MIRIM",
+"numero": "5981",
+"bairro": "SAO JOSE OPERARIO",
+"cep": "69083000"
+},
+"codigo_municipio": "130260",
+"municipio": "Manaus",
+"latitude": -3.113326859382828,
+"longitude": -59.94559049606323,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "28/04/2008"
+},
+{
+"cnpj": "06626253036342",
+"cnes": "2956780",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "CARVALHO LEAL",
+"numero": "1259",
+"bairro": "CACHOEIRINHA",
+"cep": "69065000"
+},
+"codigo_municipio": "130260",
+"municipio": "Manaus",
+"latitude": -3.1165621807122883,
+"longitude": -60.00741004943848,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "26/01/2011"
+},
+{
+"cnpj": "06626253050680",
+"cnes": "2890097",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "ANDRE ARAUJO",
+"numero": "72",
+"bairro": "ADRIANOPOLIS",
+"cep": "69057025"
+},
+"codigo_municipio": "130260",
+"municipio": "Manaus",
+"latitude": -3.0992498821639187,
+"longitude": -59.994492530822754,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "06/11/2013"
+},
+{
+"cnpj": "06626253057005",
+"cnes": "4731638",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"endereco": {
+"logradouro": "BRASIL",
+"numero": "2395",
+"bairro": "COMPENSA",
+"cep": "69036110"
+},
+"codigo_municipio": "130260",
+"municipio": "Manaus",
+"latitude": -3.0994679,
+"longitude": -60.0556343,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "31/12/2013"
+},
+{
+"cnpj": "08894878000120",
+"cnes": null,
+"nome": "J S ISHIDA - ME",
+"endereco": {
+"logradouro": "PRESIDENTE DUTRA",
+"numero": null,
+"bairro": "SAO RAIMUNDO",
+"cep": null
+},
+"codigo_municipio": "130260",
+"municipio": "Manaus",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "20/12/2012"
+},
+{
+"cnpj": "36514912000129",
+"cnes": null,
+"nome": "NEILA MEDEIROS SALGADO",
+"endereco": {
+"logradouro": "PEDRO TINOCO",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "130270",
+"municipio": "Manicoré",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "11/08/2023"
+},
+{
+"cnpj": "22111693000122",
+"cnes": null,
+"nome": "E DE CASTRO BRITO",
+"endereco": {
+"logradouro": "GOVERNADOR BARAO DE SAO DOMINGOS",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "130356",
+"municipio": "Rio Preto da Eva",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "16/04/2024"
+},
+{
+"cnpj": "04003658000108",
+"cnes": null,
+"nome": "C DE F M PAES - ME",
+"endereco": {
+"logradouro": "CASTELO BRANCO",
+"numero": null,
+"bairro": "FORTALEZA",
+"cep": null
+},
+"codigo_municipio": "130380",
+"municipio": "São Gabriel da Cachoeira",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "05/05/2014"
+},
+{
+"cnpj": "31206240000170",
+"cnes": null,
+"nome": "M S L COMERCIO DE MEDICAMENTOS LTDA",
+"endereco": {
+"logradouro": "DA AMIZADE",
+"numero": null,
+"bairro": "CENTRO",
+"cep": null
+},
+"codigo_municipio": "130406",
+"municipio": "Tabatinga",
+"latitude": null,
+"longitude": null,
+"frentes": [
+"FARMACIA_POPULAR"
+],
+"data_credenciamento": "30/01/2024"
+}
+]
+}
