@@ -39,10 +39,8 @@
   padding: 10px 12px;
   margin-top: 8px;
 }
-.resultado--identificado,
-.resultado--sem_concentracao_informada { border-left-color: var(--azul); }
-.resultado--ambiguo,
-.resultado--concentracao_nao_listada { border-left-color: var(--alerta-borda); }
+.resultado--coberto { border-left-color: var(--azul); }
+.resultado--concentracao_diferente { border-left-color: var(--alerta-borda); }
 
 .resultado__entrada { font-weight: 500; color: var(--azul-escuro); }
 .resultado__situacao {
@@ -145,3 +143,6 @@
   font-size: 0.9rem;
 }
 .botao--sugestao:hover { background: var(--azul-fundo); }
+
+.resultado__programa { border-top: 1px solid var(--cinza-borda); padding-top: 8px; margin-top: 8px; }
+.resultado__programa-titulo { font-weight: 500; color: var(--azul-escuro); margin-bottom: 2px; }

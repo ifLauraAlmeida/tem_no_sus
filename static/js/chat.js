@@ -1,10 +1,14 @@
-import { buscarMedicamento, separarEntradas, SITUACAO } from "./busca_medicamentos.js";
-import { criarElemento, criarLink, formatarData } from "./elementos_dom.js";
+import { separarEntradas } from "./busca_medicamentos.js";
 import { oferecerBuscaDeLocais } from "./busca_locais.js";
-import { aplicarSugestao, sugerirGrafias } from "./sugestao_grafia.js";
+import { COBERTURA, consultarCobertura, unirGruposDeRetirada } from "./consulta_cobertura.js";
+import { criarElemento, criarLink, formatarData } from "./elementos_dom.js";
+import { paragrafoRequisitosRetirada, renderizarConsulta } from "./resultado_consulta.js";
 
-const CAMINHO_ELENCO = "data/reference/farmacia_popular_elenco.json";
-const EXEMPLO_RECEITA = "Losartana 50 mg\nMetformina 500 mg\nDipirona 500 mg";
+const CAMINHOS_BASES = {
+  farmaciaPopular: "data/reference/farmacia_popular_elenco.json",
+  componenteBasico: "data/reference/rename_2024_componente_basico.json",
+};
+const EXEMPLO_RECEITA = "Losartana 50 mg\nMetformina\nDipirona 500 mg\nLosartan 50";
 
 const elementos = {
   mensagens: document.getElementById("mensagens"),
@@ -27,124 +31,42 @@ function adicionarMensagem(tipo, conteudo) {
   return mensagem;
 }
 
-function renderizarFonte(fonte) {
-  const campos = [
-    ["Fonte", criarLink(fonte.url, `${fonte.documento} — ${fonte.programa}`)],
-    ["Órgão", fonte.orgao],
-    ["Atualizada pela fonte em", formatarData(fonte.data_atualizacao_fonte)],
-    ["Obtida por este projeto em", formatarData(fonte.data_obtencao)],
-  ];
+function renderizarFontes(bases) {
   elementos.dadosFonte.replaceChildren();
-  campos.forEach(([rotulo, valor]) => {
+  Object.values(bases).forEach(({ fonte }) => {
     const descricao = criarElemento("dd");
-    descricao.append(valor);
-    elementos.dadosFonte.append(criarElemento("dt", null, rotulo), descricao);
+    const atualizacao = fonte.data_atualizacao_fonte
+      ? `atualizada em ${formatarData(fonte.data_atualizacao_fonte)}`
+      : `obtida em ${formatarData(fonte.data_obtencao)}`;
+    descricao.append(criarLink(fonte.url, fonte.documento), ` — ${fonte.orgao}, ${atualizacao}.`);
+    elementos.dadosFonte.append(criarElemento("dt", null, fonte.programa), descricao);
   });
 }
 
-function listarItens(itens) {
-  const lista = criarElemento("ul");
-  itens.forEach((item) => {
-    lista.append(criarElemento("li", null, `${item.descricao_original} — ${item.indicacao}`));
-  });
-  return lista;
-}
-
-const TEXTOS_SITUACAO = {
-  [SITUACAO.IDENTIFICADO]: {
-    rotulo: "consta no elenco",
-    explicacao: "Previsto para distribuição gratuita nas farmácias credenciadas ao Farmácia Popular:",
-  },
-  [SITUACAO.SEM_CONCENTRACAO_INFORMADA]: {
-    rotulo: "consta no elenco",
-    explicacao: "Sim, consta no elenco do Farmácia Popular, com distribuição gratuita. Concentrações disponíveis:",
-  },
-  [SITUACAO.AMBIGUO]: {
-    rotulo: "confirme a apresentação",
-    explicacao: "Há mais de uma apresentação no elenco. Confira na receita qual corresponde à sua:",
-  },
-  [SITUACAO.CONCENTRACAO_NAO_LISTADA]: {
-    rotulo: "concentração não listada",
-    explicacao: "O princípio ativo consta no elenco, mas não na concentração informada. Concentrações listadas:",
-  },
-  [SITUACAO.NAO_IDENTIFICADO]: {
-    rotulo: "possivelmente não coberto",
-    explicacao:
-      "Possivelmente este medicamento não é coberto pelo Farmácia Popular, ou o nome não foi digitado " +
-      "corretamente. Confira a grafia na receita. Ele ainda pode ser ofertado pelo SUS em listas que " +
-      "esta ferramenta não consulta, como a do seu município.",
-  },
-};
-
-function renderizarSugestoes(entrada, elenco) {
-  const sugestoes = sugerirGrafias(entrada, elenco.itens);
-  if (sugestoes.length === 0) return null;
-  const bloco = criarElemento("div", "sugestoes");
-  bloco.append(criarElemento("span", null, "Você quis dizer: "));
-  sugestoes.forEach((sugestao) => {
-    const entradaCorrigida = aplicarSugestao(entrada, sugestao);
-    const botao = criarElemento("button", "botao botao--sugestao", entradaCorrigida);
-    botao.type = "button";
-    botao.addEventListener("click", () => consultarReceita(entradaCorrigida, elenco));
-    bloco.append(botao);
-  });
-  return bloco;
-}
-
-function renderizarResultado(entrada, resultado, elenco) {
-  const textos = TEXTOS_SITUACAO[resultado.situacao];
-  const cartao = criarElemento("div", `resultado resultado--${resultado.situacao}`);
-  const titulo = criarElemento("p");
-  titulo.append(
-    criarElemento("span", "resultado__entrada", entrada),
-    criarElemento("span", "resultado__situacao", textos.rotulo),
-  );
-  cartao.append(titulo, criarElemento("p", null, textos.explicacao));
-  if (resultado.itens.length > 0) cartao.append(listarItens(resultado.itens));
-  if (resultado.situacao === SITUACAO.NAO_IDENTIFICADO) {
-    const sugestoes = renderizarSugestoes(entrada, elenco);
-    if (sugestoes) cartao.append(sugestoes);
-  }
-
-  resultado.itens
-    .filter((item) => item.observacao)
-    .forEach((item) => cartao.append(criarElemento("p", "resultado__observacao", item.observacao)));
-  return cartao;
-}
-
-function paragrafoRequisitosRetirada(fonte) {
-  const paragrafo = criarElemento("p", "resultado__observacao");
-  paragrafo.append(
-    "Requisitos de retirada estão na ",
-    criarLink(fonte.url_legislacao, "legislação do Farmácia Popular"),
-    ". O estoque deve ser confirmado diretamente com a farmácia ou unidade.",
-  );
-  return paragrafo;
-}
-
-function consultarReceita(textoReceita, elenco) {
+function consultarReceita(textoReceita, bases) {
   const entradas = separarEntradas(textoReceita);
-  const resultados = entradas.map((entrada) => ({
-    entrada,
-    resultado: buscarMedicamento(entrada, elenco.itens),
-  }));
+  const consultas = entradas.map((entrada) => consultarCobertura(entrada, bases));
+  const algumCoberto = consultas.some((consulta) => consulta.cobertura !== COBERTURA.NAO_COBERTO);
+  const opcoesRenderizacao = {
+    itensConhecidos: [...bases.farmaciaPopular.itens, ...bases.componenteBasico.itens],
+    aoEscolherSugestao: (entradaCorrigida) => consultarReceita(entradaCorrigida, bases),
+  };
 
   adicionarMensagem("usuario", entradas.join("\n"));
-  const algumEncontrado = resultados.some(({ resultado }) => resultado.itens.length > 0);
   adicionarMensagem("sistema", [
-    "Resultado da consulta no elenco do Farmácia Popular:",
-    ...resultados.map(({ entrada, resultado }) => renderizarResultado(entrada, resultado, elenco)),
-    ...(algumEncontrado ? [paragrafoRequisitosRetirada(elenco.fonte)] : []),
+    "Resultado da consulta:",
+    ...consultas.map((consulta) => renderizarConsulta(consulta, opcoesRenderizacao)),
+    ...(algumCoberto ? [paragrafoRequisitosRetirada(bases.farmaciaPopular.fonte.url_legislacao)] : []),
   ]);
 
-  if (!algumEncontrado) {
+  if (!algumCoberto) {
     adicionarMensagem(
       "sistema",
       "Nenhum medicamento informado foi identificado como coberto. Confira os nomes na receita e tente novamente.",
     );
     return;
   }
-  oferecerBuscaDeLocais(adicionarMensagem);
+  oferecerBuscaDeLocais(adicionarMensagem, unirGruposDeRetirada(consultas));
 }
 
 function mostrarErroFormulario(texto) {
@@ -152,7 +74,7 @@ function mostrarErroFormulario(texto) {
   elementos.erroFormulario.hidden = !texto;
 }
 
-function habilitarFormulario(elenco) {
+function habilitarFormulario(bases) {
   [elementos.entrada, elementos.botaoConsultar, elementos.botaoExemplo].forEach((campo) => {
     campo.disabled = false;
   });
@@ -170,36 +92,42 @@ function habilitarFormulario(elenco) {
       return;
     }
     mostrarErroFormulario("");
-    consultarReceita(textoReceita, elenco);
+    consultarReceita(textoReceita, bases);
     elementos.entrada.value = "";
   });
 }
 
-async function carregarElenco() {
-  const resposta = await fetch(CAMINHO_ELENCO);
-  if (!resposta.ok) {
-    throw new Error(`falha ao carregar ${CAMINHO_ELENCO}: HTTP ${resposta.status}`);
-  }
+async function carregarJson(caminho) {
+  const resposta = await fetch(caminho);
+  if (!resposta.ok) throw new Error(`falha ao carregar ${caminho}: HTTP ${resposta.status}`);
   return resposta.json();
 }
 
+async function carregarBases() {
+  const [farmaciaPopular, componenteBasico] = await Promise.all([
+    carregarJson(CAMINHOS_BASES.farmaciaPopular),
+    carregarJson(CAMINHOS_BASES.componenteBasico),
+  ]);
+  return { farmaciaPopular, componenteBasico };
+}
+
 async function iniciar() {
-  const carregando = adicionarMensagem("sistema mensagem--carregando", "Carregando a base de medicamentos…");
+  const carregando = adicionarMensagem("sistema mensagem--carregando", "Carregando as listas de medicamentos…");
   try {
-    const elenco = await carregarElenco();
+    const bases = await carregarBases();
     carregando.remove();
-    renderizarFonte(elenco.fonte);
+    renderizarFontes(bases);
     adicionarMensagem("sistema", [
-      "Olá! Digite os medicamentos da sua receita, um por linha, com a concentração quando possível (ex.: Losartana 50 mg).",
-      `Consulto o elenco oficial do Farmácia Popular atualizado em ${formatarData(elenco.fonte.data_atualizacao_fonte)}.`,
+      "Olá! Digite os medicamentos da sua receita, um por linha. A concentração ajuda (ex.: Losartana 50 mg), mas não é obrigatória.",
+      "Consulto o elenco do Farmácia Popular e o Componente Básico da RENAME 2024. Depois, peço seu endereço para indicar locais próximos.",
     ]);
-    habilitarFormulario(elenco);
+    habilitarFormulario(bases);
   } catch (erro) {
     console.error(erro);
     carregando.remove();
     adicionarMensagem(
       "sistema mensagem--erro",
-      "Não foi possível carregar a base de medicamentos. Recarregue a página; se o problema continuar, tente mais tarde.",
+      "Não foi possível carregar as listas de medicamentos. Recarregue a página; se o problema continuar, tente mais tarde.",
     );
     elementos.dadosFonte.replaceChildren(criarElemento("dd", null, "Indisponível no momento."));
   }

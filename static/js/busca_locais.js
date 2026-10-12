@@ -116,21 +116,22 @@ async function localizarEndereco(endereco) {
 
 // Sem coordenadas, restringe ao município digitado; se ele não tem locais
 // na base, o resultado é vazio em vez de listar outro município qualquer.
-function selecionarSemCoordenadas(base, endereco) {
+function selecionarSemCoordenadas(base, endereco, gruposPermitidos) {
   const municipio = codigoDoMunicipio(base.estabelecimentos, endereco.municipio);
   if (!municipio) return [];
-  return selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, { municipio, bairro: endereco.bairro }));
+  const filtros = { municipio, bairro: endereco.bairro, gruposPermitidos };
+  return selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, filtros));
 }
 
-async function buscarPorEndereco(endereco, adicionarMensagem) {
+async function buscarPorEndereco(endereco, gruposPermitidos, adicionarMensagem) {
   const descricao = [endereco.rua, endereco.numero].filter(Boolean).join(", ");
   adicionarMensagem("usuario", `${descricao} — ${endereco.bairro}, ${endereco.municipio}/${endereco.uf}`);
   const carregando = adicionarMensagem("sistema mensagem--carregando", "Localizando o endereço…");
   try {
     const [base, { posicao, observacao }] = await Promise.all([carregarBaseUf(endereco.uf), localizarEndereco(endereco)]);
     const selecionados = posicao
-      ? selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, { posicaoUsuario: posicao }))
-      : selecionarSemCoordenadas(base, endereco);
+      ? selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, { posicaoUsuario: posicao, gruposPermitidos }))
+      : selecionarSemCoordenadas(base, endereco, gruposPermitidos);
     adicionarMensagem("sistema", mensagemResultadoLocais(selecionados, observacao ? [observacao] : []));
   } catch (erro) {
     console.error(erro);
@@ -140,11 +141,12 @@ async function buscarPorEndereco(endereco, adicionarMensagem) {
   }
 }
 
-async function buscarPorPosicao({ uf, posicao }, adicionarMensagem) {
+async function buscarPorPosicao({ uf, posicao }, gruposPermitidos, adicionarMensagem) {
   adicionarMensagem("usuario", "Usar minha localização");
   try {
     const base = await carregarBaseUf(uf);
-    const selecionados = selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, { posicaoUsuario: posicao }));
+    const filtros = { posicaoUsuario: posicao, gruposPermitidos };
+    const selecionados = selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, filtros));
     adicionarMensagem("sistema", mensagemResultadoLocais(selecionados, []));
   } catch (erro) {
     console.error(erro);
@@ -154,7 +156,7 @@ async function buscarPorPosicao({ uf, posicao }, adicionarMensagem) {
 
 let contadorFormularios = 0;
 
-export async function oferecerBuscaDeLocais(adicionarMensagem) {
+export async function oferecerBuscaDeLocais(adicionarMensagem, gruposPermitidos) {
   let indice;
   try {
     indice = await buscarJson(`${CAMINHO_ESTABELECIMENTOS}/indice.json`);
@@ -167,8 +169,8 @@ export async function oferecerBuscaDeLocais(adicionarMensagem) {
   const formulario = criarFormularioEndereco({
     ufsDisponiveis: Object.keys(indice.ufs),
     sufixo: contadorFormularios,
-    aoEnviarEndereco: (endereco) => buscarPorEndereco(endereco, adicionarMensagem),
-    aoUsarLocalizacao: (dados) => buscarPorPosicao(dados, adicionarMensagem),
+    aoEnviarEndereco: (endereco) => buscarPorEndereco(endereco, gruposPermitidos, adicionarMensagem),
+    aoUsarLocalizacao: (dados) => buscarPorPosicao(dados, gruposPermitidos, adicionarMensagem),
   });
   adicionarMensagem("sistema", [
     "Qual é o seu endereço? Com ele indico até 4 locais próximos onde você pode tentar retirar o medicamento.",
