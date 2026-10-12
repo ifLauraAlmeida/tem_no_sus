@@ -53,12 +53,10 @@ Classificações fora dessa tabela fazem o pipeline falhar, para que um novo có
 
 ## Relação com os medicamentos consultados
 
-Para medicamentos encontrados no elenco do Farmácia Popular, o chat sugere:
+- Medicamento do elenco do Farmácia Popular: até 2 farmácias da **lista oficial de farmácias ativas** do programa (ver `docs/fontes_oficiais.md`) e até 2 estabelecimentos `125/005` (rede básica).
+- Medicamento só do Componente Básico da RENAME: até 4 estabelecimentos `125/005`.
 
-- estabelecimentos `125/002` (Farmácia Popular segundo o CNES);
-- estabelecimentos `125/005` (dispensação de medicamentos básicos), porque muitos itens do elenco também integram o Componente Básico — sempre com o aviso de que a lista municipal e o estoque precisam ser confirmados.
-
-A cobertura do `125/002` é parcial: a maioria das drogarias credenciadas ao programa não declara esse serviço no CNES. A fonte principal continua sendo o [painel oficial de endereços](https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html), que não oferece download.
+O `125/002` do CNES não é mais usado: a lista oficial do programa prevalece e cobre todas as farmácias ativas, enquanto o CNES registra só uma pequena parte delas.
 
 ---
 
@@ -66,7 +64,7 @@ A cobertura do `125/002` é parcial: a maioria das drogarias credenciadas ao pro
 
 - **Público restrito**: unidades como as de atenção primária no sistema prisional aparecem com o mesmo tipo de unidade (`TP_UNID = 02`) e a mesma clientela das UBS comuns, sem campo que as diferencie no `SR`, no `ST` ou na API. Não filtramos por nome, para não criar regra frágil; o cartão da rede pública avisa que algumas unidades atendem só públicos específicos.
 - **Territorialização**: na atenção primária, a retirada costuma depender da unidade de referência do endereço do usuário. O CNES não informa o território de cada unidade.
-- **Diversidade x distância**: a regra de 2 locais de cada tipo só vale para locais a até 10 km, ou até o dobro da distância do mais próximo. Fora disso, prevalece a proximidade.
+- **Farmácias sem coordenada**: só 39% das farmácias credenciadas têm coordenadas no CNES. As demais entram na ordenação quando ficam no bairro (distância presumida de 1,5 km) ou no município (6 km) do CEP do usuário, e o cartão informa que a distância exata não é conhecida.
 
 ---
 
