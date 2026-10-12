@@ -7,8 +7,9 @@ import { paragrafoRequisitosRetirada, renderizarConsulta } from "./resultado_con
 const CAMINHOS_BASES = {
   farmaciaPopular: "data/reference/farmacia_popular_elenco.json",
   componenteBasico: "data/reference/rename_2024_componente_basico.json",
+  nomesComerciais: "data/reference/nomes_comerciais.json",
 };
-const EXEMPLO_RECEITA = "Losartana 50 mg\nMetformina\nDipirona 500 mg\nLosartan 50";
+const EXEMPLO_RECEITA = "Losartana 50 mg\nAerolin\nDipirona 500 mg\nLosartan 50";
 
 const elementos = {
   mensagens: document.getElementById("mensagens"),
@@ -39,7 +40,7 @@ function renderizarFontes(bases) {
       ? `atualizada em ${formatarData(fonte.data_atualizacao_fonte)}`
       : `obtida em ${formatarData(fonte.data_obtencao)}`;
     descricao.append(criarLink(fonte.url, fonte.documento), ` — ${fonte.orgao}, ${atualizacao}.`);
-    elementos.dadosFonte.append(criarElemento("dt", null, fonte.programa), descricao);
+    elementos.dadosFonte.append(criarElemento("dt", null, fonte.programa ?? "Nomes comerciais"), descricao);
   });
 }
 
@@ -104,11 +105,12 @@ async function carregarJson(caminho) {
 }
 
 async function carregarBases() {
-  const [farmaciaPopular, componenteBasico] = await Promise.all([
+  const [farmaciaPopular, componenteBasico, nomesComerciais] = await Promise.all([
     carregarJson(CAMINHOS_BASES.farmaciaPopular),
     carregarJson(CAMINHOS_BASES.componenteBasico),
+    carregarJson(CAMINHOS_BASES.nomesComerciais),
   ]);
-  return { farmaciaPopular, componenteBasico };
+  return { farmaciaPopular, componenteBasico, nomesComerciais };
 }
 
 async function iniciar() {
@@ -118,7 +120,7 @@ async function iniciar() {
     carregando.remove();
     renderizarFontes(bases);
     adicionarMensagem("sistema", [
-      "Olá! Digite os medicamentos da sua receita, um por linha. A concentração ajuda (ex.: Losartana 50 mg), mas não é obrigatória.",
+      "Olá! Digite os medicamentos da sua receita, um por linha, pelo nome genérico ou comercial. A concentração ajuda (ex.: Losartana 50 mg), mas não é obrigatória.",
       "Consulto o elenco do Farmácia Popular e o Componente Básico da RENAME 2024. Depois, peço seu endereço para indicar locais próximos.",
     ]);
     habilitarFormulario(bases);

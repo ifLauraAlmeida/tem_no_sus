@@ -164,3 +164,11 @@
 }
 .candidatos-cep { display: flex; flex-direction: column; align-items: flex-start; gap: 6px; }
 .botao--candidato { text-align: left; border-radius: var(--raio); }
+
+.aviso-nome-comercial {
+  background: var(--azul-fundo);
+  border-left: 3px solid var(--azul);
+  border-radius: var(--raio);
+  padding: 8px 10px;
+  font-size: 0.92rem;
+}

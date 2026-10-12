@@ -68,6 +68,21 @@ function renderizarSugestoes(entrada, itensConhecidos, aoEscolherSugestao) {
   return bloco;
 }
 
+function capitalizar(texto) {
+  return texto.charAt(0).toUpperCase() + texto.slice(1);
+}
+
+function avisoNomeComercial({ marca, principios }) {
+  const marcaExibida = capitalizar(marca);
+  return criarElemento(
+    "p",
+    "aviso-nome-comercial",
+    `“${marcaExibida}” é nome comercial de ${principios.join(" + ")} (registro na ANVISA). ` +
+      `Os programas públicos oferecem o medicamento pelo princípio ativo, como genérico ou similar, ` +
+      `e não necessariamente a marca ${marcaExibida}.`,
+  );
+}
+
 export function renderizarConsulta(consulta, { itensConhecidos, aoEscolherSugestao }) {
   const cartao = criarElemento("div", `resultado resultado--${consulta.cobertura}`);
   const titulo = criarElemento("p");
@@ -76,6 +91,7 @@ export function renderizarConsulta(consulta, { itensConhecidos, aoEscolherSugest
     criarElemento("span", "resultado__situacao", ROTULO_COBERTURA[consulta.cobertura]),
   );
   cartao.append(titulo);
+  if (consulta.nomeComercial) cartao.append(avisoNomeComercial(consulta.nomeComercial));
 
   if (consulta.cobertura === COBERTURA.NAO_COBERTO) {
     cartao.append(criarElemento("p", null, TEXTO_NAO_COBERTO));
