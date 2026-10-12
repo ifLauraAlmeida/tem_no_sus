@@ -112,14 +112,12 @@ function renderizarResultado(entrada, resultado, elenco) {
   return cartao;
 }
 
-function mensagemProximosPassos(fonte) {
-  const paragrafo = criarElemento("p");
+function paragrafoRequisitosRetirada(fonte) {
+  const paragrafo = criarElemento("p", "resultado__observacao");
   paragrafo.append(
-    "Para encontrar farmácias credenciadas, consulte o ",
-    criarLink(fonte.url_farmacias, "painel oficial do programa"),
-    ". Requisitos de retirada estão na ",
+    "Requisitos de retirada estão na ",
     criarLink(fonte.url_legislacao, "legislação do Farmácia Popular"),
-    ". O estoque deve ser confirmado diretamente com a farmácia.",
+    ". O estoque deve ser confirmado diretamente com a farmácia ou unidade.",
   );
   return paragrafo;
 }
@@ -132,12 +130,13 @@ function consultarReceita(textoReceita, elenco) {
   }));
 
   adicionarMensagem("usuario", entradas.join("\n"));
+  const algumEncontrado = resultados.some(({ resultado }) => resultado.itens.length > 0);
   adicionarMensagem("sistema", [
     "Resultado da consulta no elenco do Farmácia Popular:",
     ...resultados.map(({ entrada, resultado }) => renderizarResultado(entrada, resultado, elenco)),
+    ...(algumEncontrado ? [paragrafoRequisitosRetirada(elenco.fonte)] : []),
   ]);
 
-  const algumEncontrado = resultados.some(({ resultado }) => resultado.itens.length > 0);
   if (!algumEncontrado) {
     adicionarMensagem(
       "sistema",
@@ -145,7 +144,6 @@ function consultarReceita(textoReceita, elenco) {
     );
     return;
   }
-  adicionarMensagem("sistema", mensagemProximosPassos(elenco.fonte));
   oferecerBuscaDeLocais(adicionarMensagem);
 }
 

@@ -1,10 +1,8 @@
 import { criarElemento, criarLink, formatarData } from "./elementos_dom.js";
-import {
-  GRUPO_POR_FRENTE,
-  grupoDoEstabelecimento,
-  ordenarPorProximidade,
-  selecionarComDiversidade,
-} from "./selecao_estabelecimentos.js";
+import { criarFormularioEndereco } from "./formulario_endereco.js";
+import { GeocodificacaoIndisponivelError, PRECISAO, geocodificarEndereco } from "./geocodificacao.js";
+import { normalizarTexto } from "./normalizacao.js";
+import { GRUPO_POR_FRENTE, ordenarPorProximidade, selecionarComDiversidade } from "./selecao_estabelecimentos.js";
 
 const CAMINHO_ESTABELECIMENTOS = "data/processed/estabelecimentos";
 const URL_PAINEL_FARMACIA_POPULAR =
@@ -34,36 +32,11 @@ function carregarBaseUf(uf) {
   return basesPorUf.get(uf);
 }
 
-// Só lista municípios com locais compatíveis com o elenco, para não oferecer
-// uma opção que sempre levaria a resultado vazio.
-function listarMunicipios(estabelecimentos) {
-  const compativeis = estabelecimentos.filter((e) => grupoDoEstabelecimento(e) !== null);
-  const nomesPorCodigo = new Map(compativeis.map((e) => [e.codigo_municipio, e.municipio]));
-  return [...nomesPorCodigo].sort(([, nomeA], [, nomeB]) => nomeA.localeCompare(nomeB, "pt-BR"));
-}
-
-function criarCampo(rotulo, controle, idControle) {
-  const campo = criarElemento("div", "campo");
-  const label = criarElemento("label", null, rotulo);
-  label.htmlFor = idControle;
-  controle.id = idControle;
-  campo.append(label, controle);
-  return campo;
-}
-
-function criarSelect(opcoes, textoVazio) {
-  const select = criarElemento("select");
-  const vazio = criarElemento("option", null, textoVazio);
-  vazio.value = "";
-  select.append(vazio, ...opcoes.map(([valor, texto]) => Object.assign(criarElemento("option", null, texto), { value: valor })));
-  return select;
-}
-
 function descreverEndereco(estabelecimento) {
   const { logradouro, numero, bairro, cep } = estabelecimento.endereco;
   const rua = [logradouro, numero].filter(Boolean).join(", ");
   const cepFormatado = cep ? `CEP ${cep.slice(0, 5)}-${cep.slice(5)}` : null;
-  return [rua, bairro, `${estabelecimento.municipio}`, cepFormatado].filter(Boolean).join(" · ");
+  return [rua, bairro, estabelecimento.municipio, cepFormatado].filter(Boolean).join(" · ");
 }
 
 function descreverOrigem(estabelecimento) {
@@ -77,9 +50,11 @@ function descreverOrigem(estabelecimento) {
 function renderizarEstabelecimento(estabelecimento) {
   const descricao = DESCRICAO_GRUPO[estabelecimento.grupo];
   const cartao = criarElemento("div", `estabelecimento estabelecimento--${estabelecimento.grupo}`);
-  const titulo = criarElemento("p", "estabelecimento__nome", estabelecimento.nome);
-  cartao.append(titulo, criarElemento("span", "estabelecimento__tipo", descricao.rotulo));
-  cartao.append(criarElemento("p", null, descreverEndereco(estabelecimento)));
+  cartao.append(
+    criarElemento("p", "estabelecimento__nome", estabelecimento.nome),
+    criarElemento("span", "estabelecimento__tipo", descricao.rotulo),
+    criarElemento("p", null, descreverEndereco(estabelecimento)),
+  );
   if (estabelecimento.distanciaKm != null) {
     const distancia = estabelecimento.distanciaKm.toLocaleString("pt-BR", { maximumFractionDigits: 1 });
     cartao.append(criarElemento("p", null, `Cerca de ${distancia} km em linha reta.`));
@@ -91,103 +66,87 @@ function renderizarEstabelecimento(estabelecimento) {
   return cartao;
 }
 
-function mensagemResultadoLocais(selecionados) {
+function linkPainelOficial(prefixo) {
+  const paragrafo = criarElemento("p", "resultado__observacao");
+  paragrafo.append(prefixo, criarLink(URL_PAINEL_FARMACIA_POPULAR, "painel oficial do Farmácia Popular"), ".");
+  return paragrafo;
+}
+
+function mensagemResultadoLocais(selecionados, observacoes) {
   if (selecionados.length === 0) {
-    const vazio = criarElemento("p");
-    vazio.append(
-      "Não encontrei estabelecimentos compatíveis nesse município na base do CNES. Consulte o ",
-      criarLink(URL_PAINEL_FARMACIA_POPULAR, "painel oficial de farmácias do Farmácia Popular"),
-      ".",
-    );
-    return [vazio];
+    return [
+      "Não encontrei estabelecimentos compatíveis perto desse endereço na base do CNES.",
+      linkPainelOficial("Consulte as farmácias credenciadas no "),
+    ];
   }
-  const rodape = criarElemento("p", "resultado__observacao");
-  rodape.append(
-    "A lista de drogarias do Farmácia Popular no CNES é parcial. Veja todas no ",
-    criarLink(URL_PAINEL_FARMACIA_POPULAR, "painel oficial do programa"),
-    ".",
-  );
-  const titulo = selecionados.length === 1 ? "Local para tentar a retirada:" : `${selecionados.length} locais para tentar a retirada:`;
-  return [titulo, ...selecionados.map(renderizarEstabelecimento), rodape];
+  const titulo =
+    selecionados.length === 1 ? "Local mais próximo para tentar a retirada:" : `${selecionados.length} locais próximos para tentar a retirada:`;
+  return [
+    titulo,
+    ...observacoes,
+    ...selecionados.map(renderizarEstabelecimento),
+    linkPainelOficial("A lista de drogarias do programa no CNES é parcial. Veja todas no "),
+  ];
 }
 
-function solicitarPosicao() {
-  return new Promise((resolver, rejeitar) => {
-    if (!navigator.geolocation) {
-      rejeitar(new Error("geolocalização indisponível no navegador"));
-      return;
-    }
-    navigator.geolocation.getCurrentPosition(
-      ({ coords }) => resolver({ latitude: coords.latitude, longitude: coords.longitude }),
-      rejeitar,
-      { timeout: 15000, maximumAge: 300000 },
-    );
-  });
+function codigoDoMunicipio(estabelecimentos, nomeMunicipio) {
+  const nomeNormalizado = normalizarTexto(nomeMunicipio);
+  const encontrado = estabelecimentos.find((e) => normalizarTexto(e.municipio) === nomeNormalizado);
+  return encontrado?.codigo_municipio ?? null;
 }
 
-function criarFormularioLocais(indice, sufixo, aoBuscar) {
-  const formulario = criarElemento("form", "formulario-locais");
-  const ufs = Object.keys(indice.ufs).map((uf) => [uf, uf]);
-  const selectUf = criarSelect(ufs, "Selecione");
-  const selectMunicipio = criarSelect([], "Selecione a UF primeiro");
-  const campoBairro = Object.assign(criarElemento("input"), { type: "text", autocomplete: "address-level3" });
-  const botaoPosicao = Object.assign(criarElemento("button", "botao botao--secundario", "Usar minha localização"), { type: "button" });
-  const botaoBuscar = Object.assign(criarElemento("button", "botao botao--primario", "Buscar locais"), { type: "submit" });
-  const situacao = criarElemento("p", "resultado__observacao");
-  situacao.setAttribute("role", "status");
-  let posicaoUsuario = null;
+async function localizarEndereco(endereco) {
+  try {
+    const posicao = await geocodificarEndereco(endereco);
+    if (!posicao) return { posicao: null, observacao: "Não localizei o endereço no mapa; usei o município e o bairro." };
+    const observacao =
+      posicao.precisao === PRECISAO.MUNICIPIO
+        ? "Não localizei a rua; as distâncias são aproximadas, a partir do centro do município."
+        : null;
+    return { posicao, observacao };
+  } catch (erro) {
+    if (!(erro instanceof GeocodificacaoIndisponivelError)) throw erro;
+    console.error(erro);
+    return { posicao: null, observacao: "O serviço de mapas não respondeu; usei o município e o bairro." };
+  }
+}
 
-  selectMunicipio.disabled = true;
-  selectUf.addEventListener("change", async () => {
-    selectMunicipio.disabled = true;
-    if (!selectUf.value) return;
-    situacao.textContent = "Carregando municípios…";
-    try {
-      const base = await carregarBaseUf(selectUf.value);
-      selectMunicipio.replaceWith(Object.assign(criarSelect(listarMunicipios(base.estabelecimentos), "Selecione"), { id: selectMunicipio.id }));
-      situacao.textContent = "";
-    } catch (erro) {
-      console.error(erro);
-      situacao.textContent = "Não foi possível carregar os municípios dessa UF. Tente novamente.";
-    }
-  });
+// Sem coordenadas, restringe ao município digitado; se ele não tem locais
+// na base, o resultado é vazio em vez de listar outro município qualquer.
+function selecionarSemCoordenadas(base, endereco) {
+  const municipio = codigoDoMunicipio(base.estabelecimentos, endereco.municipio);
+  if (!municipio) return [];
+  return selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, { municipio, bairro: endereco.bairro }));
+}
 
-  botaoPosicao.addEventListener("click", async () => {
-    situacao.textContent = "Aguardando sua autorização no navegador…";
-    try {
-      posicaoUsuario = await solicitarPosicao();
-      situacao.textContent = "Localização obtida. Os locais serão ordenados pela distância.";
-    } catch {
-      posicaoUsuario = null;
-      situacao.textContent = "Localização não autorizada. A busca usará o município e o bairro.";
-    }
-  });
+async function buscarPorEndereco(endereco, adicionarMensagem) {
+  const descricao = [endereco.rua, endereco.numero].filter(Boolean).join(", ");
+  adicionarMensagem("usuario", `${descricao} — ${endereco.bairro}, ${endereco.municipio}/${endereco.uf}`);
+  const carregando = adicionarMensagem("sistema mensagem--carregando", "Localizando o endereço…");
+  try {
+    const [base, { posicao, observacao }] = await Promise.all([carregarBaseUf(endereco.uf), localizarEndereco(endereco)]);
+    const selecionados = posicao
+      ? selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, { posicaoUsuario: posicao }))
+      : selecionarSemCoordenadas(base, endereco);
+    adicionarMensagem("sistema", mensagemResultadoLocais(selecionados, observacao ? [observacao] : []));
+  } catch (erro) {
+    console.error(erro);
+    adicionarMensagem("sistema mensagem--erro", "Não foi possível buscar os locais agora. Tente novamente.");
+  } finally {
+    carregando.remove();
+  }
+}
 
-  formulario.addEventListener("submit", (evento) => {
-    evento.preventDefault();
-    const municipio = formulario.querySelector(`#municipio-${sufixo}`);
-    if (!selectUf.value || !municipio.value) {
-      situacao.textContent = "Selecione a UF e o município.";
-      return;
-    }
-    aoBuscar({ uf: selectUf.value, municipio: municipio.value, bairro: campoBairro.value.trim(), posicaoUsuario });
-  });
-
-  const acoes = criarElemento("div", "conversa__acoes");
-  acoes.append(botaoPosicao, botaoBuscar);
-  formulario.append(
-    criarCampo("Estado (UF)", selectUf, `uf-${sufixo}`),
-    criarCampo("Município", selectMunicipio, `municipio-${sufixo}`),
-    criarCampo("Bairro (opcional)", campoBairro, `bairro-${sufixo}`),
-    acoes,
-    situacao,
-    criarElemento(
-      "p",
-      "resultado__observacao",
-      "Sua localização é usada só neste navegador para calcular distâncias; não é enviada nem armazenada.",
-    ),
-  );
-  return formulario;
+async function buscarPorPosicao({ uf, posicao }, adicionarMensagem) {
+  adicionarMensagem("usuario", "Usar minha localização");
+  try {
+    const base = await carregarBaseUf(uf);
+    const selecionados = selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, { posicaoUsuario: posicao }));
+    adicionarMensagem("sistema", mensagemResultadoLocais(selecionados, []));
+  } catch (erro) {
+    console.error(erro);
+    adicionarMensagem("sistema mensagem--erro", "Não foi possível buscar os locais agora. Tente novamente.");
+  }
 }
 
 let contadorFormularios = 0;
@@ -202,15 +161,14 @@ export async function oferecerBuscaDeLocais(adicionarMensagem) {
     return;
   }
   contadorFormularios += 1;
-  const formulario = criarFormularioLocais(indice, contadorFormularios, async (filtros) => {
-    const base = await carregarBaseUf(filtros.uf);
-    const selecionados = selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, filtros));
-    adicionarMensagem("sistema", mensagemResultadoLocais(selecionados));
+  const formulario = criarFormularioEndereco({
+    ufsDisponiveis: Object.keys(indice.ufs),
+    sufixo: contadorFormularios,
+    aoEnviarEndereco: (endereco) => buscarPorEndereco(endereco, adicionarMensagem),
+    aoUsarLocalizacao: (dados) => buscarPorPosicao(dados, adicionarMensagem),
   });
-  const ufsDisponiveis = Object.keys(indice.ufs).join(", ");
   adicionarMensagem("sistema", [
-    `Quer ver locais para tentar a retirada? Por enquanto há dados de: ${ufsDisponiveis}. ` +
-      "Aparecem só os municípios com estabelecimentos compatíveis no CNES.",
+    "Qual é o seu endereço? Com ele indico até 4 locais próximos onde você pode tentar retirar o medicamento.",
     formulario,
   ]);
 }
