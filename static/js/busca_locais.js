@@ -1,4 +1,5 @@
 import { renderizarEstabelecimento } from "./cartao_estabelecimento.js";
+import { mensagemOQueLevar } from "./orientacoes_retirada.js";
 import { criarElemento, criarLink } from "./elementos_dom.js";
 import { buscarEnderecoPorCep, ConsultaCepIndisponivelError, formatarCep } from "./consulta_cep.js";
 import { criarFormularioEndereco } from "./formulario_endereco.js";
@@ -47,7 +48,7 @@ function linkPainelOficial(prefixo) {
   return paragrafo;
 }
 
-function mensagemResultadoLocais(selecionados, observacoes) {
+function mensagemResultadoLocais(selecionados, observacoes, uf) {
   if (selecionados.length === 0) {
     return [
       "Não encontrei locais compatíveis perto desse endereço nas bases consultadas.",
@@ -59,7 +60,7 @@ function mensagemResultadoLocais(selecionados, observacoes) {
   return [
     titulo,
     ...observacoes,
-    ...selecionados.map(renderizarEstabelecimento),
+    ...selecionados.map((estabelecimento) => renderizarEstabelecimento(estabelecimento, uf)),
     linkPainelOficial("Veja todas as farmácias credenciadas no "),
   ];
 }
@@ -78,6 +79,14 @@ async function localizarEndereco(endereco) {
     console.error(erro);
     return { posicao: null, observacao: "O serviço de mapas não respondeu; usei o município e o bairro do CEP." };
   }
+}
+
+// Mostra os locais e, em seguida, o que levar para os tipos de local exibidos.
+function exibirLocais(selecionados, observacoes, uf, adicionarMensagem) {
+  adicionarMensagem("sistema", mensagemResultadoLocais(selecionados, observacoes, uf));
+  if (selecionados.length === 0) return;
+  const gruposExibidos = new Set(selecionados.map((estabelecimento) => estabelecimento.grupo));
+  adicionarMensagem("sistema", mensagemOQueLevar(gruposExibidos));
 }
 
 function selecionarLocais(locais, filtros) {
@@ -122,7 +131,7 @@ async function buscarPorCep(cep, contexto) {
     ]);
     const filtros = { posicaoUsuario: posicao, codigoMunicipio: endereco.codigoMunicipio, bairro: endereco.bairro, gruposPermitidos };
     const selecionados = selecionarLocais(locais, filtros);
-    adicionarMensagem("sistema", mensagemResultadoLocais(selecionados, observacao ? [observacao] : []));
+    exibirLocais(selecionados, observacao ? [observacao] : [], endereco.uf, adicionarMensagem);
   } catch (erro) {
     console.error(erro);
     adicionarMensagem("sistema mensagem--erro", "Não foi possível buscar os locais agora. Tente novamente.");
@@ -141,7 +150,7 @@ async function buscarPorPosicao(posicao, contexto) {
       return;
     }
     const locais = await carregarLocaisUf(uf, ufsComFarmacias);
-    adicionarMensagem("sistema", mensagemResultadoLocais(selecionarLocais(locais, { posicaoUsuario: posicao, gruposPermitidos }), []));
+    exibirLocais(selecionarLocais(locais, { posicaoUsuario: posicao, gruposPermitidos }), [], uf, adicionarMensagem);
   } catch (erro) {
     console.error(erro);
     adicionarMensagem("sistema mensagem--erro", "Não foi possível buscar os locais agora. Tente novamente.");

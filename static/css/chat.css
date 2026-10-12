@@ -181,3 +181,5 @@
   font-size: 0.9rem;
   text-decoration: none;
 }
+.orientacoes__secao { border-top: 1px solid var(--cinza-borda); padding-top: 8px; margin-top: 8px; }
+.orientacoes__secao ul { margin: 4px 0; padding-left: 20px; }
