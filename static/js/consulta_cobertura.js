@@ -27,7 +27,7 @@ function classificarCobertura(resultados) {
 function gruposDeRetirada(farmaciaPopular, componenteBasico) {
   const grupos = new Set();
   if (farmaciaPopular.itens.length > 0) {
-    grupos.add(GRUPO_POR_FRENTE.FARMACIA_POPULAR_CNES).add(GRUPO_POR_FRENTE.CBAF);
+    grupos.add(GRUPO_POR_FRENTE.FARMACIA_POPULAR).add(GRUPO_POR_FRENTE.CBAF);
   }
   if (componenteBasico.itens.length > 0) grupos.add(GRUPO_POR_FRENTE.CBAF);
   return grupos;

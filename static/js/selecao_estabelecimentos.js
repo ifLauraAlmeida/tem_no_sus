@@ -1,17 +1,22 @@
 import { normalizarTexto } from "./normalizacao.js";
 
 export const LIMITE_ESTABELECIMENTOS = 4;
-// Distância a partir da qual a diversidade de tipo deixa de compensar.
-// Ex.: não vale indicar uma farmácia a 58 km quando há UBS a 3 km.
-export const RAIO_DIVERSIDADE_KM = 10;
+const VAGAS_POR_GRUPO = 2;
 const RAIO_TERRA_KM = 6371;
 
-// Frentes do CNES compatíveis com itens do elenco do Farmácia Popular:
-// as credenciadas ao programa e a rede de medicamentos básicos (CBAF).
+// Rede básica vem do CNES (125/005); Farmácia Popular vem da lista oficial
+// de farmácias ativas do programa, que prevalece sobre o cadastro do CNES.
 export const GRUPO_POR_FRENTE = Object.freeze({
   CBAF: "rede_publica_basica",
-  FARMACIA_POPULAR_CNES: "farmacia_popular",
+  FARMACIA_POPULAR: "farmacia_popular",
 });
+
+export const REFERENCIA_PROXIMIDADE = Object.freeze({ KM: "km", BAIRRO: "bairro", MUNICIPIO: "municipio" });
+
+// Locais sem coordenada (60% das farmácias credenciadas) entram na ordenação
+// com uma distância presumida: no mesmo bairro, perto; no mesmo município,
+// mais longe. Valores aproximados, só para intercalar com os que têm km.
+const DISTANCIA_PRESUMIDA_KM = Object.freeze({ bairro: 1.5, municipio: 6 });
 
 export function calcularDistanciaKm(origem, destino) {
   const radianos = (graus) => (graus * Math.PI) / 180;
@@ -23,65 +28,51 @@ export function calcularDistanciaKm(origem, destino) {
   return 2 * RAIO_TERRA_KM * Math.asin(Math.sqrt(a));
 }
 
-// Um estabelecimento com CBAF é tratado como rede pública mesmo que também
-// declare Farmácia Popular, porque a retirada pelo SUS é a informação mais forte.
 export function grupoDoEstabelecimento(estabelecimento) {
+  if (estabelecimento.frentes.includes("FARMACIA_POPULAR")) return GRUPO_POR_FRENTE.FARMACIA_POPULAR;
   if (estabelecimento.frentes.includes("CBAF")) return GRUPO_POR_FRENTE.CBAF;
-  if (estabelecimento.frentes.includes("FARMACIA_POPULAR_CNES")) return GRUPO_POR_FRENTE.FARMACIA_POPULAR_CNES;
   return null;
 }
 
-function comDistancia(estabelecimento, posicaoUsuario) {
-  const temCoordenadas = estabelecimento.latitude != null && estabelecimento.longitude != null;
-  const distanciaKm = posicaoUsuario && temCoordenadas ? calcularDistanciaKm(posicaoUsuario, estabelecimento) : null;
-  return { ...estabelecimento, grupo: grupoDoEstabelecimento(estabelecimento), distanciaKm };
+function temCoordenadas(estabelecimento) {
+  return estabelecimento.latitude != null && estabelecimento.longitude != null;
 }
 
-function compararProximidade(bairroNormalizado) {
-  return (a, b) => {
-    if (a.distanciaKm != null && b.distanciaKm != null) return a.distanciaKm - b.distanciaKm;
-    const mesmoBairroA = bairroNormalizado && normalizarTexto(a.endereco.bairro ?? "") === bairroNormalizado;
-    const mesmoBairroB = bairroNormalizado && normalizarTexto(b.endereco.bairro ?? "") === bairroNormalizado;
-    if (mesmoBairroA !== mesmoBairroB) return mesmoBairroA ? -1 : 1;
-    return a.nome.localeCompare(b.nome, "pt-BR");
-  };
-}
-
-// gruposPermitidos restringe aos tipos de local compatíveis com os
-// medicamentos consultados; sem ele, aceita qualquer grupo conhecido.
-export function ordenarPorProximidade(estabelecimentos, { municipio, bairro, posicaoUsuario, gruposPermitidos }) {
-  const comparar = compararProximidade(bairro ? normalizarTexto(bairro) : "");
-  const grupoAceito = (grupo) => grupo !== null && (!gruposPermitidos || gruposPermitidos.has(grupo));
-  return estabelecimentos
-    .filter((estabelecimento) => !municipio || estabelecimento.codigo_municipio === municipio)
-    .map((estabelecimento) => comDistancia(estabelecimento, posicaoUsuario))
-    .filter((estabelecimento) => grupoAceito(estabelecimento.grupo))
-    .sort(comparar);
-}
-
-function dentroDoRaioDeDiversidade(estabelecimento, maisProximo) {
-  if (estabelecimento.distanciaKm == null || maisProximo?.distanciaKm == null) return true;
-  return estabelecimento.distanciaKm <= Math.max(RAIO_DIVERSIDADE_KM, 2 * maisProximo.distanciaKm);
-}
-
-// Regra do projeto: com dois tipos disponíveis, 2 de cada; com um tipo só,
-// até 4 dele. Vagas não preenchidas por um grupo vão para o outro. Com
-// distâncias conhecidas, só entra pela diversidade quem está razoavelmente perto.
-export function selecionarComDiversidade(ordenados, limite = LIMITE_ESTABELECIMENTOS) {
-  const vagasPorGrupo = limite / 2;
-  const selecionados = [];
-  const contagemPorGrupo = {};
-  const proximos = ordenados.filter((estabelecimento) => dentroDoRaioDeDiversidade(estabelecimento, ordenados[0]));
-  for (const estabelecimento of proximos) {
-    const contagem = contagemPorGrupo[estabelecimento.grupo] ?? 0;
-    if (contagem < vagasPorGrupo) {
-      selecionados.push(estabelecimento);
-      contagemPorGrupo[estabelecimento.grupo] = contagem + 1;
-    }
+function proximidadeRelativa(estabelecimento, { posicaoUsuario, codigoMunicipio, bairro }) {
+  if (posicaoUsuario && temCoordenadas(estabelecimento)) {
+    const distanciaKm = calcularDistanciaKm(posicaoUsuario, estabelecimento);
+    return { distanciaKm, referencia: REFERENCIA_PROXIMIDADE.KM, ordem: distanciaKm };
   }
+  if (!codigoMunicipio || estabelecimento.codigo_municipio !== codigoMunicipio) return null;
+  const mesmoBairro = bairro && normalizarTexto(estabelecimento.endereco.bairro ?? "") === normalizarTexto(bairro);
+  const referencia = mesmoBairro ? REFERENCIA_PROXIMIDADE.BAIRRO : REFERENCIA_PROXIMIDADE.MUNICIPIO;
+  return { distanciaKm: null, referencia, ordem: DISTANCIA_PRESUMIDA_KM[referencia] };
+}
+
+// Sem posição do usuário, só entram locais do município informado.
+// gruposPermitidos restringe aos tipos compatíveis com os medicamentos.
+export function ordenarPorProximidade(estabelecimentos, filtros) {
+  const grupoAceito = (grupo) => grupo !== null && (!filtros.gruposPermitidos || filtros.gruposPermitidos.has(grupo));
+  return estabelecimentos
+    .map((estabelecimento) => ({ estabelecimento, grupo: grupoDoEstabelecimento(estabelecimento) }))
+    .filter(({ grupo }) => grupoAceito(grupo))
+    .map(({ estabelecimento, grupo }) => ({ ...estabelecimento, grupo, ...proximidadeRelativa(estabelecimento, filtros) }))
+    .filter((estabelecimento) => estabelecimento.referencia !== undefined)
+    .sort((a, b) => a.ordem - b.ordem || a.nome.localeCompare(b.nome, "pt-BR"));
+}
+
+// Regra do projeto: com dois tipos disponíveis, 2 de cada (garante 2 do
+// Farmácia Popular quando o medicamento está no programa); com um tipo só,
+// até 4 dele. Vagas que um grupo não preenche vão para o outro.
+export function selecionarComDiversidade(ordenados, limite = LIMITE_ESTABELECIMENTOS) {
+  const contagemPorGrupo = {};
+  const selecionados = ordenados.filter((estabelecimento) => {
+    const contagem = contagemPorGrupo[estabelecimento.grupo] ?? 0;
+    if (contagem >= VAGAS_POR_GRUPO) return false;
+    contagemPorGrupo[estabelecimento.grupo] = contagem + 1;
+    return true;
+  });
   const restantes = ordenados.filter((estabelecimento) => !selecionados.includes(estabelecimento));
-  const ordem = new Map(ordenados.map((estabelecimento, indice) => [estabelecimento, indice]));
-  return [...selecionados, ...restantes]
-    .slice(0, limite)
-    .sort((a, b) => ordem.get(a) - ordem.get(b));
+  const escolhidos = new Set([...selecionados.slice(0, limite), ...restantes].slice(0, limite));
+  return ordenados.filter((estabelecimento) => escolhidos.has(estabelecimento));
 }
