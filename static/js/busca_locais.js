@@ -1,5 +1,6 @@
 import { renderizarEstabelecimento } from "./cartao_estabelecimento.js";
 import { mensagemOQueLevar } from "./orientacoes_retirada.js";
+import { ROLAGEM } from "./rolagem.js";
 import { criarElemento, criarLink } from "./elementos_dom.js";
 import { buscarEnderecoPorCep, ConsultaCepIndisponivelError, formatarCep } from "./consulta_cep.js";
 import { criarFormularioEndereco } from "./formulario_endereco.js";
@@ -86,7 +87,7 @@ function exibirLocais(selecionados, observacoes, uf, adicionarMensagem) {
   adicionarMensagem("sistema", mensagemResultadoLocais(selecionados, observacoes, uf));
   if (selecionados.length === 0) return;
   const gruposExibidos = new Set(selecionados.map((estabelecimento) => estabelecimento.grupo));
-  adicionarMensagem("sistema", mensagemOQueLevar(gruposExibidos));
+  adicionarMensagem("sistema", mensagemOQueLevar(gruposExibidos), ROLAGEM.NENHUMA);
 }
 
 function selecionarLocais(locais, filtros) {
@@ -188,7 +189,8 @@ export async function oferecerBuscaDeLocais(adicionarMensagem, gruposPermitidos)
   adicionarMensagem("sistema", [
     "Qual é o seu CEP? Com ele indico até 4 locais próximos onde você pode tentar retirar o medicamento.",
     formulario,
-  ]);
-  // Leva o cursor ao CEP para a pessoa seguir digitando sem clicar.
-  formulario.querySelector('input[name="cep"]').focus();
+  ], ROLAGEM.NENHUMA);
+  // Leva o cursor ao CEP sem rolar, para a pessoa continuar lendo a resposta
+  // do início e digitar o CEP sem precisar clicar.
+  formulario.querySelector('input[name="cep"]').focus({ preventScroll: true });
 }

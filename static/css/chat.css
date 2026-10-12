@@ -1,4 +1,6 @@
 .conversa__mensagens {
+  /* Referência para o offsetTop das mensagens ao rolar até o início delas. */
+  position: relative;
   display: flex;
   flex-direction: column;
   gap: 12px;

@@ -3,6 +3,7 @@ import { oferecerBuscaDeLocais } from "./busca_locais.js";
 import { COBERTURA, consultarCobertura, unirGruposDeRetirada } from "./consulta_cobertura.js";
 import { criarElemento, criarLink, formatarData } from "./elementos_dom.js";
 import { paragrafoRequisitosRetirada, renderizarConsulta } from "./resultado_consulta.js";
+import { ROLAGEM } from "./rolagem.js";
 
 const CAMINHOS_BASES = {
   farmaciaPopular: "data/reference/farmacia_popular_elenco.json",
@@ -21,14 +22,24 @@ const elementos = {
   dadosFonte: document.getElementById("dados-fonte"),
 };
 
-function adicionarMensagem(tipo, conteudo) {
+const MARGEM_ROLAGEM_PX = 4;
+
+// Respostas longas rolam até o próprio início, para a pessoa ler de cima;
+// mensagens complementares (ex.: "o que levar") não mexem na rolagem.
+function rolarAte(mensagem, rolagem) {
+  const lista = elementos.mensagens;
+  if (rolagem === ROLAGEM.FIM) lista.scrollTop = lista.scrollHeight;
+  if (rolagem === ROLAGEM.INICIO) lista.scrollTop = mensagem.offsetTop - MARGEM_ROLAGEM_PX;
+}
+
+function adicionarMensagem(tipo, conteudo, rolagem = tipo === "usuario" ? ROLAGEM.FIM : ROLAGEM.INICIO) {
   const mensagem = criarElemento("div", `mensagem mensagem--${tipo}`);
   const blocos = Array.isArray(conteudo) ? conteudo : [conteudo];
   blocos.forEach((bloco) => {
     mensagem.append(typeof bloco === "string" ? criarElemento("p", null, bloco) : bloco);
   });
   elementos.mensagens.append(mensagem);
-  elementos.mensagens.scrollTop = elementos.mensagens.scrollHeight;
+  rolarAte(mensagem, rolagem);
   return mensagem;
 }
 
@@ -64,6 +75,7 @@ function consultarReceita(textoReceita, bases) {
     adicionarMensagem(
       "sistema",
       "Nenhum medicamento informado foi identificado como coberto. Confira os nomes na receita e tente novamente.",
+      ROLAGEM.NENHUMA,
     );
     return;
   }
