@@ -1,0 +1,4041 @@
+{
+ "fonte": {
+  "programa": "Componente Básico da Assistência Farmacêutica",
+  "orgao": "Ministério da Saúde",
+  "documento": "RENAME 2024 — Anexo I",
+  "url": "https://bvsms.saude.gov.br/bvs/publicacoes/relacao_nacional_medicamentos_2024_2ed.pdf",
+  "sha256": "a991dd0934774854dbe087a259a484c21fdf70ad2d27f4af5ba5a5c51a2a15bc",
+  "data_obtencao": "2026-10-11"
+ },
+ "itens": [
+  {
+   "id": "rename-cbaf-0001",
+   "descricao_original": "acetato de betametasona + fosfato dissódico de betametasona — 3 mg/mL + 3 mg/mL — suspensão injetável",
+   "principio_ativo": "acetato de betametasona + fosfato dissódico de betametasona",
+   "concentracao": "3 mg/mL + 3 mg/mL",
+   "forma_farmaceutica": "suspensão injetável",
+   "termos_busca": [
+    "acetato de betametasona",
+    "betametasona",
+    "fosfato dissodico de betametasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0002",
+   "descricao_original": "acetato de hidrocortisona — 10 mg/g (1%) — creme",
+   "principio_ativo": "acetato de hidrocortisona",
+   "concentracao": "10 mg/g (1%)",
+   "forma_farmaceutica": "creme",
+   "termos_busca": [
+    "acetato de hidrocortisona",
+    "hidrocortisona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0003",
+   "descricao_original": "acetato de medroxiprogesterona — 50 mg/mL — suspensão injetável",
+   "principio_ativo": "acetato de medroxiprogesterona",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "suspensão injetável",
+   "termos_busca": [
+    "acetato de medroxiprogesterona",
+    "medroxiprogesterona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0004",
+   "descricao_original": "acetato de medroxiprogesterona — 150 mg/mL — suspensão injetável",
+   "principio_ativo": "acetato de medroxiprogesterona",
+   "concentracao": "150 mg/mL",
+   "forma_farmaceutica": "suspensão injetável",
+   "termos_busca": [
+    "acetato de medroxiprogesterona",
+    "medroxiprogesterona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0005",
+   "descricao_original": "acetato de medroxiprogesterona — 10 mg — comprimido",
+   "principio_ativo": "acetato de medroxiprogesterona",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "acetato de medroxiprogesterona",
+    "medroxiprogesterona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0006",
+   "descricao_original": "acetato de medroxiprogesterona + cipionato de estradiol — 25 mg/0,5 mL + 5 mg/0,5 mL — suspensão injetável",
+   "principio_ativo": "acetato de medroxiprogesterona + cipionato de estradiol",
+   "concentracao": "25 mg/0,5 mL + 5 mg/0,5 mL",
+   "forma_farmaceutica": "suspensão injetável",
+   "termos_busca": [
+    "acetato de medroxiprogesterona",
+    "medroxiprogesterona",
+    "cipionato de estradiol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0007",
+   "descricao_original": "acetato de sódio — 2 mEq/mL — solução injetável",
+   "principio_ativo": "acetato de sódio",
+   "concentracao": "2 mEq/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "acetato de sodio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0008",
+   "descricao_original": "acetazolamida — 250 mg — comprimido",
+   "principio_ativo": "acetazolamida",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "acetazolamida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0009",
+   "descricao_original": "aciclovir — 200 mg — comprimido",
+   "principio_ativo": "aciclovir",
+   "concentracao": "200 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "aciclovir"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0010",
+   "descricao_original": "aciclovir — 50 mg/g (5%) — creme",
+   "principio_ativo": "aciclovir",
+   "concentracao": "50 mg/g (5%)",
+   "forma_farmaceutica": "creme",
+   "termos_busca": [
+    "aciclovir"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0011",
+   "descricao_original": "aciclovir — 250 mg — pó para solução injetável",
+   "principio_ativo": "aciclovir",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "pó para solução injetável",
+   "termos_busca": [
+    "aciclovir"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0012",
+   "descricao_original": "ácido acetilsalicílico — 100 mg — comprimido",
+   "principio_ativo": "ácido acetilsalicílico",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "acido acetilsalicilico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0013",
+   "descricao_original": "ácido acetilsalicílico — 500 mg — comprimido",
+   "principio_ativo": "ácido acetilsalicílico",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "acido acetilsalicilico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0014",
+   "descricao_original": "ácido fólico — 5 mg — comprimido",
+   "principio_ativo": "ácido fólico",
+   "concentracao": "5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "acido folico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0015",
+   "descricao_original": "ácido fólico — 0,2 mg/mL — solução oral",
+   "principio_ativo": "ácido fólico",
+   "concentracao": "0,2 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "acido folico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0016",
+   "descricao_original": "ácido folínico — 15 mg — comprimido",
+   "principio_ativo": "ácido folínico",
+   "concentracao": "15 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "acido folinico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0017",
+   "descricao_original": "ácido salicílico (FN) — 50 mg/g (5%) — pomada",
+   "principio_ativo": "ácido salicílico (FN)",
+   "concentracao": "50 mg/g (5%)",
+   "forma_farmaceutica": "pomada",
+   "termos_busca": [
+    "acido salicilico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0018",
+   "descricao_original": "ácido valproico — 250 mg — cápsula",
+   "principio_ativo": "ácido valproico",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "acido valproico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0019",
+   "descricao_original": "ácido valproico — 250 mg — comprimido",
+   "principio_ativo": "ácido valproico",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "acido valproico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0020",
+   "descricao_original": "ácido valproico — 300 mg — comprimido",
+   "principio_ativo": "ácido valproico",
+   "concentracao": "300 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "acido valproico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0021",
+   "descricao_original": "ácido valproico — 500 mg — comprimido",
+   "principio_ativo": "ácido valproico",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "acido valproico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0022",
+   "descricao_original": "ácido valproico — 50 mg/mL — solução oral",
+   "principio_ativo": "ácido valproico",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "acido valproico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0023",
+   "descricao_original": "ácido valproico — 50 mg/mL — xarope",
+   "principio_ativo": "ácido valproico",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "xarope",
+   "termos_busca": [
+    "acido valproico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0024",
+   "descricao_original": "albendazol — 40 mg/mL — suspensão oral",
+   "principio_ativo": "albendazol",
+   "concentracao": "40 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "albendazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0025",
+   "descricao_original": "albendazol — 400 mg — comprimido mastigável",
+   "principio_ativo": "albendazol",
+   "concentracao": "400 mg",
+   "forma_farmaceutica": "comprimido mastigável",
+   "termos_busca": [
+    "albendazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0026",
+   "descricao_original": "alcachofra (Cynara scolymus L.) — 24 a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária) — cápsula",
+   "principio_ativo": "alcachofra (Cynara scolymus L.)",
+   "concentracao": "24 a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária)",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "alcachofra"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0027",
+   "descricao_original": "alcachofra (Cynara scolymus L.) — 24 a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária) — comprimido",
+   "principio_ativo": "alcachofra (Cynara scolymus L.)",
+   "concentracao": "24 a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária)",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "alcachofra"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0028",
+   "descricao_original": "alcachofra (Cynara scolymus L.) — 24 a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária) — solução oral",
+   "principio_ativo": "alcachofra (Cynara scolymus L.)",
+   "concentracao": "24 a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária)",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "alcachofra"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0029",
+   "descricao_original": "alcachofra (Cynara scolymus L.) — 24 a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária) — tintura",
+   "principio_ativo": "alcachofra (Cynara scolymus L.)",
+   "concentracao": "24 a 48 mg de derivados de ácido cafeoilquínico expressos em ácido clorogênico (dose diária)",
+   "forma_farmaceutica": "tintura",
+   "termos_busca": [
+    "alcachofra"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0030",
+   "descricao_original": "alcatrão mineral (FN) — 10 mg/g (1%) — pomada",
+   "principio_ativo": "alcatrão mineral (FN)",
+   "concentracao": "10 mg/g (1%)",
+   "forma_farmaceutica": "pomada",
+   "termos_busca": [
+    "alcatrao mineral"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0031",
+   "descricao_original": "alendronato de sódio — 10 mg — comprimido",
+   "principio_ativo": "alendronato de sódio",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "alendronato de sodio",
+    "alendronato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0032",
+   "descricao_original": "alendronato de sódio — 70 mg — comprimido",
+   "principio_ativo": "alendronato de sódio",
+   "concentracao": "70 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "alendronato de sodio",
+    "alendronato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0033",
+   "descricao_original": "algestona acetofenida + enantato de estradiol — 150 mg/mL + 10 mg/mL — solução injetável",
+   "principio_ativo": "algestona acetofenida + enantato de estradiol",
+   "concentracao": "150 mg/mL + 10 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "algestona acetofenida",
+    "enantato de estradiol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0034",
+   "descricao_original": "alopurinol — 100 mg — comprimido",
+   "principio_ativo": "alopurinol",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "alopurinol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0035",
+   "descricao_original": "alopurinol — 300 mg — comprimido",
+   "principio_ativo": "alopurinol",
+   "concentracao": "300 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "alopurinol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0036",
+   "descricao_original": "amoxicilina — 50 mg/mL — suspensão oral",
+   "principio_ativo": "amoxicilina",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "amoxicilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0037",
+   "descricao_original": "amoxicilina — 500 mg — cápsula",
+   "principio_ativo": "amoxicilina",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "amoxicilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0038",
+   "descricao_original": "amoxicilina — 500 mg — comprimido",
+   "principio_ativo": "amoxicilina",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "amoxicilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0039",
+   "descricao_original": "amoxicilina + clavulanato de potássio — 50 mg/mL + 12,5 mg/mL — suspensão oral",
+   "principio_ativo": "amoxicilina + clavulanato de potássio",
+   "concentracao": "50 mg/mL + 12,5 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "amoxicilina",
+    "clavulanato de potassio",
+    "clavulanato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0040",
+   "descricao_original": "amoxicilina + clavulanato de potássio — 500 mg + 125 mg — comprimido",
+   "principio_ativo": "amoxicilina + clavulanato de potássio",
+   "concentracao": "500 mg + 125 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "amoxicilina",
+    "clavulanato de potassio",
+    "clavulanato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0041",
+   "descricao_original": "aroeira (Schinus terebinthifolia Raddi) — 1,932 mg de ácido gálico (dose diária) — gel vaginal",
+   "principio_ativo": "aroeira (Schinus terebinthifolia Raddi)",
+   "concentracao": "1,932 mg de ácido gálico (dose diária)",
+   "forma_farmaceutica": "gel vaginal",
+   "termos_busca": [
+    "aroeira"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0042",
+   "descricao_original": "aroeira (Schinus terebinthifolia Raddi) — 1,932 mg de ácido gálico (dose diária) — óvulo vaginal",
+   "principio_ativo": "aroeira (Schinus terebinthifolia Raddi)",
+   "concentracao": "1,932 mg de ácido gálico (dose diária)",
+   "forma_farmaceutica": "óvulo vaginal",
+   "termos_busca": [
+    "aroeira"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0043",
+   "descricao_original": "atenolol — 50 mg — comprimido",
+   "principio_ativo": "atenolol",
+   "concentracao": "50 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "atenolol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0044",
+   "descricao_original": "atenolol — 100 mg — comprimido",
+   "principio_ativo": "atenolol",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "atenolol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0045",
+   "descricao_original": "azitromicina — 500 mg — comprimido",
+   "principio_ativo": "azitromicina",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "azitromicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0046",
+   "descricao_original": "azitromicina — 40 mg/mL — pó para suspensão oral",
+   "principio_ativo": "azitromicina",
+   "concentracao": "40 mg/mL",
+   "forma_farmaceutica": "pó para suspensão oral",
+   "termos_busca": [
+    "azitromicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0047",
+   "descricao_original": "babosa (Aloe vera (L.) Burm. f.) — 10-70% gel fresco — creme",
+   "principio_ativo": "babosa (Aloe vera (L.) Burm. f.)",
+   "concentracao": "10-70% gel fresco",
+   "forma_farmaceutica": "creme",
+   "termos_busca": [
+    "babosa"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0048",
+   "descricao_original": "babosa (Aloe vera (L.) Burm. f.) — 10-70% gel fresco — gel",
+   "principio_ativo": "babosa (Aloe vera (L.) Burm. f.)",
+   "concentracao": "10-70% gel fresco",
+   "forma_farmaceutica": "gel",
+   "termos_busca": [
+    "babosa"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0049",
+   "descricao_original": "benzilpenicilina benzatina — 600.000 UI — pó para suspensão injetável",
+   "principio_ativo": "benzilpenicilina benzatina",
+   "concentracao": "600.000 UI",
+   "forma_farmaceutica": "pó para suspensão injetável",
+   "termos_busca": [
+    "benzilpenicilina benzatina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0050",
+   "descricao_original": "benzilpenicilina benzatina — 600.000 UI — suspensão injetável",
+   "principio_ativo": "benzilpenicilina benzatina",
+   "concentracao": "600.000 UI",
+   "forma_farmaceutica": "suspensão injetável",
+   "termos_busca": [
+    "benzilpenicilina benzatina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0051",
+   "descricao_original": "benzilpenicilina benzatina — 1.200.000 UI — pó para suspensão injetável",
+   "principio_ativo": "benzilpenicilina benzatina",
+   "concentracao": "1.200.000 UI",
+   "forma_farmaceutica": "pó para suspensão injetável",
+   "termos_busca": [
+    "benzilpenicilina benzatina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0052",
+   "descricao_original": "benzilpenicilina benzatina — 1.200.000 UI — suspensão injetável",
+   "principio_ativo": "benzilpenicilina benzatina",
+   "concentracao": "1.200.000 UI",
+   "forma_farmaceutica": "suspensão injetável",
+   "termos_busca": [
+    "benzilpenicilina benzatina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0053",
+   "descricao_original": "benzilpenicilina potássica — 5.000.000 UI — pó para solução injetável",
+   "principio_ativo": "benzilpenicilina potássica",
+   "concentracao": "5.000.000 UI",
+   "forma_farmaceutica": "pó para solução injetável",
+   "termos_busca": [
+    "benzilpenicilina potassica",
+    "benzilpenicilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0054",
+   "descricao_original": "benzilpenicilina procaína + benzilpenicilina potássica — 300.000 UI + 100.000 UI — pó para suspensão injetável",
+   "principio_ativo": "benzilpenicilina procaína + benzilpenicilina potássica",
+   "concentracao": "300.000 UI + 100.000 UI",
+   "forma_farmaceutica": "pó para suspensão injetável",
+   "termos_busca": [
+    "benzilpenicilina procaina",
+    "benzilpenicilina potassica",
+    "benzilpenicilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0055",
+   "descricao_original": "benzoilmetronidazol — 40 mg/mL — suspensão oral",
+   "principio_ativo": "benzoilmetronidazol",
+   "concentracao": "40 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "benzoilmetronidazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0056",
+   "descricao_original": "besilato de anlodipino — 5 mg — comprimido",
+   "principio_ativo": "besilato de anlodipino",
+   "concentracao": "5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "besilato de anlodipino",
+    "anlodipino"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0057",
+   "descricao_original": "besilato de anlodipino — 10 mg — comprimido",
+   "principio_ativo": "besilato de anlodipino",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "besilato de anlodipino",
+    "anlodipino"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0058",
+   "descricao_original": "bicarbonato de sódio — 84 mg/mL (8,4%) equivalente a 1 mEq/mL — solução injetável",
+   "principio_ativo": "bicarbonato de sódio",
+   "concentracao": "84 mg/mL (8,4%) equivalente a 1 mEq/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "bicarbonato de sodio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0059",
+   "descricao_original": "brometo de ipratrópio — 0,25 mg/mL — solução para inalação",
+   "principio_ativo": "brometo de ipratrópio",
+   "concentracao": "0,25 mg/mL",
+   "forma_farmaceutica": "solução para inalação",
+   "termos_busca": [
+    "brometo de ipratropio",
+    "ipratropio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0060",
+   "descricao_original": "brometo de ipratrópio — 20 mcg/dose — solução aerossol",
+   "principio_ativo": "brometo de ipratrópio",
+   "concentracao": "20 mcg/dose",
+   "forma_farmaceutica": "solução aerossol",
+   "termos_busca": [
+    "brometo de ipratropio",
+    "ipratropio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0061",
+   "descricao_original": "budesonida — 32 mcg — suspensão para inalação nasal",
+   "principio_ativo": "budesonida",
+   "concentracao": "32 mcg",
+   "forma_farmaceutica": "suspensão para inalação nasal",
+   "termos_busca": [
+    "budesonida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0062",
+   "descricao_original": "budesonida — 50 mcg — suspensão para inalação nasal",
+   "principio_ativo": "budesonida",
+   "concentracao": "50 mcg",
+   "forma_farmaceutica": "suspensão para inalação nasal",
+   "termos_busca": [
+    "budesonida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0063",
+   "descricao_original": "budesonida — 64 mcg — suspensão para inalação nasal",
+   "principio_ativo": "budesonida",
+   "concentracao": "64 mcg",
+   "forma_farmaceutica": "suspensão para inalação nasal",
+   "termos_busca": [
+    "budesonida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0064",
+   "descricao_original": "cabergolina — 0,5 mg — comprimido",
+   "principio_ativo": "cabergolina",
+   "concentracao": "0,5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cabergolina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0065",
+   "descricao_original": "captopril — 25 mg — comprimido",
+   "principio_ativo": "captopril",
+   "concentracao": "25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "captopril"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0066",
+   "descricao_original": "carbamazepina — 200 mg — comprimido",
+   "principio_ativo": "carbamazepina",
+   "concentracao": "200 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "carbamazepina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0067",
+   "descricao_original": "carbamazepina — 400 mg — comprimido",
+   "principio_ativo": "carbamazepina",
+   "concentracao": "400 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "carbamazepina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0068",
+   "descricao_original": "carbamazepina — 20 mg/mL — suspensão oral",
+   "principio_ativo": "carbamazepina",
+   "concentracao": "20 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "carbamazepina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0069",
+   "descricao_original": "carbonato de cálcio — 1.250 mg (equivalente a 500 mg de cálcio elementar) — comprimido",
+   "principio_ativo": "carbonato de cálcio",
+   "concentracao": "1.250 mg (equivalente a 500 mg de cálcio elementar)",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "carbonato de calcio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0070",
+   "descricao_original": "carbonato de cálcio + colecalciferol — 1.250 mg (equivalente a 500 mg de cálcio elementar) + 200 UI — comprimido",
+   "principio_ativo": "carbonato de cálcio + colecalciferol",
+   "concentracao": "1.250 mg (equivalente a 500 mg de cálcio elementar) + 200 UI",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "carbonato de calcio",
+    "colecalciferol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0071",
+   "descricao_original": "carbonato de cálcio + colecalciferol — 1.250 mg (equivalente a 500 mg de cálcio elementar) + 400 UI — comprimido",
+   "principio_ativo": "carbonato de cálcio + colecalciferol",
+   "concentracao": "1.250 mg (equivalente a 500 mg de cálcio elementar) + 400 UI",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "carbonato de calcio",
+    "colecalciferol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0072",
+   "descricao_original": "carbonato de cálcio + colecalciferol — 1.500 mg (equivalente a 600 mg de cálcio elementar) + 400 UI — comprimido",
+   "principio_ativo": "carbonato de cálcio + colecalciferol",
+   "concentracao": "1.500 mg (equivalente a 600 mg de cálcio elementar) + 400 UI",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "carbonato de calcio",
+    "colecalciferol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0073",
+   "descricao_original": "carbonato de lítio — 300 mg — comprimido",
+   "principio_ativo": "carbonato de lítio",
+   "concentracao": "300 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "carbonato de litio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0074",
+   "descricao_original": "carvão vegetal ativado — pó para suspensão oral",
+   "principio_ativo": "carvão vegetal ativado",
+   "concentracao": null,
+   "forma_farmaceutica": "pó para suspensão oral",
+   "termos_busca": [
+    "carvao vegetal ativado"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0075",
+   "descricao_original": "carvedilol — 3,125 mg — comprimido",
+   "principio_ativo": "carvedilol",
+   "concentracao": "3,125 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "carvedilol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0076",
+   "descricao_original": "carvedilol — 6,25 mg — comprimido",
+   "principio_ativo": "carvedilol",
+   "concentracao": "6,25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "carvedilol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0077",
+   "descricao_original": "carvedilol — 12,5 mg — comprimido",
+   "principio_ativo": "carvedilol",
+   "concentracao": "12,5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "carvedilol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0078",
+   "descricao_original": "carvedilol — 25 mg — comprimido",
+   "principio_ativo": "carvedilol",
+   "concentracao": "25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "carvedilol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0079",
+   "descricao_original": "cáscara-sagrada (Rhamnus purshiana) — 20 a 30 mg de derivados hidroxiantracênicos expressos em cascarosídeo A (dose diária) — cápsula",
+   "principio_ativo": "cáscara-sagrada (Rhamnus purshiana)",
+   "concentracao": "20 a 30 mg de derivados hidroxiantracênicos expressos em cascarosídeo A (dose diária)",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "cascara-sagrada"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0080",
+   "descricao_original": "cáscara-sagrada (Rhamnus purshiana) — 20 a 30 mg de derivados hidroxiantracênicos expressos em cascarosídeo A (dose diária) — tintura",
+   "principio_ativo": "cáscara-sagrada (Rhamnus purshiana)",
+   "concentracao": "20 a 30 mg de derivados hidroxiantracênicos expressos em cascarosídeo A (dose diária)",
+   "forma_farmaceutica": "tintura",
+   "termos_busca": [
+    "cascara-sagrada"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0081",
+   "descricao_original": "cefalexina — 500 mg — cápsula",
+   "principio_ativo": "cefalexina",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "cefalexina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0082",
+   "descricao_original": "cefalexina — 500 mg — comprimido",
+   "principio_ativo": "cefalexina",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cefalexina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0083",
+   "descricao_original": "cefalexina — 50 mg/mL — suspensão oral",
+   "principio_ativo": "cefalexina",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "cefalexina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0084",
+   "descricao_original": "cefotaxima sódica — 500 mg — pó para solução injetável",
+   "principio_ativo": "cefotaxima sódica",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "pó para solução injetável",
+   "termos_busca": [
+    "cefotaxima sodica",
+    "cefotaxima"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0085",
+   "descricao_original": "ceftriaxona — 250 mg — pó para solução injetável",
+   "principio_ativo": "ceftriaxona",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "pó para solução injetável",
+   "termos_busca": [
+    "ceftriaxona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0086",
+   "descricao_original": "ceftriaxona — 500 mg — pó para solução injetável",
+   "principio_ativo": "ceftriaxona",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "pó para solução injetável",
+   "termos_busca": [
+    "ceftriaxona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0087",
+   "descricao_original": "ceftriaxona — 1 g — pó para solução injetável",
+   "principio_ativo": "ceftriaxona",
+   "concentracao": "1 g",
+   "forma_farmaceutica": "pó para solução injetável",
+   "termos_busca": [
+    "ceftriaxona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0088",
+   "descricao_original": "cetoconazol — 20 mg/mL (2%) — xampu",
+   "principio_ativo": "cetoconazol",
+   "concentracao": "20 mg/mL (2%)",
+   "forma_farmaceutica": "xampu",
+   "termos_busca": [
+    "cetoconazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0089",
+   "descricao_original": "cianocobalamina — 500 mcg/mL — solução injetável",
+   "principio_ativo": "cianocobalamina",
+   "concentracao": "500 mcg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cianocobalamina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0090",
+   "descricao_original": "ciprofloxacino — 250 mg — comprimido",
+   "principio_ativo": "ciprofloxacino",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "ciprofloxacino"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0091",
+   "descricao_original": "ciprofloxacino — 500 mg — comprimido",
+   "principio_ativo": "ciprofloxacino",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "ciprofloxacino"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0092",
+   "descricao_original": "claritromicina — 50 mg/mL — grânulo para suspensão oral",
+   "principio_ativo": "claritromicina",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "grânulo para suspensão oral",
+   "termos_busca": [
+    "claritromicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0093",
+   "descricao_original": "claritromicina — 500 mg — cápsula",
+   "principio_ativo": "claritromicina",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "claritromicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0094",
+   "descricao_original": "claritromicina — 250 mg — comprimido",
+   "principio_ativo": "claritromicina",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "claritromicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0095",
+   "descricao_original": "claritromicina — 500 mg — comprimido",
+   "principio_ativo": "claritromicina",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "claritromicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0096",
+   "descricao_original": "clonazepam — 2,5 mg/mL — solução oral",
+   "principio_ativo": "clonazepam",
+   "concentracao": "2,5 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "clonazepam"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0097",
+   "descricao_original": "cloranfenicol — 250 mg — cápsula",
+   "principio_ativo": "cloranfenicol",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "cloranfenicol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0098",
+   "descricao_original": "cloranfenicol — 250 mg — comprimido",
+   "principio_ativo": "cloranfenicol",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloranfenicol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0099",
+   "descricao_original": "cloreto de potássio — 191 mg/mL (19,1%) equivalente a 2,56 mEq/mL — solução injetável",
+   "principio_ativo": "cloreto de potássio",
+   "concentracao": "191 mg/mL (19,1%) equivalente a 2,56 mEq/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloreto de potassio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0100",
+   "descricao_original": "cloreto de sódio — 200 mg/mL (20%) equivalente a 3,4 mEq/mL — solução injetável",
+   "principio_ativo": "cloreto de sódio",
+   "concentracao": "200 mg/mL (20%) equivalente a 3,4 mEq/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloreto de sodio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0101",
+   "descricao_original": "cloreto de sódio — 9 mg/mL (0,9%) — solução nasal",
+   "principio_ativo": "cloreto de sódio",
+   "concentracao": "9 mg/mL (0,9%)",
+   "forma_farmaceutica": "solução nasal",
+   "termos_busca": [
+    "cloreto de sodio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0102",
+   "descricao_original": "cloreto de sódio — 9 mg/mL (0,9%) equivalente a 0,154 mEq/mL — solução injetável",
+   "principio_ativo": "cloreto de sódio",
+   "concentracao": "9 mg/mL (0,9%) equivalente a 0,154 mEq/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloreto de sodio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0103",
+   "descricao_original": "cloridrato de amiodarona — 50 mg/mL — solução injetável",
+   "principio_ativo": "cloridrato de amiodarona",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de amiodarona",
+    "amiodarona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0104",
+   "descricao_original": "cloridrato de amiodarona — 200 mg — comprimido",
+   "principio_ativo": "cloridrato de amiodarona",
+   "concentracao": "200 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de amiodarona",
+    "amiodarona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0105",
+   "descricao_original": "cloridrato de amitriptilina — 25 mg — comprimido",
+   "principio_ativo": "cloridrato de amitriptilina",
+   "concentracao": "25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de amitriptilina",
+    "amitriptilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0106",
+   "descricao_original": "cloridrato de amitriptilina — 75 mg — comprimido",
+   "principio_ativo": "cloridrato de amitriptilina",
+   "concentracao": "75 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de amitriptilina",
+    "amitriptilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0107",
+   "descricao_original": "cloridrato de biperideno — 4 mg — comprimido de liberação prolongada",
+   "principio_ativo": "cloridrato de biperideno",
+   "concentracao": "4 mg",
+   "forma_farmaceutica": "comprimido de liberação prolongada",
+   "termos_busca": [
+    "cloridrato de biperideno",
+    "biperideno"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0108",
+   "descricao_original": "cloridrato de biperideno — 2 mg — comprimido",
+   "principio_ativo": "cloridrato de biperideno",
+   "concentracao": "2 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de biperideno",
+    "biperideno"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0109",
+   "descricao_original": "cloridrato de bupivacaína — 2,5 mg/mL (0,25%) — solução injetável",
+   "principio_ativo": "cloridrato de bupivacaína",
+   "concentracao": "2,5 mg/mL (0,25%)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de bupivacaina",
+    "bupivacaina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0110",
+   "descricao_original": "cloridrato de bupivacaína — 5 mg/mL (0,50%) — solução injetável",
+   "principio_ativo": "cloridrato de bupivacaína",
+   "concentracao": "5 mg/mL (0,50%)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de bupivacaina",
+    "bupivacaina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0111",
+   "descricao_original": "cloridrato de clindamicina — 150 mg — cápsula",
+   "principio_ativo": "cloridrato de clindamicina",
+   "concentracao": "150 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "cloridrato de clindamicina",
+    "clindamicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0112",
+   "descricao_original": "cloridrato de clindamicina — 300 mg — cápsula",
+   "principio_ativo": "cloridrato de clindamicina",
+   "concentracao": "300 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "cloridrato de clindamicina",
+    "clindamicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0113",
+   "descricao_original": "cloridrato de clomipramina — 10 mg — comprimido",
+   "principio_ativo": "cloridrato de clomipramina",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de clomipramina",
+    "clomipramina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0114",
+   "descricao_original": "cloridrato de clomipramina — 25 mg — comprimido",
+   "principio_ativo": "cloridrato de clomipramina",
+   "concentracao": "25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de clomipramina",
+    "clomipramina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0115",
+   "descricao_original": "cloridrato de clorpromazina — 5 mg/mL — solução injetável",
+   "principio_ativo": "cloridrato de clorpromazina",
+   "concentracao": "5 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de clorpromazina",
+    "clorpromazina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0116",
+   "descricao_original": "cloridrato de clorpromazina — 40 mg/mL — solução oral",
+   "principio_ativo": "cloridrato de clorpromazina",
+   "concentracao": "40 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "cloridrato de clorpromazina",
+    "clorpromazina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0117",
+   "descricao_original": "cloridrato de clorpromazina — 25 mg — comprimido",
+   "principio_ativo": "cloridrato de clorpromazina",
+   "concentracao": "25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de clorpromazina",
+    "clorpromazina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0118",
+   "descricao_original": "cloridrato de clorpromazina — 100 mg — comprimido",
+   "principio_ativo": "cloridrato de clorpromazina",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de clorpromazina",
+    "clorpromazina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0119",
+   "descricao_original": "cloridrato de dobutamina — 12,5 mg/mL — solução injetável",
+   "principio_ativo": "cloridrato de dobutamina",
+   "concentracao": "12,5 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de dobutamina",
+    "dobutamina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0120",
+   "descricao_original": "cloridrato de dopamina — 5 mg/mL — solução injetável",
+   "principio_ativo": "cloridrato de dopamina",
+   "concentracao": "5 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de dopamina",
+    "dopamina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0121",
+   "descricao_original": "cloridrato de fluoxetina — 20 mg — cápsula",
+   "principio_ativo": "cloridrato de fluoxetina",
+   "concentracao": "20 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "cloridrato de fluoxetina",
+    "fluoxetina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0122",
+   "descricao_original": "cloridrato de fluoxetina — 20 mg — comprimido",
+   "principio_ativo": "cloridrato de fluoxetina",
+   "concentracao": "20 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de fluoxetina",
+    "fluoxetina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0123",
+   "descricao_original": "cloridrato de hidralazina — 25 mg — comprimido",
+   "principio_ativo": "cloridrato de hidralazina",
+   "concentracao": "25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de hidralazina",
+    "hidralazina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0124",
+   "descricao_original": "cloridrato de hidralazina — 50 mg — comprimido",
+   "principio_ativo": "cloridrato de hidralazina",
+   "concentracao": "50 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de hidralazina",
+    "hidralazina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0125",
+   "descricao_original": "cloridrato de lidocaína — 10 mg/mL (1%) — solução injetável",
+   "principio_ativo": "cloridrato de lidocaína",
+   "concentracao": "10 mg/mL (1%)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de lidocaina",
+    "lidocaina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0126",
+   "descricao_original": "cloridrato de lidocaína — 20 mg/mL (2%) — solução injetável",
+   "principio_ativo": "cloridrato de lidocaína",
+   "concentracao": "20 mg/mL (2%)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de lidocaina",
+    "lidocaina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0127",
+   "descricao_original": "cloridrato de lidocaína — 20 mg/g (2%) — gel",
+   "principio_ativo": "cloridrato de lidocaína",
+   "concentracao": "20 mg/g (2%)",
+   "forma_farmaceutica": "gel",
+   "termos_busca": [
+    "cloridrato de lidocaina",
+    "lidocaina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0128",
+   "descricao_original": "cloridrato de lidocaína — 100 mg/mL (10%) — solução spray",
+   "principio_ativo": "cloridrato de lidocaína",
+   "concentracao": "100 mg/mL (10%)",
+   "forma_farmaceutica": "solução spray",
+   "termos_busca": [
+    "cloridrato de lidocaina",
+    "lidocaina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0129",
+   "descricao_original": "cloridrato de lidocaína + glicose — 50 mg/mL + 75 mg/mL (5% + 7,5%) — solução injetável",
+   "principio_ativo": "cloridrato de lidocaína + glicose",
+   "concentracao": "50 mg/mL + 75 mg/mL (5% + 7,5%)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de lidocaina",
+    "lidocaina",
+    "glicose"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0130",
+   "descricao_original": "cloridrato de lidocaína + hemitartarato de epinefrina — 2% + 1:200.000 (20 mg + 20 mcg/mL) — solução injetável",
+   "principio_ativo": "cloridrato de lidocaína + hemitartarato de epinefrina",
+   "concentracao": "2% + 1:200.000 (20 mg + 20 mcg/mL)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de lidocaina",
+    "lidocaina",
+    "hemitartarato de epinefrina",
+    "epinefrina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0131",
+   "descricao_original": "cloridrato de lidocaína + hemitartarato de epinefrina — 2% + 1:80.000 (20 mg + 12,5 mcg/mL) — solução injetável",
+   "principio_ativo": "cloridrato de lidocaína + hemitartarato de epinefrina",
+   "concentracao": "2% + 1:80.000 (20 mg + 12,5 mcg/mL)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de lidocaina",
+    "lidocaina",
+    "hemitartarato de epinefrina",
+    "epinefrina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0132",
+   "descricao_original": "cloridrato de lidocaína + hemitartarato de epinefrina — 1% + 1:200.000 (10 mg + 20 mcg/mL) — solução injetável",
+   "principio_ativo": "cloridrato de lidocaína + hemitartarato de epinefrina",
+   "concentracao": "1% + 1:200.000 (10 mg + 20 mcg/mL)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de lidocaina",
+    "lidocaina",
+    "hemitartarato de epinefrina",
+    "epinefrina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0133",
+   "descricao_original": "cloridrato de metformina — 500 mg — comprimido",
+   "principio_ativo": "cloridrato de metformina",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de metformina",
+    "metformina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0134",
+   "descricao_original": "cloridrato de metformina — 850 mg — comprimido",
+   "principio_ativo": "cloridrato de metformina",
+   "concentracao": "850 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de metformina",
+    "metformina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0135",
+   "descricao_original": "cloridrato de metoclopramida — 10 mg — comprimido",
+   "principio_ativo": "cloridrato de metoclopramida",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de metoclopramida",
+    "metoclopramida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0136",
+   "descricao_original": "cloridrato de metoclopramida — 5 mg/mL — solução injetável",
+   "principio_ativo": "cloridrato de metoclopramida",
+   "concentracao": "5 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de metoclopramida",
+    "metoclopramida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0137",
+   "descricao_original": "cloridrato de metoclopramida — 4 mg/mL — solução oral",
+   "principio_ativo": "cloridrato de metoclopramida",
+   "concentracao": "4 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "cloridrato de metoclopramida",
+    "metoclopramida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0138",
+   "descricao_original": "cloridrato de naloxona — 0,4 mg/mL — solução injetável",
+   "principio_ativo": "cloridrato de naloxona",
+   "concentracao": "0,4 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de naloxona",
+    "naloxona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0139",
+   "descricao_original": "cloridrato de nortriptilina — 10 mg — cápsula",
+   "principio_ativo": "cloridrato de nortriptilina",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "cloridrato de nortriptilina",
+    "nortriptilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0140",
+   "descricao_original": "cloridrato de nortriptilina — 25 mg — cápsula",
+   "principio_ativo": "cloridrato de nortriptilina",
+   "concentracao": "25 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "cloridrato de nortriptilina",
+    "nortriptilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0141",
+   "descricao_original": "cloridrato de nortriptilina — 50 mg — cápsula",
+   "principio_ativo": "cloridrato de nortriptilina",
+   "concentracao": "50 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "cloridrato de nortriptilina",
+    "nortriptilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0142",
+   "descricao_original": "cloridrato de nortriptilina — 75 mg — cápsula",
+   "principio_ativo": "cloridrato de nortriptilina",
+   "concentracao": "75 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "cloridrato de nortriptilina",
+    "nortriptilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0143",
+   "descricao_original": "cloridrato de ondansetrona — 4 mg — comprimido",
+   "principio_ativo": "cloridrato de ondansetrona",
+   "concentracao": "4 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de ondansetrona",
+    "ondansetrona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0144",
+   "descricao_original": "cloridrato de ondansetrona — 4 mg — comprimido orodispersível",
+   "principio_ativo": "cloridrato de ondansetrona",
+   "concentracao": "4 mg",
+   "forma_farmaceutica": "comprimido orodispersível",
+   "termos_busca": [
+    "cloridrato de ondansetrona",
+    "ondansetrona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0145",
+   "descricao_original": "cloridrato de ondansetrona — 8 mg — comprimido",
+   "principio_ativo": "cloridrato de ondansetrona",
+   "concentracao": "8 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de ondansetrona",
+    "ondansetrona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0146",
+   "descricao_original": "cloridrato de ondansetrona — 8 mg — comprimido orodispersível",
+   "principio_ativo": "cloridrato de ondansetrona",
+   "concentracao": "8 mg",
+   "forma_farmaceutica": "comprimido orodispersível",
+   "termos_busca": [
+    "cloridrato de ondansetrona",
+    "ondansetrona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0147",
+   "descricao_original": "cloridrato de pilocarpina — 20 mg/mL (2%) — solução oftálmica",
+   "principio_ativo": "cloridrato de pilocarpina",
+   "concentracao": "20 mg/mL (2%)",
+   "forma_farmaceutica": "solução oftálmica",
+   "termos_busca": [
+    "cloridrato de pilocarpina",
+    "pilocarpina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0148",
+   "descricao_original": "cloridrato de piridoxina — 40 mg — comprimido",
+   "principio_ativo": "cloridrato de piridoxina",
+   "concentracao": "40 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de piridoxina",
+    "piridoxina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0149",
+   "descricao_original": "cloridrato de prilocaína + felipressina — 30 mg/mL (3%) + 0,03 UI/mL — solução injetável",
+   "principio_ativo": "cloridrato de prilocaína + felipressina",
+   "concentracao": "30 mg/mL (3%) + 0,03 UI/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de prilocaina",
+    "prilocaina",
+    "felipressina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0150",
+   "descricao_original": "cloridrato de prometazina — 25 mg — comprimido",
+   "principio_ativo": "cloridrato de prometazina",
+   "concentracao": "25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de prometazina",
+    "prometazina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0151",
+   "descricao_original": "cloridrato de prometazina — 25 mg/mL — solução injetável",
+   "principio_ativo": "cloridrato de prometazina",
+   "concentracao": "25 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de prometazina",
+    "prometazina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0152",
+   "descricao_original": "cloridrato de propafenona — 300 mg — comprimido",
+   "principio_ativo": "cloridrato de propafenona",
+   "concentracao": "300 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de propafenona",
+    "propafenona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0153",
+   "descricao_original": "cloridrato de propafenona — 150 mg — comprimido",
+   "principio_ativo": "cloridrato de propafenona",
+   "concentracao": "150 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de propafenona",
+    "propafenona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0154",
+   "descricao_original": "cloridrato de propranolol — 10 mg — comprimido",
+   "principio_ativo": "cloridrato de propranolol",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de propranolol",
+    "propranolol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0155",
+   "descricao_original": "cloridrato de propranolol — 40 mg — comprimido",
+   "principio_ativo": "cloridrato de propranolol",
+   "concentracao": "40 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de propranolol",
+    "propranolol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0156",
+   "descricao_original": "cloridrato de protamina — 10 mg/mL — solução injetável",
+   "principio_ativo": "cloridrato de protamina",
+   "concentracao": "10 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de protamina",
+    "protamina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0157",
+   "descricao_original": "cloridrato de tetraciclina — 5 mg/g — pomada oftálmica",
+   "principio_ativo": "cloridrato de tetraciclina",
+   "concentracao": "5 mg/g",
+   "forma_farmaceutica": "pomada oftálmica",
+   "termos_busca": [
+    "cloridrato de tetraciclina",
+    "tetraciclina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0158",
+   "descricao_original": "cloridrato de tetraciclina — 500 mg — cápsula",
+   "principio_ativo": "cloridrato de tetraciclina",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "cloridrato de tetraciclina",
+    "tetraciclina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0159",
+   "descricao_original": "cloridrato de tiamina — 300 mg — comprimido",
+   "principio_ativo": "cloridrato de tiamina",
+   "concentracao": "300 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de tiamina",
+    "tiamina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0160",
+   "descricao_original": "cloridrato de verapamil — 80 mg — comprimido",
+   "principio_ativo": "cloridrato de verapamil",
+   "concentracao": "80 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de verapamil",
+    "verapamil"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0161",
+   "descricao_original": "cloridrato de verapamil — 2,5 mg/mL — solução injetável",
+   "principio_ativo": "cloridrato de verapamil",
+   "concentracao": "2,5 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "cloridrato de verapamil",
+    "verapamil"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0162",
+   "descricao_original": "cloridrato de verapamil — 120 mg — comprimido",
+   "principio_ativo": "cloridrato de verapamil",
+   "concentracao": "120 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "cloridrato de verapamil",
+    "verapamil"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0163",
+   "descricao_original": "dexametasona — 1 mg/g (0,1%) — creme dermatológico",
+   "principio_ativo": "dexametasona",
+   "concentracao": "1 mg/g (0,1%)",
+   "forma_farmaceutica": "creme dermatológico",
+   "termos_busca": [
+    "dexametasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0164",
+   "descricao_original": "dexametasona — 1 mg/g (0,1%) — pomada oftálmica",
+   "principio_ativo": "dexametasona",
+   "concentracao": "1 mg/g (0,1%)",
+   "forma_farmaceutica": "pomada oftálmica",
+   "termos_busca": [
+    "dexametasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0165",
+   "descricao_original": "dexametasona — 1 mg/mL (0,1%) — suspensão oftálmica",
+   "principio_ativo": "dexametasona",
+   "concentracao": "1 mg/mL (0,1%)",
+   "forma_farmaceutica": "suspensão oftálmica",
+   "termos_busca": [
+    "dexametasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0166",
+   "descricao_original": "dexametasona — 4 mg — comprimido",
+   "principio_ativo": "dexametasona",
+   "concentracao": "4 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "dexametasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0167",
+   "descricao_original": "dexametasona — 0,1 mg/mL — elixir",
+   "principio_ativo": "dexametasona",
+   "concentracao": "0,1 mg/mL",
+   "forma_farmaceutica": "elixir",
+   "termos_busca": [
+    "dexametasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0168",
+   "descricao_original": "dexametasona — 4 mg/mL — solução injetável",
+   "principio_ativo": "dexametasona",
+   "concentracao": "4 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "dexametasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0169",
+   "descricao_original": "diazepam — 5 mg/mL — solução injetável",
+   "principio_ativo": "diazepam",
+   "concentracao": "5 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "diazepam"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0170",
+   "descricao_original": "diazepam — 5 mg — comprimido",
+   "principio_ativo": "diazepam",
+   "concentracao": "5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "diazepam"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0171",
+   "descricao_original": "diazepam — 10 mg — comprimido",
+   "principio_ativo": "diazepam",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "diazepam"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0172",
+   "descricao_original": "digliconato de clorexidina — 0,12% — solução bucal",
+   "principio_ativo": "digliconato de clorexidina",
+   "concentracao": "0,12%",
+   "forma_farmaceutica": "solução bucal",
+   "termos_busca": [
+    "digliconato de clorexidina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0173",
+   "descricao_original": "digliconato de clorexidina — 2% a 4% — solução para uso tópico",
+   "principio_ativo": "digliconato de clorexidina",
+   "concentracao": "2% a 4%",
+   "forma_farmaceutica": "solução para uso tópico",
+   "termos_busca": [
+    "digliconato de clorexidina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0174",
+   "descricao_original": "digoxina — 0,25 mg — comprimido",
+   "principio_ativo": "digoxina",
+   "concentracao": "0,25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "digoxina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0175",
+   "descricao_original": "digoxina — 0,05 mg/mL — elixir",
+   "principio_ativo": "digoxina",
+   "concentracao": "0,05 mg/mL",
+   "forma_farmaceutica": "elixir",
+   "termos_busca": [
+    "digoxina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0176",
+   "descricao_original": "dinitrato de isossorbida — 5 mg — comprimido sublingual",
+   "principio_ativo": "dinitrato de isossorbida",
+   "concentracao": "5 mg",
+   "forma_farmaceutica": "comprimido sublingual",
+   "termos_busca": [
+    "dinitrato de isossorbida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0177",
+   "descricao_original": "dipirona — 500 mg — comprimido",
+   "principio_ativo": "dipirona",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "dipirona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0178",
+   "descricao_original": "dipirona — 500 mg/mL — solução oral",
+   "principio_ativo": "dipirona",
+   "concentracao": "500 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "dipirona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0179",
+   "descricao_original": "dipirona — 500 mg/mL — solução injetável",
+   "principio_ativo": "dipirona",
+   "concentracao": "500 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "dipirona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0180",
+   "descricao_original": "dipropionato de beclometasona — 50 mcg/dose — solução aerossol",
+   "principio_ativo": "dipropionato de beclometasona",
+   "concentracao": "50 mcg/dose",
+   "forma_farmaceutica": "solução aerossol",
+   "termos_busca": [
+    "dipropionato de beclometasona",
+    "beclometasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0181",
+   "descricao_original": "dipropionato de beclometasona — 50 mcg/dose — suspensão para inalação nasal",
+   "principio_ativo": "dipropionato de beclometasona",
+   "concentracao": "50 mcg/dose",
+   "forma_farmaceutica": "suspensão para inalação nasal",
+   "termos_busca": [
+    "dipropionato de beclometasona",
+    "beclometasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0182",
+   "descricao_original": "dipropionato de beclometasona — 200 mcg/dose — pó para inalação oral",
+   "principio_ativo": "dipropionato de beclometasona",
+   "concentracao": "200 mcg/dose",
+   "forma_farmaceutica": "pó para inalação oral",
+   "termos_busca": [
+    "dipropionato de beclometasona",
+    "beclometasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0183",
+   "descricao_original": "dipropionato de beclometasona — 200 mcg/dose — solução aerossol",
+   "principio_ativo": "dipropionato de beclometasona",
+   "concentracao": "200 mcg/dose",
+   "forma_farmaceutica": "solução aerossol",
+   "termos_busca": [
+    "dipropionato de beclometasona",
+    "beclometasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0184",
+   "descricao_original": "dipropionato de beclometasona — 250 mcg/dose — solução aerossol",
+   "principio_ativo": "dipropionato de beclometasona",
+   "concentracao": "250 mcg/dose",
+   "forma_farmaceutica": "solução aerossol",
+   "termos_busca": [
+    "dipropionato de beclometasona",
+    "beclometasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0185",
+   "descricao_original": "dipropionato de beclometasona — 200 mcg/dose — cápsula para inalação oral",
+   "principio_ativo": "dipropionato de beclometasona",
+   "concentracao": "200 mcg/dose",
+   "forma_farmaceutica": "cápsula para inalação oral",
+   "termos_busca": [
+    "dipropionato de beclometasona",
+    "beclometasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0186",
+   "descricao_original": "dipropionato de beclometasona — 400 mcg/dose — pó para inalação oral",
+   "principio_ativo": "dipropionato de beclometasona",
+   "concentracao": "400 mcg/dose",
+   "forma_farmaceutica": "pó para inalação oral",
+   "termos_busca": [
+    "dipropionato de beclometasona",
+    "beclometasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0187",
+   "descricao_original": "dipropionato de beclometasona — 400 mcg/dose — cápsula para inalação oral",
+   "principio_ativo": "dipropionato de beclometasona",
+   "concentracao": "400 mcg/dose",
+   "forma_farmaceutica": "cápsula para inalação oral",
+   "termos_busca": [
+    "dipropionato de beclometasona",
+    "beclometasona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0188",
+   "descricao_original": "enantato de noretisterona + valerato de estradiol — 50 mg/mL + 5 mg/mL — solução injetável",
+   "principio_ativo": "enantato de noretisterona + valerato de estradiol",
+   "concentracao": "50 mg/mL + 5 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "enantato de noretisterona",
+    "valerato de estradiol",
+    "estradiol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0189",
+   "descricao_original": "epinefrina — 1 mg/mL — solução injetável",
+   "principio_ativo": "epinefrina",
+   "concentracao": "1 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "epinefrina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0190",
+   "descricao_original": "espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral ) — 60 a 90 mg taninos totais expressos em pirogalol (dose diária) — cápsula",
+   "principio_ativo": "espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral )",
+   "concentracao": "60 a 90 mg taninos totais expressos em pirogalol (dose diária)",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "espinheira-santa"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0191",
+   "descricao_original": "espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral ) — 60 a 90 mg taninos totais expressos em pirogalol (dose diária) — tintura",
+   "principio_ativo": "espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral )",
+   "concentracao": "60 a 90 mg taninos totais expressos em pirogalol (dose diária)",
+   "forma_farmaceutica": "tintura",
+   "termos_busca": [
+    "espinheira-santa"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0192",
+   "descricao_original": "espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral ) — 60 a 90 mg taninos totais expressos em pirogalol (dose diária) — suspensão oral",
+   "principio_ativo": "espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral )",
+   "concentracao": "60 a 90 mg taninos totais expressos em pirogalol (dose diária)",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "espinheira-santa"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0193",
+   "descricao_original": "espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral ) — 60 a 90 mg taninos totais expressos em pirogalol (dose diária) — emulsão oral",
+   "principio_ativo": "espinheira-santa (Maytenus ilicifolia Mart. ex Reissek e/ou Monteverdia ilicifolia (Mart. ex Reissek) Biral )",
+   "concentracao": "60 a 90 mg taninos totais expressos em pirogalol (dose diária)",
+   "forma_farmaceutica": "emulsão oral",
+   "termos_busca": [
+    "espinheira-santa"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0194",
+   "descricao_original": "espironolactona — 25 mg — comprimido",
+   "principio_ativo": "espironolactona",
+   "concentracao": "25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "espironolactona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0195",
+   "descricao_original": "espironolactona — 100 mg — comprimido",
+   "principio_ativo": "espironolactona",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "espironolactona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0196",
+   "descricao_original": "estolato de eritromicina — 25 mg/mL — suspensão oral",
+   "principio_ativo": "estolato de eritromicina",
+   "concentracao": "25 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "estolato de eritromicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0197",
+   "descricao_original": "estolato de eritromicina — 500 mg — comprimido",
+   "principio_ativo": "estolato de eritromicina",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "estolato de eritromicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0198",
+   "descricao_original": "estolato de eritromicina — 50 mg/mL — suspensão oral",
+   "principio_ativo": "estolato de eritromicina",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "estolato de eritromicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0199",
+   "descricao_original": "estriol — 1 mg/g — creme vaginal",
+   "principio_ativo": "estriol",
+   "concentracao": "1 mg/g",
+   "forma_farmaceutica": "creme vaginal",
+   "termos_busca": [
+    "estriol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0200",
+   "descricao_original": "estrogênios conjugados — 0,625 mg/g — creme vaginal",
+   "principio_ativo": "estrogênios conjugados",
+   "concentracao": "0,625 mg/g",
+   "forma_farmaceutica": "creme vaginal",
+   "termos_busca": [
+    "estrogenios conjugados"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0201",
+   "descricao_original": "estrogênios conjugados — 0,3 mg — comprimido",
+   "principio_ativo": "estrogênios conjugados",
+   "concentracao": "0,3 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "estrogenios conjugados"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0202",
+   "descricao_original": "estrogênios conjugados — 0,625 mg — comprimido",
+   "principio_ativo": "estrogênios conjugados",
+   "concentracao": "0,625 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "estrogenios conjugados"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0203",
+   "descricao_original": "etinilestradiol + levonorgestrel — 0,03 mg + 0,15 mg — comprimido",
+   "principio_ativo": "etinilestradiol + levonorgestrel",
+   "concentracao": "0,03 mg + 0,15 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "etinilestradiol",
+    "levonorgestrel"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0204",
+   "descricao_original": "fenitoína — 100 mg — comprimido",
+   "principio_ativo": "fenitoína",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "fenitoina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0205",
+   "descricao_original": "fenitoína — 20 mg/mL — suspensão oral",
+   "principio_ativo": "fenitoína",
+   "concentracao": "20 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "fenitoina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0206",
+   "descricao_original": "fenitoína — 50 mg/mL — solução injetável",
+   "principio_ativo": "fenitoína",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "fenitoina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0207",
+   "descricao_original": "fenobarbital — 100 mg/mL — solução injetável",
+   "principio_ativo": "fenobarbital",
+   "concentracao": "100 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "fenobarbital"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0208",
+   "descricao_original": "fenobarbital — 100 mg — comprimido",
+   "principio_ativo": "fenobarbital",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "fenobarbital"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0209",
+   "descricao_original": "fenobarbital — 40 mg/mL — solução oral",
+   "principio_ativo": "fenobarbital",
+   "concentracao": "40 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "fenobarbital"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0210",
+   "descricao_original": "ferripolimaltose — 50 mg/mL — solução oral",
+   "principio_ativo": "ferripolimaltose",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "ferripolimaltose"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0211",
+   "descricao_original": "ferripolimaltose — 100 mg — comprimido mastigável",
+   "principio_ativo": "ferripolimaltose",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido mastigável",
+   "termos_busca": [
+    "ferripolimaltose"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0212",
+   "descricao_original": "ferripolimaltose — 10 mg/mL — xarope",
+   "principio_ativo": "ferripolimaltose",
+   "concentracao": "10 mg/mL",
+   "forma_farmaceutica": "xarope",
+   "termos_busca": [
+    "ferripolimaltose"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0213",
+   "descricao_original": "finasterida — 5 mg — comprimido",
+   "principio_ativo": "finasterida",
+   "concentracao": "5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "finasterida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0214",
+   "descricao_original": "fluconazol — 150 mg — cápsula",
+   "principio_ativo": "fluconazol",
+   "concentracao": "150 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "fluconazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0215",
+   "descricao_original": "fluconazol — 10 mg/mL — suspensão oral",
+   "principio_ativo": "fluconazol",
+   "concentracao": "10 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "fluconazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0216",
+   "descricao_original": "fluconazol — 100 mg — cápsula",
+   "principio_ativo": "fluconazol",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "fluconazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0217",
+   "descricao_original": "flumazenil — 0,1 mg/mL — solução injetável",
+   "principio_ativo": "flumazenil",
+   "concentracao": "0,1 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "flumazenil"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0218",
+   "descricao_original": "folinato de cálcio — 15 mg — comprimido",
+   "principio_ativo": "folinato de cálcio",
+   "concentracao": "15 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "folinato de calcio",
+    "folinato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0219",
+   "descricao_original": "fosfato de cálcio tribásico + colecalciferol — 1661,616 mg (600 mg de cálcio) + 400 UI — comprimido",
+   "principio_ativo": "fosfato de cálcio tribásico + colecalciferol",
+   "concentracao": "1661,616 mg (600 mg de cálcio) + 400 UI",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "fosfato de calcio tribasico",
+    "calcio tribasico",
+    "colecalciferol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0220",
+   "descricao_original": "fosfato de clindamicina — 10 mg/g — solução tópica",
+   "principio_ativo": "fosfato de clindamicina",
+   "concentracao": "10 mg/g",
+   "forma_farmaceutica": "solução tópica",
+   "termos_busca": [
+    "fosfato de clindamicina",
+    "clindamicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0221",
+   "descricao_original": "fosfato de clindamicina — 10 mg/g — gel",
+   "principio_ativo": "fosfato de clindamicina",
+   "concentracao": "10 mg/g",
+   "forma_farmaceutica": "gel",
+   "termos_busca": [
+    "fosfato de clindamicina",
+    "clindamicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0222",
+   "descricao_original": "fosfato de potássio monobásico + fosfato de potássio dibásico — 0,03 g/mL + 0,1567 g/mL (equivalente a 2 mEq/mL) — solução injetável",
+   "principio_ativo": "fosfato de potássio monobásico + fosfato de potássio dibásico",
+   "concentracao": "0,03 g/mL + 0,1567 g/mL (equivalente a 2 mEq/mL)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "fosfato de potassio monobasico",
+    "potassio monobasico",
+    "fosfato de potassio dibasico",
+    "potassio dibasico"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0223",
+   "descricao_original": "fosfato sódico de prednisolona — 1 mg/mL — solução oral",
+   "principio_ativo": "fosfato sódico de prednisolona",
+   "concentracao": "1 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "fosfato sodico de prednisolona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0224",
+   "descricao_original": "fosfato sódico de prednisolona — 3 mg/mL — solução oral",
+   "principio_ativo": "fosfato sódico de prednisolona",
+   "concentracao": "3 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "fosfato sodico de prednisolona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0225",
+   "descricao_original": "furosemida — 40 mg — comprimido",
+   "principio_ativo": "furosemida",
+   "concentracao": "40 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "furosemida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0226",
+   "descricao_original": "furosemida — 10 mg/mL — solução injetável",
+   "principio_ativo": "furosemida",
+   "concentracao": "10 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "furosemida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0227",
+   "descricao_original": "garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.) — 30 a 100 mg de harpagosídeo ou 45 a 150 mg de iridoides totais expressos em harpagosídeos (dose diária) — cápsula",
+   "principio_ativo": "garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.)",
+   "concentracao": "30 a 100 mg de harpagosídeo ou 45 a 150 mg de iridoides totais expressos em harpagosídeos (dose diária)",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "garra-do-diabo"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0228",
+   "descricao_original": "garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.) — 30 a 100 mg de harpagosídeo ou 45 a 150 mg de iridoides totais expressos em harpagosídeos (dose diária) — comprimido",
+   "principio_ativo": "garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.)",
+   "concentracao": "30 a 100 mg de harpagosídeo ou 45 a 150 mg de iridoides totais expressos em harpagosídeos (dose diária)",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "garra-do-diabo"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0229",
+   "descricao_original": "garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.) — 30 a 100 mg de harpagosídeo ou 45 a 150 mg de iridoides totais expressos em harpagosídeos (dose diária) — comprimido de liberação retardada",
+   "principio_ativo": "garra-do-diabo (Harpagophytum procumbens DC. ex Meissn.)",
+   "concentracao": "30 a 100 mg de harpagosídeo ou 45 a 150 mg de iridoides totais expressos em harpagosídeos (dose diária)",
+   "forma_farmaceutica": "comprimido de liberação retardada",
+   "termos_busca": [
+    "garra-do-diabo"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0230",
+   "descricao_original": "gentamicina — 5 mg/g — pomada oftálmica",
+   "principio_ativo": "gentamicina",
+   "concentracao": "5 mg/g",
+   "forma_farmaceutica": "pomada oftálmica",
+   "termos_busca": [
+    "gentamicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0231",
+   "descricao_original": "gentamicina — 5 mg/mL — solução oftálmica",
+   "principio_ativo": "gentamicina",
+   "concentracao": "5 mg/mL",
+   "forma_farmaceutica": "solução oftálmica",
+   "termos_busca": [
+    "gentamicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0232",
+   "descricao_original": "glibenclamida — 5 mg — comprimido",
+   "principio_ativo": "glibenclamida",
+   "concentracao": "5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "glibenclamida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0233",
+   "descricao_original": "glicerol — 120 mg/mL — solução retal",
+   "principio_ativo": "glicerol",
+   "concentracao": "120 mg/mL",
+   "forma_farmaceutica": "solução retal",
+   "termos_busca": [
+    "glicerol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0234",
+   "descricao_original": "glicerol — 72 mg — supositório retal",
+   "principio_ativo": "glicerol",
+   "concentracao": "72 mg",
+   "forma_farmaceutica": "supositório retal",
+   "termos_busca": [
+    "glicerol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0235",
+   "descricao_original": "gliclazida — 30 mg — comprimido de liberação prolongada",
+   "principio_ativo": "gliclazida",
+   "concentracao": "30 mg",
+   "forma_farmaceutica": "comprimido de liberação prolongada",
+   "termos_busca": [
+    "gliclazida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0236",
+   "descricao_original": "gliclazida — 60 mg — comprimido de liberação prolongada",
+   "principio_ativo": "gliclazida",
+   "concentracao": "60 mg",
+   "forma_farmaceutica": "comprimido de liberação prolongada",
+   "termos_busca": [
+    "gliclazida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0237",
+   "descricao_original": "gliclazida — 80 mg — comprimido",
+   "principio_ativo": "gliclazida",
+   "concentracao": "80 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "gliclazida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0238",
+   "descricao_original": "glicose — 50 mg/mL (5%) — solução injetável",
+   "principio_ativo": "glicose",
+   "concentracao": "50 mg/mL (5%)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "glicose"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0239",
+   "descricao_original": "glicose — 100 mg/mL (10%) — solução injetável",
+   "principio_ativo": "glicose",
+   "concentracao": "100 mg/mL (10%)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "glicose"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0240",
+   "descricao_original": "glicose — 500 mg/mL (50%) — solução injetável",
+   "principio_ativo": "glicose",
+   "concentracao": "500 mg/mL (50%)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "glicose"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0241",
+   "descricao_original": "guaco (Mikania glomerata Spreng.) — 0,5 a 5 mg de cumarina (dose diária) — tintura",
+   "principio_ativo": "guaco (Mikania glomerata Spreng.)",
+   "concentracao": "0,5 a 5 mg de cumarina (dose diária)",
+   "forma_farmaceutica": "tintura",
+   "termos_busca": [
+    "guaco"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0242",
+   "descricao_original": "guaco (Mikania glomerata Spreng.) — 0,5 a 5 mg de cumarina (dose diária) — xarope",
+   "principio_ativo": "guaco (Mikania glomerata Spreng.)",
+   "concentracao": "0,5 a 5 mg de cumarina (dose diária)",
+   "forma_farmaceutica": "xarope",
+   "termos_busca": [
+    "guaco"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0243",
+   "descricao_original": "guaco (Mikania glomerata Spreng.) — 0,5 a 5 mg de cumarina (dose diária) — solução oral",
+   "principio_ativo": "guaco (Mikania glomerata Spreng.)",
+   "concentracao": "0,5 a 5 mg de cumarina (dose diária)",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "guaco"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0244",
+   "descricao_original": "haloperidol — 1 mg — comprimido",
+   "principio_ativo": "haloperidol",
+   "concentracao": "1 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "haloperidol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0245",
+   "descricao_original": "haloperidol — 5 mg — comprimido",
+   "principio_ativo": "haloperidol",
+   "concentracao": "5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "haloperidol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0246",
+   "descricao_original": "haloperidol — 50 mg/mL — solução injetável",
+   "principio_ativo": "haloperidol",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "haloperidol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0247",
+   "descricao_original": "haloperidol — 2 mg/mL — solução oral",
+   "principio_ativo": "haloperidol",
+   "concentracao": "2 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "haloperidol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0248",
+   "descricao_original": "haloperidol — 5 mg/mL — solução injetável",
+   "principio_ativo": "haloperidol",
+   "concentracao": "5 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "haloperidol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0249",
+   "descricao_original": "hemitartarato de norepinefrina — 2 mg/mL — solução injetável",
+   "principio_ativo": "hemitartarato de norepinefrina",
+   "concentracao": "2 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "hemitartarato de norepinefrina",
+    "norepinefrina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0250",
+   "descricao_original": "heparina sódica — 5.000 UI/0,25 mL — solução injetável",
+   "principio_ativo": "heparina sódica",
+   "concentracao": "5.000 UI/0,25 mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "heparina sodica",
+    "heparina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0251",
+   "descricao_original": "hidróxido de alumínio — 230 mg — comprimido",
+   "principio_ativo": "hidróxido de alumínio",
+   "concentracao": "230 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "hidroxido de aluminio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0252",
+   "descricao_original": "hidróxido de alumínio — 300 mg — comprimido",
+   "principio_ativo": "hidróxido de alumínio",
+   "concentracao": "300 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "hidroxido de aluminio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0253",
+   "descricao_original": "hidróxido de alumínio — 60 mg/mL — suspensão oral",
+   "principio_ativo": "hidróxido de alumínio",
+   "concentracao": "60 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "hidroxido de aluminio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0254",
+   "descricao_original": "hidroclorotiazida — 12,5 mg — comprimido",
+   "principio_ativo": "hidroclorotiazida",
+   "concentracao": "12,5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "hidroclorotiazida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0255",
+   "descricao_original": "hidroclorotiazida — 25 mg — comprimido",
+   "principio_ativo": "hidroclorotiazida",
+   "concentracao": "25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "hidroclorotiazida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0256",
+   "descricao_original": "hipromelose — 3 mg/mL (0,3%) — solução oftálmica",
+   "principio_ativo": "hipromelose",
+   "concentracao": "3 mg/mL (0,3%)",
+   "forma_farmaceutica": "solução oftálmica",
+   "termos_busca": [
+    "hipromelose"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0257",
+   "descricao_original": "hipromelose — 5 mg/mL (0,5%) — solução oftálmica",
+   "principio_ativo": "hipromelose",
+   "concentracao": "5 mg/mL (0,5%)",
+   "forma_farmaceutica": "solução oftálmica",
+   "termos_busca": [
+    "hipromelose"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0258",
+   "descricao_original": "hortelã (Mentha x piperita L.) — 60 a 440 mg de mentol e 28 a 256 mg de mentona (dose diária) — cápsula",
+   "principio_ativo": "hortelã (Mentha x piperita L.)",
+   "concentracao": "60 a 440 mg de mentol e 28 a 256 mg de mentona (dose diária)",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "hortela"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0259",
+   "descricao_original": "ibuprofeno — 200 mg — comprimido",
+   "principio_ativo": "ibuprofeno",
+   "concentracao": "200 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "ibuprofeno"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0260",
+   "descricao_original": "ibuprofeno — 300 mg — comprimido",
+   "principio_ativo": "ibuprofeno",
+   "concentracao": "300 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "ibuprofeno"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0261",
+   "descricao_original": "ibuprofeno — 600 mg — cápsula",
+   "principio_ativo": "ibuprofeno",
+   "concentracao": "600 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "ibuprofeno"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0262",
+   "descricao_original": "ibuprofeno — 600 mg — comprimido",
+   "principio_ativo": "ibuprofeno",
+   "concentracao": "600 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "ibuprofeno"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0263",
+   "descricao_original": "ibuprofeno — 50 mg/mL — suspensão oral",
+   "principio_ativo": "ibuprofeno",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "ibuprofeno"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0264",
+   "descricao_original": "imiquimode — 50 mg/g — creme",
+   "principio_ativo": "imiquimode",
+   "concentracao": "50 mg/g",
+   "forma_farmaceutica": "creme",
+   "termos_busca": [
+    "imiquimode"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0265",
+   "descricao_original": "insulina humana NPH — 100 UI/mL — suspensão injetável",
+   "principio_ativo": "insulina humana NPH",
+   "concentracao": "100 UI/mL",
+   "forma_farmaceutica": "suspensão injetável",
+   "termos_busca": [
+    "insulina humana nph"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0266",
+   "descricao_original": "insulina humana regular — 100 UI/mL — solução injetável",
+   "principio_ativo": "insulina humana regular",
+   "concentracao": "100 UI/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "insulina humana regular"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0267",
+   "descricao_original": "isoflavona-de-soja (Glycine max (L.) Merr.) — 50 a 120 mg de isoflavonas (dose diária) — cápsula",
+   "principio_ativo": "isoflavona-de-soja (Glycine max (L.) Merr.)",
+   "concentracao": "50 a 120 mg de isoflavonas (dose diária)",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "isoflavona-de-soja"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0268",
+   "descricao_original": "isoflavona-de-soja (Glycine max (L.) Merr.) — 50 a 120 mg de isoflavonas (dose diária) — comprimido",
+   "principio_ativo": "isoflavona-de-soja (Glycine max (L.) Merr.)",
+   "concentracao": "50 a 120 mg de isoflavonas (dose diária)",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "isoflavona-de-soja"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0269",
+   "descricao_original": "itraconazol — 10 mg/mL — solução oral",
+   "principio_ativo": "itraconazol",
+   "concentracao": "10 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "itraconazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0270",
+   "descricao_original": "itraconazol — 100 mg — cápsula",
+   "principio_ativo": "itraconazol",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "itraconazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0271",
+   "descricao_original": "ivermectina — 6 mg — comprimido",
+   "principio_ativo": "ivermectina",
+   "concentracao": "6 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "ivermectina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0272",
+   "descricao_original": "lactato de biperideno — 5 mg/mL — solução injetável",
+   "principio_ativo": "lactato de biperideno",
+   "concentracao": "5 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "lactato de biperideno"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0273",
+   "descricao_original": "lactulose — 667 mg/mL — xarope",
+   "principio_ativo": "lactulose",
+   "concentracao": "667 mg/mL",
+   "forma_farmaceutica": "xarope",
+   "termos_busca": [
+    "lactulose"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0274",
+   "descricao_original": "levodopa + benserazida — 100 mg + 25 mg — cápsula",
+   "principio_ativo": "levodopa + benserazida",
+   "concentracao": "100 mg + 25 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "levodopa",
+    "benserazida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0275",
+   "descricao_original": "levodopa + benserazida — 100 mg + 25 mg — comprimido",
+   "principio_ativo": "levodopa + benserazida",
+   "concentracao": "100 mg + 25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "levodopa",
+    "benserazida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0276",
+   "descricao_original": "levodopa + benserazida — 200 mg + 50 mg — comprimido",
+   "principio_ativo": "levodopa + benserazida",
+   "concentracao": "200 mg + 50 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "levodopa",
+    "benserazida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0277",
+   "descricao_original": "levodopa + carbidopa — 200 mg + 50 mg — comprimido",
+   "principio_ativo": "levodopa + carbidopa",
+   "concentracao": "200 mg + 50 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "levodopa",
+    "carbidopa"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0278",
+   "descricao_original": "levodopa + carbidopa — 250 mg + 25 mg — comprimido",
+   "principio_ativo": "levodopa + carbidopa",
+   "concentracao": "250 mg + 25 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "levodopa",
+    "carbidopa"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0279",
+   "descricao_original": "levonorgestrel — 0,75 mg — comprimido",
+   "principio_ativo": "levonorgestrel",
+   "concentracao": "0,75 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "levonorgestrel"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0280",
+   "descricao_original": "levonorgestrel — 1,5 mg — comprimido",
+   "principio_ativo": "levonorgestrel",
+   "concentracao": "1,5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "levonorgestrel"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0281",
+   "descricao_original": "levotiroxina sódica — 12,5 mcg — comprimido",
+   "principio_ativo": "levotiroxina sódica",
+   "concentracao": "12,5 mcg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "levotiroxina sodica",
+    "levotiroxina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0282",
+   "descricao_original": "levotiroxina sódica — 25 mcg — comprimido",
+   "principio_ativo": "levotiroxina sódica",
+   "concentracao": "25 mcg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "levotiroxina sodica",
+    "levotiroxina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0283",
+   "descricao_original": "levotiroxina sódica — 37,5 mcg — comprimido",
+   "principio_ativo": "levotiroxina sódica",
+   "concentracao": "37,5 mcg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "levotiroxina sodica",
+    "levotiroxina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0284",
+   "descricao_original": "levotiroxina sódica — 50 mcg — comprimido",
+   "principio_ativo": "levotiroxina sódica",
+   "concentracao": "50 mcg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "levotiroxina sodica",
+    "levotiroxina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0285",
+   "descricao_original": "levotiroxina sódica — 100 mcg — comprimido",
+   "principio_ativo": "levotiroxina sódica",
+   "concentracao": "100 mcg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "levotiroxina sodica",
+    "levotiroxina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0286",
+   "descricao_original": "loratadina — 1 mg/mL — xarope",
+   "principio_ativo": "loratadina",
+   "concentracao": "1 mg/mL",
+   "forma_farmaceutica": "xarope",
+   "termos_busca": [
+    "loratadina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0287",
+   "descricao_original": "loratadina — 10 mg — comprimido",
+   "principio_ativo": "loratadina",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "loratadina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0288",
+   "descricao_original": "losartana potássica — 50 mg — comprimido",
+   "principio_ativo": "losartana potássica",
+   "concentracao": "50 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "losartana potassica",
+    "losartana"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0289",
+   "descricao_original": "maleato de dexclorfeniramina — 2 mg — comprimido",
+   "principio_ativo": "maleato de dexclorfeniramina",
+   "concentracao": "2 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "maleato de dexclorfeniramina",
+    "dexclorfeniramina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0290",
+   "descricao_original": "maleato de dexclorfeniramina — 0,4 mg/mL — solução oral",
+   "principio_ativo": "maleato de dexclorfeniramina",
+   "concentracao": "0,4 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "maleato de dexclorfeniramina",
+    "dexclorfeniramina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0291",
+   "descricao_original": "maleato de dexclorfeniramina — 0,4 mg/mL — xarope",
+   "principio_ativo": "maleato de dexclorfeniramina",
+   "concentracao": "0,4 mg/mL",
+   "forma_farmaceutica": "xarope",
+   "termos_busca": [
+    "maleato de dexclorfeniramina",
+    "dexclorfeniramina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0292",
+   "descricao_original": "maleato de enalapril — 5 mg — comprimido",
+   "principio_ativo": "maleato de enalapril",
+   "concentracao": "5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "maleato de enalapril",
+    "enalapril"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0293",
+   "descricao_original": "maleato de enalapril — 10 mg — comprimido",
+   "principio_ativo": "maleato de enalapril",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "maleato de enalapril",
+    "enalapril"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0294",
+   "descricao_original": "maleato de enalapril — 20 mg — comprimido",
+   "principio_ativo": "maleato de enalapril",
+   "concentracao": "20 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "maleato de enalapril",
+    "enalapril"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0295",
+   "descricao_original": "maleato de timolol — 2,5 mg/mL (0,25%) — solução oftálmica",
+   "principio_ativo": "maleato de timolol",
+   "concentracao": "2,5 mg/mL (0,25%)",
+   "forma_farmaceutica": "solução oftálmica",
+   "termos_busca": [
+    "maleato de timolol",
+    "timolol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0296",
+   "descricao_original": "maleato de timolol — 5 mg/mL (0,5%) — solução oftálmica",
+   "principio_ativo": "maleato de timolol",
+   "concentracao": "5 mg/mL (0,5%)",
+   "forma_farmaceutica": "solução oftálmica",
+   "termos_busca": [
+    "maleato de timolol",
+    "timolol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0297",
+   "descricao_original": "medicamentos homeopáticos — Conforme Farmacopeia Homeopática Brasileira vigente — Conforme Farmacopeia Homeopática Brasileira vigente",
+   "principio_ativo": "medicamentos homeopáticos",
+   "concentracao": "Conforme Farmacopeia Homeopática Brasileira vigente",
+   "forma_farmaceutica": "Conforme Farmacopeia Homeopática Brasileira vigente",
+   "termos_busca": [
+    "medicamentos homeopaticos"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0298",
+   "descricao_original": "mesilato de doxazosina — 2 mg — comprimido",
+   "principio_ativo": "mesilato de doxazosina",
+   "concentracao": "2 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "mesilato de doxazosina",
+    "doxazosina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0299",
+   "descricao_original": "mesilato de doxazosina — 4 mg — comprimido",
+   "principio_ativo": "mesilato de doxazosina",
+   "concentracao": "4 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "mesilato de doxazosina",
+    "doxazosina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0300",
+   "descricao_original": "metilsulfato de pralidoxima — 200 mg — solução injetável",
+   "principio_ativo": "metilsulfato de pralidoxima",
+   "concentracao": "200 mg",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "metilsulfato de pralidoxima"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0301",
+   "descricao_original": "metildopa — 250 mg — comprimido",
+   "principio_ativo": "metildopa",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "metildopa"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0302",
+   "descricao_original": "metronidazol — 100 mg/g (10%) — gel vaginal",
+   "principio_ativo": "metronidazol",
+   "concentracao": "100 mg/g (10%)",
+   "forma_farmaceutica": "gel vaginal",
+   "termos_busca": [
+    "metronidazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0303",
+   "descricao_original": "metronidazol — 250 mg — comprimido",
+   "principio_ativo": "metronidazol",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "metronidazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0304",
+   "descricao_original": "metronidazol — 400 mg — comprimido",
+   "principio_ativo": "metronidazol",
+   "concentracao": "400 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "metronidazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0305",
+   "descricao_original": "midazolam — 2 mg/mL — solução oral",
+   "principio_ativo": "midazolam",
+   "concentracao": "2 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "midazolam"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0306",
+   "descricao_original": "misoprostol — 25 mcg — comprimido vaginal",
+   "principio_ativo": "misoprostol",
+   "concentracao": "25 mcg",
+   "forma_farmaceutica": "comprimido vaginal",
+   "termos_busca": [
+    "misoprostol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0307",
+   "descricao_original": "misoprostol — 200 mcg — comprimido vaginal",
+   "principio_ativo": "misoprostol",
+   "concentracao": "200 mcg",
+   "forma_farmaceutica": "comprimido vaginal",
+   "termos_busca": [
+    "misoprostol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0308",
+   "descricao_original": "mononitrato de isossorbida — 20 mg — comprimido",
+   "principio_ativo": "mononitrato de isossorbida",
+   "concentracao": "20 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "mononitrato de isossorbida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0309",
+   "descricao_original": "mononitrato de isossorbida — 40 mg — comprimido",
+   "principio_ativo": "mononitrato de isossorbida",
+   "concentracao": "40 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "mononitrato de isossorbida"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0310",
+   "descricao_original": "nifedipino — 10 mg — cápsula",
+   "principio_ativo": "nifedipino",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "nifedipino"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0311",
+   "descricao_original": "nifedipino — 10 mg — comprimido",
+   "principio_ativo": "nifedipino",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "nifedipino"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0312",
+   "descricao_original": "nistatina — 100.000 UI/mL — suspensão oral",
+   "principio_ativo": "nistatina",
+   "concentracao": "100.000 UI/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "nistatina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0313",
+   "descricao_original": "nitrato de miconazol — 2% (20 mg/g) — gel oral",
+   "principio_ativo": "nitrato de miconazol",
+   "concentracao": "2% (20 mg/g)",
+   "forma_farmaceutica": "gel oral",
+   "termos_busca": [
+    "nitrato de miconazol",
+    "miconazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0314",
+   "descricao_original": "nitrato de miconazol — 2% (20 mg/g) — loção",
+   "principio_ativo": "nitrato de miconazol",
+   "concentracao": "2% (20 mg/g)",
+   "forma_farmaceutica": "loção",
+   "termos_busca": [
+    "nitrato de miconazol",
+    "miconazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0315",
+   "descricao_original": "nitrato de miconazol — 2% (20 mg/g) — pó",
+   "principio_ativo": "nitrato de miconazol",
+   "concentracao": "2% (20 mg/g)",
+   "forma_farmaceutica": "pó",
+   "termos_busca": [
+    "nitrato de miconazol",
+    "miconazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0316",
+   "descricao_original": "nitrato de miconazol — 2% (20 mg/g) — creme vaginal",
+   "principio_ativo": "nitrato de miconazol",
+   "concentracao": "2% (20 mg/g)",
+   "forma_farmaceutica": "creme vaginal",
+   "termos_busca": [
+    "nitrato de miconazol",
+    "miconazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0317",
+   "descricao_original": "nitrato de miconazol — 2% (20 mg/g) — creme",
+   "principio_ativo": "nitrato de miconazol",
+   "concentracao": "2% (20 mg/g)",
+   "forma_farmaceutica": "creme",
+   "termos_busca": [
+    "nitrato de miconazol",
+    "miconazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0318",
+   "descricao_original": "nitrofurantoína — 100 mg — cápsula",
+   "principio_ativo": "nitrofurantoína",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "nitrofurantoina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0319",
+   "descricao_original": "nitrofurantoína — 5 mg/mL — suspensão oral",
+   "principio_ativo": "nitrofurantoína",
+   "concentracao": "5 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "nitrofurantoina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0320",
+   "descricao_original": "noretisterona — 0,35 mg — comprimido",
+   "principio_ativo": "noretisterona",
+   "concentracao": "0,35 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "noretisterona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0321",
+   "descricao_original": "óleo mineral — óleo para uso oral",
+   "principio_ativo": "óleo mineral",
+   "concentracao": null,
+   "forma_farmaceutica": "óleo para uso oral",
+   "termos_busca": [
+    "oleo mineral"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0322",
+   "descricao_original": "omeprazol — 10 mg — cápsula",
+   "principio_ativo": "omeprazol",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "omeprazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0323",
+   "descricao_original": "omeprazol — 20 mg — cápsula",
+   "principio_ativo": "omeprazol",
+   "concentracao": "20 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "omeprazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0324",
+   "descricao_original": "palmitato de retinol — 150.000 UI/mL — solução oral",
+   "principio_ativo": "palmitato de retinol",
+   "concentracao": "150.000 UI/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "palmitato de retinol",
+    "retinol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0325",
+   "descricao_original": "paracetamol — 200 mg/mL — solução oral",
+   "principio_ativo": "paracetamol",
+   "concentracao": "200 mg/mL",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "paracetamol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0326",
+   "descricao_original": "paracetamol — 500 mg — comprimido",
+   "principio_ativo": "paracetamol",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "paracetamol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0327",
+   "descricao_original": "pasta de óxido de zinco (FN) — 250 mg/g (25%) — pasta",
+   "principio_ativo": "pasta de óxido de zinco (FN)",
+   "concentracao": "250 mg/g (25%)",
+   "forma_farmaceutica": "pasta",
+   "termos_busca": [
+    "pasta de oxido de zinco"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0328",
+   "descricao_original": "permanganato de potássio (FN) — 100 mg — comprimido para uso tópico",
+   "principio_ativo": "permanganato de potássio (FN)",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido para uso tópico",
+   "termos_busca": [
+    "permanganato de potassio",
+    "permanganato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0329",
+   "descricao_original": "permanganato de potássio (FN) — 100 mg (FN) — pó",
+   "principio_ativo": "permanganato de potássio (FN)",
+   "concentracao": "100 mg (FN)",
+   "forma_farmaceutica": "pó",
+   "termos_busca": [
+    "permanganato de potassio",
+    "permanganato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0330",
+   "descricao_original": "permetrina — 10 mg/g (1%) 10 mg/mL (1%) — loção",
+   "principio_ativo": "permetrina",
+   "concentracao": "10 mg/g (1%) 10 mg/mL (1%)",
+   "forma_farmaceutica": "loção",
+   "termos_busca": [
+    "permetrina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0331",
+   "descricao_original": "permetrina — 50 mg/g (5%) 50 mg/mL (5%) — loção",
+   "principio_ativo": "permetrina",
+   "concentracao": "50 mg/g (5%) 50 mg/mL (5%)",
+   "forma_farmaceutica": "loção",
+   "termos_busca": [
+    "permetrina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0332",
+   "descricao_original": "peróxido de benzoíla (FN) — 25 mg/g (2,5%) — gel",
+   "principio_ativo": "peróxido de benzoíla (FN)",
+   "concentracao": "25 mg/g (2,5%)",
+   "forma_farmaceutica": "gel",
+   "termos_busca": [
+    "peroxido de benzoila"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0333",
+   "descricao_original": "peróxido de benzoíla (FN) — 50 mg/g (5%) — gel",
+   "principio_ativo": "peróxido de benzoíla (FN)",
+   "concentracao": "50 mg/g (5%)",
+   "forma_farmaceutica": "gel",
+   "termos_busca": [
+    "peroxido de benzoila"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0334",
+   "descricao_original": "plantago (Plantago ovata Forssk.) — 3 a 30 g (dose diária) — pó para dispersão oral",
+   "principio_ativo": "plantago (Plantago ovata Forssk.)",
+   "concentracao": "3 a 30 g (dose diária)",
+   "forma_farmaceutica": "pó para dispersão oral",
+   "termos_busca": [
+    "plantago"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0335",
+   "descricao_original": "podofilina (FN) — 100 mg/mL (10%) a 250 mg/mL (25%) — solução para uso tópico",
+   "principio_ativo": "podofilina (FN)",
+   "concentracao": "100 mg/mL (10%) a 250 mg/mL (25%)",
+   "forma_farmaceutica": "solução para uso tópico",
+   "termos_busca": [
+    "podofilina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0336",
+   "descricao_original": "podofilotoxina — 1,5 mg/g — creme",
+   "principio_ativo": "podofilotoxina",
+   "concentracao": "1,5 mg/g",
+   "forma_farmaceutica": "creme",
+   "termos_busca": [
+    "podofilotoxina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0337",
+   "descricao_original": "prednisona — 5 mg — comprimido",
+   "principio_ativo": "prednisona",
+   "concentracao": "5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "prednisona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0338",
+   "descricao_original": "prednisona — 20 mg — comprimido",
+   "principio_ativo": "prednisona",
+   "concentracao": "20 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "prednisona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0339",
+   "descricao_original": "propiltiouracila — 100 mg — comprimido",
+   "principio_ativo": "propiltiouracila",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "propiltiouracila"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0340",
+   "descricao_original": "rifampicina — 300 mg — cápsula",
+   "principio_ativo": "rifampicina",
+   "concentracao": "300 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "rifampicina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0341",
+   "descricao_original": "sais para reidratação oral — cloreto de sódio, glicose anidra, cloreto de potássio, citrato de sódio diidratado — pó para solução oral",
+   "principio_ativo": "sais para reidratação oral",
+   "concentracao": "cloreto de sódio, glicose anidra, cloreto de potássio, citrato de sódio diidratado",
+   "forma_farmaceutica": "pó para solução oral",
+   "termos_busca": [
+    "sais para reidratacao oral"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0342",
+   "descricao_original": "salgueiro (Salix alba L.) — 60 a 240 mg de salicina (dose diária) — comprimido",
+   "principio_ativo": "salgueiro (Salix alba L.)",
+   "concentracao": "60 a 240 mg de salicina (dose diária)",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "salgueiro"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0343",
+   "descricao_original": "salgueiro (Salix alba L.) — 60 a 240 mg de salicina (dose diária) — elixir",
+   "principio_ativo": "salgueiro (Salix alba L.)",
+   "concentracao": "60 a 240 mg de salicina (dose diária)",
+   "forma_farmaceutica": "elixir",
+   "termos_busca": [
+    "salgueiro"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0344",
+   "descricao_original": "salgueiro (Salix alba L.) — 60 a 240 mg de salicina (dose diária) — solução oral",
+   "principio_ativo": "salgueiro (Salix alba L.)",
+   "concentracao": "60 a 240 mg de salicina (dose diária)",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "salgueiro"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0345",
+   "descricao_original": "sinvastatina — 10 mg — comprimido",
+   "principio_ativo": "sinvastatina",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "sinvastatina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0346",
+   "descricao_original": "sinvastatina — 20 mg — comprimido",
+   "principio_ativo": "sinvastatina",
+   "concentracao": "20 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "sinvastatina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0347",
+   "descricao_original": "sinvastatina — 40 mg — comprimido",
+   "principio_ativo": "sinvastatina",
+   "concentracao": "40 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "sinvastatina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0348",
+   "descricao_original": "solução ringer + lactato — lactato de sódio 3 mg/mL + cloreto de sódio 6 mg/mL + cloreto de potássio 0,3 mg/mL + cloreto de cálcio 0,2 mg/mL — solução injetável",
+   "principio_ativo": "solução ringer + lactato",
+   "concentracao": "lactato de sódio 3 mg/mL + cloreto de sódio 6 mg/mL + cloreto de potássio 0,3 mg/mL + cloreto de cálcio 0,2 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "solucao ringer",
+    "lactato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0349",
+   "descricao_original": "succinato de metoprolol — 25 mg — comprimido de liberação prolongada",
+   "principio_ativo": "succinato de metoprolol",
+   "concentracao": "25 mg",
+   "forma_farmaceutica": "comprimido de liberação prolongada",
+   "termos_busca": [
+    "succinato de metoprolol",
+    "metoprolol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0350",
+   "descricao_original": "succinato de metoprolol — 50 mg — comprimido de liberação prolongada",
+   "principio_ativo": "succinato de metoprolol",
+   "concentracao": "50 mg",
+   "forma_farmaceutica": "comprimido de liberação prolongada",
+   "termos_busca": [
+    "succinato de metoprolol",
+    "metoprolol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0351",
+   "descricao_original": "succinato de metoprolol — 100 mg — comprimido de liberação prolongada",
+   "principio_ativo": "succinato de metoprolol",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido de liberação prolongada",
+   "termos_busca": [
+    "succinato de metoprolol",
+    "metoprolol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0352",
+   "descricao_original": "succinato sódico de hidrocortisona — 100 mg — pó para solução injetável",
+   "principio_ativo": "succinato sódico de hidrocortisona",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "pó para solução injetável",
+   "termos_busca": [
+    "succinato sodico de hidrocortisona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0353",
+   "descricao_original": "succinato sódico de hidrocortisona — 500 mg — pó para solução injetável",
+   "principio_ativo": "succinato sódico de hidrocortisona",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "pó para solução injetável",
+   "termos_busca": [
+    "succinato sodico de hidrocortisona"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0354",
+   "descricao_original": "sulfadiazina de prata — 10 mg/g (1%) — creme",
+   "principio_ativo": "sulfadiazina de prata",
+   "concentracao": "10 mg/g (1%)",
+   "forma_farmaceutica": "creme",
+   "termos_busca": [
+    "sulfadiazina de prata"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0355",
+   "descricao_original": "sulfametoxazol + trimetoprima — 40 mg/mL + 8 mg/mL — suspensão oral",
+   "principio_ativo": "sulfametoxazol + trimetoprima",
+   "concentracao": "40 mg/mL + 8 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "sulfametoxazol",
+    "trimetoprima"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0356",
+   "descricao_original": "sulfametoxazol + trimetoprima — 80 mg/mL + 16 mg/mL — solução injetável",
+   "principio_ativo": "sulfametoxazol + trimetoprima",
+   "concentracao": "80 mg/mL + 16 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "sulfametoxazol",
+    "trimetoprima"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0357",
+   "descricao_original": "sulfametoxazol + trimetoprima — 400 mg + 80 mg — comprimido",
+   "principio_ativo": "sulfametoxazol + trimetoprima",
+   "concentracao": "400 mg + 80 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "sulfametoxazol",
+    "trimetoprima"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0358",
+   "descricao_original": "sulfato de atropina — 0,25 mg/mL — solução injetável",
+   "principio_ativo": "sulfato de atropina",
+   "concentracao": "0,25 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "sulfato de atropina",
+    "atropina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0359",
+   "descricao_original": "sulfato de magnésio — pó para solução oral",
+   "principio_ativo": "sulfato de magnésio",
+   "concentracao": null,
+   "forma_farmaceutica": "pó para solução oral",
+   "termos_busca": [
+    "sulfato de magnesio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0360",
+   "descricao_original": "sulfato de magnésio — 10% (0,81 mEq/mL Mg++) — solução injetável",
+   "principio_ativo": "sulfato de magnésio",
+   "concentracao": "10% (0,81 mEq/mL Mg++)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "sulfato de magnesio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0361",
+   "descricao_original": "sulfato de magnésio — 50% (4,05 mEq/mL Mg++) — solução injetável",
+   "principio_ativo": "sulfato de magnésio",
+   "concentracao": "50% (4,05 mEq/mL Mg++)",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "sulfato de magnesio"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0362",
+   "descricao_original": "sulfato de polimixina B + sulfato de neomicina + fluocinolona acetonida + cloridrato de lidocaína — 10.000 UI/mL + 3,500 mg/mL + 0,250 mg/mL + 20 mg/mL — solução otológica",
+   "principio_ativo": "sulfato de polimixina B + sulfato de neomicina + fluocinolona acetonida + cloridrato de lidocaína",
+   "concentracao": "10.000 UI/mL + 3,500 mg/mL + 0,250 mg/mL + 20 mg/mL",
+   "forma_farmaceutica": "solução otológica",
+   "termos_busca": [
+    "sulfato de polimixina b",
+    "polimixina b",
+    "sulfato de neomicina",
+    "neomicina",
+    "fluocinolona acetonida",
+    "cloridrato de lidocaina",
+    "lidocaina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0363",
+   "descricao_original": "sulfato de salbutamol — 100 mcg/dose — suspensão aerossol",
+   "principio_ativo": "sulfato de salbutamol",
+   "concentracao": "100 mcg/dose",
+   "forma_farmaceutica": "suspensão aerossol",
+   "termos_busca": [
+    "sulfato de salbutamol",
+    "salbutamol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0364",
+   "descricao_original": "sulfato de salbutamol — 5 mg/mL — solução para inalação",
+   "principio_ativo": "sulfato de salbutamol",
+   "concentracao": "5 mg/mL",
+   "forma_farmaceutica": "solução para inalação",
+   "termos_busca": [
+    "sulfato de salbutamol",
+    "salbutamol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0365",
+   "descricao_original": "sulfato de salbutamol — 0,5 mg/mL — solução injetável",
+   "principio_ativo": "sulfato de salbutamol",
+   "concentracao": "0,5 mg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "sulfato de salbutamol",
+    "salbutamol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0366",
+   "descricao_original": "sulfato de zinco — 200 mcg/mL — solução injetável",
+   "principio_ativo": "sulfato de zinco",
+   "concentracao": "200 mcg/mL",
+   "forma_farmaceutica": "solução injetável",
+   "termos_busca": [
+    "sulfato de zinco"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0367",
+   "descricao_original": "sulfato de zinco — 10 mg — comprimido mastigável",
+   "principio_ativo": "sulfato de zinco",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido mastigável",
+   "termos_busca": [
+    "sulfato de zinco"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0368",
+   "descricao_original": "sulfato de zinco — equivalente a 4 mg/mL de zinco elementar — xarope",
+   "principio_ativo": "sulfato de zinco",
+   "concentracao": "equivalente a 4 mg/mL de zinco elementar",
+   "forma_farmaceutica": "xarope",
+   "termos_busca": [
+    "sulfato de zinco"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0369",
+   "descricao_original": "sulfato ferroso — equivalente a 5 mg/mL de ferro elementar — xarope",
+   "principio_ativo": "sulfato ferroso",
+   "concentracao": "equivalente a 5 mg/mL de ferro elementar",
+   "forma_farmaceutica": "xarope",
+   "termos_busca": [
+    "sulfato ferroso"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0370",
+   "descricao_original": "sulfato ferroso — equivalente a 25 mg/mL de ferro elementar — solução oral",
+   "principio_ativo": "sulfato ferroso",
+   "concentracao": "equivalente a 25 mg/mL de ferro elementar",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "sulfato ferroso"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0371",
+   "descricao_original": "sulfato ferroso — equivalente a 40 mg de ferro elementar — comprimido",
+   "principio_ativo": "sulfato ferroso",
+   "concentracao": "equivalente a 40 mg de ferro elementar",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "sulfato ferroso"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0372",
+   "descricao_original": "tartarato de metoprolol — 100 mg — comprimido",
+   "principio_ativo": "tartarato de metoprolol",
+   "concentracao": "100 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "tartarato de metoprolol",
+    "metoprolol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0373",
+   "descricao_original": "teclozana — 500 mg — comprimido",
+   "principio_ativo": "teclozana",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "teclozana"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0374",
+   "descricao_original": "teclozana — 10 mg/mL — suspensão oral",
+   "principio_ativo": "teclozana",
+   "concentracao": "10 mg/mL",
+   "forma_farmaceutica": "suspensão oral",
+   "termos_busca": [
+    "teclozana"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0375",
+   "descricao_original": "tiamazol — 5 mg — comprimido",
+   "principio_ativo": "tiamazol",
+   "concentracao": "5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "tiamazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0376",
+   "descricao_original": "tiamazol — 10 mg — comprimido",
+   "principio_ativo": "tiamazol",
+   "concentracao": "10 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "tiamazol"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0377",
+   "descricao_original": "unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.)) — 0,9 mg de alcaloides oxindólicos pentaclíclicos — cápsula",
+   "principio_ativo": "unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.))",
+   "concentracao": "0,9 mg de alcaloides oxindólicos pentaclíclicos",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "unha-de-gato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0378",
+   "descricao_original": "unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.)) — 0,9 mg de alcaloides oxindólicos pentaclíclicos — comprimido",
+   "principio_ativo": "unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.))",
+   "concentracao": "0,9 mg de alcaloides oxindólicos pentaclíclicos",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "unha-de-gato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0379",
+   "descricao_original": "unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.)) — 0,9 mg de alcaloides oxindólicos pentaclíclicos — gel",
+   "principio_ativo": "unha-de-gato (Uncaria tomentosa (Willd. ex Roem. & Schult.))",
+   "concentracao": "0,9 mg de alcaloides oxindólicos pentaclíclicos",
+   "forma_farmaceutica": "gel",
+   "termos_busca": [
+    "unha-de-gato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0380",
+   "descricao_original": "valproato de sódio — 250 mg — cápsula",
+   "principio_ativo": "valproato de sódio",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "cápsula",
+   "termos_busca": [
+    "valproato de sodio",
+    "valproato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0381",
+   "descricao_original": "valproato de sódio — 250 mg — comprimido",
+   "principio_ativo": "valproato de sódio",
+   "concentracao": "250 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "valproato de sodio",
+    "valproato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0382",
+   "descricao_original": "valproato de sódio — 50 mg/ml — solução oral",
+   "principio_ativo": "valproato de sódio",
+   "concentracao": "50 mg/ml",
+   "forma_farmaceutica": "solução oral",
+   "termos_busca": [
+    "valproato de sodio",
+    "valproato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0383",
+   "descricao_original": "valproato de sódio — 50 mg/mL — xarope",
+   "principio_ativo": "valproato de sódio",
+   "concentracao": "50 mg/mL",
+   "forma_farmaceutica": "xarope",
+   "termos_busca": [
+    "valproato de sodio",
+    "valproato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0384",
+   "descricao_original": "valproato de sódio — 500 mg — comprimido",
+   "principio_ativo": "valproato de sódio",
+   "concentracao": "500 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "valproato de sodio",
+    "valproato"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0385",
+   "descricao_original": "varfarina sódica — 1 mg — comprimido",
+   "principio_ativo": "varfarina sódica",
+   "concentracao": "1 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "varfarina sodica",
+    "varfarina"
+   ]
+  },
+  {
+   "id": "rename-cbaf-0386",
+   "descricao_original": "varfarina sódica — 5 mg — comprimido",
+   "principio_ativo": "varfarina sódica",
+   "concentracao": "5 mg",
+   "forma_farmaceutica": "comprimido",
+   "termos_busca": [
+    "varfarina sodica",
+    "varfarina"
+   ]
+  }
+ ]
+}
