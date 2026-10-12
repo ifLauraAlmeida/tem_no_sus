@@ -46,3 +46,7 @@ test("indica quando o local da farmácia foi estimado pelo centro do CEP", () =>
     "Cerca de 1,3 km em linha reta (local estimado pelo centro do CEP da farmácia).",
   );
 });
+
+test("distância abaixo de 100 m não aparece como 0 km", () => {
+  assert.equal(descreverProximidade({ referencia: "km", distanciaKm: 0.04 }), "Menos de 100 m em linha reta.");
+});
