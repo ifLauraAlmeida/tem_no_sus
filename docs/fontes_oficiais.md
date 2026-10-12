@@ -88,8 +88,9 @@ Base completa do CNES (`ftp://ftp.datasus.gov.br/cnes/BASE_DE_DADOS_CNES_{aaaamm
 - Extração em 12/10/2026: 20.782 farmácias ativas, dados até 08/10/2026.
 - O painel só responde a navegadores; o pipeline abre a página em Chrome headless e lê os dados pela mesma API Qlik que o botão "Baixar dados" da página usa.
 - Coordenadas: cruzamento pelo CNPJ com a base completa do CNES — 8.196 farmácias (39%) localizadas.
-- Nome fantasia: também vem do CNES pelo CNPJ (8.081 farmácias); nas demais aparece a razão social do painel.
-- Pendente: os dados abertos de CNPJ da Receita Federal trariam nome fantasia, número e CEP de todas as farmácias, mas o compartilhamento público (`arquivos.receitafederal.gov.br`) não listou arquivos em 12/10/2026.
+- Nome fantasia, logradouro com tipo, número e CEP: dados abertos de CNPJ da Receita Federal, competência 2026-09 (`Estabelecimentos0..9.zip`, ~5 GB), baixados por WebDAV do compartilhamento público `https://arquivos.receitafederal.gov.br/public.php/dav/files/YggdBLfdninEJX9/{aaaa-mm}/`. A listagem do diretório não funciona; os arquivos são acessados pelo nome. O servidor às vezes responde 200 com corpo vazio: baixe de novo até o zip validar.
+- Resultado: 20.782 farmácias encontradas na Receita; 17.973 (86%) com nome fantasia diferente da razão social (as demais não têm nome fantasia cadastrado); 100% com CEP e 97% com número.
+- Ordem de preferência do nome: Receita → CNES → razão social do painel.
 - As portarias do programa consultadas (página de legislação) tratam de elenco, gratuidade e valores; não trazem relação nominal de estabelecimentos. O painel é a fonte oficial dos endereços.
 - O conjunto "Estabelecimentos do Aqui tem Farmácia Popular" em dados.gov.br retornou acesso negado em 11/10/2026.
 
