@@ -6,7 +6,7 @@
 "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
 "data_referencia": "2026-10-08",
 "data_obtencao": "2026-10-12",
-"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ; sem coordenada no CNES, centro do CEP calculado pelo CNEFE (IBGE, Censo 2022)",
 "nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
 },
 "uf": "AC",
@@ -24,8 +24,9 @@
 },
 "codigo_municipio": "120010",
 "municipio": "Brasiléia",
-"latitude": null,
-"longitude": null,
+"latitude": -10.92959,
+"longitude": -68.88947,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -46,6 +47,7 @@
 "municipio": "Cruzeiro do Sul",
 "latitude": -7.634690857189324,
 "longitude": -72.67151355743408,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -64,8 +66,9 @@
 },
 "codigo_municipio": "120020",
 "municipio": "Cruzeiro do Sul",
-"latitude": null,
-"longitude": null,
+"latitude": -7.66584,
+"longitude": -72.64714,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -84,8 +87,9 @@
 },
 "codigo_municipio": "120038",
 "municipio": "Plácido de Castro",
-"latitude": null,
-"longitude": null,
+"latitude": -10.26694,
+"longitude": -67.26981,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -106,6 +110,7 @@
 "municipio": "Rio Branco",
 "latitude": -9.965512,
 "longitude": -67.833482,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -126,6 +131,7 @@
 "municipio": "Rio Branco",
 "latitude": -9.97518,
 "longitude": -67.79639,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],

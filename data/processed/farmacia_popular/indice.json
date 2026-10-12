@@ -6,117 +6,144 @@
   "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
   "data_referencia": "2026-10-08",
   "data_obtencao": "2026-10-12",
-  "coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+  "coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ; sem coordenada no CNES, centro do CEP calculado pelo CNEFE (IBGE, Censo 2022)",
   "nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
  },
  "ufs": {
   "AC": {
    "farmacias": 6,
-   "com_coordenadas": 3
+   "localizacao_por_endereco": 3,
+   "localizacao_por_centro_cep": 3
   },
   "AL": {
    "farmacias": 138,
-   "com_coordenadas": 20
+   "localizacao_por_endereco": 20,
+   "localizacao_por_centro_cep": 107
   },
   "AM": {
    "farmacias": 16,
-   "com_coordenadas": 7
+   "localizacao_por_endereco": 7,
+   "localizacao_por_centro_cep": 9
   },
   "AP": {
    "farmacias": 10,
-   "com_coordenadas": 9
+   "localizacao_por_endereco": 9,
+   "localizacao_por_centro_cep": 1
   },
   "BA": {
    "farmacias": 701,
-   "com_coordenadas": 167
+   "localizacao_por_endereco": 167,
+   "localizacao_por_centro_cep": 495
   },
   "CE": {
    "farmacias": 421,
-   "com_coordenadas": 183
+   "localizacao_por_endereco": 183,
+   "localizacao_por_centro_cep": 228
   },
   "DF": {
    "farmacias": 278,
-   "com_coordenadas": 66
+   "localizacao_por_endereco": 66,
+   "localizacao_por_centro_cep": 187
   },
   "ES": {
    "farmacias": 577,
-   "com_coordenadas": 248
+   "localizacao_por_endereco": 248,
+   "localizacao_por_centro_cep": 313
   },
   "GO": {
    "farmacias": 982,
-   "com_coordenadas": 243
+   "localizacao_por_endereco": 243,
+   "localizacao_por_centro_cep": 687
   },
   "MA": {
    "farmacias": 205,
-   "com_coordenadas": 63
+   "localizacao_por_endereco": 63,
+   "localizacao_por_centro_cep": 138
   },
   "MG": {
    "farmacias": 3718,
-   "com_coordenadas": 1464
+   "localizacao_por_endereco": 1464,
+   "localizacao_por_centro_cep": 2105
   },
   "MS": {
    "farmacias": 210,
-   "com_coordenadas": 72
+   "localizacao_por_endereco": 72,
+   "localizacao_por_centro_cep": 132
   },
   "MT": {
    "farmacias": 216,
-   "com_coordenadas": 120
+   "localizacao_por_endereco": 120,
+   "localizacao_por_centro_cep": 82
   },
   "PA": {
    "farmacias": 168,
-   "com_coordenadas": 82
+   "localizacao_por_endereco": 82,
+   "localizacao_por_centro_cep": 80
   },
   "PB": {
    "farmacias": 435,
-   "com_coordenadas": 74
+   "localizacao_por_endereco": 74,
+   "localizacao_por_centro_cep": 345
   },
   "PE": {
    "farmacias": 381,
-   "com_coordenadas": 104
+   "localizacao_por_endereco": 104,
+   "localizacao_por_centro_cep": 263
   },
   "PI": {
    "farmacias": 202,
-   "com_coordenadas": 31
+   "localizacao_por_endereco": 31,
+   "localizacao_por_centro_cep": 169
   },
   "PR": {
    "farmacias": 2039,
-   "com_coordenadas": 935
+   "localizacao_por_endereco": 935,
+   "localizacao_por_centro_cep": 1044
   },
   "RJ": {
    "farmacias": 1182,
-   "com_coordenadas": 293
+   "localizacao_por_endereco": 293,
+   "localizacao_por_centro_cep": 838
   },
   "RN": {
    "farmacias": 376,
-   "com_coordenadas": 115
+   "localizacao_por_endereco": 115,
+   "localizacao_por_centro_cep": 246
   },
   "RO": {
    "farmacias": 117,
-   "com_coordenadas": 67
+   "localizacao_por_endereco": 67,
+   "localizacao_por_centro_cep": 47
   },
   "RR": {
    "farmacias": 17,
-   "com_coordenadas": 10
+   "localizacao_por_endereco": 10,
+   "localizacao_por_centro_cep": 7
   },
   "RS": {
    "farmacias": 2237,
-   "com_coordenadas": 1387
+   "localizacao_por_endereco": 1387,
+   "localizacao_por_centro_cep": 818
   },
   "SC": {
    "farmacias": 1464,
-   "com_coordenadas": 900
+   "localizacao_por_endereco": 900,
+   "localizacao_por_centro_cep": 548
   },
   "SE": {
    "farmacias": 99,
-   "com_coordenadas": 23
+   "localizacao_por_endereco": 23,
+   "localizacao_por_centro_cep": 71
   },
   "SP": {
    "farmacias": 4484,
-   "com_coordenadas": 1498
+   "localizacao_por_endereco": 1498,
+   "localizacao_por_centro_cep": 2653
   },
   "TO": {
    "farmacias": 103,
-   "com_coordenadas": 12
+   "localizacao_por_endereco": 12,
+   "localizacao_por_centro_cep": 89
   }
  }
 }

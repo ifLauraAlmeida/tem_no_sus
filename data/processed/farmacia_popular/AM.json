@@ -6,7 +6,7 @@
 "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
 "data_referencia": "2026-10-08",
 "data_obtencao": "2026-10-12",
-"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ; sem coordenada no CNES, centro do CEP calculado pelo CNEFE (IBGE, Censo 2022)",
 "nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
 },
 "uf": "AM",
@@ -24,8 +24,9 @@
 },
 "codigo_municipio": "130140",
 "municipio": "Eirunepé",
-"latitude": null,
-"longitude": null,
+"latitude": -6.7141,
+"longitude": -69.91972,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -44,8 +45,9 @@
 },
 "codigo_municipio": "130150",
 "municipio": "Envira",
-"latitude": null,
-"longitude": null,
+"latitude": -7.46154,
+"longitude": -70.03939,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -66,6 +68,7 @@
 "municipio": "Humaitá",
 "latitude": -7.512577045417814,
 "longitude": -63.02562475204468,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -84,8 +87,9 @@
 },
 "codigo_municipio": "130230",
 "municipio": "Jutaí",
-"latitude": null,
-"longitude": null,
+"latitude": -2.89661,
+"longitude": -66.89628,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -104,8 +108,9 @@
 },
 "codigo_municipio": "130240",
 "municipio": "Lábrea",
-"latitude": null,
-"longitude": null,
+"latitude": -7.64607,
+"longitude": -65.2246,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -126,6 +131,7 @@
 "municipio": "Manacapuru",
 "latitude": -3.2993092359760903,
 "longitude": -60.62285900115967,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -146,6 +152,7 @@
 "municipio": "Manaus",
 "latitude": -3.1067949,
 "longitude": -60.0236695,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -166,6 +173,7 @@
 "municipio": "Manaus",
 "latitude": -3.113326859382828,
 "longitude": -59.94559049606323,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -186,6 +194,7 @@
 "municipio": "Manaus",
 "latitude": -3.1165621807122883,
 "longitude": -60.00741004943848,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -206,6 +215,7 @@
 "municipio": "Manaus",
 "latitude": -3.0992498821639187,
 "longitude": -59.994492530822754,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -226,6 +236,7 @@
 "municipio": "Manaus",
 "latitude": -3.0994679,
 "longitude": -60.0556343,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -244,8 +255,9 @@
 },
 "codigo_municipio": "130260",
 "municipio": "Manaus",
-"latitude": null,
-"longitude": null,
+"latitude": -3.12451,
+"longitude": -60.03771,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -264,8 +276,9 @@
 },
 "codigo_municipio": "130270",
 "municipio": "Manicoré",
-"latitude": null,
-"longitude": null,
+"latitude": -5.85738,
+"longitude": -61.33215,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -284,8 +297,9 @@
 },
 "codigo_municipio": "130356",
 "municipio": "Rio Preto da Eva",
-"latitude": null,
-"longitude": null,
+"latitude": -2.69357,
+"longitude": -59.63507,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -304,8 +318,9 @@
 },
 "codigo_municipio": "130380",
 "municipio": "São Gabriel da Cachoeira",
-"latitude": null,
-"longitude": null,
+"latitude": 0.1736,
+"longitude": -67.38582,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -324,8 +339,9 @@
 },
 "codigo_municipio": "130406",
 "municipio": "Tabatinga",
-"latitude": null,
-"longitude": null,
+"latitude": -4.20441,
+"longitude": -69.86198,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],

@@ -6,7 +6,7 @@
 "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
 "data_referencia": "2026-10-08",
 "data_obtencao": "2026-10-12",
-"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ; sem coordenada no CNES, centro do CEP calculado pelo CNEFE (IBGE, Censo 2022)",
 "nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
 },
 "uf": "RR",
@@ -24,8 +24,9 @@
 },
 "codigo_municipio": "140005",
 "municipio": "Alto Alegre",
-"latitude": null,
-"longitude": null,
+"latitude": 2.98859,
+"longitude": -61.63876,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -44,8 +45,9 @@
 },
 "codigo_municipio": "140010",
 "municipio": "Boa Vista",
-"latitude": null,
-"longitude": null,
+"latitude": 2.80478,
+"longitude": -60.74896,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -66,6 +68,7 @@
 "municipio": "Boa Vista",
 "latitude": 2.833124313866106,
 "longitude": -60.67006587982178,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -84,8 +87,9 @@
 },
 "codigo_municipio": "140010",
 "municipio": "Boa Vista",
-"latitude": null,
-"longitude": null,
+"latitude": 2.83374,
+"longitude": -60.66175,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -104,8 +108,9 @@
 },
 "codigo_municipio": "140010",
 "municipio": "Boa Vista",
-"latitude": null,
-"longitude": null,
+"latitude": 2.82195,
+"longitude": -60.68885,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -124,8 +129,9 @@
 },
 "codigo_municipio": "140010",
 "municipio": "Boa Vista",
-"latitude": null,
-"longitude": null,
+"latitude": 2.81776,
+"longitude": -60.72675,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -146,6 +152,7 @@
 "municipio": "Boa Vista",
 "latitude": 2.8171149139526066,
 "longitude": -60.67148208618164,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -166,6 +173,7 @@
 "municipio": "Boa Vista",
 "latitude": 2.8179721832585725,
 "longitude": -60.725040435791016,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -186,6 +194,7 @@
 "municipio": "Boa Vista",
 "latitude": 2.8281924,
 "longitude": -60.6663453,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -206,6 +215,7 @@
 "municipio": "Boa Vista",
 "latitude": 2.800440900661791,
 "longitude": -60.71177959442139,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -226,6 +236,7 @@
 "municipio": "Boa Vista",
 "latitude": 2.8180579101544403,
 "longitude": -60.72092056274414,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -244,8 +255,9 @@
 },
 "codigo_municipio": "140010",
 "municipio": "Boa Vista",
-"latitude": null,
-"longitude": null,
+"latitude": 2.84388,
+"longitude": -60.7174,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -266,6 +278,7 @@
 "municipio": "Boa Vista",
 "latitude": 2.813632250908756,
 "longitude": -60.70088982582092,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -286,6 +299,7 @@
 "municipio": "Boa Vista",
 "latitude": 2.81979387843718,
 "longitude": -60.715781450271606,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -306,6 +320,7 @@
 "municipio": "Boa Vista",
 "latitude": 2.7620769119697144,
 "longitude": -60.73559761047363,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -326,6 +341,7 @@
 "municipio": "Boa Vista",
 "latitude": 2.812539228361706,
 "longitude": -60.738290548324585,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -344,8 +360,9 @@
 },
 "codigo_municipio": "140023",
 "municipio": "Caroebe",
-"latitude": null,
-"longitude": null,
+"latitude": 0.84902,
+"longitude": -59.59973,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],

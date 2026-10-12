@@ -6,7 +6,7 @@
 "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
 "data_referencia": "2026-10-08",
 "data_obtencao": "2026-10-12",
-"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ; sem coordenada no CNES, centro do CEP calculado pelo CNEFE (IBGE, Censo 2022)",
 "nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
 },
 "uf": "PA",
@@ -26,6 +26,7 @@
 "municipio": "Abaetetuba",
 "latitude": -1.7238423647112369,
 "longitude": -48.8886022567749,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -46,6 +47,7 @@
 "municipio": "Abaetetuba",
 "latitude": -1.7231774778044247,
 "longitude": -48.888795375823975,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -64,8 +66,9 @@
 },
 "codigo_municipio": "150013",
 "municipio": "Abel Figueiredo",
-"latitude": null,
-"longitude": null,
+"latitude": -4.9511,
+"longitude": -48.40398,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -86,6 +89,7 @@
 "municipio": "Altamira",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -106,6 +110,7 @@
 "municipio": "Altamira",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -126,6 +131,7 @@
 "municipio": "Ananindeua",
 "latitude": -1.3661448909094323,
 "longitude": -48.36979866027832,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -146,6 +152,7 @@
 "municipio": "Ananindeua",
 "latitude": -1.3686118205158533,
 "longitude": -48.37213754653931,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -166,6 +173,7 @@
 "municipio": "Ananindeua",
 "latitude": -1.3650019,
 "longitude": -48.3739982,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -186,6 +194,7 @@
 "municipio": "Ananindeua",
 "latitude": -1.3684831112077869,
 "longitude": -48.372201919555664,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -204,8 +213,9 @@
 },
 "codigo_municipio": "150080",
 "municipio": "Ananindeua",
-"latitude": null,
-"longitude": null,
+"latitude": -1.3636,
+"longitude": -48.40773,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -226,6 +236,7 @@
 "municipio": "Ananindeua",
 "latitude": -1.353896011700933,
 "longitude": -48.411898612976074,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -246,6 +257,7 @@
 "municipio": "Ananindeua",
 "latitude": -1.3685689174139277,
 "longitude": -48.372159004211426,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -266,6 +278,7 @@
 "municipio": "Ananindeua",
 "latitude": -1.3686118205158533,
 "longitude": -48.372201919555664,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -286,6 +299,7 @@
 "municipio": "Ananindeua",
 "latitude": -1.368547465862685,
 "longitude": -48.372159004211426,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -306,6 +320,7 @@
 "municipio": "Ananindeua",
 "latitude": -1.3684187565511585,
 "longitude": -48.37222337722778,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -324,8 +339,9 @@
 },
 "codigo_municipio": "150090",
 "municipio": "Augusto Corrêa",
-"latitude": null,
-"longitude": null,
+"latitude": -1.08282,
+"longitude": -46.56263,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -344,8 +360,9 @@
 },
 "codigo_municipio": "150095",
 "municipio": "Aurora do Pará",
-"latitude": null,
-"longitude": null,
+"latitude": -2.16204,
+"longitude": -47.64512,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -364,8 +381,9 @@
 },
 "codigo_municipio": "150120",
 "municipio": "Baião",
-"latitude": null,
-"longitude": null,
+"latitude": -2.92081,
+"longitude": -49.65787,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -384,8 +402,9 @@
 },
 "codigo_municipio": "150130",
 "municipio": "Barcarena",
-"latitude": null,
-"longitude": null,
+"latitude": -1.57989,
+"longitude": -48.74612,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -404,8 +423,9 @@
 },
 "codigo_municipio": "150145",
 "municipio": "Belterra",
-"latitude": null,
-"longitude": null,
+"latitude": -2.75668,
+"longitude": -54.9399,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -424,8 +444,9 @@
 },
 "codigo_municipio": "150145",
 "municipio": "Belterra",
-"latitude": null,
-"longitude": null,
+"latitude": -2.75668,
+"longitude": -54.9399,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -446,6 +467,7 @@
 "municipio": "Belém",
 "latitude": -1.4478026,
 "longitude": -48.4890745,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -466,6 +488,7 @@
 "municipio": "Belém",
 "latitude": -1.4600663,
 "longitude": -48.4888184,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -486,6 +509,7 @@
 "municipio": "Belém",
 "latitude": -1.4308729,
 "longitude": -48.465363,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -506,6 +530,7 @@
 "municipio": "Belém",
 "latitude": -1.4519914,
 "longitude": -48.4852256,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -526,6 +551,7 @@
 "municipio": "Belém",
 "latitude": -1.4582437,
 "longitude": -48.4798365,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -546,6 +572,7 @@
 "municipio": "Belém",
 "latitude": -1.4290011,
 "longitude": -48.4730357,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -566,6 +593,7 @@
 "municipio": "Belém",
 "latitude": -1.4018312,
 "longitude": -48.4558626,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -586,6 +614,7 @@
 "municipio": "Belém",
 "latitude": -1.4022909,
 "longitude": -48.4536782,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -604,8 +633,9 @@
 },
 "codigo_municipio": "150140",
 "municipio": "Belém",
-"latitude": null,
-"longitude": null,
+"latitude": -1.41604,
+"longitude": -48.46843,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -626,6 +656,7 @@
 "municipio": "Belém",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -644,8 +675,9 @@
 },
 "codigo_municipio": "150140",
 "municipio": "Belém",
-"latitude": null,
-"longitude": null,
+"latitude": -1.44403,
+"longitude": -48.4636,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -664,8 +696,9 @@
 },
 "codigo_municipio": "150140",
 "municipio": "Belém",
-"latitude": null,
-"longitude": null,
+"latitude": -1.36642,
+"longitude": -48.44754,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -686,6 +719,7 @@
 "municipio": "Belém",
 "latitude": -1.4171605,
 "longitude": -48.4514676,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -706,6 +740,7 @@
 "municipio": "Belém",
 "latitude": -1.4454573,
 "longitude": -48.4676424,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -726,6 +761,7 @@
 "municipio": "Belém",
 "latitude": -1.4565626,
 "longitude": -48.4540119,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -744,8 +780,9 @@
 },
 "codigo_municipio": "150140",
 "municipio": "Belém",
-"latitude": null,
-"longitude": null,
+"latitude": -1.44396,
+"longitude": -48.48034,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -766,6 +803,7 @@
 "municipio": "Belém",
 "latitude": -1.4524715,
 "longitude": -48.484264,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -786,6 +824,7 @@
 "municipio": "Belém",
 "latitude": -1.4701656,
 "longitude": -48.5059969,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -806,6 +845,7 @@
 "municipio": "Belém",
 "latitude": -1.4580749,
 "longitude": -48.4851338,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -826,6 +866,7 @@
 "municipio": "Belém",
 "latitude": -1.4497652,
 "longitude": -48.4839588,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -846,6 +887,7 @@
 "municipio": "Belém",
 "latitude": -1.4571889,
 "longitude": -48.46615,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -866,6 +908,7 @@
 "municipio": "Belém",
 "latitude": -1.4600372,
 "longitude": -48.5013921,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -886,6 +929,7 @@
 "municipio": "Belém",
 "latitude": -1.4378532,
 "longitude": -48.4724934,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -906,6 +950,7 @@
 "municipio": "Belém",
 "latitude": -1.4024345,
 "longitude": -48.4536253,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -926,6 +971,7 @@
 "municipio": "Belém",
 "latitude": -1.4439354,
 "longitude": -48.4926685,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -946,6 +992,7 @@
 "municipio": "Belém",
 "latitude": -1.4723033,
 "longitude": -48.4824158,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -966,6 +1013,7 @@
 "municipio": "Belém",
 "latitude": -1.450999,
 "longitude": -48.4970582,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -986,6 +1034,7 @@
 "municipio": "Belém",
 "latitude": -1.4335034,
 "longitude": -48.4585654,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1006,6 +1055,7 @@
 "municipio": "Belém",
 "latitude": -1.3488042,
 "longitude": -48.4609329,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1024,8 +1074,9 @@
 },
 "codigo_municipio": "150140",
 "municipio": "Belém",
-"latitude": null,
-"longitude": null,
+"latitude": -1.41634,
+"longitude": -48.4775,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1046,6 +1097,7 @@
 "municipio": "Belém",
 "latitude": -1.3988992,
 "longitude": -48.476932,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1066,6 +1118,7 @@
 "municipio": "Belém",
 "latitude": -1.4617462,
 "longitude": -48.4912468,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1086,6 +1139,7 @@
 "municipio": "Belém",
 "latitude": -1.2983092,
 "longitude": -48.4815591,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1106,6 +1160,7 @@
 "municipio": "Belém",
 "latitude": -1.4669395,
 "longitude": -48.4650219,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1126,6 +1181,7 @@
 "municipio": "Belém",
 "latitude": -1.4663718,
 "longitude": -48.4788579,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1146,6 +1202,7 @@
 "municipio": "Belém",
 "latitude": -1.3709374,
 "longitude": -48.4473422,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1166,6 +1223,7 @@
 "municipio": "Belém",
 "latitude": -1.4522359,
 "longitude": -48.5048332,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1186,6 +1244,7 @@
 "municipio": "Belém",
 "latitude": -1.45823,
 "longitude": -48.4848445,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1206,6 +1265,7 @@
 "municipio": "Belém",
 "latitude": -1.3759981,
 "longitude": -48.4509405,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1226,6 +1286,7 @@
 "municipio": "Belém",
 "latitude": -1.4513481,
 "longitude": -48.4735222,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1246,6 +1307,7 @@
 "municipio": "Belém",
 "latitude": -1.438566,
 "longitude": -48.4861727,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1266,6 +1328,7 @@
 "municipio": "Belém",
 "latitude": -1.4460551,
 "longitude": -48.460901,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1286,6 +1349,7 @@
 "municipio": "Belém",
 "latitude": -1.4524115,
 "longitude": -48.4993287,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1306,6 +1370,7 @@
 "municipio": "Belém",
 "latitude": -1.4376338,
 "longitude": -48.4607288,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1326,6 +1391,7 @@
 "municipio": "Belém",
 "latitude": -1.4083629,
 "longitude": -48.427973,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1346,6 +1412,7 @@
 "municipio": "Belém",
 "latitude": -1.4496004,
 "longitude": -48.4688076,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1366,6 +1433,7 @@
 "municipio": "Belém",
 "latitude": -1.4561387,
 "longitude": -48.4799551,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1386,6 +1454,7 @@
 "municipio": "Belém",
 "latitude": -1.4461383,
 "longitude": -48.4896874,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1406,6 +1475,7 @@
 "municipio": "Belém",
 "latitude": -1.3009778,
 "longitude": -48.5573493,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1426,6 +1496,7 @@
 "municipio": "Belém",
 "latitude": -1.4375034,
 "longitude": -48.4769877,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1446,6 +1517,7 @@
 "municipio": "Belém",
 "latitude": -1.3588497,
 "longitude": -48.4526076,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1466,6 +1538,7 @@
 "municipio": "Belém",
 "latitude": -1.4522005,
 "longitude": -48.4845413,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1486,6 +1559,7 @@
 "municipio": "Belém",
 "latitude": -1.3540682,
 "longitude": -48.4560657,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1506,6 +1580,7 @@
 "municipio": "Belém",
 "latitude": -1.4143575,
 "longitude": -48.468754,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1526,6 +1601,7 @@
 "municipio": "Belém",
 "latitude": -1.4429672,
 "longitude": -48.4788333,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1544,8 +1620,9 @@
 },
 "codigo_municipio": "150140",
 "municipio": "Belém",
-"latitude": null,
-"longitude": null,
+"latitude": -1.46559,
+"longitude": -48.49145,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1564,8 +1641,9 @@
 },
 "codigo_municipio": "150140",
 "municipio": "Belém",
-"latitude": null,
-"longitude": null,
+"latitude": -1.46783,
+"longitude": -48.48094,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1586,6 +1664,7 @@
 "municipio": "Benevides",
 "latitude": -1.3616435263358724,
 "longitude": -48.243134635035176,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1604,8 +1683,9 @@
 },
 "codigo_municipio": "150150",
 "municipio": "Benevides",
-"latitude": null,
-"longitude": null,
+"latitude": -1.3062,
+"longitude": -48.30331,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1624,8 +1704,9 @@
 },
 "codigo_municipio": "150157",
 "municipio": "Bom Jesus do Tocantins",
-"latitude": null,
-"longitude": null,
+"latitude": -5.05909,
+"longitude": -48.66716,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1646,6 +1727,7 @@
 "municipio": "Bragança",
 "latitude": -1.0538555968405383,
 "longitude": -46.7643141746521,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1664,8 +1746,9 @@
 },
 "codigo_municipio": "150190",
 "municipio": "Bujaru",
-"latitude": null,
-"longitude": null,
+"latitude": -1.60077,
+"longitude": -48.07495,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1684,8 +1767,9 @@
 },
 "codigo_municipio": "150220",
 "municipio": "Capanema",
-"latitude": null,
-"longitude": null,
+"latitude": -1.19023,
+"longitude": -47.17439,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1706,6 +1790,7 @@
 "municipio": "Capanema",
 "latitude": -1.192209509746643,
 "longitude": -47.17728853225708,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1726,6 +1811,7 @@
 "municipio": "Capanema",
 "latitude": -1.1925956642055606,
 "longitude": -47.181193828582764,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1744,8 +1830,9 @@
 },
 "codigo_municipio": "150230",
 "municipio": "Capitão Poço",
-"latitude": null,
-"longitude": null,
+"latitude": -1.8388,
+"longitude": -47.14049,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1766,6 +1853,7 @@
 "municipio": "Castanhal",
 "latitude": -1.2936160478375465,
 "longitude": -47.92506694793701,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1786,6 +1874,7 @@
 "municipio": "Castanhal",
 "latitude": -1.2935302390231982,
 "longitude": -47.92463779449463,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1804,8 +1893,9 @@
 },
 "codigo_municipio": "150277",
 "municipio": "Curionópolis",
-"latitude": null,
-"longitude": null,
+"latitude": -6.08371,
+"longitude": -49.62057,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1824,8 +1914,9 @@
 },
 "codigo_municipio": "150280",
 "municipio": "Curralinho",
-"latitude": null,
-"longitude": null,
+"latitude": -1.71597,
+"longitude": -49.87187,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1844,8 +1935,9 @@
 },
 "codigo_municipio": "150290",
 "municipio": "Curuçá",
-"latitude": null,
-"longitude": null,
+"latitude": -0.75401,
+"longitude": -47.85918,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1864,8 +1956,9 @@
 },
 "codigo_municipio": "150307",
 "municipio": "Garrafão do Norte",
-"latitude": null,
-"longitude": null,
+"latitude": -2.05062,
+"longitude": -47.04086,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1884,8 +1977,9 @@
 },
 "codigo_municipio": "150309",
 "municipio": "Goianésia do Pará",
-"latitude": null,
-"longitude": null,
+"latitude": -3.92846,
+"longitude": -49.11702,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1904,8 +1998,9 @@
 },
 "codigo_municipio": "150320",
 "municipio": "Igarapé-Açu",
-"latitude": null,
-"longitude": null,
+"latitude": -1.14516,
+"longitude": -47.59491,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1924,8 +2019,9 @@
 },
 "codigo_municipio": "150320",
 "municipio": "Igarapé-Açu",
-"latitude": null,
-"longitude": null,
+"latitude": -1.14516,
+"longitude": -47.59491,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1946,6 +2042,7 @@
 "municipio": "Jacundá",
 "latitude": -4.4472257,
 "longitude": -49.1147149,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1966,6 +2063,7 @@
 "municipio": "Jacundá",
 "latitude": -4.4490187,
 "longitude": -49.1152313,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1986,6 +2084,7 @@
 "municipio": "Marabá",
 "latitude": -5.3703624424325,
 "longitude": -49.12625465948358,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2006,6 +2105,7 @@
 "municipio": "Marabá",
 "latitude": -5.342370842430713,
 "longitude": -49.10882048773126,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2026,6 +2126,7 @@
 "municipio": "Marabá",
 "latitude": -5.369095060009402,
 "longitude": -49.12708624779255,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2044,8 +2145,9 @@
 },
 "codigo_municipio": "150420",
 "municipio": "Marabá",
-"latitude": null,
-"longitude": null,
+"latitude": -5.47956,
+"longitude": -49.41615,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2064,8 +2166,9 @@
 },
 "codigo_municipio": "150420",
 "municipio": "Marabá",
-"latitude": null,
-"longitude": null,
+"latitude": -5.38946,
+"longitude": -49.136,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2086,6 +2189,7 @@
 "municipio": "Marituba",
 "latitude": -1.3651766372955023,
 "longitude": -48.34240288123705,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2104,8 +2208,9 @@
 },
 "codigo_municipio": "150445",
 "municipio": "Medicilândia",
-"latitude": null,
-"longitude": null,
+"latitude": -3.42582,
+"longitude": -52.95741,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2124,8 +2229,9 @@
 },
 "codigo_municipio": "150450",
 "municipio": "Melgaço",
-"latitude": null,
-"longitude": null,
+"latitude": -1.67064,
+"longitude": -50.82968,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2144,8 +2250,9 @@
 },
 "codigo_municipio": "150460",
 "municipio": "Mocajuba",
-"latitude": null,
-"longitude": null,
+"latitude": -2.58001,
+"longitude": -49.49477,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2164,8 +2271,9 @@
 },
 "codigo_municipio": "150470",
 "municipio": "Moju",
-"latitude": null,
-"longitude": null,
+"latitude": -2.17715,
+"longitude": -48.83499,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2184,8 +2292,9 @@
 },
 "codigo_municipio": "150405",
 "municipio": "Mãe do Rio",
-"latitude": null,
-"longitude": null,
+"latitude": -2.03469,
+"longitude": -47.5417,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2206,6 +2315,7 @@
 "municipio": "Mãe do Rio",
 "latitude": -2.04377449837755,
 "longitude": -47.553462982177734,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2224,8 +2334,9 @@
 },
 "codigo_municipio": "150495",
 "municipio": "Nova Esperança do Piriá",
-"latitude": null,
-"longitude": null,
+"latitude": -2.32598,
+"longitude": -46.96794,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2244,8 +2355,9 @@
 },
 "codigo_municipio": "150495",
 "municipio": "Nova Esperança do Piriá",
-"latitude": null,
-"longitude": null,
+"latitude": -2.32598,
+"longitude": -46.96794,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2264,8 +2376,9 @@
 },
 "codigo_municipio": "150497",
 "municipio": "Nova Ipixuna",
-"latitude": null,
-"longitude": null,
+"latitude": -4.97577,
+"longitude": -49.16759,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2284,8 +2397,9 @@
 },
 "codigo_municipio": "150500",
 "municipio": "Nova Timboteua",
-"latitude": null,
-"longitude": null,
+"latitude": -1.16642,
+"longitude": -47.38356,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2304,8 +2418,9 @@
 },
 "codigo_municipio": "150530",
 "municipio": "Oriximiná",
-"latitude": null,
-"longitude": null,
+"latitude": -1.61401,
+"longitude": -55.9883,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2324,8 +2439,9 @@
 },
 "codigo_municipio": "150530",
 "municipio": "Oriximiná",
-"latitude": null,
-"longitude": null,
+"latitude": -1.47249,
+"longitude": -56.37028,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2344,8 +2460,9 @@
 },
 "codigo_municipio": "150543",
 "municipio": "Ourilândia do Norte",
-"latitude": null,
-"longitude": null,
+"latitude": -6.80591,
+"longitude": -51.05103,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2364,8 +2481,9 @@
 },
 "codigo_municipio": "150540",
 "municipio": "Ourém",
-"latitude": null,
-"longitude": null,
+"latitude": -1.50883,
+"longitude": -47.13575,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2384,8 +2502,9 @@
 },
 "codigo_municipio": "150548",
 "municipio": "Pacajá",
-"latitude": null,
-"longitude": null,
+"latitude": -3.72751,
+"longitude": -50.62198,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2404,8 +2523,9 @@
 },
 "codigo_municipio": "150550",
 "municipio": "Paragominas",
-"latitude": null,
-"longitude": null,
+"latitude": -3.01088,
+"longitude": -47.35694,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2426,6 +2546,7 @@
 "municipio": "Paragominas",
 "latitude": -2.9937815541165484,
 "longitude": -47.35515254539018,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2444,8 +2565,9 @@
 },
 "codigo_municipio": "150553",
 "municipio": "Parauapebas",
-"latitude": null,
-"longitude": null,
+"latitude": -6.0706,
+"longitude": -49.89363,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2464,8 +2586,9 @@
 },
 "codigo_municipio": "150553",
 "municipio": "Parauapebas",
-"latitude": null,
-"longitude": null,
+"latitude": -6.0706,
+"longitude": -49.89363,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2484,8 +2607,9 @@
 },
 "codigo_municipio": "150563",
 "municipio": "Piçarra",
-"latitude": null,
-"longitude": null,
+"latitude": -6.51596,
+"longitude": -48.97427,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2504,8 +2628,9 @@
 },
 "codigo_municipio": "150565",
 "municipio": "Placas",
-"latitude": null,
-"longitude": null,
+"latitude": -3.86931,
+"longitude": -54.41629,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2524,8 +2649,9 @@
 },
 "codigo_municipio": "150613",
 "municipio": "Redenção",
-"latitude": null,
-"longitude": null,
+"latitude": -8.02347,
+"longitude": -50.02684,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2544,8 +2670,9 @@
 },
 "codigo_municipio": "150613",
 "municipio": "Redenção",
-"latitude": null,
-"longitude": null,
+"latitude": -8.04071,
+"longitude": -50.04234,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2566,6 +2693,7 @@
 "municipio": "Redenção",
 "latitude": -6.802097514197381,
 "longitude": -50.491039752960205,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2584,8 +2712,9 @@
 },
 "codigo_municipio": "150616",
 "municipio": "Rio Maria",
-"latitude": null,
-"longitude": null,
+"latitude": -7.31378,
+"longitude": -49.95831,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2604,8 +2733,9 @@
 },
 "codigo_municipio": "150618",
 "municipio": "Rondon do Pará",
-"latitude": null,
-"longitude": null,
+"latitude": -4.70533,
+"longitude": -48.19586,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2624,8 +2754,9 @@
 },
 "codigo_municipio": "150618",
 "municipio": "Rondon do Pará",
-"latitude": null,
-"longitude": null,
+"latitude": -4.70533,
+"longitude": -48.19586,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2644,8 +2775,9 @@
 },
 "codigo_municipio": "150619",
 "municipio": "Rurópolis",
-"latitude": null,
-"longitude": null,
+"latitude": -4.15262,
+"longitude": -55.10648,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2666,6 +2798,7 @@
 "municipio": "Salinópolis",
 "latitude": -0.6237622067212734,
 "longitude": -47.34515190124512,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2684,8 +2817,9 @@
 },
 "codigo_municipio": "150630",
 "municipio": "Salvaterra",
-"latitude": null,
-"longitude": null,
+"latitude": -0.78039,
+"longitude": -48.53656,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2706,6 +2840,7 @@
 "municipio": "Santa Izabel do Pará",
 "latitude": -1.2976061544963546,
 "longitude": -48.163161277770996,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2724,8 +2859,9 @@
 },
 "codigo_municipio": "150658",
 "municipio": "Santa Maria das Barreiras",
-"latitude": null,
-"longitude": null,
+"latitude": -8.55353,
+"longitude": -50.15316,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2746,6 +2882,7 @@
 "municipio": "Santa Maria das Barreiras",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2764,8 +2901,9 @@
 },
 "codigo_municipio": "150660",
 "municipio": "Santa Maria do Pará",
-"latitude": null,
-"longitude": null,
+"latitude": -1.35573,
+"longitude": -47.54962,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2784,8 +2922,9 @@
 },
 "codigo_municipio": "150670",
 "municipio": "Santana do Araguaia",
-"latitude": null,
-"longitude": null,
+"latitude": -9.30739,
+"longitude": -50.42558,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2804,8 +2943,9 @@
 },
 "codigo_municipio": "150670",
 "municipio": "Santana do Araguaia",
-"latitude": null,
-"longitude": null,
+"latitude": -9.30739,
+"longitude": -50.42558,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2826,6 +2966,7 @@
 "municipio": "Santarém",
 "latitude": -2.317483068758292,
 "longitude": -54.722900390625,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2846,6 +2987,7 @@
 "municipio": "Santarém",
 "latitude": -2.420391858508534,
 "longitude": -54.71511125564575,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2864,8 +3006,9 @@
 },
 "codigo_municipio": "150680",
 "municipio": "Santarém",
-"latitude": null,
-"longitude": null,
+"latitude": -2.4168,
+"longitude": -54.71331,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2884,8 +3027,9 @@
 },
 "codigo_municipio": "150680",
 "municipio": "Santarém",
-"latitude": null,
-"longitude": null,
+"latitude": -2.42588,
+"longitude": -54.71266,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2906,6 +3050,7 @@
 "municipio": "Santarém",
 "latitude": -2.424647399818616,
 "longitude": -54.723790884017944,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2924,8 +3069,9 @@
 },
 "codigo_municipio": "150700",
 "municipio": "Santo Antônio do Tauá",
-"latitude": null,
-"longitude": null,
+"latitude": -1.11897,
+"longitude": -48.14568,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2944,8 +3090,9 @@
 },
 "codigo_municipio": "150700",
 "municipio": "Santo Antônio do Tauá",
-"latitude": null,
-"longitude": null,
+"latitude": -1.11897,
+"longitude": -48.14568,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2964,8 +3111,9 @@
 },
 "codigo_municipio": "150790",
 "municipio": "Soure",
-"latitude": null,
-"longitude": null,
+"latitude": -0.71011,
+"longitude": -48.5216,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2984,8 +3132,9 @@
 },
 "codigo_municipio": "150710",
 "municipio": "São Caetano de Odivelas",
-"latitude": null,
-"longitude": null,
+"latitude": -0.78867,
+"longitude": -48.02898,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3004,8 +3153,9 @@
 },
 "codigo_municipio": "150710",
 "municipio": "São Caetano de Odivelas",
-"latitude": null,
-"longitude": null,
+"latitude": -0.78867,
+"longitude": -48.02898,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3024,8 +3174,9 @@
 },
 "codigo_municipio": "150715",
 "municipio": "São Domingos do Araguaia",
-"latitude": null,
-"longitude": null,
+"latitude": -5.57909,
+"longitude": -48.73556,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3044,8 +3195,9 @@
 },
 "codigo_municipio": "150715",
 "municipio": "São Domingos do Araguaia",
-"latitude": null,
-"longitude": null,
+"latitude": -5.57909,
+"longitude": -48.73556,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3064,8 +3216,9 @@
 },
 "codigo_municipio": "150730",
 "municipio": "São Félix do Xingu",
-"latitude": null,
-"longitude": null,
+"latitude": -6.36536,
+"longitude": -51.94424,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3084,8 +3237,9 @@
 },
 "codigo_municipio": "150745",
 "municipio": "São Geraldo do Araguaia",
-"latitude": null,
-"longitude": null,
+"latitude": -6.30831,
+"longitude": -48.66157,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3106,6 +3260,7 @@
 "municipio": "Tailândia",
 "latitude": -2.9360999,
 "longitude": -48.9523368,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3124,8 +3279,9 @@
 },
 "codigo_municipio": "150795",
 "municipio": "Tailândia",
-"latitude": null,
-"longitude": null,
+"latitude": -2.88089,
+"longitude": -48.90373,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3144,8 +3300,9 @@
 },
 "codigo_municipio": "150795",
 "municipio": "Tailândia",
-"latitude": null,
-"longitude": null,
+"latitude": -2.88089,
+"longitude": -48.90373,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3164,8 +3321,9 @@
 },
 "codigo_municipio": "150808",
 "municipio": "Tucumã",
-"latitude": null,
-"longitude": null,
+"latitude": -6.76656,
+"longitude": -51.20308,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3184,8 +3342,9 @@
 },
 "codigo_municipio": "150810",
 "municipio": "Tucuruí",
-"latitude": null,
-"longitude": null,
+"latitude": -3.77419,
+"longitude": -49.68456,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3206,6 +3365,7 @@
 "municipio": "Tucuruí",
 "latitude": -3.7597942751153033,
 "longitude": -49.68161344528198,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3224,8 +3384,9 @@
 },
 "codigo_municipio": "150812",
 "municipio": "Ulianópolis",
-"latitude": null,
-"longitude": null,
+"latitude": -3.79088,
+"longitude": -47.51248,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3244,8 +3405,9 @@
 },
 "codigo_municipio": "150812",
 "municipio": "Ulianópolis",
-"latitude": null,
-"longitude": null,
+"latitude": -3.79088,
+"longitude": -47.51248,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3264,8 +3426,9 @@
 },
 "codigo_municipio": "150815",
 "municipio": "Uruará",
-"latitude": null,
-"longitude": null,
+"latitude": -3.72198,
+"longitude": -53.7208,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3284,8 +3447,9 @@
 },
 "codigo_municipio": "150815",
 "municipio": "Uruará",
-"latitude": null,
-"longitude": null,
+"latitude": -3.72198,
+"longitude": -53.7208,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3304,8 +3468,9 @@
 },
 "codigo_municipio": "150815",
 "municipio": "Uruará",
-"latitude": null,
-"longitude": null,
+"latitude": -3.72198,
+"longitude": -53.7208,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3326,6 +3491,7 @@
 "municipio": "Xinguara",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3346,6 +3512,7 @@
 "municipio": "Xinguara",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3364,8 +3531,9 @@
 },
 "codigo_municipio": "150034",
 "municipio": "Água Azul do Norte",
-"latitude": null,
-"longitude": null,
+"latitude": -6.79793,
+"longitude": -50.3276,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],

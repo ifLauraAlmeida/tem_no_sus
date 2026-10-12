@@ -6,7 +6,7 @@
 "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
 "data_referencia": "2026-10-08",
 "data_obtencao": "2026-10-12",
-"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ; sem coordenada no CNES, centro do CEP calculado pelo CNEFE (IBGE, Censo 2022)",
 "nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
 },
 "uf": "DF",
@@ -26,6 +26,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -44,8 +45,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.78837,
+"longitude": -47.94095,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -64,8 +66,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.7592,
+"longitude": -47.78733,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -86,6 +89,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -104,8 +108,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.7657,
+"longitude": -47.78021,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -124,8 +129,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.8688,
+"longitude": -47.96585,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -146,6 +152,7 @@
 "municipio": "Brasília",
 "latitude": -15.87372,
 "longitude": -48.072222,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -164,8 +171,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.84649,
+"longitude": -47.96787,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -184,8 +192,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83649,
+"longitude": -48.05647,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -204,8 +213,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.78703,
+"longitude": -47.8852,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -224,8 +234,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.82774,
+"longitude": -48.05711,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -244,8 +255,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83601,
+"longitude": -48.01784,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -264,8 +276,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81559,
+"longitude": -47.90709,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -284,8 +297,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.6807,
+"longitude": -48.19353,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -304,8 +318,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81909,
+"longitude": -48.11077,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -324,8 +339,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.84016,
+"longitude": -47.97185,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -344,8 +360,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.87229,
+"longitude": -48.06742,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -366,6 +383,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -384,8 +402,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.90351,
+"longitude": -48.06587,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -406,6 +425,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -424,8 +444,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.76334,
+"longitude": -47.88053,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -444,8 +465,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.65095,
+"longitude": -47.78985,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -464,8 +486,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80324,
+"longitude": -47.89248,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -484,8 +507,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.84178,
+"longitude": -48.02743,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -504,8 +528,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.66287,
+"longitude": -48.19526,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -524,8 +549,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83285,
+"longitude": -48.0417,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -544,8 +570,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80336,
+"longitude": -47.929,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -564,8 +591,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.8376,
+"longitude": -48.03234,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -586,6 +614,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -604,8 +633,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.88067,
+"longitude": -48.01875,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -624,8 +654,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.89729,
+"longitude": -48.04786,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -644,8 +675,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.63897,
+"longitude": -47.64628,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -664,8 +696,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.86835,
+"longitude": -48.08667,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -684,8 +717,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.66795,
+"longitude": -47.84628,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -704,8 +738,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.00525,
+"longitude": -47.99472,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -726,6 +761,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -746,6 +782,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -764,8 +801,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80963,
+"longitude": -47.9432,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -784,8 +822,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.79361,
+"longitude": -47.91775,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -804,8 +843,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.77564,
+"longitude": -47.92395,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -824,8 +864,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80812,
+"longitude": -47.9349,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -844,8 +885,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.78289,
+"longitude": -47.9372,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -864,8 +906,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.79712,
+"longitude": -47.93426,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -884,8 +927,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83096,
+"longitude": -47.91589,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -904,8 +948,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.88284,
+"longitude": -48.09714,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -924,8 +969,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81485,
+"longitude": -48.12819,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -946,6 +992,7 @@
 "municipio": "Brasília",
 "latitude": -15.811258993111492,
 "longitude": -48.084062510877054,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -964,8 +1011,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.798,
+"longitude": -47.94073,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -984,8 +1032,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.9018,
+"longitude": -47.76689,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1004,8 +1053,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81036,
+"longitude": -48.06407,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1024,8 +1074,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.84797,
+"longitude": -48.1159,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1046,6 +1097,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1066,6 +1118,7 @@
 "municipio": "Brasília",
 "latitude": -15.797125186423381,
 "longitude": -48.120391450333784,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1086,6 +1139,7 @@
 "municipio": "Brasília",
 "latitude": -15.818278383964696,
 "longitude": -48.129652440737246,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1104,8 +1158,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.88341,
+"longitude": -48.01529,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1124,8 +1179,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83957,
+"longitude": -48.05583,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1144,8 +1200,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.6814,
+"longitude": -47.83422,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1164,8 +1221,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.01023,
+"longitude": -48.0719,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1184,8 +1242,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.92003,
+"longitude": -48.10129,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1204,8 +1263,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.79269,
+"longitude": -48.12762,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1224,8 +1284,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80858,
+"longitude": -48.15236,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1244,8 +1305,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.8438,
+"longitude": -48.11904,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1266,6 +1328,7 @@
 "municipio": "Brasília",
 "latitude": -15.905158047256725,
 "longitude": -48.06594060000725,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1284,8 +1347,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.79345,
+"longitude": -48.05028,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1304,8 +1368,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.00826,
+"longitude": -48.07068,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1324,8 +1389,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.86074,
+"longitude": -48.08259,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1344,8 +1410,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.89799,
+"longitude": -48.1211,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1364,8 +1431,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.74018,
+"longitude": -47.71641,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1384,8 +1452,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.89509,
+"longitude": -48.04749,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1404,8 +1473,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83678,
+"longitude": -47.98267,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1424,8 +1494,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.84218,
+"longitude": -48.05788,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1444,8 +1515,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83474,
+"longitude": -48.10684,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1464,8 +1536,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.8144,
+"longitude": -48.10225,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1484,8 +1557,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.65098,
+"longitude": -47.7901,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1504,8 +1578,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80639,
+"longitude": -48.01947,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1524,8 +1599,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.90304,
+"longitude": -48.04549,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1544,8 +1620,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.00768,
+"longitude": -48.08253,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1564,8 +1641,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.86206,
+"longitude": -48.08237,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1586,6 +1664,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1604,8 +1683,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.82624,
+"longitude": -48.11786,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1624,8 +1704,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.00732,
+"longitude": -47.9933,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1644,8 +1725,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.8071,
+"longitude": -48.11578,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1664,8 +1746,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.01006,
+"longitude": -47.99227,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1684,8 +1767,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.02685,
+"longitude": -48.07332,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1704,8 +1788,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.7592,
+"longitude": -47.78733,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1726,6 +1811,7 @@
 "municipio": "Brasília",
 "latitude": -15.80253248796875,
 "longitude": -48.099086546649,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1744,8 +1830,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.82027,
+"longitude": -47.98257,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1764,8 +1851,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.85185,
+"longitude": -48.07304,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1786,6 +1874,7 @@
 "municipio": "Brasília",
 "latitude": -15.851183983519352,
 "longitude": -47.950708866119385,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1806,6 +1895,7 @@
 "municipio": "Brasília",
 "latitude": -16.01218993806426,
 "longitude": -48.06727227269602,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1824,8 +1914,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83389,
+"longitude": -48.0557,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1844,8 +1935,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.78777,
+"longitude": -48.12923,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1864,8 +1956,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.79801,
+"longitude": -48.12525,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1886,6 +1979,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1904,8 +1998,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.86577,
+"longitude": -48.0811,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1924,8 +2019,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.87232,
+"longitude": -47.45577,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1944,8 +2040,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81825,
+"longitude": -47.89583,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1964,8 +2061,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80192,
+"longitude": -47.88962,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -1984,8 +2082,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80192,
+"longitude": -47.88962,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2004,8 +2103,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.73998,
+"longitude": -47.89354,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2026,6 +2126,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2044,8 +2145,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.74406,
+"longitude": -47.89428,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2066,6 +2168,7 @@
 "municipio": "Brasília",
 "latitude": -15.834889,
 "longitude": -48.056829,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2084,8 +2187,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80156,
+"longitude": -47.92542,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2104,8 +2208,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80747,
+"longitude": -48.0844,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2124,8 +2229,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80336,
+"longitude": -47.929,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2144,8 +2250,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80376,
+"longitude": -47.94055,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2164,8 +2271,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.6458,
+"longitude": -47.80175,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2184,8 +2292,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.73841,
+"longitude": -47.88897,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2206,6 +2315,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2224,8 +2334,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.72142,
+"longitude": -47.88229,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2244,8 +2355,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.72275,
+"longitude": -47.88926,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2264,8 +2376,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.90411,
+"longitude": -48.07071,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2284,8 +2397,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.861,
+"longitude": -48.07404,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2304,8 +2418,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.6807,
+"longitude": -48.19353,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2326,6 +2441,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2346,6 +2462,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2364,8 +2481,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80324,
+"longitude": -47.89248,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2384,8 +2502,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.00236,
+"longitude": -48.05865,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2404,8 +2523,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.72142,
+"longitude": -47.88229,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2424,8 +2544,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.74315,
+"longitude": -47.85207,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2444,8 +2565,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.87737,
+"longitude": -48.08431,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2464,8 +2586,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.84178,
+"longitude": -48.02743,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2484,8 +2607,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81609,
+"longitude": -48.01614,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2506,6 +2630,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2524,8 +2649,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.90315,
+"longitude": -47.77168,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2546,6 +2672,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2564,8 +2691,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.86742,
+"longitude": -47.97432,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2584,8 +2712,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83567,
+"longitude": -48.03848,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2606,6 +2735,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2624,8 +2754,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83448,
+"longitude": -48.02342,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2644,8 +2775,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83418,
+"longitude": -48.03641,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2664,8 +2796,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83567,
+"longitude": -48.03848,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2684,8 +2817,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83567,
+"longitude": -48.03848,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2704,8 +2838,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.77079,
+"longitude": -47.88405,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2724,8 +2859,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.79466,
+"longitude": -48.05162,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2744,8 +2880,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.82684,
+"longitude": -47.91888,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2764,8 +2901,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81342,
+"longitude": -48.10495,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2784,8 +2922,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.87229,
+"longitude": -48.06742,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2804,8 +2943,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.75268,
+"longitude": -47.88942,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2824,8 +2964,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.87372,
+"longitude": -48.01342,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2844,8 +2985,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.61824,
+"longitude": -47.65536,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2866,6 +3008,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2884,8 +3027,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81909,
+"longitude": -48.11077,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2904,8 +3048,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.79129,
+"longitude": -47.88299,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2926,6 +3071,7 @@
 "municipio": "Brasília",
 "latitude": -15.84213,
 "longitude": -48.03182,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2946,6 +3092,7 @@
 "municipio": "Brasília",
 "latitude": -15.8013,
 "longitude": -47.88947,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2966,6 +3113,7 @@
 "municipio": "Brasília",
 "latitude": -15.80098,
 "longitude": -47.89099,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -2986,6 +3134,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3004,8 +3153,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.75416,
+"longitude": -47.90932,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3024,8 +3174,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81433,
+"longitude": -48.10197,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3044,8 +3195,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.77282,
+"longitude": -47.78008,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3064,8 +3216,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83375,
+"longitude": -47.86989,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3084,8 +3237,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.75785,
+"longitude": -47.88272,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3104,8 +3258,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.82053,
+"longitude": -47.98096,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3124,8 +3279,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.84016,
+"longitude": -47.97185,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3144,8 +3300,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.88049,
+"longitude": -47.8121,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3164,8 +3321,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.85137,
+"longitude": -47.87664,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3186,6 +3344,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3204,8 +3363,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83067,
+"longitude": -47.87487,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3224,8 +3384,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.85111,
+"longitude": -47.90282,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3244,8 +3405,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.8688,
+"longitude": -47.96585,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3264,8 +3426,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.90865,
+"longitude": -47.76057,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3284,8 +3447,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.86414,
+"longitude": -48.08023,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3304,8 +3468,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80156,
+"longitude": -47.92542,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3324,8 +3489,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80003,
+"longitude": -47.92328,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3346,6 +3512,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3366,6 +3533,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3384,8 +3552,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.02575,
+"longitude": -48.06952,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3404,8 +3573,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.90218,
+"longitude": -48.05619,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3426,6 +3596,7 @@
 "municipio": "Brasília",
 "latitude": -15.845930259114722,
 "longitude": -48.03055316190756,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3444,8 +3615,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83845,
+"longitude": -47.97842,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3464,8 +3636,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.65,
+"longitude": -47.79083,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3486,6 +3659,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3504,8 +3678,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.75031,
+"longitude": -47.89365,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3524,8 +3699,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.76907,
+"longitude": -47.88685,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3544,8 +3720,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.64019,
+"longitude": -47.65168,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3564,8 +3741,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.76625,
+"longitude": -47.87798,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3584,8 +3762,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.86961,
+"longitude": -47.96545,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3606,6 +3785,7 @@
 "municipio": "Brasília",
 "latitude": -15.82263297,
 "longitude": -48.065074188,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3624,8 +3804,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80815,
+"longitude": -47.89663,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3644,8 +3825,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.82318,
+"longitude": -47.91395,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3666,6 +3848,7 @@
 "municipio": "Brasília",
 "latitude": -15.802376328,
 "longitude": -47.8910058859,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3684,8 +3867,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81936,
+"longitude": -47.89507,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3706,6 +3890,7 @@
 "municipio": "Brasília",
 "latitude": -15.83122556771842,
 "longitude": -47.91158173887114,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3726,6 +3911,7 @@
 "municipio": "Brasília",
 "latitude": -15.815401118052096,
 "longitude": -47.90218117614904,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3744,8 +3930,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.83567,
+"longitude": -48.03848,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3766,6 +3953,7 @@
 "municipio": "Brasília",
 "latitude": -15.835180254098743,
 "longitude": -48.01884574236148,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3784,8 +3972,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.85733,
+"longitude": -47.83268,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3804,8 +3993,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.74334,
+"longitude": -47.89484,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3824,8 +4014,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.00469,
+"longitude": -47.99503,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3846,6 +4037,7 @@
 "municipio": "Brasília",
 "latitude": -16.008908677589382,
 "longitude": -48.070221159069526,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3864,8 +4056,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80652,
+"longitude": -48.14048,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3884,8 +4077,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80743,
+"longitude": -48.14162,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3904,8 +4098,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81568,
+"longitude": -48.09725,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3924,8 +4119,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81611,
+"longitude": -48.10602,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3944,8 +4140,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.02575,
+"longitude": -48.06952,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3964,8 +4161,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.86196,
+"longitude": -48.07663,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -3984,8 +4182,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.88311,
+"longitude": -48.0806,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4004,8 +4203,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.89192,
+"longitude": -48.10655,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4024,8 +4224,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.89694,
+"longitude": -48.04735,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4046,6 +4247,7 @@
 "municipio": "Brasília",
 "latitude": -15.8395498,
 "longitude": -48.0535015,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4066,6 +4268,7 @@
 "municipio": "Brasília",
 "latitude": -15.786146941550518,
 "longitude": -47.88942843909316,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4086,6 +4289,7 @@
 "municipio": "Brasília",
 "latitude": -15.8357021,
 "longitude": -47.8671959,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4106,6 +4310,7 @@
 "municipio": "Brasília",
 "latitude": -15.8018249,
 "longitude": -47.8897178,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4126,6 +4331,7 @@
 "municipio": "Brasília",
 "latitude": -15.8523813,
 "longitude": -47.8942307,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4146,6 +4352,7 @@
 "municipio": "Brasília",
 "latitude": -15.8337425,
 "longitude": -47.9549868,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4166,6 +4373,7 @@
 "municipio": "Brasília",
 "latitude": -15.76294197312134,
 "longitude": -47.889307737350464,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4186,6 +4394,7 @@
 "municipio": "Brasília",
 "latitude": -15.833294,
 "longitude": -48.055845,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4206,6 +4415,7 @@
 "municipio": "Brasília",
 "latitude": -15.748689,
 "longitude": -47.884976,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4226,6 +4436,7 @@
 "municipio": "Brasília",
 "latitude": -15.8463744,
 "longitude": -47.8945585,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4246,6 +4457,7 @@
 "municipio": "Brasília",
 "latitude": -15.764087,
 "longitude": -47.887905,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4266,6 +4478,7 @@
 "municipio": "Brasília",
 "latitude": -15.8034447,
 "longitude": -47.9291939,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4286,6 +4499,7 @@
 "municipio": "Brasília",
 "latitude": -15.7772147,
 "longitude": -47.883846,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4306,6 +4520,7 @@
 "municipio": "Brasília",
 "latitude": -15.7954396,
 "longitude": -47.8917929,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4326,6 +4541,7 @@
 "municipio": "Brasília",
 "latitude": -15.8078971,
 "longitude": -47.8893457,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4346,6 +4562,7 @@
 "municipio": "Brasília",
 "latitude": -15.9068981,
 "longitude": -48.0816513,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4366,6 +4583,7 @@
 "municipio": "Brasília",
 "latitude": -15.8222922,
 "longitude": -47.9133865,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4386,6 +4604,7 @@
 "municipio": "Brasília",
 "latitude": -15.8683638,
 "longitude": -47.9650378,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4406,6 +4625,7 @@
 "municipio": "Brasília",
 "latitude": -15.7934887,
 "longitude": -47.8824501,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4426,6 +4646,7 @@
 "municipio": "Brasília",
 "latitude": -15.827281,
 "longitude": -47.928415,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4446,6 +4667,7 @@
 "municipio": "Brasília",
 "latitude": -15.7216875,
 "longitude": -47.8830625,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4466,6 +4688,7 @@
 "municipio": "Brasília",
 "latitude": -15.799363,
 "longitude": -47.923114,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4486,6 +4709,7 @@
 "municipio": "Brasília",
 "latitude": -15.835452,
 "longitude": -48.017576,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4506,6 +4730,7 @@
 "municipio": "Brasília",
 "latitude": -15.7437401,
 "longitude": -47.8950447,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4526,6 +4751,7 @@
 "municipio": "Brasília",
 "latitude": -15.6110747,
 "longitude": -47.6526809,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4546,6 +4772,7 @@
 "municipio": "Brasília",
 "latitude": -15.8025275,
 "longitude": -47.8887005,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4566,6 +4793,7 @@
 "municipio": "Brasília",
 "latitude": -15.8114525,
 "longitude": -47.902177,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4586,6 +4814,7 @@
 "municipio": "Brasília",
 "latitude": -15.8309777,
 "longitude": -47.9243193,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4606,6 +4835,7 @@
 "municipio": "Brasília",
 "latitude": -15.8722969,
 "longitude": -48.0763268,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4626,6 +4856,7 @@
 "municipio": "Brasília",
 "latitude": -15.6211462,
 "longitude": -47.658087,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4646,6 +4877,7 @@
 "municipio": "Brasília",
 "latitude": -15.819715,
 "longitude": -48.109818,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4666,6 +4898,7 @@
 "municipio": "Brasília",
 "latitude": -15.757183,
 "longitude": -47.8829556,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4686,6 +4919,7 @@
 "municipio": "Brasília",
 "latitude": -15.6511238,
 "longitude": -47.7899537,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4706,6 +4940,7 @@
 "municipio": "Brasília",
 "latitude": -16.017069,
 "longitude": -48.063334,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4726,6 +4961,7 @@
 "municipio": "Brasília",
 "latitude": -15.833731,
 "longitude": -48.0559098,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4746,6 +4982,7 @@
 "municipio": "Brasília",
 "latitude": -15.849760753705812,
 "longitude": -48.118870496749764,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4764,8 +5001,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.90414,
+"longitude": -47.77271,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4786,6 +5024,7 @@
 "municipio": "Brasília",
 "latitude": -15.78,
 "longitude": -47.93,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4806,6 +5045,7 @@
 "municipio": "Brasília",
 "latitude": -15.756571122108928,
 "longitude": -47.8839111328125,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4824,8 +5064,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.77069,
+"longitude": -47.88447,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4846,6 +5087,7 @@
 "municipio": "Brasília",
 "latitude": -15.831232764969906,
 "longitude": -47.923736572265625,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4864,8 +5106,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81936,
+"longitude": -47.89507,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4886,6 +5129,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4906,6 +5150,7 @@
 "municipio": "Brasília",
 "latitude": -15.802432,
 "longitude": -47.928632,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4924,8 +5169,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.79107,
+"longitude": -47.85152,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4944,8 +5190,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.86305,
+"longitude": -48.02494,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4964,8 +5211,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.7661,
+"longitude": -47.77998,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -4984,8 +5232,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.80064,
+"longitude": -48.06277,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5004,8 +5253,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.03886,
+"longitude": -48.06138,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5024,8 +5274,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.90779,
+"longitude": -47.75284,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5044,8 +5295,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.64121,
+"longitude": -47.8263,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5064,8 +5316,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.74918,
+"longitude": -47.77486,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5086,6 +5339,7 @@
 "municipio": "Brasília",
 "latitude": -15.873419062238888,
 "longitude": -48.07679682970047,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5104,8 +5358,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.79347,
+"longitude": -48.13821,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5126,6 +5381,7 @@
 "municipio": "Brasília",
 "latitude": -16.02555384674927,
 "longitude": -48.06638529999999,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5144,8 +5400,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.91012,
+"longitude": -47.7622,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5164,8 +5421,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.0108,
+"longitude": -48.05228,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5184,8 +5442,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.84227,
+"longitude": -47.87376,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5204,8 +5463,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.82093,
+"longitude": -48.0808,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5224,8 +5484,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.71134,
+"longitude": -47.87618,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5244,8 +5505,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.81737,
+"longitude": -48.08254,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5264,8 +5526,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.03489,
+"longitude": -48.02199,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5286,6 +5549,7 @@
 "municipio": "Brasília",
 "latitude": -15.822678,
 "longitude": -48.0653244,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5306,6 +5570,7 @@
 "municipio": "Brasília",
 "latitude": -16.0256083,
 "longitude": -48.0694427,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5326,6 +5591,7 @@
 "municipio": "Brasília",
 "latitude": -15.807759,
 "longitude": -47.896988,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5346,6 +5612,7 @@
 "municipio": "Brasília",
 "latitude": -15.780648,
 "longitude": -47.886248,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5366,6 +5633,7 @@
 "municipio": "Brasília",
 "latitude": -15.7768369,
 "longitude": -47.8783623,
+"precisao_localizacao": "endereco",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5384,8 +5652,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.77709,
+"longitude": -47.98776,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5404,8 +5673,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.77419,
+"longitude": -47.77981,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5424,8 +5694,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.86772,
+"longitude": -47.96294,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5444,8 +5715,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.64014,
+"longitude": -47.8469,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5464,8 +5736,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.9094,
+"longitude": -48.09401,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5486,6 +5759,7 @@
 "municipio": "Brasília",
 "latitude": null,
 "longitude": null,
+"precisao_localizacao": null,
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5504,8 +5778,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.90865,
+"longitude": -47.76057,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5524,8 +5799,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -16.31491,
+"longitude": -47.53487,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5544,8 +5820,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.70821,
+"longitude": -47.88014,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
@@ -5564,8 +5841,9 @@
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
-"latitude": null,
-"longitude": null,
+"latitude": -15.89523,
+"longitude": -47.78574,
+"precisao_localizacao": "centro_cep",
 "frentes": [
 "FARMACIA_POPULAR"
 ],
