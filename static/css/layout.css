@@ -8,13 +8,6 @@
 }
 .pular-conteudo:focus { left: 16px; }
 
-.barra-aviso {
-  background: var(--faixa-topo-fundo);
-  color: var(--faixa-topo-texto);
-  font-size: 0.85rem;
-  padding: 6px 0;
-}
-
 .cabecalho {
   background: var(--superficie);
   border-bottom: 1px solid var(--cinza-borda);
@@ -42,11 +35,13 @@
   font-size: 0.95rem;
 }
 
+/* O chat fica sozinho e centralizado; as informações sobre os dados ficam no
+   rodapé, na mesma largura, para tudo ficar alinhado. */
+.principal,
+.rodape .conteudo-centralizado {
+  max-width: 820px;
+}
 .principal {
-  display: grid;
-  grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
-  align-items: start;
-  gap: 24px;
   padding-top: 24px;
   padding-bottom: 40px;
 }
@@ -143,7 +138,6 @@
 }
 
 @media (max-width: 820px) {
-  .principal { grid-template-columns: 1fr; }
   .cabecalho__titulo { font-size: 1.3rem; }
 }
 
@@ -166,4 +160,14 @@
   text-decoration: none;
 }
 .faixa-fontes a:hover { border-color: var(--azul); }
-.rodape__aviso { margin: 0; }
+.sobre-dados {
+  border-top: 1px solid var(--cinza-borda);
+  margin-top: 16px;
+  padding-top: 8px;
+}
+.sobre-dados h2 { font-size: 1.05rem; }
+.sobre-dados .lista-fonte { display: grid; grid-template-columns: max-content 1fr; gap: 4px 16px; }
+.sobre-dados .rotulo { margin: 6px 0 0; }
+@media (max-width: 820px) {
+  .sobre-dados .lista-fonte { grid-template-columns: 1fr; }
+}

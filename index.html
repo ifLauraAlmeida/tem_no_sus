@@ -22,12 +22,6 @@
 <body>
   <a class="pular-conteudo" href="#conversa">Ir para a consulta</a>
 
-  <div class="barra-aviso">
-    <div class="conteudo-centralizado">
-      Projeto independente que organiza dados públicos. Não é um canal oficial do Ministério da Saúde.
-    </div>
-  </div>
-
   <header class="cabecalho">
     <div class="conteudo-centralizado">
       <svg class="cabecalho__marca" viewBox="0 0 64 64" width="48" height="48" aria-hidden="true">
@@ -73,20 +67,6 @@
         </div>
       </form>
     </section>
-
-    <aside class="painel lateral" aria-labelledby="titulo-fonte">
-      <h2 id="titulo-fonte">Sobre os dados</h2>
-      <dl class="lista-fonte" id="dados-fonte">
-        <dt>Fonte</dt>
-        <dd>Carregando…</dd>
-      </dl>
-      <p class="aviso">
-        Estar em uma lista oficial <strong>não garante estoque</strong>. Confirme a disponibilidade diretamente com a farmácia ou unidade de saúde.
-      </p>
-      <p class="rotulo">
-        Ferramenta informativa: não substitui orientação de médico ou farmacêutico e não recomenda troca de medicamentos.
-      </p>
-    </aside>
   </main>
 
   <footer class="rodape">
@@ -99,11 +79,24 @@
         <li><a href="https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular" target="_blank" rel="noopener noreferrer">Programa Farmácia Popular do Brasil</a></li>
         <li><a href="https://www.gov.br/anvisa" target="_blank" rel="noopener noreferrer">ANVISA</a></li>
       </ul>
-      <p class="rodape__aviso">
-        Tem No SUS? é uma ferramenta informativa e independente, sem vínculo oficial com o Ministério da Saúde.
-        Não substitui orientação de médico ou farmacêutico e não garante estoque.
-        Veja as <a href="docs/fontes_oficiais.md">fontes oficiais utilizadas</a>.
-      </p>
+
+      <section class="sobre-dados" aria-labelledby="titulo-fonte">
+        <h2 id="titulo-fonte">Sobre os dados</h2>
+        <dl class="lista-fonte" id="dados-fonte">
+          <dt>Fonte</dt>
+          <dd>Carregando…</dd>
+        </dl>
+        <p class="aviso">
+          Estar em uma lista oficial <strong>não garante estoque</strong>. Confirme a disponibilidade diretamente com a farmácia ou unidade de saúde.
+        </p>
+        <p class="rotulo">
+          Ferramenta informativa: não substitui orientação de médico ou farmacêutico e não recomenda troca de medicamentos.
+        </p>
+        <p class="rotulo">
+          Projeto independente que organiza dados públicos. Não é um canal oficial do Ministério da Saúde.
+        </p>
+        <p class="rotulo">Veja as <a href="docs/fontes_oficiais.md">fontes oficiais utilizadas</a>.</p>
+      </section>
     </div>
   </footer>
   <script type="module" src="static/js/tema.js"></script>
