@@ -552,6 +552,19 @@ done
   --dir-receita data/raw/receita/cnpj/2026-09
 ```
 
+### Centro dos CEPs (CNEFE/IBGE)
+
+Gere antes da base de farmácias, que usa o centro do CEP para as farmácias sem coordenada no CNES:
+
+```bash
+for uf in 11_RO 12_AC 13_AM 14_RR 15_PA 16_AP 17_TO 21_MA 22_PI 23_CE 24_RN 25_PB 26_PE 27_AL 28_SE 29_BA \
+          31_MG 32_ES 33_RJ 35_SP 41_PR 42_SC 43_RS 50_MS 51_MT 52_GO 53_DF; do
+  curl -o data/raw/ibge/cnefe/completo/$uf.zip \
+    https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/UF/$uf.zip
+done
+.venv/bin/python -m pipeline.localidades.centro_cep --dir-cnefe data/raw/ibge/cnefe/completo
+```
+
 ### Nomes comerciais (ANVISA)
 
 ```bash
