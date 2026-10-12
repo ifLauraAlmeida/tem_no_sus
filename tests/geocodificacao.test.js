@@ -3,9 +3,8 @@ import assert from "node:assert/strict";
 import {
   GeocodificacaoIndisponivelError,
   PRECISAO,
-  completarPorCep,
   geocodificarEndereco,
-  limparCep,
+  identificarUfPorPosicao,
   montarUrlNominatim,
 } from "../static/js/geocodificacao.js";
 
@@ -20,11 +19,6 @@ function buscaFalsa(respostasPorTrecho) {
   };
   return { buscar, chamadas };
 }
-
-test("limpa CEP com máscara e rejeita tamanho errado", () => {
-  assert.equal(limparCep("77001-002"), "77001002");
-  assert.equal(limparCep("7700"), null);
-});
 
 test("url com rua usa nome completo do estado e número antes da rua", () => {
   const url = new URL(montarUrlNominatim(ENDERECO, PRECISAO.ENDERECO));
@@ -64,18 +58,12 @@ test("falha HTTP vira erro de serviço indisponível", async () => {
   await assert.rejects(geocodificarEndereco(ENDERECO, buscar), GeocodificacaoIndisponivelError);
 });
 
-test("CEP completa só os campos vazios", async () => {
-  const { buscar } = buscaFalsa({
-    viacep: { logradouro: "Praça Girassóis", bairro: "Plano Diretor Norte", localidade: "Palmas", uf: "TO" },
-  });
-  const completo = await completarPorCep({ uf: "TO", municipio: "", bairro: "Centro", rua: "", cep: "77001-002" }, buscar);
-  assert.equal(completo.rua, "Praça Girassóis");
-  assert.equal(completo.bairro, "Centro");
-  assert.equal(completo.municipio, "Palmas");
+test("identifica a UF pelo código ISO da geocodificação reversa", async () => {
+  const { buscar } = buscaFalsa({ reverse: { address: { "ISO3166-2-lvl4": "BR-TO" } } });
+  assert.equal(await identificarUfPorPosicao({ latitude: -10.18, longitude: -48.33 }, buscar), "TO");
 });
 
-test("CEP inexistente mantém o endereço digitado", async () => {
-  const { buscar } = buscaFalsa({ viacep: { erro: true } });
-  const original = { ...ENDERECO, cep: "00000000" };
-  assert.deepEqual(await completarPorCep(original, buscar), original);
+test("posição fora do Brasil não tem UF", async () => {
+  const { buscar } = buscaFalsa({ reverse: { address: { "ISO3166-2-lvl4": "PY-ASU" } } });
+  assert.equal(await identificarUfPorPosicao({ latitude: -25.3, longitude: -57.6 }, buscar), null);
 });

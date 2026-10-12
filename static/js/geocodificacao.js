@@ -1,9 +1,8 @@
-// Converte o endereço digitado em coordenadas usando serviços públicos
-// gratuitos: ViaCEP (completa o endereço pelo CEP) e Nominatim/OpenStreetMap.
-// O endereço não é armazenado por este projeto.
+// Converte endereço em coordenadas (e coordenadas em UF) usando o serviço
+// público Nominatim/OpenStreetMap. O endereço não é armazenado por este projeto.
 
 const URL_NOMINATIM = "https://nominatim.openstreetmap.org/search";
-const URL_VIACEP = "https://viacep.com.br/ws";
+const URL_NOMINATIM_REVERSO = "https://nominatim.openstreetmap.org/reverse";
 
 export const PRECISAO = Object.freeze({ ENDERECO: "endereco", MUNICIPIO: "municipio" });
 
@@ -27,26 +26,6 @@ async function buscarJson(url, buscar) {
   }
   if (!resposta.ok) throw new GeocodificacaoIndisponivelError(`${url} respondeu HTTP ${resposta.status}`);
   return resposta.json();
-}
-
-export function limparCep(cep) {
-  const digitos = (cep ?? "").replace(/\D/g, "");
-  return digitos.length === 8 ? digitos : null;
-}
-
-// Campos digitados pelo usuário prevalecem; o CEP só preenche os vazios.
-export async function completarPorCep(endereco, buscar = fetch) {
-  const cep = limparCep(endereco.cep);
-  if (!cep) return endereco;
-  const dadosCep = await buscarJson(`${URL_VIACEP}/${cep}/json/`, buscar);
-  if (dadosCep.erro) return endereco;
-  return {
-    ...endereco,
-    rua: endereco.rua || dadosCep.logradouro,
-    bairro: endereco.bairro || dadosCep.bairro,
-    municipio: endereco.municipio || dadosCep.localidade,
-    uf: endereco.uf || dadosCep.uf,
-  };
 }
 
 export function montarUrlNominatim(endereco, precisao) {
@@ -77,4 +56,13 @@ export async function geocodificarEndereco(endereco, buscar = fetch) {
     if (porEndereco) return porEndereco;
   }
   return consultarNominatim(endereco, PRECISAO.MUNICIPIO, buscar);
+}
+
+// O Nominatim devolve o código ISO da subdivisão ("BR-TO"), que dá a UF.
+export async function identificarUfPorPosicao({ latitude, longitude }, buscar = fetch) {
+  const parametros = new URLSearchParams({ format: "jsonv2", lat: String(latitude), lon: String(longitude), zoom: "5" });
+  const lugar = await buscarJson(`${URL_NOMINATIM_REVERSO}?${parametros}`, buscar);
+  const codigo = lugar?.address?.["ISO3166-2-lvl4"] ?? "";
+  const uf = codigo.startsWith("BR-") ? codigo.slice(3) : null;
+  return uf && uf in NOME_POR_UF ? uf : null;
 }
