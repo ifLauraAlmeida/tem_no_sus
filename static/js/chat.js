@@ -85,6 +85,14 @@ function habilitarFormulario(bases) {
     elementos.entrada.focus();
   });
 
+  // Enter consulta; Shift+Enter quebra a linha para digitar outro medicamento.
+  // isComposing evita enviar no meio de uma composição do teclado (acentos em IME).
+  elementos.entrada.addEventListener("keydown", (evento) => {
+    if (evento.key !== "Enter" || evento.shiftKey || evento.isComposing) return;
+    evento.preventDefault();
+    elementos.formulario.requestSubmit();
+  });
+
   elementos.formulario.addEventListener("submit", (evento) => {
     evento.preventDefault();
     const textoReceita = elementos.entrada.value;
@@ -120,7 +128,7 @@ async function iniciar() {
     carregando.remove();
     renderizarFontes(bases);
     adicionarMensagem("sistema", [
-      "Olá! Digite os medicamentos da sua receita, um por linha, pelo nome genérico ou comercial. A concentração ajuda (ex.: Losartana 50 mg), mas não é obrigatória.",
+      "Olá! Digite os medicamentos da sua receita pelo nome genérico ou comercial e aperte Enter. Para vários, separe com ponto e vírgula. A concentração ajuda (ex.: Losartana 50 mg), mas não é obrigatória.",
       "Consulto o elenco do Farmácia Popular e o Componente Básico da RENAME 2024. Depois, peço seu endereço para indicar locais próximos.",
     ]);
     habilitarFormulario(bases);
