@@ -539,11 +539,17 @@ Gera `data/reference/rename_2024_componente_basico.json`.
 
 ### Farmácias credenciadas ao Farmácia Popular
 
-Requer Google Chrome ou Chromium instalado (o painel oficial só responde a navegadores) e a base completa do CNES:
+Requer Google Chrome ou Chromium instalado (o painel oficial só responde a navegadores), a base completa do CNES (coordenadas) e os dados abertos de CNPJ da Receita (nome fantasia e endereço, ~5 GB):
 
 ```bash
 curl -o data/raw/cnes/base_completa/BASE_DE_DADOS_CNES_202608.ZIP ftp://ftp.datasus.gov.br/cnes/BASE_DE_DADOS_CNES_202608.ZIP
-.venv/bin/python -m pipeline.farmacia_popular.executar --base-cnes data/raw/cnes/base_completa/BASE_DE_DADOS_CNES_202608.ZIP
+for i in 0 1 2 3 4 5 6 7 8 9; do
+  curl -o data/raw/receita/cnpj/2026-09/Estabelecimentos$i.zip \
+    https://arquivos.receitafederal.gov.br/public.php/dav/files/YggdBLfdninEJX9/2026-09/Estabelecimentos$i.zip
+done
+.venv/bin/python -m pipeline.farmacia_popular.executar \
+  --base-cnes data/raw/cnes/base_completa/BASE_DE_DADOS_CNES_202608.ZIP \
+  --dir-receita data/raw/receita/cnpj/2026-09
 ```
 
 ### Nomes comerciais (ANVISA)
