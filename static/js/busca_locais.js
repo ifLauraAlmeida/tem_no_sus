@@ -1,4 +1,5 @@
 import { renderizarEstabelecimento } from "./cartao_estabelecimento.js";
+import { buscarCentroCep } from "./centro_cep.js";
 import { mensagemOQueLevar } from "./orientacoes_retirada.js";
 import { ROLAGEM } from "./rolagem.js";
 import { criarElemento, criarLink } from "./elementos_dom.js";
@@ -66,14 +67,22 @@ function mensagemResultadoLocais(selecionados, observacoes, uf) {
   ];
 }
 
+function observacaoCentroCep(cep) {
+  return `Sua localização foi estimada pelo centro do CEP ${formatarCep(cep)} (IBGE, Censo 2022); as distâncias são aproximadas.`;
+}
+
+// Prioriza o centro do CEP (arquivo local, sem enviar o CEP a terceiros);
+// o mapa do OpenStreetMap só é usado para CEP que não consta no CNEFE.
 async function localizarEndereco(endereco) {
+  const centro = await buscarCentroCep(endereco.cep);
+  if (centro) return { posicao: centro, observacao: observacaoCentroCep(endereco.cep) };
   try {
     const posicao = await geocodificarEndereco(endereco);
-    if (!posicao) return { posicao: null, observacao: "Não localizei o endereço no mapa; usei o município e o bairro do CEP." };
+    if (!posicao) return { posicao: null, observacao: "Não localizei o CEP no mapa; usei o município e o bairro do CEP." };
     const observacao =
       posicao.precisao === PRECISAO.MUNICIPIO
         ? "Não localizei a rua do CEP no mapa; as distâncias são aproximadas, a partir do centro do município."
-        : null;
+        : "Localização estimada pela rua do CEP no OpenStreetMap; as distâncias são aproximadas.";
     return { posicao, observacao };
   } catch (erro) {
     if (!(erro instanceof GeocodificacaoIndisponivelError)) throw erro;

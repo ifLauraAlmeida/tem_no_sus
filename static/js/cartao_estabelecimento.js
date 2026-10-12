@@ -25,7 +25,8 @@ export function descreverEndereco(estabelecimento) {
 export function descreverProximidade(estabelecimento) {
   if (estabelecimento.referencia === REFERENCIA_PROXIMIDADE.KM) {
     const distancia = estabelecimento.distanciaKm.toLocaleString("pt-BR", { maximumFractionDigits: 1 });
-    return `Cerca de ${distancia} km em linha reta.`;
+    const estimado = estabelecimento.precisao_localizacao === "centro_cep" ? " (local estimado pelo centro do CEP da farmácia)" : "";
+    return `Cerca de ${distancia} km em linha reta${estimado}.`;
   }
   const local = estabelecimento.referencia === REFERENCIA_PROXIMIDADE.BAIRRO ? "no seu bairro" : "no seu município";
   return `Fica ${local}; a fonte não informa a localização exata para calcular a distância.`;

@@ -39,3 +39,10 @@ test("rota omite número ausente", () => {
   const url = new URL(montarUrlRota({ nome: "UBS", endereco: { logradouro: "RUA B", numero: null, bairro: "" }, municipio: "Palmas" }, "TO"));
   assert.equal(url.searchParams.get("destination"), "UBS, RUA B, Palmas - TO");
 });
+
+test("indica quando o local da farmácia foi estimado pelo centro do CEP", () => {
+  assert.equal(
+    descreverProximidade({ referencia: "km", distanciaKm: 1.26, precisao_localizacao: "centro_cep" }),
+    "Cerca de 1,3 km em linha reta (local estimado pelo centro do CEP da farmácia).",
+  );
+});

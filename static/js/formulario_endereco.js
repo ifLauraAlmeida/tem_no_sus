@@ -151,8 +151,9 @@ function criarAvisoPrivacidade() {
   return criarElemento(
     "p",
     "resultado__observacao",
-    "O CEP e o endereço são enviados ao ViaCEP e ao OpenStreetMap (Nominatim) só para obter coordenadas, e não " +
-      "são armazenados por este projeto. A localização do navegador é usada apenas neste aparelho.",
+    "O CEP é enviado ao ViaCEP para obter o endereço. Sua localização é estimada neste aparelho pelo centro do " +
+      "CEP, com dados do IBGE; só se o CEP não constar nesses dados o endereço é enviado ao OpenStreetMap. " +
+      "Nada é armazenado por este projeto.",
   );
 }
 
