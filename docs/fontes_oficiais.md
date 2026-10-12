@@ -110,3 +110,13 @@ Base completa do CNES (`ftp://ftp.datasus.gov.br/cnes/BASE_DE_DADOS_CNES_{aaaamm
 - Receita de controle especial: Portaria SVS/MS 344/1998 (2 vias em papel, validade de 30 dias), atualizada pela RDC Anvisa 1.000/2025, em vigor desde 15/02/2026, que dispensa as 2 vias na receita eletrônica.
 - Antimicrobianos: RDC Anvisa 471/2021 (2 vias, validade de 10 dias).
 - Rede pública: documentos variam por município; a ferramenta lista os mais pedidos e orienta confirmar com a unidade.
+
+---
+
+## 9. Centro do CEP (CNEFE — IBGE, Censo 2022)
+
+- Fonte: Cadastro Nacional de Endereços para Fins Estatísticos, <https://ftp.ibge.gov.br/Cadastro_Nacional_de_Enderecos_para_Fins_Estatisticos/Censo_Demografico_2022/Arquivos_CNEFE/CSV/UF/> (27 arquivos, ~3,7 GB, ~110 milhões de endereços com CEP e coordenadas).
+- O centro de cada CEP é a média das coordenadas dos seus endereços, usando só os níveis de coordenada 1 a 4 (`NV_GEO_COORD`: original do Censo, ajustada, estimada e face de quadra). Localidade (5) e setor censitário (6) ficam de fora por serem imprecisos.
+- Saída: `data/processed/cep/{3 primeiros dígitos}.json`, com `[latitude, longitude, endereços]` por CEP. O navegador baixa só o arquivo do CEP consultado, então o CEP não é enviado a terceiros para calcular a posição.
+- Usos: (1) posição estimada da pessoa a partir do CEP informado; (2) posição das farmácias credenciadas sem coordenada no CNES, a partir do CEP delas na Receita Federal.
+- Limitação: CEPs criados depois do Censo 2022 não constam; para eles a ferramenta tenta o OpenStreetMap (Nominatim) pela rua do CEP. CEPs que cobrem uma área grande, como o CEP geral de municípios pequenos, têm o centro menos representativo.

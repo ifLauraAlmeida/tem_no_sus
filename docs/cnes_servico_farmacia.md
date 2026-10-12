@@ -64,7 +64,7 @@ O `125/002` do CNES não é mais usado: a lista oficial do programa prevalece e 
 
 - **Público restrito**: unidades como as de atenção primária no sistema prisional aparecem com o mesmo tipo de unidade (`TP_UNID = 02`) e a mesma clientela das UBS comuns, sem campo que as diferencie no `SR`, no `ST` ou na API. Não filtramos por nome, para não criar regra frágil; o cartão da rede pública avisa que algumas unidades atendem só públicos específicos.
 - **Territorialização**: na atenção primária, a retirada costuma depender da unidade de referência do endereço do usuário. O CNES não informa o território de cada unidade.
-- **Farmácias sem coordenada**: só 39% das farmácias credenciadas têm coordenadas no CNES. As demais entram na ordenação quando ficam no bairro (distância presumida de 1,5 km) ou no município (6 km) do CEP do usuário, e o cartão informa que a distância exata não é conhecida.
+- **Localização das farmácias**: 8.196 (39%) têm coordenadas no CNES; 11.705 (56%) são estimadas pelo centro do CEP (CNEFE/IBGE) e o cartão avisa a estimativa; 881 (4%) têm CEP fora do CNEFE e entram na ordenação só quando ficam no bairro (distância presumida de 1,5 km) ou no município (6 km) do CEP do usuário.
 
 ---
 
