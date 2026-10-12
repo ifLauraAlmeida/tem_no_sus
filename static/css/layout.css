@@ -45,10 +45,6 @@
 .principal {
   display: grid;
   grid-template-columns: minmax(0, 2fr) minmax(0, 1fr);
-  grid-template-rows: auto 1fr;
-  grid-template-areas:
-    "conversa tema"
-    "conversa lateral";
   align-items: start;
   gap: 24px;
   padding-top: 24px;
@@ -94,9 +90,6 @@
   padding: 20px 0;
 }
 
-.conversa { grid-area: conversa; }
-.lateral { grid-area: lateral; }
-.barra-tema { grid-area: tema; display: flex; justify-content: flex-end; }
 
 .logo__traco { stroke: var(--logo-traco); }
 .logo__metade-a { fill: var(--logo-metade-a); }
@@ -106,6 +99,8 @@
 /* Botão sol/lua: trilho arredondado com os dois ícones e um marcador que desliza. */
 .seletor-tema {
   position: relative;
+  margin-left: auto;
+  flex-shrink: 0;
   display: inline-flex;
   align-items: center;
   justify-content: space-between;
@@ -148,14 +143,7 @@
 }
 
 @media (max-width: 820px) {
-  .principal {
-    grid-template-columns: 1fr;
-    grid-template-rows: auto;
-    grid-template-areas:
-      "tema"
-      "conversa"
-      "lateral";
-  }
+  .principal { grid-template-columns: 1fr; }
   .cabecalho__titulo { font-size: 1.3rem; }
 }
 
