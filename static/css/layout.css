@@ -100,3 +100,24 @@
   .principal { grid-template-columns: 1fr; }
   .cabecalho__titulo { font-size: 1.3rem; }
 }
+
+.rodape__titulo { margin: 0 0 6px; font-size: 0.85rem; }
+.faixa-fontes {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  list-style: none;
+  margin: 0 0 12px;
+  padding: 0;
+}
+.faixa-fontes a {
+  display: inline-block;
+  padding: 6px 12px;
+  border: 1px solid var(--cinza-borda);
+  border-radius: var(--raio);
+  background: var(--azul-fundo);
+  color: var(--azul-escuro);
+  text-decoration: none;
+}
+.faixa-fontes a:hover { border-color: var(--azul); }
+.rodape__aviso { margin: 0; }
