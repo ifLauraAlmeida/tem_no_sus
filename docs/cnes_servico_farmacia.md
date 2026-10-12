@@ -62,6 +62,14 @@ A cobertura do `125/002` é parcial: a maioria das drogarias credenciadas ao pro
 
 ---
 
+## Limitações conhecidas
+
+- **Público restrito**: unidades como as de atenção primária no sistema prisional aparecem com o mesmo tipo de unidade (`TP_UNID = 02`) e a mesma clientela das UBS comuns, sem campo que as diferencie no `SR`, no `ST` ou na API. Não filtramos por nome, para não criar regra frágil; o cartão da rede pública avisa que algumas unidades atendem só públicos específicos.
+- **Territorialização**: na atenção primária, a retirada costuma depender da unidade de referência do endereço do usuário. O CNES não informa o território de cada unidade.
+- **Diversidade x distância**: a regra de 2 locais de cada tipo só vale para locais a até 10 km, ou até o dobro da distância do mais próximo. Fora disso, prevalece a proximidade.
+
+---
+
 ## Saída do pipeline
 
 `data/processed/estabelecimentos/{UF}.json`, um registro por estabelecimento, com as frentes declaradas, a competência do CNES e as datas de obtenção. Os arquivos originais ficam em `data/raw/` (fora do git), com hash SHA-256 registrado.
