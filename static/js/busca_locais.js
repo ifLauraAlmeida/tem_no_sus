@@ -133,6 +133,8 @@ async function buscarPorCep(cep, contexto) {
     adicionarMensagem("sistema", `Ainda não há base de locais para ${endereco.uf}.`);
     return;
   }
+  // O aviso de carregamento sai antes da resposta entrar; removê-lo depois
+  // deslocaria a resposta para cima e tiraria o início dela da vista.
   const carregando = adicionarMensagem("sistema mensagem--carregando", "Localizando o endereço…");
   try {
     const [locais, { posicao, observacao }] = await Promise.all([
@@ -141,12 +143,12 @@ async function buscarPorCep(cep, contexto) {
     ]);
     const filtros = { posicaoUsuario: posicao, codigoMunicipio: endereco.codigoMunicipio, bairro: endereco.bairro, gruposPermitidos };
     const selecionados = selecionarLocais(locais, filtros);
+    carregando.remove();
     exibirLocais(selecionados, observacao ? [observacao] : [], endereco.uf, adicionarMensagem);
   } catch (erro) {
     console.error(erro);
-    adicionarMensagem("sistema mensagem--erro", "Não foi possível buscar os locais agora. Tente novamente.");
-  } finally {
     carregando.remove();
+    adicionarMensagem("sistema mensagem--erro", "Não foi possível buscar os locais agora. Tente novamente.");
   }
 }
 
