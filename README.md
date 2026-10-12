@@ -528,6 +528,15 @@ python3.12 -m venv .venv
 
 Gera `data/processed/estabelecimentos/{UF}.json` e atualiza o `indice.json` lido pela página. Arquivos brutos ficam em `data/raw/` (fora do git).
 
+### Extração da RENAME (Componente Básico)
+
+```bash
+curl -L -o rename2024.pdf https://bvsms.saude.gov.br/bvs/publicacoes/relacao_nacional_medicamentos_2024_2ed.pdf
+.venv/bin/python -m pipeline.rename.componente_basico --pdf rename2024.pdf
+```
+
+Gera `data/reference/rename_2024_componente_basico.json`.
+
 As fontes oficiais e a frequência de atualização de cada uma estão em [`docs/fontes_oficiais.md`](docs/fontes_oficiais.md). As regras de uso do CNES estão em [`docs/cnes_servico_farmacia.md`](docs/cnes_servico_farmacia.md).
 
 ---
@@ -536,9 +545,10 @@ As fontes oficiais e a frequência de atualização de cada uma estão em [`docs
 
 ```text
 Em desenvolvimento.
-Consulta ao elenco do Farmácia Popular (atualizado em 31/08/2026) implementada.
-Busca de locais pelo CNES (serviço 125) implementada; base gerada para TO, competência 2026-08.
-RENAME, SIGTAP, listas municipais, geocodificação de endereço e PDF ainda não incorporados.
+Consulta implementada no elenco do Farmácia Popular (31/08/2026) e no Componente Básico da RENAME 2024.
+Nomes não encontrados recebem aviso de possível falta de cobertura ou erro de digitação, com sugestão de grafia.
+Após a consulta, o chat pede o endereço, converte em coordenadas (ViaCEP + Nominatim) e indica até 4 locais do CNES.
+Pendentes: componentes estratégico e especializado, listas municipais (REMUME) e PDF.
 ```
 
 ---
