@@ -1,21 +1,94 @@
 /* Tokens visuais inspirados no padrão digital de governo: azuis e cinzas,
    tipografia discreta e sem preto puro. */
 :root {
+  color-scheme: light;
   --azul-escuro: #0c326f;
   --azul: #1351b4;
   --azul-claro: #dbe8fb;
   --azul-fundo: #f0f5fc;
+  --cor-titulo: #0c326f;
+  --cor-link: #1351b4;
+  --cor-link-hover: #0c326f;
   --cinza-texto: #3d4551;
   --cinza-texto-suave: #5c6670;
   --cinza-borda: #ccd1d6;
   --cinza-fundo: #f5f6f7;
-  --branco: #ffffff;
+  --superficie: #ffffff;
+  --texto-sobre-azul: #ffffff;
+  --borda-campo: #888f96;
+  --erro-texto: #9a5b13;
+  --faixa-topo-fundo: #0c326f;
+  --faixa-topo-texto: #e6ecf5;
+  --sombra: rgba(19, 81, 180, 0.08);
+  --foco: #c2850c;
   --alerta-fundo: #fff5e2;
   --alerta-borda: #c4893a;
+  --logo-traco: #0c326f;
+  --logo-metade-a: #1351b4;
+  --logo-metade-b: #dbe8fb;
+  --logo-contorno: #1351b4;
 
   --fonte: "Segoe UI", "Helvetica Neue", Roboto, Arial, sans-serif;
   --raio: 6px;
   --largura-maxima: 1120px;
+}
+
+/* Tema escuro: segue o sistema, salvo escolha explícita no botão sol/lua. */
+@media (prefers-color-scheme: dark) {
+  :root:not([data-tema="claro"]) {
+    color-scheme: dark;
+    --azul-escuro: #2459b0;
+    --azul: #2f6fd6;
+    --azul-claro: #34496a;
+    --azul-fundo: #1e2c42;
+    --cor-titulo: #b4cff7;
+    --cor-link: #8fb8f7;
+    --cor-link-hover: #c1d8fa;
+    --cinza-texto: #d3d9df;
+    --cinza-texto-suave: #a3adb8;
+    --cinza-borda: #3a4757;
+    --cinza-fundo: #141b24;
+    --superficie: #1d2631;
+    --borda-campo: #6b7682;
+    --erro-texto: #e3b46e;
+    --faixa-topo-fundo: #0b1830;
+    --faixa-topo-texto: #d6e0ee;
+    --sombra: rgba(0, 0, 0, 0.3);
+    --foco: #e0a33a;
+    --alerta-fundo: #3a2f1d;
+    --logo-traco: #b4cff7;
+    --logo-metade-a: #6ea2f2;
+    --logo-metade-b: #2b3d57;
+    --logo-contorno: #6ea2f2;
+  }
+}
+
+/* Mesmos valores do bloco acima, para quem escolhe o escuro no botão. */
+:root[data-tema="escuro"] {
+  color-scheme: dark;
+  --azul-escuro: #2459b0;
+  --azul: #2f6fd6;
+  --azul-claro: #34496a;
+  --azul-fundo: #1e2c42;
+  --cor-titulo: #b4cff7;
+  --cor-link: #8fb8f7;
+  --cor-link-hover: #c1d8fa;
+  --cinza-texto: #d3d9df;
+  --cinza-texto-suave: #a3adb8;
+  --cinza-borda: #3a4757;
+  --cinza-fundo: #141b24;
+  --superficie: #1d2631;
+  --borda-campo: #6b7682;
+  --erro-texto: #e3b46e;
+  --faixa-topo-fundo: #0b1830;
+  --faixa-topo-texto: #d6e0ee;
+  --sombra: rgba(0, 0, 0, 0.3);
+  --foco: #e0a33a;
+  --alerta-fundo: #3a2f1d;
+  --logo-traco: #b4cff7;
+  --logo-metade-a: #6ea2f2;
+  --logo-metade-b: #2b3d57;
+  --logo-contorno: #6ea2f2;
 }
 
 * { box-sizing: border-box; }
@@ -32,16 +105,16 @@ body {
 }
 
 h1, h2, h3 {
-  color: var(--azul-escuro);
+  color: var(--cor-titulo);
   font-weight: 500;
   line-height: 1.25;
 }
 
-a { color: var(--azul); }
-a:hover { color: var(--azul-escuro); }
+a { color: var(--cor-link); }
+a:hover { color: var(--cor-link-hover); }
 
 :focus-visible {
-  outline: 3px solid #c2850c;
+  outline: 3px solid var(--foco);
   outline-offset: 2px;
 }
 

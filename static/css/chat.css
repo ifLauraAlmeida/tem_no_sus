@@ -25,14 +25,14 @@
 .mensagem--usuario {
   align-self: flex-end;
   background: var(--azul);
-  color: var(--branco);
+  color: var(--texto-sobre-azul);
   white-space: pre-line;
 }
 .mensagem--carregando { color: var(--cinza-texto-suave); font-style: italic; }
 .mensagem--erro { background: var(--alerta-fundo); border-color: var(--alerta-borda); }
 
 .resultado {
-  background: var(--branco);
+  background: var(--superficie);
   border: 1px solid var(--cinza-borda);
   border-left: 4px solid var(--cinza-borda);
   border-radius: var(--raio);
@@ -42,7 +42,7 @@
 .resultado--coberto { border-left-color: var(--azul); }
 .resultado--concentracao_diferente { border-left-color: var(--alerta-borda); }
 
-.resultado__entrada { font-weight: 500; color: var(--azul-escuro); }
+.resultado__entrada { font-weight: 500; color: var(--cor-titulo); }
 .resultado__situacao {
   display: inline-block;
   font-size: 0.8rem;
@@ -65,11 +65,12 @@
   font: inherit;
   color: inherit;
   padding: 10px 12px;
-  border: 1px solid #888f96;
+  border: 1px solid var(--borda-campo);
   border-radius: var(--raio);
+  background: var(--superficie);
   resize: vertical;
 }
-.conversa__erro { color: #9a5b13; margin: 6px 0 0; font-size: 0.9rem; }
+.conversa__erro { color: var(--erro-texto); margin: 6px 0 0; font-size: 0.9rem; }
 
 .conversa__acoes {
   display: flex;
@@ -88,9 +89,9 @@
   border: 1px solid var(--azul);
 }
 .botao:disabled { opacity: 0.5; cursor: not-allowed; }
-.botao--primario { background: var(--azul); color: var(--branco); }
+.botao--primario { background: var(--azul); color: var(--texto-sobre-azul); }
 .botao--primario:hover:not(:disabled) { background: var(--azul-escuro); }
-.botao--secundario { background: var(--branco); color: var(--azul); }
+.botao--secundario { background: var(--superficie); color: var(--cor-link); }
 .botao--secundario:hover:not(:disabled) { background: var(--azul-fundo); }
 
 .formulario-locais { margin-top: 8px; }
@@ -102,22 +103,22 @@
   font: inherit;
   color: inherit;
   padding: 8px 10px;
-  border: 1px solid #888f96;
+  border: 1px solid var(--borda-campo);
   border-radius: var(--raio);
-  background: var(--branco);
+  background: var(--superficie);
 }
 .formulario-locais .conversa__acoes { justify-content: flex-start; }
 
 .estabelecimento {
-  background: var(--branco);
+  background: var(--superficie);
   border: 1px solid var(--cinza-borda);
   border-left: 4px solid var(--azul);
   border-radius: var(--raio);
   padding: 10px 12px;
   margin-top: 8px;
 }
-.estabelecimento--farmacia_popular { border-left-color: var(--azul-escuro); border-left-style: double; border-left-width: 6px; }
-.estabelecimento__nome { font-weight: 500; color: var(--azul-escuro); margin-bottom: 2px; }
+.estabelecimento--farmacia_popular { border-left-color: var(--cor-titulo); border-left-style: double; border-left-width: 6px; }
+.estabelecimento__nome { font-weight: 500; color: var(--cor-titulo); margin-bottom: 2px; }
 .estabelecimento__tipo {
   display: inline-block;
   font-size: 0.8rem;
@@ -137,26 +138,26 @@
   font-size: 0.92rem;
 }
 .botao--sugestao {
-  background: var(--branco);
-  color: var(--azul);
+  background: var(--superficie);
+  color: var(--cor-link);
   padding: 3px 14px;
   font-size: 0.9rem;
 }
 .botao--sugestao:hover { background: var(--azul-fundo); }
 
 .resultado__programa { border-top: 1px solid var(--cinza-borda); padding-top: 8px; margin-top: 8px; }
-.resultado__programa-titulo { font-weight: 500; color: var(--azul-escuro); margin-bottom: 2px; }
+.resultado__programa-titulo { font-weight: 500; color: var(--cor-titulo); margin-bottom: 2px; }
 
 .botao--link {
   background: none;
   border: none;
-  color: var(--azul);
+  color: var(--cor-link);
   text-decoration: underline;
   padding: 0;
   font-weight: 400;
   margin-bottom: 6px;
 }
-.botao--link:hover { color: var(--azul-escuro); }
+.botao--link:hover { color: var(--cor-link-hover); }
 .formulario-locais--sem-cep {
   border-top: 1px solid var(--cinza-borda);
   padding-top: 10px;
