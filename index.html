@@ -57,12 +57,11 @@
       <div class="conversa__mensagens" id="mensagens" role="log" aria-live="polite"></div>
 
       <form class="conversa__formulario" id="formulario-consulta" novalidate>
-        <label for="entrada-medicamentos">Medicamentos da receita <span class="rotulo">(Enter consulta · para vários, separe com ; ou use Shift+Enter)</span></label>
+        <label for="entrada-medicamentos">Medicamentos da receita <span class="rotulo">(Enter consulta · para vários, separe com ; · clique duas vezes ou toque no Shift para usar o exemplo)</span></label>
         <textarea id="entrada-medicamentos" name="medicamentos" rows="3"
-          placeholder="Losartana 50 mg&#10;Metformina 850 mg" disabled></textarea>
+          placeholder="Losartana 50 mg; Metformina 850 mg" disabled></textarea>
         <p class="conversa__erro" id="erro-formulario" role="alert" hidden></p>
         <div class="conversa__acoes">
-          <button type="button" class="botao botao--secundario" id="botao-exemplo" disabled>Usar exemplo</button>
           <button type="submit" class="botao botao--primario" id="botao-consultar" disabled>Consultar</button>
         </div>
       </form>

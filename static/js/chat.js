@@ -1,5 +1,6 @@
 import { separarEntradas } from "./busca_medicamentos.js";
 import { oferecerBuscaDeLocais } from "./busca_locais.js";
+import { INTERVALO_TROCA_EXEMPLO_MS, sortearExemplo } from "./exemplos_receita.js";
 import { COBERTURA, consultarCobertura, unirGruposDeRetirada } from "./consulta_cobertura.js";
 import { criarElemento, criarLink, formatarData } from "./elementos_dom.js";
 import { paragrafoRequisitosRetirada, renderizarConsulta } from "./resultado_consulta.js";
@@ -10,7 +11,6 @@ const CAMINHOS_BASES = {
   componenteBasico: "data/reference/rename_2024_componente_basico.json",
   nomesComerciais: "data/reference/nomes_comerciais.json",
 };
-const EXEMPLO_RECEITA = "Losartana 50 mg\nAerolin\nDipirona 500 mg\nLosartan 50";
 
 const elementos = {
   mensagens: document.getElementById("mensagens"),
@@ -18,7 +18,6 @@ const elementos = {
   entrada: document.getElementById("entrada-medicamentos"),
   erroFormulario: document.getElementById("erro-formulario"),
   botaoConsultar: document.getElementById("botao-consultar"),
-  botaoExemplo: document.getElementById("botao-exemplo"),
   dadosFonte: document.getElementById("dados-fonte"),
 };
 
@@ -87,15 +86,42 @@ function mostrarErroFormulario(texto) {
   elementos.erroFormulario.hidden = !texto;
 }
 
+// O exemplo aparece como placeholder e troca a cada 4 s. Duplo clique ou um
+// toque isolado no Shift copiam o exemplo para o campo, só se ele estiver
+// vazio, para não apagar o que a pessoa já digitou.
+function usarExemploVisivel() {
+  if (elementos.entrada.value.trim() !== "") return;
+  elementos.entrada.value = elementos.entrada.placeholder;
+  elementos.entrada.setSelectionRange(elementos.entrada.value.length, elementos.entrada.value.length);
+}
+
+function trocarExemplo() {
+  if (elementos.entrada.value.trim() !== "") return;
+  elementos.entrada.placeholder = sortearExemplo(elementos.entrada.placeholder);
+}
+
+function iniciarExemplos() {
+  elementos.entrada.placeholder = sortearExemplo();
+  setInterval(trocarExemplo, INTERVALO_TROCA_EXEMPLO_MS);
+  elementos.entrada.addEventListener("dblclick", usarExemploVisivel);
+
+  // Só um Shift apertado e solto sozinho vale: Shift+letra (maiúscula) e
+  // Shift+Enter (nova linha) não podem acionar o exemplo.
+  let shiftSozinho = false;
+  elementos.entrada.addEventListener("keydown", (evento) => {
+    shiftSozinho = evento.key === "Shift" && !evento.repeat;
+  });
+  elementos.entrada.addEventListener("keyup", (evento) => {
+    if (evento.key === "Shift" && shiftSozinho) usarExemploVisivel();
+    shiftSozinho = false;
+  });
+}
+
 function habilitarFormulario(bases) {
-  [elementos.entrada, elementos.botaoConsultar, elementos.botaoExemplo].forEach((campo) => {
+  [elementos.entrada, elementos.botaoConsultar].forEach((campo) => {
     campo.disabled = false;
   });
-
-  elementos.botaoExemplo.addEventListener("click", () => {
-    elementos.entrada.value = EXEMPLO_RECEITA;
-    elementos.entrada.focus();
-  });
+  iniciarExemplos();
 
   // Enter consulta; Shift+Enter quebra a linha para digitar outro medicamento.
   // isComposing evita enviar no meio de uma composição do teclado (acentos em IME).
@@ -140,8 +166,10 @@ async function iniciar() {
     carregando.remove();
     renderizarFontes(bases);
     adicionarMensagem("sistema", [
-      "Olá! Digite os medicamentos da sua receita pelo nome genérico ou comercial e aperte Enter. Para vários, separe com ponto e vírgula. A concentração ajuda (ex.: Losartana 50 mg), mas não é obrigatória.",
-      "Consulto o elenco do Farmácia Popular e o Componente Básico da RENAME 2024. Depois, peço seu endereço para indicar locais próximos.",
+      "Olá! Digite os medicamentos receitados pelo nome genérico ou comercial. Para vários, separe com ponto e vírgula.", 
+      "A concentração ajuda, mas não é obrigatória.",
+      "(ex.: 'Losartana 50 mg' ou somente 'Losartana')",
+      "Consulto o elenco do Farmácia Popular e o Componente Básico da RENAME 2024.",
     ]);
     habilitarFormulario(bases);
   } catch (erro) {
