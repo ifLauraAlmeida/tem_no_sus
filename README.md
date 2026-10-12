@@ -547,7 +547,7 @@ As fontes oficiais e a frequência de atualização de cada uma estão em [`docs
 Em desenvolvimento.
 Consulta implementada no elenco do Farmácia Popular (31/08/2026) e no Componente Básico da RENAME 2024.
 Nomes não encontrados recebem aviso de possível falta de cobertura ou erro de digitação, com sugestão de grafia.
-Após a consulta, o chat pede o endereço, converte em coordenadas (ViaCEP + Nominatim) e indica até 4 locais do CNES.
+Após a consulta, o chat pede o CEP (ou, em "Não sei meu CEP", estado, município, rua e número para descobri-lo), converte em coordenadas (ViaCEP + Nominatim) e indica até 4 locais do CNES.
 Base de locais gerada para as 27 UFs (CNES, competência 2026-08, 7.242 estabelecimentos).
 Pendentes: componentes estratégico e especializado, listas municipais (REMUME) e PDF.
 ```
