@@ -106,3 +106,21 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
+
+class CentrosCep:
+    """Consulta os centros já gerados, lendo cada arquivo de prefixo uma vez."""
+
+    def __init__(self, diretorio: Path = DIRETORIO_SAIDA) -> None:
+        self.diretorio = diretorio
+        self.cache: dict[str, dict[str, list]] = {}
+
+    def centro(self, cep: str | None) -> tuple[float, float] | None:
+        if not cep or len(cep) != 8:
+            return None
+        prefixo = cep[:3]
+        if prefixo not in self.cache:
+            arquivo = self.diretorio / f"{prefixo}.json"
+            self.cache[prefixo] = json.loads(arquivo.read_text(encoding="utf-8")) if arquivo.exists() else {}
+        encontrado = self.cache[prefixo].get(cep)
+        return (encontrado[0], encontrado[1]) if encontrado else None

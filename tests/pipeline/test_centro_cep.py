@@ -32,3 +32,14 @@ def test_agrupa_por_tres_primeiros_digitos():
     por_prefixo = agrupar_por_prefixo(acumuladores)
     assert sorted(por_prefixo) == ["205", "770"]
     assert sorted(por_prefixo["770"]) == ["77001002", "77020016"]
+
+
+def test_consulta_centro_gerado_e_cep_ausente(tmp_path):
+    from pipeline.localidades.centro_cep import CentrosCep, gravar
+
+    gravar({"770": {"77001002": [-10.1, -48.2, 2]}}, tmp_path)
+    centros = CentrosCep(tmp_path)
+    assert centros.centro("77001002") == (-10.1, -48.2)
+    assert centros.centro("77999999") is None
+    assert centros.centro("20520054") is None
+    assert centros.centro(None) is None
