@@ -135,7 +135,7 @@ function habilitarFormulario(bases) {
     evento.preventDefault();
     const textoReceita = elementos.entrada.value;
     if (separarEntradas(textoReceita).length === 0) {
-      mostrarErroFormulario("Digite ao menos um medicamento, um por linha.");
+      mostrarErroFormulario("Digite ao menos um medicamento ou use o exemplo do campo.");
       return;
     }
     mostrarErroFormulario("");
