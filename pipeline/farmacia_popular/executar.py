@@ -1,6 +1,8 @@
 """Gera data/processed/farmacia_popular/{UF}.json com as farmácias credenciadas.
 
-Uso: python -m pipeline.farmacia_popular.executar --base-cnes data/raw/cnes/base_completa/BASE_DE_DADOS_CNES_202608.ZIP
+Uso: python -m pipeline.farmacia_popular.executar \
+       --base-cnes data/raw/cnes/base_completa/BASE_DE_DADOS_CNES_202608.ZIP \
+       --dir-receita data/raw/receita/cnpj/2026-09
 """
 
 import argparse
@@ -10,6 +12,8 @@ from collections import defaultdict
 from datetime import date
 from pathlib import Path
 
+from pipeline.farmacia_popular import cadastro_receita
+from pipeline.farmacia_popular.cadastro_receita import CadastroReceita
 from pipeline.farmacia_popular.coordenadas_cnes import LocalizacaoCnes, indexar_por_cnpj, ler_tb_estabelecimento
 from pipeline.farmacia_popular.painel_credenciadas import (
     URL_PAINEL,
@@ -23,20 +27,28 @@ logger = logging.getLogger(__name__)
 DIRETORIO_SAIDA = Path("data/processed/farmacia_popular")
 
 
-def montar_farmacia(farmacia: FarmaciaCredenciada, localizacao: LocalizacaoCnes | None) -> dict:
-    # O painel traz a razão social; o nome fantasia (como a farmácia aparece
-    # na fachada e nos mapas) vem do CNES quando o CNPJ é encontrado lá.
-    nome_fantasia = localizacao.nome_fantasia if localizacao else None
+def primeiro_preenchido(*valores: str | None) -> str | None:
+    return next((valor for valor in valores if valor), None)
+
+
+def montar_farmacia(
+    farmacia: FarmaciaCredenciada, localizacao: LocalizacaoCnes | None, receita: CadastroReceita | None
+) -> dict:
+    # O painel traz só a razão social e o logradouro sem número. O nome
+    # fantasia (como a farmácia aparece na fachada e nos mapas), o endereço
+    # completo e o CEP vêm da Receita; o CNES complementa e dá as coordenadas.
     return {
         "cnpj": farmacia.cnpj,
         "cnes": localizacao.cnes if localizacao else None,
-        "nome": nome_fantasia or farmacia.nome,
+        "nome": primeiro_preenchido(
+            receita and receita.nome_fantasia, localizacao and localizacao.nome_fantasia, farmacia.nome
+        ),
         "razao_social": farmacia.nome,
         "endereco": {
-            "logradouro": farmacia.logradouro,
-            "numero": localizacao.numero if localizacao else None,
-            "bairro": farmacia.bairro,
-            "cep": localizacao.cep if localizacao else None,
+            "logradouro": primeiro_preenchido(receita and receita.logradouro, farmacia.logradouro),
+            "numero": primeiro_preenchido(receita and receita.numero, localizacao and localizacao.numero),
+            "bairro": primeiro_preenchido(farmacia.bairro, receita and receita.bairro),
+            "cep": primeiro_preenchido(receita and receita.cep, localizacao and localizacao.cep),
         },
         "codigo_municipio": farmacia.codigo_municipio,
         "municipio": farmacia.municipio,
@@ -47,14 +59,19 @@ def montar_farmacia(farmacia: FarmaciaCredenciada, localizacao: LocalizacaoCnes 
     }
 
 
-def agrupar_por_uf(farmacias: list[FarmaciaCredenciada], localizacoes: dict[str, LocalizacaoCnes]) -> dict[str, list[dict]]:
+def agrupar_por_uf(
+    farmacias: list[FarmaciaCredenciada],
+    localizacoes: dict[str, LocalizacaoCnes],
+    cadastros_receita: dict[str, CadastroReceita],
+) -> dict[str, list[dict]]:
     por_uf: dict[str, list[dict]] = defaultdict(list)
     for farmacia in sorted(farmacias, key=lambda f: (f.uf, f.municipio, f.nome, f.cnpj)):
-        por_uf[farmacia.uf].append(montar_farmacia(farmacia, localizacoes.get(farmacia.cnpj)))
+        cnpj = farmacia.cnpj
+        por_uf[farmacia.uf].append(montar_farmacia(farmacia, localizacoes.get(cnpj), cadastros_receita.get(cnpj)))
     return dict(por_uf)
 
 
-def descrever_fonte(data_referencia: str, caminho_base_cnes: Path) -> dict:
+def descrever_fonte(data_referencia: str, caminho_base_cnes: Path, diretorio_receita: Path) -> dict:
     return {
         "programa": "Programa Farmácia Popular do Brasil",
         "orgao": "Ministério da Saúde",
@@ -63,6 +80,7 @@ def descrever_fonte(data_referencia: str, caminho_base_cnes: Path) -> dict:
         "data_referencia": data_referencia,
         "data_obtencao": date.today().isoformat(),
         "coordenadas": f"CNES, base completa {caminho_base_cnes.name}, cruzada pelo CNPJ",
+        "nome_fantasia_e_endereco": f"Receita Federal, dados abertos do CNPJ ({diretorio_receita.name}), cruzados pelo CNPJ",
     }
 
 
@@ -78,23 +96,39 @@ def gravar_por_uf(farmacias_por_uf: dict[str, list[dict]], fonte: dict, diretori
     (diretorio / "indice.json").write_text(json.dumps(conteudo_indice, ensure_ascii=False, indent=1), encoding="utf-8")
 
 
-def gerar_base_farmacia_popular(caminho_base_cnes: Path, diretorio_saida: Path = DIRETORIO_SAIDA) -> None:
+def ler_cadastros_receita(diretorio_receita: Path, cnpjs: set[str]) -> dict[str, CadastroReceita]:
+    arquivos = sorted(diretorio_receita.glob("Estabelecimentos*.zip"))
+    if len(arquivos) != 10:
+        raise FileNotFoundError(f"esperados 10 arquivos Estabelecimentos*.zip em {diretorio_receita}; encontrados {len(arquivos)}")
+    return cadastro_receita.indexar_por_cnpj(cadastro_receita.ler_linhas_receita(arquivos), cnpjs)
+
+
+def gerar_base_farmacia_popular(
+    caminho_base_cnes: Path, diretorio_receita: Path, diretorio_saida: Path = DIRETORIO_SAIDA
+) -> None:
     resultado = ler_painel()
     validar_total(resultado)
     farmacias = [converter_linha(linha) for linha in resultado["linhas"]]
-    localizacoes = indexar_por_cnpj(ler_tb_estabelecimento(caminho_base_cnes), {f.cnpj for f in farmacias})
+    cnpjs = {farmacia.cnpj for farmacia in farmacias}
+    localizacoes = indexar_por_cnpj(ler_tb_estabelecimento(caminho_base_cnes), cnpjs)
+    cadastros_receita = ler_cadastros_receita(diretorio_receita, cnpjs)
     com_coordenadas = sum(1 for local in localizacoes.values() if local.latitude is not None)
-    logger.info("%d farmácias; %d com coordenadas no CNES", len(farmacias), com_coordenadas)
-    fonte = descrever_fonte(resultado["dataReferencia"], caminho_base_cnes)
-    gravar_por_uf(agrupar_por_uf(farmacias, localizacoes), fonte, diretorio_saida)
+    com_fantasia = sum(1 for cadastro in cadastros_receita.values() if cadastro.nome_fantasia)
+    logger.info(
+        "%d farmácias; %d com coordenadas no CNES; %d na Receita, %d com nome fantasia",
+        len(farmacias), com_coordenadas, len(cadastros_receita), com_fantasia,
+    )
+    fonte = descrever_fonte(resultado["dataReferencia"], caminho_base_cnes, diretorio_receita)
+    gravar_por_uf(agrupar_por_uf(farmacias, localizacoes, cadastros_receita), fonte, diretorio_saida)
 
 
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--base-cnes", type=Path, required=True)
+    parser.add_argument("--dir-receita", type=Path, required=True, help="pasta com Estabelecimentos0..9.zip")
     argumentos = parser.parse_args()
     logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(name)s: %(message)s")
-    gerar_base_farmacia_popular(argumentos.base_cnes)
+    gerar_base_farmacia_popular(argumentos.base_cnes, argumentos.dir_receita)
 
 
 if __name__ == "__main__":
