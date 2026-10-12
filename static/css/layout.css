@@ -28,15 +28,8 @@
   padding-bottom: 18px;
 }
 .cabecalho__marca {
-  width: 44px;
-  height: 44px;
-  border-radius: 50%;
-  background: var(--azul);
-  color: var(--branco);
-  display: grid;
-  place-items: center;
-  font-size: 1.1rem;
-  font-weight: 500;
+  width: 48px;
+  height: 48px;
   flex-shrink: 0;
 }
 .cabecalho__titulo {
