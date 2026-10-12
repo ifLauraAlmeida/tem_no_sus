@@ -180,4 +180,6 @@ export async function oferecerBuscaDeLocais(adicionarMensagem, gruposPermitidos)
     "Qual é o seu CEP? Com ele indico até 4 locais próximos onde você pode tentar retirar o medicamento.",
     formulario,
   ]);
+  // Leva o cursor ao CEP para a pessoa seguir digitando sem clicar.
+  formulario.querySelector('input[name="cep"]').focus();
 }
