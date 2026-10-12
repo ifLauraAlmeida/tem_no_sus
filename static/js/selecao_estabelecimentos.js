@@ -1,6 +1,9 @@
 import { normalizarTexto } from "./normalizacao.js";
 
 export const LIMITE_ESTABELECIMENTOS = 4;
+// Distância a partir da qual a diversidade de tipo deixa de compensar.
+// Ex.: não vale indicar uma farmácia a 58 km quando há UBS a 3 km.
+export const RAIO_DIVERSIDADE_KM = 10;
 const RAIO_TERRA_KM = 6371;
 
 // Frentes do CNES compatíveis com itens do elenco do Farmácia Popular:
@@ -53,13 +56,20 @@ export function ordenarPorProximidade(estabelecimentos, { municipio, bairro, pos
     .sort(comparar);
 }
 
+function dentroDoRaioDeDiversidade(estabelecimento, maisProximo) {
+  if (estabelecimento.distanciaKm == null || maisProximo?.distanciaKm == null) return true;
+  return estabelecimento.distanciaKm <= Math.max(RAIO_DIVERSIDADE_KM, 2 * maisProximo.distanciaKm);
+}
+
 // Regra do projeto: com dois tipos disponíveis, 2 de cada; com um tipo só,
-// até 4 dele. Vagas não preenchidas por um grupo vão para o outro.
+// até 4 dele. Vagas não preenchidas por um grupo vão para o outro. Com
+// distâncias conhecidas, só entra pela diversidade quem está razoavelmente perto.
 export function selecionarComDiversidade(ordenados, limite = LIMITE_ESTABELECIMENTOS) {
   const vagasPorGrupo = limite / 2;
   const selecionados = [];
   const contagemPorGrupo = {};
-  for (const estabelecimento of ordenados) {
+  const proximos = ordenados.filter((estabelecimento) => dentroDoRaioDeDiversidade(estabelecimento, ordenados[0]));
+  for (const estabelecimento of proximos) {
     const contagem = contagemPorGrupo[estabelecimento.grupo] ?? 0;
     if (contagem < vagasPorGrupo) {
       selecionados.push(estabelecimento);

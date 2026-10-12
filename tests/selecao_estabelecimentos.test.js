@@ -71,3 +71,25 @@ test("grupo com menos de 2 cede vagas ao outro", () => {
   );
   assert.deepEqual(selecionarComDiversidade(ordenados).map((e) => e.nome), ["fp1", "u1", "u2", "u3"]);
 });
+
+test("diversidade não traz estabelecimento muito mais distante que os próximos", () => {
+  const usuario = { latitude: -22.92, longitude: -43.23 };
+  const ubsPerto = ["u1", "u2", "u3", "u4"].map((nome, indice) =>
+    estabelecimento(nome, ["CBAF"], { latitude: -22.92 - indice * 0.005, longitude: -43.23 }),
+  );
+  const farmaciaLonge = estabelecimento("fp-longe", ["FARMACIA_POPULAR_CNES"], { latitude: -22.4, longitude: -43.6 });
+  const ordenados = ordenarPorProximidade([...ubsPerto, farmaciaLonge], { posicaoUsuario: usuario });
+  assert.deepEqual(selecionarComDiversidade(ordenados).map((e) => e.nome), ["u1", "u2", "u3", "u4"]);
+});
+
+test("se o mais próximo já está longe, aceita os demais até o dobro da distância", () => {
+  const usuario = { latitude: -10, longitude: -48 };
+  const ordenados = ordenarPorProximidade(
+    [
+      estabelecimento("ubs-30km", ["CBAF"], { latitude: -10.27, longitude: -48 }),
+      estabelecimento("fp-50km", ["FARMACIA_POPULAR_CNES"], { latitude: -10.45, longitude: -48 }),
+    ],
+    { posicaoUsuario: usuario },
+  );
+  assert.deepEqual(selecionarComDiversidade(ordenados).map((e) => e.nome), ["ubs-30km", "fp-50km"]);
+});
