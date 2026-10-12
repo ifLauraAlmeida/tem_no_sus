@@ -1,0 +1,648 @@
+{
+ "fonte": {
+  "orgao": "Ministério da Saúde — DATASUS",
+  "documento": "CNES — Serviço especializado 125 (serviço de farmácia)",
+  "competencia_cnes": "202608",
+  "url_sr": "ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/SR/SRSE2608.dbc",
+  "sha256_sr": "911058dd23da5b03ac2c05e95adcfd7641c6672147a7770ed5e2ef9a525f2640",
+  "url_cadastro": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos",
+  "data_obtencao": "2026-10-11"
+ },
+ "uf": "SE",
+ "estabelecimentos": [
+  {
+   "cnes": "0003441",
+   "nome": "CENTRO DE ATENCAO A SAUDE DE SERGIPE CASE",
+   "endereco": {
+    "logradouro": "AV TANCREDO NEVES",
+    "numero": "S/N",
+    "bairro": "CAPUCHO",
+    "cep": "49081000"
+   },
+   "codigo_municipio": "280030",
+   "municipio": "Aracaju",
+   "latitude": -10.91261,
+   "longitude": -37.09154,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-31"
+  },
+  {
+   "cnes": "2421003",
+   "nome": "CLINICA 24H DE SAUDE DA FAMILIA MARIA DANTAS DE CARVALHO",
+   "endereco": {
+    "logradouro": "RUA MARIA LUIZA",
+    "numero": "260",
+    "bairro": "CENTRO",
+    "cep": "49270000"
+   },
+   "codigo_municipio": "280170",
+   "municipio": "Cristinápolis",
+   "latitude": -11.478790635008247,
+   "longitude": -37.751015470432506,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-14"
+  },
+  {
+   "cnes": "2421135",
+   "nome": "CLINICA DE SAUDE DA FAMILIA MARIA CLEIDILENE LIMA SANTOS",
+   "endereco": {
+    "logradouro": "RUA WILSOM MENEZES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "49540000"
+   },
+   "codigo_municipio": "280445",
+   "municipio": "Nossa Senhora Aparecida",
+   "latitude": -10.39613,
+   "longitude": -37.449878,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2421615",
+   "nome": "CLINICA DE SAUDE DA FAMILIA GABRIEL ALVES DA PAIXAO",
+   "endereco": {
+    "logradouro": "AVENIDA FORTUNATO MENDONCA",
+    "numero": "S/N",
+    "bairro": "FERNANDO COLLOR",
+    "cep": "49155100"
+   },
+   "codigo_municipio": "280480",
+   "municipio": "Nossa Senhora do Socorro",
+   "latitude": -10.861624519693763,
+   "longitude": -37.09487557411194,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2422905",
+   "nome": "CENTRO DE REFERENCIA MIN LEONOR B FRANCO",
+   "endereco": {
+    "logradouro": "RUA ADILSON RODRIGUES DOS SANTOS",
+    "numero": "S/N",
+    "bairro": "CIDADE NOVA",
+    "cep": "49200000"
+   },
+   "codigo_municipio": "280210",
+   "municipio": "Estância",
+   "latitude": -11.235008441671168,
+   "longitude": -37.42621033143901,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2423170",
+   "nome": "CLINICA DE SAUDE DA FAMILIA LUZIA NASCIMENTO SILVA",
+   "endereco": {
+    "logradouro": "PRACA PROFESSORA ADIVA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "49220000"
+   },
+   "codigo_municipio": "280040",
+   "municipio": "Arauá",
+   "latitude": -11.264454380206079,
+   "longitude": -37.617090940475464,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2423618",
+   "nome": "CENTRO DE SAUDE 1",
+   "endereco": {
+    "logradouro": "RUA JOSE ROSENDO DOS SANTOS",
+    "numero": "171",
+    "bairro": "CENTRO",
+    "cep": "49514000"
+   },
+   "codigo_municipio": "280230",
+   "municipio": "Frei Paulo",
+   "latitude": -10.547337518891235,
+   "longitude": -37.53304123878479,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2477572",
+   "nome": "CLINICA JOSE FONSECA DA CONCEICAO",
+   "endereco": {
+    "logradouro": "PRACA DOS ESTUDANTES",
+    "numero": "15",
+    "bairro": "CENTRO",
+    "cep": "49512000"
+   },
+   "codigo_municipio": "280500",
+   "municipio": "Pedra Mole",
+   "latitude": -10.620935,
+   "longitude": -37.686758,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2477580",
+   "nome": "CLINICA DE SAUDE DA FAMILIA SANTA LUZIA",
+   "endereco": {
+    "logradouro": "RUA A",
+    "numero": "185",
+    "bairro": "CENTRO",
+    "cep": "49140970"
+   },
+   "codigo_municipio": "280060",
+   "municipio": "Barra dos Coqueiros",
+   "latitude": -10.9147433,
+   "longitude": -37.0230576,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "2477815",
+   "nome": "CENTRO DE REFERENCIA DR CLOVIS FRANCO",
+   "endereco": {
+    "logradouro": "RUA GUMERCINDO BESSA",
+    "numero": "274",
+    "bairro": "CENTRO",
+    "cep": "49200000"
+   },
+   "codigo_municipio": "280210",
+   "municipio": "Estância",
+   "latitude": -11.266564779748743,
+   "longitude": -37.436729610034654,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2497166",
+   "nome": "CLINICA DE SAUDE DR DIJAUME FRANCISCO DE LIMA",
+   "endereco": {
+    "logradouro": "RUA ANTONIO MENDONCA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "49530000"
+   },
+   "codigo_municipio": "280600",
+   "municipio": "Ribeirópolis",
+   "latitude": -10.538825518864918,
+   "longitude": -37.4408483505249,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2546272",
+   "nome": "CLINICA DA SAUDE DA FAMILIA JOSE MARCOS DE REZENDE",
+   "endereco": {
+    "logradouro": "AV DEP EDUARDO MARQUES DE OLIVEIRA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "49517000"
+   },
+   "codigo_municipio": "280520",
+   "municipio": "Pinhão",
+   "latitude": -10.570255,
+   "longitude": -37.72564,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3060101",
+   "nome": "CLINICA DE SAUDE DA FAMILIA AUGUSTO CESAR LEITE FRANCO",
+   "endereco": {
+    "logradouro": "AVENIDA A",
+    "numero": "S/N",
+    "bairro": "M FREIRE II",
+    "cep": "49156366"
+   },
+   "codigo_municipio": "280480",
+   "municipio": "Nossa Senhora do Socorro",
+   "latitude": -10.853843116699583,
+   "longitude": -37.05509036779404,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4382862",
+   "nome": "FARMACIA PAGUE MENOS",
+   "endereco": {
+    "logradouro": "GETULIO VARGAS",
+    "numero": "278",
+    "bairro": "CENTRO",
+    "cep": "49300000"
+   },
+   "codigo_municipio": "280740",
+   "municipio": "Tobias Barreto",
+   "latitude": -11.190353096191728,
+   "longitude": -38.00242781639099,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7040717",
+   "nome": "CAF CANINDE DE SAO FRANCISCO SE",
+   "endereco": {
+    "logradouro": "RODOVIA SE 230 SN",
+    "numero": "S/N",
+    "bairro": "TREVO",
+    "cep": "49820000"
+   },
+   "codigo_municipio": "280120",
+   "municipio": "Canindé de São Francisco",
+   "latitude": -9.668739472186648,
+   "longitude": -37.79455929994583,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-05"
+  },
+  {
+   "cnes": "7527551",
+   "nome": "CLINICA DE SAUDE DA FAMILIA MARIA HELENA BARBOSA DE MELO",
+   "endereco": {
+    "logradouro": "AVENIDA MOACIR DE OLIVEIRA",
+    "numero": "S/N",
+    "bairro": "MARCOS FREIRE I",
+    "cep": "49155890"
+   },
+   "codigo_municipio": "280480",
+   "municipio": "Nossa Senhora do Socorro",
+   "latitude": -10.851920125352665,
+   "longitude": -37.0717978477478,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7571224",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "CALCACAO DR JOVINIANO DE CARVALHO",
+    "numero": "120",
+    "bairro": "CENTRO",
+    "cep": "49480000"
+   },
+   "codigo_municipio": "280710",
+   "municipio": "Simão Dias",
+   "latitude": -10.7373,
+   "longitude": -37.8106,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7615213",
+   "nome": "FARMACIA BASICA DE TOBIAS BARRETO",
+   "endereco": {
+    "logradouro": "PRACA DA BANDEIRA",
+    "numero": "464",
+    "bairro": "CENTRO",
+    "cep": "49300000"
+   },
+   "codigo_municipio": "280740",
+   "municipio": "Tobias Barreto",
+   "latitude": -11.1869554,
+   "longitude": -38.0024277,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-18"
+  },
+  {
+   "cnes": "7686129",
+   "nome": "FARMACIA MUNICIPAL DE BOQUIM",
+   "endereco": {
+    "logradouro": "AVENIDA MANOEL EUGENIO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "49360000"
+   },
+   "codigo_municipio": "280067",
+   "municipio": "Boquim",
+   "latitude": -11.1471297,
+   "longitude": -37.622724,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "8131929",
+   "nome": "CENTRAL DE ABASTECIMENTO",
+   "endereco": {
+    "logradouro": "PRACA CORONEL ANTONIO FRANCO",
+    "numero": "56",
+    "bairro": "CENTRO",
+    "cep": "49130000"
+   },
+   "codigo_municipio": "280590",
+   "municipio": "Riachuelo",
+   "latitude": -10.73001419885437,
+   "longitude": -37.189611196517944,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-14"
+  },
+  {
+   "cnes": "8343993",
+   "nome": "FARMACIA CENTRAL DE MOITA BONITA",
+   "endereco": {
+    "logradouro": "AV JOAO EVANGELISTA DA COSTA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "49560000"
+   },
+   "codigo_municipio": "280410",
+   "municipio": "Moita Bonita",
+   "latitude": -10.57691936942557,
+   "longitude": -37.35072612762451,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8361126",
+   "nome": "CENTRO DE ABASTECIMENTO FARMACEUTICO CAF DE ITABAIANA",
+   "endereco": {
+    "logradouro": "OLIMPIO GRANDE",
+    "numero": "133",
+    "bairro": "PORTO",
+    "cep": "49510200"
+   },
+   "codigo_municipio": "280290",
+   "municipio": "Itabaiana",
+   "latitude": -10.683196434802936,
+   "longitude": -37.43550719660526,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8379823",
+   "nome": "FARMACIA COSTA",
+   "endereco": {
+    "logradouro": "AVENIDA JOSE AIRTON DE ANDRADE",
+    "numero": "1280",
+    "bairro": "CENTRO",
+    "cep": "49300000"
+   },
+   "codigo_municipio": "280740",
+   "municipio": "Tobias Barreto",
+   "latitude": -11.182488289468804,
+   "longitude": -37.997594475746155,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-15"
+  },
+  {
+   "cnes": "8380503",
+   "nome": "FARMACIA NOSSA SENHORA DAS GRACAS",
+   "endereco": {
+    "logradouro": "TRAVESSA NIVALDA OLIVEIRA",
+    "numero": "309",
+    "bairro": "CENTRO",
+    "cep": "49300000"
+   },
+   "codigo_municipio": "280740",
+   "municipio": "Tobias Barreto",
+   "latitude": -11.188461246830355,
+   "longitude": -38.002599477767944,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-15"
+  },
+  {
+   "cnes": "8390800",
+   "nome": "FARMACIA BASICA DO MUNICIPIO DE INDIAROBA",
+   "endereco": {
+    "logradouro": "PRACA JOAO ALVES FILHO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "49250000"
+   },
+   "codigo_municipio": "280280",
+   "municipio": "Indiaroba",
+   "latitude": -11.3109,
+   "longitude": -37.3042,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-15"
+  },
+  {
+   "cnes": "8395462",
+   "nome": "FARMACIA BASICA SMS GENERAL MAYNARD SE",
+   "endereco": {
+    "logradouro": "PRACA DA MATRIZ",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "49750000"
+   },
+   "codigo_municipio": "280250",
+   "municipio": "General Maynard",
+   "latitude": -10.688116,
+   "longitude": -36.984546,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-13"
+  },
+  {
+   "cnes": "8416052",
+   "nome": "CENTRO DE ABASTECIMENTO FARMACEUTICO CAF DE BARRA DOS COQUEI",
+   "endereco": {
+    "logradouro": "RODOVIA JOSE DE CAMPOS",
+    "numero": "647",
+    "bairro": "CENTRO",
+    "cep": "49142230"
+   },
+   "codigo_municipio": "280060",
+   "municipio": "Barra dos Coqueiros",
+   "latitude": -10.909546532224335,
+   "longitude": -37.02587842941284,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-15"
+  },
+  {
+   "cnes": "8424969",
+   "nome": "FARMACIA BASICA DE CUMBE",
+   "endereco": {
+    "logradouro": "RUA PRESBITERO JOAO DOS SANTOS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "49660000"
+   },
+   "codigo_municipio": "280190",
+   "municipio": "Cumbe",
+   "latitude": -10.35534402733962,
+   "longitude": -37.18219757080078,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-15"
+  },
+  {
+   "cnes": "8455694",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA AGUSTO CESAR LEITE",
+    "numero": "141",
+    "bairro": "CENTRO",
+    "cep": "49800000"
+   },
+   "codigo_municipio": "280560",
+   "municipio": "Porto da Folha",
+   "latitude": -9.921000395573502,
+   "longitude": -37.275720834732056,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-15"
+  },
+  {
+   "cnes": "8507457",
+   "nome": "CAF POCO REDONDO",
+   "endereco": {
+    "logradouro": "AVENIDA ALCINO ALVES COSTA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "49810000"
+   },
+   "codigo_municipio": "280540",
+   "municipio": "Poço Redondo",
+   "latitude": -9.80571478,
+   "longitude": -37.6841234,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-15"
+  },
+  {
+   "cnes": "9142207",
+   "nome": "CAF",
+   "endereco": {
+    "logradouro": "RUA GABRIEL BENEVIDES DO ROSARIO",
+    "numero": "001",
+    "bairro": "CENTRO",
+    "cep": "49490000"
+   },
+   "codigo_municipio": "280550",
+   "municipio": "Poço Verde",
+   "latitude": -10.7136872,
+   "longitude": -38.175484,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  }
+ ],
+ "cnes_sem_cadastro": []
+}

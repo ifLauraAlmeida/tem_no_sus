@@ -1,0 +1,3046 @@
+{
+ "fonte": {
+  "orgao": "Ministério da Saúde — DATASUS",
+  "documento": "CNES — Serviço especializado 125 (serviço de farmácia)",
+  "competencia_cnes": "202608",
+  "url_sr": "ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/SR/SRMS2608.dbc",
+  "sha256_sr": "e273d3e217a4098ea00971f381d8a6c21749721f5a2443b60fa59327782916d2",
+  "url_cadastro": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos",
+  "data_obtencao": "2026-10-11"
+ },
+ "uf": "MS",
+ "estabelecimentos": [
+  {
+   "cnes": "0021806",
+   "nome": "CAFE FARMACIA ESPECIALIZADA",
+   "endereco": {
+    "logradouro": "RUA DOM AQUINO",
+    "numero": "1789",
+    "bairro": "CENTRO",
+    "cep": "79002072"
+   },
+   "codigo_municipio": "500270",
+   "municipio": "Campo Grande",
+   "latitude": -20.2738,
+   "longitude": -54.3648,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-11"
+  },
+  {
+   "cnes": "0226467",
+   "nome": "FARMACIA MUNICIPAL NILSON ANTONIO DA SILVA",
+   "endereco": {
+    "logradouro": "AVENIDA EDSON APARECIDO FERNANDES DE CAMPOS",
+    "numero": "1618",
+    "bairro": "CENTRO",
+    "cep": "79415000"
+   },
+   "codigo_municipio": "500793",
+   "municipio": "Sonora",
+   "latitude": -17.592014599383138,
+   "longitude": -54.754979610443115,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0372382",
+   "nome": "FARMACIA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA GIVANI TOSCANO DE BRITO",
+    "numero": "01",
+    "bairro": "SERRARIA",
+    "cep": "79200000"
+   },
+   "codigo_municipio": "500110",
+   "municipio": "Aquidauana",
+   "latitude": -20.468832516453595,
+   "longitude": -55.77213764190674,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0400637",
+   "nome": "CENTRO DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "AVENIDA DORVALINO DOS SANTOS",
+    "numero": "1300",
+    "bairro": "CENTRO",
+    "cep": "79170000"
+   },
+   "codigo_municipio": "500790",
+   "municipio": "Sidrolândia",
+   "latitude": -20.9089844,
+   "longitude": -54.9438646,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0493708",
+   "nome": "DROGAMED",
+   "endereco": {
+    "logradouro": "MANOEL RODRIGUES DA CRUZ",
+    "numero": "147",
+    "bairro": "CENTRO",
+    "cep": "79556016"
+   },
+   "codigo_municipio": "500627",
+   "municipio": "Paraíso das Águas",
+   "latitude": -19.017229,
+   "longitude": -53.011954,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0669571",
+   "nome": "FARMACIA SANTA MONICA",
+   "endereco": {
+    "logradouro": "AVENIDA GOIAS",
+    "numero": "625",
+    "bairro": "ESPATODIA",
+    "cep": "79560000"
+   },
+   "codigo_municipio": "500295",
+   "municipio": "Chapadão do Sul",
+   "latitude": -18.792608414217284,
+   "longitude": -52.618374824523926,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0740691",
+   "nome": "FARMACIA PRECO POPULAR",
+   "endereco": {
+    "logradouro": "AVENIDA WEIMAR GONCALVES TORRES",
+    "numero": "364",
+    "bairro": "CENTRO",
+    "cep": "79950000"
+   },
+   "codigo_municipio": "500570",
+   "municipio": "Naviraí",
+   "latitude": -23.0657145,
+   "longitude": -54.1886909,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-18"
+  },
+  {
+   "cnes": "0775517",
+   "nome": "FARMACIA CENTRAL DE PONTA PORA",
+   "endereco": {
+    "logradouro": "CEL COMISAO",
+    "numero": "290",
+    "bairro": "CENTRO",
+    "cep": "79904494"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.4990349,
+   "longitude": -55.7362443,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0958654",
+   "nome": "UNIDADE REGULADORA DE MEDICAMENTOS E INSUMOS",
+   "endereco": {
+    "logradouro": "RUA SANTOS DUMONT",
+    "numero": "105",
+    "bairro": "JARDIM PAULISTA",
+    "cep": "79830150"
+   },
+   "codigo_municipio": "500370",
+   "municipio": "Dourados",
+   "latitude": -22.22540982680237,
+   "longitude": -54.79501174233023,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0984361",
+   "nome": "DROGASIL FILIAL 1725",
+   "endereco": {
+    "logradouro": "AVENIDA WEIMAR GONCALVES TORRES",
+    "numero": "92",
+    "bairro": "CENTRO",
+    "cep": "79950000"
+   },
+   "codigo_municipio": "500570",
+   "municipio": "Naviraí",
+   "latitude": -23.0627794,
+   "longitude": -54.20036229585004,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-18"
+  },
+  {
+   "cnes": "0998400",
+   "nome": "UNIDADE BASICA DE SAUDE DR RODRIGO LIMA VILHANUEVA",
+   "endereco": {
+    "logradouro": "RUA AZUL",
+    "numero": "S/N",
+    "bairro": "KAMEL SAAD",
+    "cep": "79901216"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.488668773701527,
+   "longitude": -55.738019943237305,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2361000",
+   "nome": "UNIDADE BASICA DE SAUDE JOSE BATAGLIN",
+   "endereco": {
+    "logradouro": "AVENIDA INTERNACIONAL S N",
+    "numero": "20",
+    "bairro": "CENTRO SANGA PUITA",
+    "cep": "79909970"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.536004986748377,
+   "longitude": -55.72596073150635,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-20"
+  },
+  {
+   "cnes": "2361019",
+   "nome": "UNIDADE BASICA DE SAUDE AUDELINA DE CAMPOS",
+   "endereco": {
+    "logradouro": "MS 166KM 75",
+    "numero": "S/N",
+    "bairro": "CABECEIRA DO APA",
+    "cep": "79908000"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.536341911717702,
+   "longitude": -55.72690486907959,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2361426",
+   "nome": "ESF APARECIDA BONIN",
+   "endereco": {
+    "logradouro": "AVENIDA RACHID NEDER",
+    "numero": "98",
+    "bairro": "CENTRO CIVICO",
+    "cep": "79785000"
+   },
+   "codigo_municipio": "500085",
+   "municipio": "Angélica",
+   "latitude": -22.159347,
+   "longitude": -53.77143,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2370840",
+   "nome": "SAUDE LAR DO DISTRITO DE QUEBRA COCO",
+   "endereco": {
+    "logradouro": "RUA MATO GROSSO",
+    "numero": "01",
+    "bairro": "DISTRITO QUEBRA COCO",
+    "cep": "79170000"
+   },
+   "codigo_municipio": "500790",
+   "municipio": "Sidrolândia",
+   "latitude": -20.931821060878598,
+   "longitude": -54.960715770721436,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2370883",
+   "nome": "CENTRO DE SAUDE CENTRAL DE SIDROLANDIA",
+   "endereco": {
+    "logradouro": "RUA RIO GRANDE DO NORTE",
+    "numero": "141",
+    "bairro": "CENTRO",
+    "cep": "79170000"
+   },
+   "codigo_municipio": "500790",
+   "municipio": "Sidrolândia",
+   "latitude": -20.9220203,
+   "longitude": -54.954943,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "2370956",
+   "nome": "UNIDADE BASICA DE ATENDIMENTO ESPECIALIZADO",
+   "endereco": {
+    "logradouro": "AVENIDA ARAPONGAS",
+    "numero": "747",
+    "bairro": "JARDIM GRAMADO",
+    "cep": "79491034"
+   },
+   "codigo_municipio": "500769",
+   "municipio": "São Gabriel do Oeste",
+   "latitude": -19.395383,
+   "longitude": -54.56465,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2370972",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA MILANE II",
+   "endereco": {
+    "logradouro": "AVENIDA SANTO ANTONIO",
+    "numero": "281",
+    "bairro": "MILANI",
+    "cep": "79492094"
+   },
+   "codigo_municipio": "500769",
+   "municipio": "São Gabriel do Oeste",
+   "latitude": -19.394153,
+   "longitude": -54.563916,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2370999",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA FENIX IV",
+   "endereco": {
+    "logradouro": "RUA QUERO QUERO",
+    "numero": "602",
+    "bairro": "FENIX",
+    "cep": "79491058"
+   },
+   "codigo_municipio": "500769",
+   "municipio": "São Gabriel do Oeste",
+   "latitude": -19.377022,
+   "longitude": -54.597723,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2371111",
+   "nome": "UNIDADE BASICA DE SAUDE FRANCISCO JOSE DOS SANTOS",
+   "endereco": {
+    "logradouro": "AVENIDA JOAO SELVIRIO DE SOUZA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "79590000"
+   },
+   "codigo_municipio": "500780",
+   "municipio": "Selvíria",
+   "latitude": -20.36398031401108,
+   "longitude": -51.4235258102417,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-11"
+  },
+  {
+   "cnes": "2371758",
+   "nome": "ESTRATEGIA DA SAUDE DA FAMILIA DE CORGUINHO",
+   "endereco": {
+    "logradouro": "RUA MATO GROSSO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "79460000"
+   },
+   "codigo_municipio": "500310",
+   "municipio": "Corguinho",
+   "latitude": -19.824824,
+   "longitude": -54.8327012,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-31"
+  },
+  {
+   "cnes": "2371766",
+   "nome": "UNIDADE BASICA DE SAUDE DE JARAGUARI",
+   "endereco": {
+    "logradouro": "JOSE SERAFIM RIBEIRO",
+    "numero": "91",
+    "bairro": "CENTRO",
+    "cep": "79440174"
+   },
+   "codigo_municipio": "500490",
+   "municipio": "Jaraguari",
+   "latitude": -20.3936,
+   "longitude": -54.165,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2371774",
+   "nome": "UBS DR SAMUEL CHAIA JACOB",
+   "endereco": {
+    "logradouro": "AV ARNALDO ESTEVAO DE FIGUEIREDO",
+    "numero": "239",
+    "bairro": "CENTRO",
+    "cep": "79190005"
+   },
+   "codigo_municipio": "500800",
+   "municipio": "Terenos",
+   "latitude": -20.439559919764633,
+   "longitude": -54.86724615097046,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-03"
+  },
+  {
+   "cnes": "2375729",
+   "nome": "UNIDADE BASICA DE SAUDE JOSE MANOEL SIMOES",
+   "endereco": {
+    "logradouro": "RUA JOAO DOS SANTOS LEAL",
+    "numero": "S/N",
+    "bairro": "JARDIM LARANJEIRAS",
+    "cep": "79543166"
+   },
+   "codigo_municipio": "500290",
+   "municipio": "Cassilândia",
+   "latitude": -19.116284758981813,
+   "longitude": -51.7209130525589,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2376385",
+   "nome": "PROGRAMA SAUDE DA FAMILIA DR REINALDO DE ARRUDA",
+   "endereco": {
+    "logradouro": "RUA ALAGOAS ESQUINA COM RIO VERDE",
+    "numero": "S/N",
+    "bairro": "PARQUE DAS ARARAS",
+    "cep": "79240000"
+   },
+   "codigo_municipio": "500500",
+   "municipio": "Jardim",
+   "latitude": -21.2848,
+   "longitude": -56.817,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2376989",
+   "nome": "UNIDADE BASICA DE SAUDE DE PEDRO GOMES",
+   "endereco": {
+    "logradouro": "RUA CORUMBA",
+    "numero": "234",
+    "bairro": "CENTRO",
+    "cep": "79410000"
+   },
+   "codigo_municipio": "500640",
+   "municipio": "Pedro Gomes",
+   "latitude": -18.104209388007234,
+   "longitude": -54.54886794090271,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2536560",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA V VILA INDUSTRIAL",
+   "endereco": {
+    "logradouro": "RUA CUIABA",
+    "numero": "S/N",
+    "bairro": "VILA INDUSTRIAL",
+    "cep": "79420000"
+   },
+   "codigo_municipio": "500260",
+   "municipio": "Camapuã",
+   "latitude": -19.58626527485237,
+   "longitude": -54.034634828567505,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2536609",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA I BAIRRO ALTO",
+   "endereco": {
+    "logradouro": "RUA ALVINO ANTONIO MARTINS",
+    "numero": "S/N",
+    "bairro": "BAIRRO ALTO",
+    "cep": "79420000"
+   },
+   "codigo_municipio": "500260",
+   "municipio": "Camapuã",
+   "latitude": -19.517455256962922,
+   "longitude": -54.04358267784119,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2536617",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA IV CRISTO REDENTOR",
+   "endereco": {
+    "logradouro": "ATANAGIDES ALVES DA ROCHA",
+    "numero": "S/N",
+    "bairro": "CRISTO REDENTOR",
+    "cep": "79420000"
+   },
+   "codigo_municipio": "500260",
+   "municipio": "Camapuã",
+   "latitude": -19.549184709140768,
+   "longitude": -54.04200553894043,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2536803",
+   "nome": "UESF SEBASTIAO FRANCISCO RAMOS",
+   "endereco": {
+    "logradouro": "AV ALEXANDRE BATISTA GARCIA",
+    "numero": "694",
+    "bairro": "CENTRO",
+    "cep": "79580017"
+   },
+   "codigo_municipio": "500440",
+   "municipio": "Inocência",
+   "latitude": -19.725382645182684,
+   "longitude": -51.927480697631836,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-12"
+  },
+  {
+   "cnes": "2558440",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA VILA LIMEIRA",
+   "endereco": {
+    "logradouro": "RUA OSCAR TRINDADE",
+    "numero": "505",
+    "bairro": "VILA LIMEIRA",
+    "cep": "79992224"
+   },
+   "codigo_municipio": "500060",
+   "municipio": "Amambai",
+   "latitude": -23.136319944778933,
+   "longitude": -55.21248400211334,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-14"
+  },
+  {
+   "cnes": "2558769",
+   "nome": "CENTRO DE ESPECIALIDADES MEDICAS MANOEL RODRIGUES DA SILVA",
+   "endereco": {
+    "logradouro": "DULQUE DE CAXIAS",
+    "numero": "3422",
+    "bairro": "CENTRO",
+    "cep": "79576014"
+   },
+   "codigo_municipio": "500100",
+   "municipio": "Aparecida do Taboado",
+   "latitude": -20.0877,
+   "longitude": -51.094,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-04"
+  },
+  {
+   "cnes": "2558912",
+   "nome": "ESF VILA BARBOSA",
+   "endereco": {
+    "logradouro": "RUA ALAGOAS",
+    "numero": "1950",
+    "bairro": "CIDADE NOVA",
+    "cep": "79574226"
+   },
+   "codigo_municipio": "500100",
+   "municipio": "Aparecida do Taboado",
+   "latitude": -20.087,
+   "longitude": -51.095,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-04"
+  },
+  {
+   "cnes": "2559013",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA SAUDE LAR",
+   "endereco": {
+    "logradouro": "CAMPO GRANDE",
+    "numero": "585",
+    "bairro": "PARQUE UNIAO",
+    "cep": "79560000"
+   },
+   "codigo_municipio": "500295",
+   "municipio": "Chapadão do Sul",
+   "latitude": -18.79061765187557,
+   "longitude": -52.61777400970459,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2591413",
+   "nome": "UNIDADE DE SAUDE CENTRAL",
+   "endereco": {
+    "logradouro": "JOSE LUIZ SAMPAIO FERRAZ",
+    "numero": "1553",
+    "bairro": "VILA VILARINHO",
+    "cep": "79990218"
+   },
+   "codigo_municipio": "500060",
+   "municipio": "Amambai",
+   "latitude": -23.10139982582124,
+   "longitude": -55.223164558410645,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-26"
+  },
+  {
+   "cnes": "2599465",
+   "nome": "UNIDADE BASICA DE SAUDE LEONOR COELHO BATISTA",
+   "endereco": {
+    "logradouro": "RUA BERTOLDO CARVALHO",
+    "numero": "47",
+    "bairro": "IGNEZ ANDREAZZA",
+    "cep": "79906132"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.533725766835406,
+   "longitude": -55.72484493255615,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2651467",
+   "nome": "UNIDADE DE SAUDE FAMILIA I",
+   "endereco": {
+    "logradouro": "AMERCIO FERREIRA DE SOUZA",
+    "numero": "80",
+    "bairro": "CENTRO",
+    "cep": "79440035"
+   },
+   "codigo_municipio": "500490",
+   "municipio": "Jaraguari",
+   "latitude": -20.613,
+   "longitude": -54.2626,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2651521",
+   "nome": "UNIDADE BASICA DE SAUDE NELSON MACHADO DIAS",
+   "endereco": {
+    "logradouro": "RUA GONCALVES DIAS",
+    "numero": "269",
+    "bairro": "IPE II",
+    "cep": "79900516"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.4976206,
+   "longitude": -55.7380525,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2651556",
+   "nome": "UNIDADE BASICA DE SAUDE LAR GERALDO GARCIA",
+   "endereco": {
+    "logradouro": "MS 168 KM 73",
+    "numero": "S/N",
+    "bairro": "ASSENTAMENTO ITAMARA",
+    "cep": "79901970"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.186985,
+   "longitude": -55.545837,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-14"
+  },
+  {
+   "cnes": "2651564",
+   "nome": "CENTRO INTEGRADO DE SAUDE CIS TERTULIANA DE FREITAS",
+   "endereco": {
+    "logradouro": "RUA 07 DE SETEMBRO",
+    "numero": "1892",
+    "bairro": "SANTA IZABEL",
+    "cep": "79904512"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.536004986748377,
+   "longitude": -55.726025104522705,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-10"
+  },
+  {
+   "cnes": "2651572",
+   "nome": "UNIDADE BASICA DE SAUDE NEUSA MARIA PEREIRA",
+   "endereco": {
+    "logradouro": "RUA CANDIDO GARCIA DE SOUZA",
+    "numero": "610",
+    "bairro": "JARDIM VITORIA",
+    "cep": "79906772"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.5649065,
+   "longitude": -55.6887405,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2676699",
+   "nome": "ESF VILA SAO JERONIMO",
+   "endereco": {
+    "logradouro": "RUA SAO PAULO",
+    "numero": "4822",
+    "bairro": "VILA RODRIGUES",
+    "cep": "79572448"
+   },
+   "codigo_municipio": "500100",
+   "municipio": "Aparecida do Taboado",
+   "latitude": -20.873,
+   "longitude": -51.094,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-04"
+  },
+  {
+   "cnes": "2710730",
+   "nome": "ESF FRANCISCA RIBEIRO DA CRUZ",
+   "endereco": {
+    "logradouro": "RUA EMILIA BICHOFE",
+    "numero": "S/N",
+    "bairro": "JOSE RODRIGUES",
+    "cep": "79670000"
+   },
+   "codigo_municipio": "500230",
+   "municipio": "Brasilândia",
+   "latitude": -21.26186090589836,
+   "longitude": -52.044382095336914,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-23"
+  },
+  {
+   "cnes": "2710862",
+   "nome": "UBS IZIDRO PEDROSO DR MOACIR STEIN ARRUDA",
+   "endereco": {
+    "logradouro": "RUA TRAVESSA S",
+    "numero": "2945",
+    "bairro": "IZIDRO PEDROSO",
+    "cep": "79840305"
+   },
+   "codigo_municipio": "500370",
+   "municipio": "Dourados",
+   "latitude": -22.240737414230203,
+   "longitude": -54.78844665231047,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2710870",
+   "nome": "UBS SANTO ANDRE MARLUCIA ARAUJO LUPINETTI",
+   "endereco": {
+    "logradouro": "MATO GROSSO",
+    "numero": "556",
+    "bairro": "JD SANTO ANDRE",
+    "cep": "79812220"
+   },
+   "codigo_municipio": "500370",
+   "municipio": "Dourados",
+   "latitude": -22.23907126894187,
+   "longitude": -54.80134488471731,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2710889",
+   "nome": "UBS CSU DR LEON TOLSTOI RODRIGUES DE LIMA",
+   "endereco": {
+    "logradouro": "R SALVIANNO PEDROSO",
+    "numero": "1050",
+    "bairro": "AGUA BOA",
+    "cep": "79812170"
+   },
+   "codigo_municipio": "500370",
+   "municipio": "Dourados",
+   "latitude": -22.248592147218517,
+   "longitude": -54.80738529781693,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2710897",
+   "nome": "UBS VILA ROSA",
+   "endereco": {
+    "logradouro": "RUA HUMBERTO DE CAMPOS",
+    "numero": "1610",
+    "bairro": "VILA ROSA",
+    "cep": "79804000"
+   },
+   "codigo_municipio": "500370",
+   "municipio": "Dourados",
+   "latitude": -22.2138117,
+   "longitude": -54.7985275,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2711044",
+   "nome": "UBS VILA VARGAS ANTONIA MARQUES",
+   "endereco": {
+    "logradouro": "RUA FRADIQUE CORREIA",
+    "numero": "001",
+    "bairro": "VILA VARGAS",
+    "cep": "79878000"
+   },
+   "codigo_municipio": "500370",
+   "municipio": "Dourados",
+   "latitude": -22.24231375814401,
+   "longitude": -54.6200705511736,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2711109",
+   "nome": "UBS SELETA BIANOR ALVES DA SILVA",
+   "endereco": {
+    "logradouro": "RUA JOSE ROBERTO TEIXEIRA",
+    "numero": "691",
+    "bairro": "JARDIM FLORIDA II",
+    "cep": "79822090"
+   },
+   "codigo_municipio": "500370",
+   "municipio": "Dourados",
+   "latitude": -22.22610763411508,
+   "longitude": -54.83583382914347,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2711117",
+   "nome": "UBS MARACANA MOTOHIDE HIRAISHI",
+   "endereco": {
+    "logradouro": "MONTE ALEGRE",
+    "numero": "6650",
+    "bairro": "JARDIM MARACANA",
+    "cep": "79833120"
+   },
+   "codigo_municipio": "500370",
+   "municipio": "Dourados",
+   "latitude": -22.216404587675918,
+   "longitude": -54.765259981219494,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2711133",
+   "nome": "UBS CACHOEIRINHA RAMAO VIEIRA",
+   "endereco": {
+    "logradouro": "RUA ERNESTO MATOS DE CARVALHO",
+    "numero": "S/N",
+    "bairro": "VILA CACHOEIRINHA",
+    "cep": "79804000"
+   },
+   "codigo_municipio": "500370",
+   "municipio": "Dourados",
+   "latitude": -22.24773048402617,
+   "longitude": -54.825035387259355,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2756900",
+   "nome": "CENTRO DE ESPECIALIDADES MEDICAS DR JULIO MAIA",
+   "endereco": {
+    "logradouro": "AVENIDA DR CLODOALDO GARCIA",
+    "numero": "280",
+    "bairro": "SANTOS DUMONT",
+    "cep": "79601003"
+   },
+   "codigo_municipio": "500830",
+   "municipio": "Três Lagoas",
+   "latitude": -20.79137885,
+   "longitude": -51.715310399592596,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2757052",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA EURIDICE CHAGAS CRUZ",
+   "endereco": {
+    "logradouro": "RUA BERNARDINO MENDES",
+    "numero": "258",
+    "bairro": "IPACARAI",
+    "cep": "79640320"
+   },
+   "codigo_municipio": "500830",
+   "municipio": "Três Lagoas",
+   "latitude": -20.7754835,
+   "longitude": -51.7220524,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2757133",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA VILA ALEGRE",
+   "endereco": {
+    "logradouro": "RUA BERNARDINO RODRIGUES MONTALVAO",
+    "numero": "3725",
+    "bairro": "VILA ALEGRE",
+    "cep": "79610130"
+   },
+   "codigo_municipio": "500830",
+   "municipio": "Três Lagoas",
+   "latitude": -20.750977144077822,
+   "longitude": -51.678035259246826,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2804492",
+   "nome": "CENTRO DE SAUDE RIO BRILHANTE",
+   "endereco": {
+    "logradouro": "RUA SIDNEY COELHO NOGUEIRA",
+    "numero": "1112",
+    "bairro": "CENTRO",
+    "cep": "79130000"
+   },
+   "codigo_municipio": "500720",
+   "municipio": "Rio Brilhante",
+   "latitude": -21.803495711758618,
+   "longitude": -54.54441547393799,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2881659",
+   "nome": "FARMACIA PAULISTA 1",
+   "endereco": {
+    "logradouro": "AVENIDA WEIMAR GONCALVES TORRES",
+    "numero": "420",
+    "bairro": "CENTRO",
+    "cep": "79950000"
+   },
+   "codigo_municipio": "500570",
+   "municipio": "Naviraí",
+   "latitude": -23.0636245,
+   "longitude": -54.19718258866793,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-18"
+  },
+  {
+   "cnes": "2936615",
+   "nome": "FARMACIA DE MEDICAMENTOS ESPECIAIS",
+   "endereco": {
+    "logradouro": "RUA ZULEIDE PEREZ TABOX",
+    "numero": "950",
+    "bairro": "CENTRO",
+    "cep": "79602080"
+   },
+   "codigo_municipio": "500830",
+   "municipio": "Três Lagoas",
+   "latitude": -20.785406,
+   "longitude": -51.7055024,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2937360",
+   "nome": "DROGARIA ATUAL",
+   "endereco": {
+    "logradouro": "AVENIDA AMELIA FUKUDA",
+    "numero": "560",
+    "bairro": "CENTRO",
+    "cep": "79950000"
+   },
+   "codigo_municipio": "500570",
+   "municipio": "Naviraí",
+   "latitude": -23.0739727,
+   "longitude": -54.1948083,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-18"
+  },
+  {
+   "cnes": "2945622",
+   "nome": "HOSPITAL REGIONAL DA COSTA LESTE MAGID THOME",
+   "endereco": {
+    "logradouro": "ENGENHEIRO SAMIR THOME",
+    "numero": "S/N",
+    "bairro": "DISTRITO INDUSTRIAL",
+    "cep": "79648000"
+   },
+   "codigo_municipio": "500830",
+   "municipio": "Três Lagoas",
+   "latitude": -20.751,
+   "longitude": -51.678,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3022390",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "AVENIDA MARECHAL FLORIANO PEIXOTO",
+    "numero": "881",
+    "bairro": "PARAGUAI",
+    "cep": "79152060"
+   },
+   "codigo_municipio": "500540",
+   "municipio": "Maracaju",
+   "latitude": -21.616995312924963,
+   "longitude": -55.17062416565989,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-14"
+  },
+  {
+   "cnes": "3280136",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA VILA GUAPECRISTINA",
+   "endereco": {
+    "logradouro": "R DA REPUBLICA",
+    "numero": "4802",
+    "bairro": "VILA GUAPE",
+    "cep": "79990370"
+   },
+   "codigo_municipio": "500060",
+   "municipio": "Amambai",
+   "latitude": -23.090252879975647,
+   "longitude": -55.23726224899292,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-14"
+  },
+  {
+   "cnes": "3415783",
+   "nome": "UNIDADE BASICA DE SAUDE GERALDO FERNANDES DA SILVA",
+   "endereco": {
+    "logradouro": "RUA OLIMPIO ALVES DOS SANTOS",
+    "numero": "S/N",
+    "bairro": "VILA IZANOPOLIS",
+    "cep": "79542034"
+   },
+   "codigo_municipio": "500290",
+   "municipio": "Cassilândia",
+   "latitude": -19.124885952552066,
+   "longitude": -51.72641962766647,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3496031",
+   "nome": "CENTRO DE ATENCAO PSICOSSOCIAL PROF ALZIRA A DE ALBUQUERQU",
+   "endereco": {
+    "logradouro": "RUA GIOVANE TOSCANO DE BRITO",
+    "numero": "2367",
+    "bairro": "SANTA TEREZINHA",
+    "cep": "79200000"
+   },
+   "codigo_municipio": "500110",
+   "municipio": "Aquidauana",
+   "latitude": -20.471767510262637,
+   "longitude": -55.766730308532715,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3670430",
+   "nome": "UNIDADE BASICA DE SAUDE ARINDO RODRIGUES DA SILVA",
+   "endereco": {
+    "logradouro": "MOISES DE ARAUJO GALVAO",
+    "numero": "245",
+    "bairro": "JARDIM AEROPORTO",
+    "cep": "79428971"
+   },
+   "codigo_municipio": "500390",
+   "municipio": "Figueirão",
+   "latitude": -18.68054070302162,
+   "longitude": -53.643085956573486,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3830497",
+   "nome": "UNIDADE BASICA DE SAUDE JOSE ALBERTO FERREIRA NEVES",
+   "endereco": {
+    "logradouro": "RUA ACRE",
+    "numero": "10",
+    "bairro": "JARDIM ALEGRETE",
+    "cep": "79900282"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.506349,
+   "longitude": -55.7340292,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4097246",
+   "nome": "FARMACIA MUNICIPAL DE JUTI",
+   "endereco": {
+    "logradouro": "AVENIDA SERGIO MACIEL",
+    "numero": "1382",
+    "bairro": "CENTRO",
+    "cep": "79955051"
+   },
+   "codigo_municipio": "500515",
+   "municipio": "Juti",
+   "latitude": -22.864826759241787,
+   "longitude": -54.606170654296875,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4328671",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "DEPUTADO JULIO CESAR PAULINO MAIA",
+    "numero": "1568",
+    "bairro": "CENTRO",
+    "cep": "79690000"
+   },
+   "codigo_municipio": "500755",
+   "municipio": "Santa Rita do Pardo",
+   "latitude": -21.303,
+   "longitude": -52.495222,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4417100",
+   "nome": "FARMACIA SANTA MONICA CENTRO",
+   "endereco": {
+    "logradouro": "AVENIDA ONZE",
+    "numero": "243",
+    "bairro": "CENTRO",
+    "cep": "79560000"
+   },
+   "codigo_municipio": "500295",
+   "municipio": "Chapadão do Sul",
+   "latitude": -18.797564903910143,
+   "longitude": -52.62004852294922,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4456920",
+   "nome": "FARMACIA HIPER POPULAR",
+   "endereco": {
+    "logradouro": "AVENIDA DOURADOS",
+    "numero": "1104",
+    "bairro": "CENTRO",
+    "cep": "79950000"
+   },
+   "codigo_municipio": "500570",
+   "municipio": "Naviraí",
+   "latitude": -23.057275404882784,
+   "longitude": -54.19204294681549,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-18"
+  },
+  {
+   "cnes": "4485106",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA 18",
+    "numero": "875",
+    "bairro": "CENTRO",
+    "cep": "79560000"
+   },
+   "codigo_municipio": "500295",
+   "municipio": "Chapadão do Sul",
+   "latitude": -18.802318121688117,
+   "longitude": -52.62403964996338,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4662660",
+   "nome": "FARMACIA PARAISO",
+   "endereco": {
+    "logradouro": "AVENIDA AMAMBAI",
+    "numero": "1439",
+    "bairro": "JARDIM PARAISO",
+    "cep": "79950000"
+   },
+   "codigo_municipio": "500570",
+   "municipio": "Naviraí",
+   "latitude": -23.0563734,
+   "longitude": -54.2318071,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4824881",
+   "nome": "FARMACIA ESPECIALIZADA",
+   "endereco": {
+    "logradouro": "AV FERNANDO CORREIA DA COSTA",
+    "numero": "1267",
+    "bairro": "CENTRO",
+    "cep": "79940000"
+   },
+   "codigo_municipio": "500240",
+   "municipio": "Caarapó",
+   "latitude": -22.63341136832759,
+   "longitude": -54.8227322101593,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4901754",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "RUA MARIO DE ANDRADE",
+    "numero": "1380",
+    "bairro": "CAPITAO VIGARIO",
+    "cep": "79940000"
+   },
+   "codigo_municipio": "500240",
+   "municipio": "Caarapó",
+   "latitude": -22.614120087133315,
+   "longitude": -54.81749798199628,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5440300",
+   "nome": "DROGASIL DS2278",
+   "endereco": {
+    "logradouro": "AVENIDA OITO",
+    "numero": "748",
+    "bairro": "CENTRO",
+    "cep": "79560000"
+   },
+   "codigo_municipio": "500295",
+   "municipio": "Chapadão do Sul",
+   "latitude": -18.79851962081823,
+   "longitude": -52.62180805206299,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-08"
+  },
+  {
+   "cnes": "5472008",
+   "nome": "SECRETARIA MUN DE SAUDE DE PARANAIBA",
+   "endereco": {
+    "logradouro": "R JOSE RODRIGUES FERRAZ",
+    "numero": "834",
+    "bairro": "CENTRO",
+    "cep": "79500000"
+   },
+   "codigo_municipio": "500630",
+   "municipio": "Paranaíba",
+   "latitude": -19.677848370795807,
+   "longitude": -51.18628978729248,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5478928",
+   "nome": "FARMACIA BASICA MUNICIPAL DE CARACOL",
+   "endereco": {
+    "logradouro": "RUA DUQUE DE CAXIAS",
+    "numero": "221",
+    "bairro": "CENTRO",
+    "cep": "79270017"
+   },
+   "codigo_municipio": "500280",
+   "municipio": "Caracol",
+   "latitude": -22.01959246596614,
+   "longitude": -57.02781915664673,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5525659",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "GELSON ANDRADE MOREIRA",
+    "numero": "1003",
+    "bairro": "CENTRO",
+    "cep": "79960000"
+   },
+   "codigo_municipio": "500430",
+   "municipio": "Iguatemi",
+   "latitude": -23.676343925191777,
+   "longitude": -54.56327676773071,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-16"
+  },
+  {
+   "cnes": "5526132",
+   "nome": "SERVICO DE ATENDIMENTO ESPECIALIZADO SAE CTA",
+   "endereco": {
+    "logradouro": "RUA DOS MISSIONARIOS",
+    "numero": "420",
+    "bairro": "JARDIM CARAMURU",
+    "cep": "79806060"
+   },
+   "codigo_municipio": "500370",
+   "municipio": "Dourados",
+   "latitude": -22.218937,
+   "longitude": -54.801602,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5540143",
+   "nome": "FARMACIA DE ATENDIMENTO ESPECIALIZADO",
+   "endereco": {
+    "logradouro": "RUA DEZOITO",
+    "numero": "876",
+    "bairro": "CENTRO",
+    "cep": "79560000"
+   },
+   "codigo_municipio": "500295",
+   "municipio": "Chapadão do Sul",
+   "latitude": -18.8032524913761,
+   "longitude": -52.62221574783325,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5583810",
+   "nome": "SECRETARIA MUNICIPAL DE SAUDE SEDE GUIA LOPES DA LAGUNA",
+   "endereco": {
+    "logradouro": "RUA OVIDIO PAULO DE OLIVEIRA",
+    "numero": "467",
+    "bairro": "MUTIRAO",
+    "cep": "79230000"
+   },
+   "codigo_municipio": "500410",
+   "municipio": "Guia Lopes da Laguna",
+   "latitude": -21.2729,
+   "longitude": -56.649649,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5613434",
+   "nome": "FARMACIA MUNICIPAL DA VILA INDUSTRIAL",
+   "endereco": {
+    "logradouro": "RUA SINVAL RAMOS NOVAIS",
+    "numero": "1324",
+    "bairro": "VILA INDUSTRIAL",
+    "cep": "79730332"
+   },
+   "codigo_municipio": "500400",
+   "municipio": "Glória de Dourados",
+   "latitude": -22.413389108235812,
+   "longitude": -54.23372983932495,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-05"
+  },
+  {
+   "cnes": "5683238",
+   "nome": "UNIDADE BASICA DE SAUDE ROSANGELA PEREIRA SILVA",
+   "endereco": {
+    "logradouro": "MS 168 KM 73",
+    "numero": "S/N",
+    "bairro": "FAZENDA ITAMARATI",
+    "cep": "79901970"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.19447,
+   "longitude": -55.588084,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-10"
+  },
+  {
+   "cnes": "5738938",
+   "nome": "FARMACIA BASICA MUNICIPAL JARDIM DOS IPES",
+   "endereco": {
+    "logradouro": "RUA PRESIDENTE VARGAS",
+    "numero": "100",
+    "bairro": "JARDIM DOS IPES",
+    "cep": "79700000"
+   },
+   "codigo_municipio": "500380",
+   "municipio": "Fátima do Sul",
+   "latitude": -22.36380836961571,
+   "longitude": -54.50291633605957,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5739071",
+   "nome": "FARMACIA BASICA MUNICIPAL JARDIM BRASILANDIA",
+   "endereco": {
+    "logradouro": "RUA GERALDO RODRIGUES RIBEIRO",
+    "numero": "744",
+    "bairro": "BRASILANDIA",
+    "cep": "79700000"
+   },
+   "codigo_municipio": "500380",
+   "municipio": "Fátima do Sul",
+   "latitude": -22.3699828,
+   "longitude": -54.5361645,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-18"
+  },
+  {
+   "cnes": "5739101",
+   "nome": "FARMACIA BASICA MUNICIPAL DO JARDIM SAO PAULO",
+   "endereco": {
+    "logradouro": "AVENIDA NOVE DE JULHO",
+    "numero": "2330",
+    "bairro": "PROLONGAMENTO",
+    "cep": "79700000"
+   },
+   "codigo_municipio": "500380",
+   "municipio": "Fátima do Sul",
+   "latitude": -22.38085312179571,
+   "longitude": -54.50489044189453,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-18"
+  },
+  {
+   "cnes": "5739128",
+   "nome": "FARMACIA INTERNA DA ESTRATEGIA DE SAUDE DA FAMILIA CULTURAM",
+   "endereco": {
+    "logradouro": "RUA PADRE PASCOAL BUSATO",
+    "numero": "977",
+    "bairro": "CULTURAMA",
+    "cep": "79702000"
+   },
+   "codigo_municipio": "500380",
+   "municipio": "Fátima do Sul",
+   "latitude": -22.3040261269001,
+   "longitude": -54.33687686920166,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-23"
+  },
+  {
+   "cnes": "5739136",
+   "nome": "FARMACIA BASICA MUNICIPAL VILA EDUCACIONAL",
+   "endereco": {
+    "logradouro": "RUA HELENA ALVES SOBRINHO",
+    "numero": "2153",
+    "bairro": "CENTRO EDUCACIONAL",
+    "cep": "79700000"
+   },
+   "codigo_municipio": "500380",
+   "municipio": "Fátima do Sul",
+   "latitude": -22.390555197302884,
+   "longitude": -54.50566291809082,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-18"
+  },
+  {
+   "cnes": "5767776",
+   "nome": "ESF OSCALINA NANTES",
+   "endereco": {
+    "logradouro": "AGROVILA CAPAO SECO",
+    "numero": "S/N",
+    "bairro": "ZONA RURAL",
+    "cep": "79170000"
+   },
+   "codigo_municipio": "500790",
+   "municipio": "Sidrolândia",
+   "latitude": -20.93,
+   "longitude": -54.96,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5807727",
+   "nome": "FARMACIA ESPECIALIZADA JARDIM SAO PAULO",
+   "endereco": {
+    "logradouro": "AVENIDA NOVE DE JULHO",
+    "numero": "2330",
+    "bairro": "PROLONGAMENTO",
+    "cep": "79700000"
+   },
+   "codigo_municipio": "500380",
+   "municipio": "Fátima do Sul",
+   "latitude": -22.3794463,
+   "longitude": -54.5079341,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "5819822",
+   "nome": "FARMACIA ESPECIALIZADA DE ITAPORA",
+   "endereco": {
+    "logradouro": "DEZ DE DEZEMBRO",
+    "numero": "1180",
+    "bairro": "BOM JESUS",
+    "cep": "79890160"
+   },
+   "codigo_municipio": "500450",
+   "municipio": "Itaporã",
+   "latitude": -22.076205022209844,
+   "longitude": -54.78738069534302,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "5869439",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA STEFAN DUDAS",
+    "numero": "219",
+    "bairro": "ALVORADA",
+    "cep": "79785000"
+   },
+   "codigo_municipio": "500085",
+   "municipio": "Angélica",
+   "latitude": -22.160334,
+   "longitude": -53.776318,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-18"
+  },
+  {
+   "cnes": "5870178",
+   "nome": "UNIDADE BASICA DE SAUDE DR NERY ALVES DE AZAMBUJA",
+   "endereco": {
+    "logradouro": "SOILO DE FREITAS",
+    "numero": "S/N",
+    "bairro": "PARQUE DAS EXPOSICAO",
+    "cep": "79906606"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.536044625022726,
+   "longitude": -55.726003646850586,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5884179",
+   "nome": "ESF JARDIM DAS FLORES",
+   "endereco": {
+    "logradouro": "RUA CONFINS",
+    "numero": "2941",
+    "bairro": "JARDIM AEROPORTO",
+    "cep": "79570000"
+   },
+   "codigo_municipio": "500100",
+   "municipio": "Aparecida do Taboado",
+   "latitude": -20.087,
+   "longitude": -51.94,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5911192",
+   "nome": "UNIDADE BASICA DE SAUDE DR PEDRO MONTEIRO DE ALMEIDA",
+   "endereco": {
+    "logradouro": "RUA BATISTA DE AZEVEDO",
+    "numero": "370",
+    "bairro": "GRANJA",
+    "cep": "79905360"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.5577464,
+   "longitude": -55.7092793,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5971918",
+   "nome": "UNIDADE BASICA DE SAUDE ANDERSON LUIZ MONTEIRO GODOY",
+   "endereco": {
+    "logradouro": "JOAO PESSOA",
+    "numero": "264",
+    "bairro": "VILA AUREA",
+    "cep": "79902080"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.51857,
+   "longitude": -55.72977,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "6086446",
+   "nome": "MINAS FARMA",
+   "endereco": {
+    "logradouro": "AV OITO",
+    "numero": "761",
+    "bairro": "CENTRO",
+    "cep": "79560000"
+   },
+   "codigo_municipio": "500295",
+   "municipio": "Chapadão do Sul",
+   "latitude": -18.798174298306368,
+   "longitude": -52.620885372161865,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6384587",
+   "nome": "UNIDADE BASICA DE SAUDE DR CARLOS AUGUSTO PISSINI SOBREIRO",
+   "endereco": {
+    "logradouro": "MS 164 411 ITAMARATI II",
+    "numero": "S/N",
+    "bairro": "AREA COMUNIT DO GRUP",
+    "cep": "79901970"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.279996,
+   "longitude": -55.6822575,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-14"
+  },
+  {
+   "cnes": "6404359",
+   "nome": "SECRETARIA MUNICIPAL DE SAUDE DE CAMAPUA",
+   "endereco": {
+    "logradouro": "PEDRO CELESTINO",
+    "numero": "556",
+    "bairro": "CENTRO",
+    "cep": "79420000"
+   },
+   "codigo_municipio": "500260",
+   "municipio": "Camapuã",
+   "latitude": -19.533533100730516,
+   "longitude": -54.04353976249695,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6408516",
+   "nome": "SECRETARIA MUNICIPAL DE SAUDE DE AMAMBAI",
+   "endereco": {
+    "logradouro": "AV PEDRO MANVAILER",
+    "numero": "3214",
+    "bairro": "CENTRO",
+    "cep": "79990043"
+   },
+   "codigo_municipio": "500060",
+   "municipio": "Amambai",
+   "latitude": -23.10433567581827,
+   "longitude": -55.230521857738495,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-14"
+  },
+  {
+   "cnes": "6452116",
+   "nome": "CENTRO DE ESPECIALIDADES MEDICAS",
+   "endereco": {
+    "logradouro": "AVENIDA MATO GROSSO DO SUL",
+    "numero": "2130",
+    "bairro": "CENTRO",
+    "cep": "79490013"
+   },
+   "codigo_municipio": "500769",
+   "municipio": "São Gabriel do Oeste",
+   "latitude": -19.389878,
+   "longitude": -54.578275,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6596207",
+   "nome": "SAE SERVICO AMBULATORIAL ESPECIALIZADO",
+   "endereco": {
+    "logradouro": "TRAVESSA CERES GARCIA GOMES",
+    "numero": "80",
+    "bairro": "CENTRO",
+    "cep": "79500000"
+   },
+   "codigo_municipio": "500630",
+   "municipio": "Paranaíba",
+   "latitude": -19.677302846712728,
+   "longitude": -51.1873197555542,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6625088",
+   "nome": "DROGARIA FARMAVIDA",
+   "endereco": {
+    "logradouro": "RUA ANTONIO DE SOUZA MARCONDES",
+    "numero": "3261",
+    "bairro": "BNH",
+    "cep": "79150238"
+   },
+   "codigo_municipio": "500540",
+   "municipio": "Maracaju",
+   "latitude": -21.631041313803866,
+   "longitude": -55.16855478286743,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6654401",
+   "nome": "FARMACIA MUNICIPAL DE ITAPORA ANTONIO MINORO ICHIJO",
+   "endereco": {
+    "logradouro": "RUA DEZ DE DEZEMBRO",
+    "numero": "1190",
+    "bairro": "CENTRO",
+    "cep": "79890160"
+   },
+   "codigo_municipio": "500450",
+   "municipio": "Itaporã",
+   "latitude": -22.076165253207165,
+   "longitude": -54.7873592376709,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-05"
+  },
+  {
+   "cnes": "6655874",
+   "nome": "ATENCAO AMBULATORIAL ESPECIALIZ DR JOAO CARLOS O DE MORAES",
+   "endereco": {
+    "logradouro": "RUA ANTONIO PINTO PEREIRA",
+    "numero": "428",
+    "bairro": "VILA ANGELICA I",
+    "cep": "79240000"
+   },
+   "codigo_municipio": "500500",
+   "municipio": "Jardim",
+   "latitude": -21.482163519364953,
+   "longitude": -56.14904165267944,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6738044",
+   "nome": "FARMACIA MUNICIPAL MARIA CRISTINA SACO",
+   "endereco": {
+    "logradouro": "RUA DUQUE DE CAXIAS",
+    "numero": "3432",
+    "bairro": "CENTRO",
+    "cep": "79570009"
+   },
+   "codigo_municipio": "500100",
+   "municipio": "Aparecida do Taboado",
+   "latitude": -20.087,
+   "longitude": -51.096,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-04"
+  },
+  {
+   "cnes": "6746942",
+   "nome": "FARMACIA BASICA DE IVINHEMA",
+   "endereco": {
+    "logradouro": "RUA SOITE NAKATA",
+    "numero": "344",
+    "bairro": "GUIRAY",
+    "cep": "79740000"
+   },
+   "codigo_municipio": "500470",
+   "municipio": "Ivinhema",
+   "latitude": -22.311907257527647,
+   "longitude": -53.82519721984863,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6910475",
+   "nome": "FARMACIA MUNICIPAL CEL SAPUCAIA",
+   "endereco": {
+    "logradouro": "AVENIDA ABILIO ESPINDOLA SOBRINHO",
+    "numero": "570",
+    "bairro": "CENTRO",
+    "cep": "79995000"
+   },
+   "codigo_municipio": "500315",
+   "municipio": "Coronel Sapucaia",
+   "latitude": -23.2725732228098,
+   "longitude": -55.53559899330139,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6990444",
+   "nome": "FARMACIA CENTRAL DE BRASILANDIA",
+   "endereco": {
+    "logradouro": "RUA HELIO MARTINEZ JUNIOR",
+    "numero": "1047",
+    "bairro": "CENTRO",
+    "cep": "79670000"
+   },
+   "codigo_municipio": "500230",
+   "municipio": "Brasilândia",
+   "latitude": -21.254764,
+   "longitude": -52.031994,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "7002084",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA IX",
+   "endereco": {
+    "logradouro": "RUA DAS PERDIZES",
+    "numero": "1067",
+    "bairro": "SAO CRISTOVAO",
+    "cep": "79491192"
+   },
+   "codigo_municipio": "500769",
+   "municipio": "São Gabriel do Oeste",
+   "latitude": -19.376575,
+   "longitude": -54.588181,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7079176",
+   "nome": "FARMACIA MUNICIPAL DE BATAGUASSU MS",
+   "endereco": {
+    "logradouro": "AV PORTO XV DE NOVEMBRO",
+    "numero": "775",
+    "bairro": "CENTRO",
+    "cep": "79780000"
+   },
+   "codigo_municipio": "500190",
+   "municipio": "Bataguassu",
+   "latitude": -21.719018690688245,
+   "longitude": -52.42467641830444,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7281986",
+   "nome": "UNIDADE BASICA DE SAUDE JOSE ALBERTO VIEIRA BOCH",
+   "endereco": {
+    "logradouro": "RUA LOURENCO GOMES MONTEIRO",
+    "numero": "399",
+    "bairro": "JARDIM ESTORIL",
+    "cep": "79903400"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.50987,
+   "longitude": -55.70546,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7396279",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA WALDEMAR DO CARMO MARTINS",
+    "numero": "1353",
+    "bairro": "CENTRO",
+    "cep": "79750007"
+   },
+   "codigo_municipio": "500620",
+   "municipio": "Nova Andradina",
+   "latitude": -22.24000774026221,
+   "longitude": -53.3422976732254,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7560273",
+   "nome": "FARMACIA MUNICIPAL DE NAVIRAI",
+   "endereco": {
+    "logradouro": "RUA APARECIDO ROSA",
+    "numero": "33",
+    "bairro": "CENTRO",
+    "cep": "79947092"
+   },
+   "codigo_municipio": "500570",
+   "municipio": "Naviraí",
+   "latitude": -23.0613819902905,
+   "longitude": -54.19948875904083,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7575300",
+   "nome": "FARMACIA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA AMERICA",
+    "numero": "427",
+    "bairro": "CENTRO",
+    "cep": "79330040"
+   },
+   "codigo_municipio": "500320",
+   "municipio": "Corumbá",
+   "latitude": -19.00296782860404,
+   "longitude": -57.64607906341553,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-09"
+  },
+  {
+   "cnes": "7651791",
+   "nome": "CENTRAL DE ABASTECIMENTO DA ASSISTENCIA FARMACEUTICA CAF",
+   "endereco": {
+    "logradouro": "AVENIDA NOVE DE JULHO",
+    "numero": "2259",
+    "bairro": "CENTRO",
+    "cep": "79700000"
+   },
+   "codigo_municipio": "500380",
+   "municipio": "Fátima do Sul",
+   "latitude": -22.380198356132205,
+   "longitude": -54.505555629730225,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7682913",
+   "nome": "ALMOXARIFADO HOSPITALAR",
+   "endereco": {
+    "logradouro": "RUA PELOTAS",
+    "numero": "133",
+    "bairro": "CENTRO",
+    "cep": "79947113"
+   },
+   "codigo_municipio": "500570",
+   "municipio": "Naviraí",
+   "latitude": -23.068198053152567,
+   "longitude": -54.196683168411255,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7682921",
+   "nome": "ALMOXARIFADO CAF",
+   "endereco": {
+    "logradouro": "RUA PELOTAS",
+    "numero": "133",
+    "bairro": "CENTRO",
+    "cep": "79947113"
+   },
+   "codigo_municipio": "500570",
+   "municipio": "Naviraí",
+   "latitude": -23.068104279105274,
+   "longitude": -54.19664293527603,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7749058",
+   "nome": "FARMACIA INTERNA PAULO PEREIRA DA SILVA",
+   "endereco": {
+    "logradouro": "AVENIDA MARECHAL FLORIANO PEIXOTO",
+    "numero": "881",
+    "bairro": "PARAGUAI",
+    "cep": "79152080"
+   },
+   "codigo_municipio": "500540",
+   "municipio": "Maracaju",
+   "latitude": -21.617723506985232,
+   "longitude": -55.16990134234155,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7825536",
+   "nome": "FARMACIA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AV CAMPO GRANDE",
+    "numero": "1513",
+    "bairro": "CENTRO",
+    "cep": "79980222"
+   },
+   "codigo_municipio": "500568",
+   "municipio": "Mundo Novo",
+   "latitude": -23.938918276764866,
+   "longitude": -54.28812503814697,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "8046271",
+   "nome": "FARMACIA MUNICIPAL DE ELDORADO",
+   "endereco": {
+    "logradouro": "AVENIDA BRASIL",
+    "numero": "1106",
+    "bairro": "CENTRO",
+    "cep": "79970000"
+   },
+   "codigo_municipio": "500375",
+   "municipio": "Eldorado",
+   "latitude": -23.784731207031847,
+   "longitude": -54.285161197185516,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-05"
+  },
+  {
+   "cnes": "8050953",
+   "nome": "FARMACIA MUNICIPAL",
+   "endereco": {
+    "logradouro": "ISAIAS INACIO DE ALMEIDA",
+    "numero": "1481",
+    "bairro": "CENTRO",
+    "cep": "79760015"
+   },
+   "codigo_municipio": "500200",
+   "municipio": "Batayporã",
+   "latitude": -22.29578718999165,
+   "longitude": -53.27478647232056,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-14"
+  },
+  {
+   "cnes": "8085749",
+   "nome": "FARMACIA UNICA ANTONIO ARIOVALDO DE MENEZES",
+   "endereco": {
+    "logradouro": "RUA ARTHUR BERNARDES",
+    "numero": "1896",
+    "bairro": "CENTRO",
+    "cep": "79430015"
+   },
+   "codigo_municipio": "500150",
+   "municipio": "Bandeirantes",
+   "latitude": -19.919236,
+   "longitude": -54.370212,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-14"
+  },
+  {
+   "cnes": "8088403",
+   "nome": "FARMACIA MUNICIPAL DE SELVIRIA",
+   "endereco": {
+    "logradouro": "AVENIDA JOAO SELVIRIO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "79590000"
+   },
+   "codigo_municipio": "500780",
+   "municipio": "Selvíria",
+   "latitude": -20.36419088,
+   "longitude": -51.41966682,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-14"
+  },
+  {
+   "cnes": "8202850",
+   "nome": "DROGARIA SATELLITE POPULAR",
+   "endereco": {
+    "logradouro": "AVENIDA PADRE JOSE DANIEL",
+    "numero": "1314",
+    "bairro": "CENTRO",
+    "cep": "79710000"
+   },
+   "codigo_municipio": "500840",
+   "municipio": "Vicentina",
+   "latitude": -22.408494,
+   "longitude": -54.43741,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-04"
+  },
+  {
+   "cnes": "8220352",
+   "nome": "FARMACIA MUNICIPAL DA ESF SANTA MARIA",
+   "endereco": {
+    "logradouro": "VER JOAO RODRIGUES DE FREITAS",
+    "numero": "164",
+    "bairro": "COHAB",
+    "cep": "79893066"
+   },
+   "codigo_municipio": "500450",
+   "municipio": "Itaporã",
+   "latitude": -22.08020174987493,
+   "longitude": -54.7733473777771,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-16"
+  },
+  {
+   "cnes": "8246378",
+   "nome": "FARMACIA FARMA 1000",
+   "endereco": {
+    "logradouro": "AVENIDA WEIMAR GONCALVES TORRES",
+    "numero": "193",
+    "bairro": "CENTRO",
+    "cep": "79947093"
+   },
+   "codigo_municipio": "500570",
+   "municipio": "Naviraí",
+   "latitude": -23.062754114697736,
+   "longitude": -54.19924736022949,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "8437300",
+   "nome": "FARMACIA INTERNA CENTRO SAUDE SAO GABRIEL DO OESTE",
+   "endereco": {
+    "logradouro": "RUA PARANA",
+    "numero": "2145",
+    "bairro": "CENTRO",
+    "cep": "79490007"
+   },
+   "codigo_municipio": "500769",
+   "municipio": "São Gabriel do Oeste",
+   "latitude": -19.395525,
+   "longitude": -54.564628,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-13"
+  },
+  {
+   "cnes": "8459053",
+   "nome": "CASA DA SAUDE DE SIDROLANDIA",
+   "endereco": {
+    "logradouro": "AVENIDA DORVALINO DOS SANTOS",
+    "numero": "1300",
+    "bairro": "CENTRO",
+    "cep": "79170000"
+   },
+   "codigo_municipio": "500790",
+   "municipio": "Sidrolândia",
+   "latitude": -20.93536,
+   "longitude": -54.96419,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-13"
+  },
+  {
+   "cnes": "8459061",
+   "nome": "FARMACIA MUNICIPAL PEDRO MALAGOLI",
+   "endereco": {
+    "logradouro": "AVENIDA DORVALINO DOS SANTOS",
+    "numero": "1300",
+    "bairro": "CENTRO",
+    "cep": "79170000"
+   },
+   "codigo_municipio": "500790",
+   "municipio": "Sidrolândia",
+   "latitude": -20.9353,
+   "longitude": -54.9641,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-13"
+  },
+  {
+   "cnes": "9003479",
+   "nome": "UNIDADE BASICA DE SAUDE ZENEIDA TERRA DE SIQUEIRA",
+   "endereco": {
+    "logradouro": "RUA DA SAUDE",
+    "numero": "S/N",
+    "bairro": "JARDIM IVONE",
+    "cep": "79901260"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.48688,
+   "longitude": -55.73136,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-10"
+  },
+  {
+   "cnes": "9042849",
+   "nome": "UNIDADE BASICA DE SAUDE DR JOSE ISSA",
+   "endereco": {
+    "logradouro": "JOSE LAURO ESPINDOLA SANCHES",
+    "numero": "843",
+    "bairro": "RESIDENCIAL P PORA I",
+    "cep": "79902706"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.51468,
+   "longitude": -55.71892,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9075062",
+   "nome": "UNIDADE BASICA DE SAUDE ENFERMEIRA ELIZA MEDINA BARRETO",
+   "endereco": {
+    "logradouro": "VICENTE AZAMBUJA",
+    "numero": "S/N",
+    "bairro": "SAO RAFAEL",
+    "cep": "79907374"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.574568,
+   "longitude": -55.6870204,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9095284",
+   "nome": "CAF ENTRAL DE ABASTECIMENTO FARMACEUTICO ALMOXARIFADO",
+   "endereco": {
+    "logradouro": "AV CAMPO GRANDE",
+    "numero": "1760",
+    "bairro": "CENTRO",
+    "cep": "79980222"
+   },
+   "codigo_municipio": "500568",
+   "municipio": "Mundo Novo",
+   "latitude": -23.93897711230768,
+   "longitude": -54.28821086883545,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9111336",
+   "nome": "ALMOXARIFADO JURIDICO",
+   "endereco": {
+    "logradouro": "RUA APARECIDO ROSA",
+    "numero": "45",
+    "bairro": "CENTRO",
+    "cep": "79947092"
+   },
+   "codigo_municipio": "500570",
+   "municipio": "Naviraí",
+   "latitude": -23.061349908077627,
+   "longitude": -54.19951289892197,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9240950",
+   "nome": "UPA UNIDADE DE PRONTO ATENDIMENTO",
+   "endereco": {
+    "logradouro": "PONTA PORA",
+    "numero": "565",
+    "bairro": "JANDAIA",
+    "cep": "79170000"
+   },
+   "codigo_municipio": "500790",
+   "municipio": "Sidrolândia",
+   "latitude": -20.931801019278375,
+   "longitude": -54.96086597442627,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9245812",
+   "nome": "FARMACIA MUNICIPAL",
+   "endereco": {
+    "logradouro": "CEL PILAD REBUA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "79290000"
+   },
+   "codigo_municipio": "500220",
+   "municipio": "Bonito",
+   "latitude": -21.129640802011096,
+   "longitude": -56.49236440658569,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-12"
+  },
+  {
+   "cnes": "9271481",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "ATAYDE NOGUEIRA",
+    "numero": "841",
+    "bairro": "CENTRO",
+    "cep": "79130000"
+   },
+   "codigo_municipio": "500720",
+   "municipio": "Rio Brilhante",
+   "latitude": -21.802180810280362,
+   "longitude": -54.54362154006958,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9272089",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA JOANA ELIZA GOMES",
+    "numero": "250",
+    "bairro": "VILA NOVA",
+    "cep": "79910052"
+   },
+   "codigo_municipio": "500090",
+   "municipio": "Antônio João",
+   "latitude": -22.1867493191652,
+   "longitude": -55.94714641571045,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-26"
+  },
+  {
+   "cnes": "9292853",
+   "nome": "FARMACIA MUNICIPAL ADELIA RODRIGUES DA SILVA",
+   "endereco": {
+    "logradouro": "RUA IDALINA GUARINI DA SILVA",
+    "numero": "07",
+    "bairro": "CENTRO",
+    "cep": "79680017"
+   },
+   "codigo_municipio": "500020",
+   "municipio": "Água Clara",
+   "latitude": -20.447200283697487,
+   "longitude": -52.87290573120117,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-20"
+  },
+  {
+   "cnes": "9317635",
+   "nome": "FARMACIA MUNICIPAL DE ARAL MOREIRA",
+   "endereco": {
+    "logradouro": "RUA 31 DE MARCO",
+    "numero": "915",
+    "bairro": "CENTRO",
+    "cep": "79930000"
+   },
+   "codigo_municipio": "500124",
+   "municipio": "Aral Moreira",
+   "latitude": -22.9337331188586,
+   "longitude": -55.633156299591064,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-11"
+  },
+  {
+   "cnes": "9387919",
+   "nome": "UNIDADE BASICA DE SAUDE DRA NISLAINE COLMAN BENITES",
+   "endereco": {
+    "logradouro": "RUA CACIQUE",
+    "numero": "245",
+    "bairro": "VILA RENO",
+    "cep": "79902270"
+   },
+   "codigo_municipio": "500660",
+   "municipio": "Ponta Porã",
+   "latitude": -22.5183649,
+   "longitude": -55.7200946,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9467378",
+   "nome": "DEPARTAMENTO FARMACEUTICO DE CASSILANDIA",
+   "endereco": {
+    "logradouro": "VALDIVINO DE FREITAS",
+    "numero": "260",
+    "bairro": "VILA IZANOPOLIS",
+    "cep": "79542010"
+   },
+   "codigo_municipio": "500290",
+   "municipio": "Cassilândia",
+   "latitude": -19.122047658845702,
+   "longitude": -51.72785997390747,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9476776",
+   "nome": "SESAU DIVISAO DE ALMOXARIFADO DE FARMACIA",
+   "endereco": {
+    "logradouro": "RUA NAVIRAI",
+    "numero": "660",
+    "bairro": "VILA MARGARIDA",
+    "cep": "79023162"
+   },
+   "codigo_municipio": "500270",
+   "municipio": "Campo Grande",
+   "latitude": -20.4362655,
+   "longitude": -54.5867819,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9555676",
+   "nome": "FARMACIA MUNICIPAL DR ANTONIO CEZAR DO PATROCINIO",
+   "endereco": {
+    "logradouro": "R ANTONIO PINTO PEREIRA",
+    "numero": "428",
+    "bairro": "VILA ANGELICA I",
+    "cep": "79240000"
+   },
+   "codigo_municipio": "500500",
+   "municipio": "Jardim",
+   "latitude": -21.4764279,
+   "longitude": -56.1587115,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9580328",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE NOVA ANDRADINA",
+   "endereco": {
+    "logradouro": "RUA WALDEMAR DO CARMO MARTINS",
+    "numero": "1353",
+    "bairro": "CENTRO",
+    "cep": "79750007"
+   },
+   "codigo_municipio": "500620",
+   "municipio": "Nova Andradina",
+   "latitude": -22.24009463369111,
+   "longitude": -53.34245592355728,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9622284",
+   "nome": "FARMACIA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA DOS COLONOS",
+    "numero": "10",
+    "bairro": "CENTRO",
+    "cep": "79730047"
+   },
+   "codigo_municipio": "500400",
+   "municipio": "Glória de Dourados",
+   "latitude": -22.414658650869807,
+   "longitude": -54.233150482177734,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-05"
+  },
+  {
+   "cnes": "9843485",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA FANOEL DO OURO",
+    "numero": "S/N",
+    "bairro": "SANTO ANTONIO",
+    "cep": "79792082"
+   },
+   "codigo_municipio": "500345",
+   "municipio": "Deodápolis",
+   "latitude": -22.56995,
+   "longitude": -54.341189,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9882251",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "ABRAAO MATAR",
+    "numero": "161",
+    "bairro": "SANTA LUZIA",
+    "cep": "79640190"
+   },
+   "codigo_municipio": "500830",
+   "municipio": "Três Lagoas",
+   "latitude": -20.7886791110154,
+   "longitude": -51.7111133111,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  }
+ ],
+ "cnes_sem_cadastro": []
+}

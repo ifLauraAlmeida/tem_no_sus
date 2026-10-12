@@ -1,0 +1,4087 @@
+{
+ "fonte": {
+  "orgao": "Ministério da Saúde — DATASUS",
+  "documento": "CNES — Serviço especializado 125 (serviço de farmácia)",
+  "competencia_cnes": "202608",
+  "url_sr": "ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/SR/SRPB2608.dbc",
+  "sha256_sr": "baf989320e91db27725aaa711ac8d5a1fbdfacb48a1b305459f42df33d1ab270",
+  "url_cadastro": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos",
+  "data_obtencao": "2026-10-11"
+ },
+ "uf": "PB",
+ "estabelecimentos": [
+  {
+   "cnes": "0034290",
+   "nome": "FARMACIA BASICA DE SANTANA DOS GARROTES",
+   "endereco": {
+    "logradouro": "RUA JOAQUIM BATISTA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58795000"
+   },
+   "codigo_municipio": "251360",
+   "municipio": "Santana dos Garrotes",
+   "latitude": -7.384,
+   "longitude": -37.986,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0107093",
+   "nome": "REDEPHARMA",
+   "endereco": {
+    "logradouro": "RUA MANOE RODRIGUES",
+    "numero": "97",
+    "bairro": "CENTRO",
+    "cep": "58135000"
+   },
+   "codigo_municipio": "250600",
+   "municipio": "Esperança",
+   "latitude": -7.020067663772838,
+   "longitude": -35.85787296295166,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-14"
+  },
+  {
+   "cnes": "0220388",
+   "nome": "FARMACIA BASICA ALFEU QUEIROZ",
+   "endereco": {
+    "logradouro": "RUA 23 DE MAIO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58680000"
+   },
+   "codigo_municipio": "251650",
+   "municipio": "Taperoá",
+   "latitude": -7.207239305684517,
+   "longitude": -36.82698726654053,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0280976",
+   "nome": "FARMACIA BASICA DE QUIXABA",
+   "endereco": {
+    "logradouro": "RUA MANOEL PEREIRA NETO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58733000"
+   },
+   "codigo_municipio": "251260",
+   "municipio": "Quixaba",
+   "latitude": -7.0307812,
+   "longitude": -37.1487176,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0428140",
+   "nome": "FARMACIA PAGUE MENOS",
+   "endereco": {
+    "logradouro": "AVENIDA GETULIO VARGAS",
+    "numero": "270",
+    "bairro": "CENTRO",
+    "cep": "58280000"
+   },
+   "codigo_municipio": "250890",
+   "municipio": "Mamanguape",
+   "latitude": -6.8379712,
+   "longitude": -35.1313967,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0454419",
+   "nome": "CEMAM CENTRAL DE MATERIAL E MEDICAMENTOS",
+   "endereco": {
+    "logradouro": "RUA DR JOAO MINERVINO DUTRA DE ALMEIDA",
+    "numero": "239",
+    "bairro": "CENTRO",
+    "cep": "58500000"
+   },
+   "codigo_municipio": "250970",
+   "municipio": "Monteiro",
+   "latitude": -7.890078365566603,
+   "longitude": -37.12554931640625,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0479373",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVENIDA 04 DE JUNHO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58480000"
+   },
+   "codigo_municipio": "250310",
+   "municipio": "Cabaceiras",
+   "latitude": -7.490345687016142,
+   "longitude": -36.28760576248169,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0483044",
+   "nome": "FARMACIA MUNICIPAL DE SALGADINHO",
+   "endereco": {
+    "logradouro": "RUA JOSE MACIEL DE SOUZA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58650000"
+   },
+   "codigo_municipio": "251300",
+   "municipio": "Salgadinho",
+   "latitude": -7.1029029,
+   "longitude": -36.8452122,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0505021",
+   "nome": "FARMACIA BASICA DE CAJAZEIRINHAS",
+   "endereco": {
+    "logradouro": "RUA PRAXEDES FERREIRA DE LIMA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58855000"
+   },
+   "codigo_municipio": "250375",
+   "municipio": "Cajazeirinhas",
+   "latitude": -6.9619001,
+   "longitude": -37.799007,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0511579",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA EPITACIO PESSOA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58720000"
+   },
+   "codigo_municipio": "251380",
+   "municipio": "Santa Teresinha",
+   "latitude": -7.084028,
+   "longitude": -37.443494,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0616974",
+   "nome": "FARMACIA BASICA MUNICIPAL DE PEDRO REGIS",
+   "endereco": {
+    "logradouro": "AV JOCOMO ROSSINI",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58273000"
+   },
+   "codigo_municipio": "251272",
+   "municipio": "Pedro Régis",
+   "latitude": -6.641429403790648,
+   "longitude": -35.294796818658035,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0653055",
+   "nome": "FARMACIA BASICA MUNICIPAL DE CACHOEIRA DOS INDIOS",
+   "endereco": {
+    "logradouro": "RUA JOSE LEITE ROLIM",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58935000"
+   },
+   "codigo_municipio": "250330",
+   "municipio": "Cachoeira dos Índios",
+   "latitude": -6.9254310209731,
+   "longitude": -38.673006892204285,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0730815",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA EULAMPIA SOUZA E SILVA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58570000"
+   },
+   "codigo_municipio": "251480",
+   "municipio": "São José dos Cordeiros",
+   "latitude": -7.391870580129523,
+   "longitude": -36.807557344436646,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0748099",
+   "nome": "FARMACIA BASICA DE SAO JOSE DE CAIANA PB",
+   "endereco": {
+    "logradouro": "RUA 13 DE MAIO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58784000"
+   },
+   "codigo_municipio": "251430",
+   "municipio": "São José de Caiana",
+   "latitude": -7.249,
+   "longitude": -38.301,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0772992",
+   "nome": "FARMACIA CENTRAL",
+   "endereco": {
+    "logradouro": "RUA MANOEL ALVES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58322000"
+   },
+   "codigo_municipio": "250460",
+   "municipio": "Conde",
+   "latitude": -7.2596229,
+   "longitude": -34.9071478,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0816221",
+   "nome": "FARMACIA BASICA DE RIACHAO DO BACAMARTE",
+   "endereco": {
+    "logradouro": "CONJUNTO FREI GALVAO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58382000"
+   },
+   "codigo_municipio": "251275",
+   "municipio": "Riachão do Bacamarte",
+   "latitude": -7.249631,
+   "longitude": -35.66183,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0833770",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA DR MANOEL ALVES",
+    "numero": "140",
+    "bairro": "CENTRO",
+    "cep": "58328000"
+   },
+   "codigo_municipio": "251120",
+   "municipio": "Pedras de Fogo",
+   "latitude": -7.402089868025624,
+   "longitude": -35.115952491760254,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0834866",
+   "nome": "FARMACIA BASICA DE CONDADO",
+   "endereco": {
+    "logradouro": "RUA MANOEL DANTAS DE OLIVEIRA",
+    "numero": "S/N",
+    "bairro": "NOVO",
+    "cep": "58714000"
+   },
+   "codigo_municipio": "250450",
+   "municipio": "Condado",
+   "latitude": -6.9065791,
+   "longitude": -37.5982501,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0877697",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA HILTON MUNIZ DE BRITO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58920000"
+   },
+   "codigo_municipio": "251680",
+   "municipio": "Triunfo",
+   "latitude": -6.578222388852291,
+   "longitude": -38.595499098300934,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-08"
+  },
+  {
+   "cnes": "0882399",
+   "nome": "UNIDADE DE DISPENSACAO DE MEDICAMENTOS",
+   "endereco": {
+    "logradouro": "RUA ANTONIA BENIGNA DE JESUS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58880000"
+   },
+   "codigo_municipio": "250290",
+   "municipio": "Brejo dos Santos",
+   "latitude": -6.3739030676700645,
+   "longitude": -37.82916784286499,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0974919",
+   "nome": "FARMACIA BASICA DO MUNICIPIO DO LASTRO",
+   "endereco": {
+    "logradouro": "RUA PEDRO ABRANTES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58820000"
+   },
+   "codigo_municipio": "250840",
+   "municipio": "Lastro",
+   "latitude": -6.517208444514964,
+   "longitude": -38.178638219833374,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2321637",
+   "nome": "HOSPITAL DEPUTADO JOSE PEREIRA LIMA",
+   "endereco": {
+    "logradouro": "RUA ALAMEDA DAS ACACIAS",
+    "numero": "1444",
+    "bairro": "BAIRRO CASCAVEL",
+    "cep": "58755000"
+   },
+   "codigo_municipio": "251230",
+   "municipio": "Princesa Isabel",
+   "latitude": -7.736135162649952,
+   "longitude": -37.97870635986328,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2321912",
+   "nome": "CENTRO DE SAUDE JOAQUIM SARAIVA DE MOURA",
+   "endereco": {
+    "logradouro": "RUA TIBURTINO DIAS",
+    "numero": "36",
+    "bairro": "CENTRO",
+    "cep": "58950000"
+   },
+   "codigo_municipio": "250960",
+   "municipio": "Monte Horebe",
+   "latitude": -7.213540548924845,
+   "longitude": -38.585625886917114,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2322064",
+   "nome": "FARMACIA BASICA ANA CLEIDE EGIDIO",
+   "endereco": {
+    "logradouro": "RUA NOSSA SENHORA DOS MILAGRES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58922000"
+   },
+   "codigo_municipio": "250205",
+   "municipio": "Bernardino Batista",
+   "latitude": -6.4512431088321796,
+   "longitude": -38.55295658111572,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-14"
+  },
+  {
+   "cnes": "2336812",
+   "nome": "HOSPITAL DISTRITAL SANTA FILOMENA",
+   "endereco": {
+    "logradouro": "RUA EPAMINONDAS AZEVEDO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58500000"
+   },
+   "codigo_municipio": "250970",
+   "municipio": "Monteiro",
+   "latitude": -7.893415314513676,
+   "longitude": -37.12061405181885,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-20"
+  },
+  {
+   "cnes": "2342790",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA DAURA RIBEIRO DA SILVA",
+   "endereco": {
+    "logradouro": "RUA PRES JOAO PESSOA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58278000"
+   },
+   "codigo_municipio": "250730",
+   "municipio": "Jacaraú",
+   "latitude": -6.611962442583859,
+   "longitude": -35.292978286743164,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2363534",
+   "nome": "UNIDADE BASICA DE SAUDE CICERO ZECA",
+   "endereco": {
+    "logradouro": "RUA MANOEL JOSE DAS NEVES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58588000"
+   },
+   "codigo_municipio": "250485",
+   "municipio": "Coxixola",
+   "latitude": -7.631218930916439,
+   "longitude": -36.60444438457489,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2363836",
+   "nome": "USF III BOQUEIRAO",
+   "endereco": {
+    "logradouro": "RUA DA BARRAGEM",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58356000"
+   },
+   "codigo_municipio": "250640",
+   "municipio": "Gurinhém",
+   "latitude": -7.167662943071208,
+   "longitude": -35.435028076171875,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2363844",
+   "nome": "USF V MANECOS",
+   "endereco": {
+    "logradouro": "SITIO MANECOS",
+    "numero": "S/N",
+    "bairro": "ZONA RURAL",
+    "cep": "58356000"
+   },
+   "codigo_municipio": "250640",
+   "municipio": "Gurinhém",
+   "latitude": -7.132916362482696,
+   "longitude": -35.37117004394531,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2592835",
+   "nome": "PRONTO ATENDIMENTO 24 HRS ELZA FERNANDES DA SILVA",
+   "endereco": {
+    "logradouro": "LOTEAMENTO PATRICIO II",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58297000"
+   },
+   "codigo_municipio": "251290",
+   "municipio": "Rio Tinto",
+   "latitude": -6.8094095,
+   "longitude": -35.0764429,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2606836",
+   "nome": "UBS I DRA REGINA ANGELA FELICIANO LIMEIRA",
+   "endereco": {
+    "logradouro": "CONJUNTO ANA CELIA DE OLIVEIRA MELO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58342000"
+   },
+   "codigo_municipio": "251597",
+   "municipio": "Sobrado",
+   "latitude": -7.1445756,
+   "longitude": -35.238195,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2607921",
+   "nome": "UNIDADE MISTA VANILDO MAROJA",
+   "endereco": {
+    "logradouro": "AVENIDA OLIVIO MAROJA",
+    "numero": "360",
+    "bairro": "CENTRO",
+    "cep": "58270000"
+   },
+   "codigo_municipio": "250080",
+   "municipio": "Araçagi",
+   "latitude": -6.851297029498139,
+   "longitude": -35.38348986141168,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2608391",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA PSF I DUAS ESTRADAS",
+   "endereco": {
+    "logradouro": "RUA TIRADENTES",
+    "numero": "164",
+    "bairro": "CENTRO",
+    "cep": "58265000"
+   },
+   "codigo_municipio": "250580",
+   "municipio": "Duas Estradas",
+   "latitude": -6.6900143,
+   "longitude": -35.4183929,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2757354",
+   "nome": "FARMACIA CENTRAL DO MUNICIPIO",
+   "endereco": {
+    "logradouro": "AVENIDA BARAO DO RIO BRANCO",
+    "numero": "800",
+    "bairro": "CENTRO",
+    "cep": "58900000"
+   },
+   "codigo_municipio": "250370",
+   "municipio": "Cajazeiras",
+   "latitude": -6.88416363401288,
+   "longitude": -38.55471611022949,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2832623",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA CEL DEMOSTENES BARBOSA",
+    "numero": "407",
+    "bairro": "CENTRO",
+    "cep": "58465000"
+   },
+   "codigo_municipio": "251278",
+   "municipio": "Riacho de Santo Antônio",
+   "latitude": -7.013497550691766,
+   "longitude": -36.56254291534424,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2916282",
+   "nome": "FARMACIA BASICA CURRAL VELHO PB",
+   "endereco": {
+    "logradouro": "RUA JOSE DOMINGOS PEREIRA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58990000"
+   },
+   "codigo_municipio": "250530",
+   "municipio": "Curral Velho",
+   "latitude": -7.5380934,
+   "longitude": -38.196797,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-31"
+  },
+  {
+   "cnes": "3091864",
+   "nome": "UBS TANCREDO NEVES I",
+   "endereco": {
+    "logradouro": "RUA IRMA SIEGFRIEDA HEINRINCH",
+    "numero": "S/N",
+    "bairro": "TANCREDO NEVES",
+    "cep": "58884000"
+   },
+   "codigo_municipio": "250430",
+   "municipio": "Catolé do Rocha",
+   "latitude": -6.3324455309888705,
+   "longitude": -37.744624614715576,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-27"
+  },
+  {
+   "cnes": "3456277",
+   "nome": "CENTRO DE TESTAGEM E ACONSELHAMENTO ESPECIALIZADO EM ISTAIDS",
+   "endereco": {
+    "logradouro": "RUA ALTO CASTELIANO",
+    "numero": "1352",
+    "bairro": "JD GUANABARA",
+    "cep": "58701070"
+   },
+   "codigo_municipio": "251080",
+   "municipio": "Patos",
+   "latitude": -7.033974274485924,
+   "longitude": -37.27770835161209,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4015657",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA 06 DE JULHO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58167000"
+   },
+   "codigo_municipio": "250500",
+   "municipio": "Cubati",
+   "latitude": -6.86536338808897,
+   "longitude": -36.35234087705612,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4016017",
+   "nome": "FARMACIA ESPECIALIZADA E PRESTACAO JUDICIARIA 1 GRS PB",
+   "endereco": {
+    "logradouro": "AV MAXIMIANO FIGUEIREDO",
+    "numero": "453",
+    "bairro": "CENTRO",
+    "cep": "58040440"
+   },
+   "codigo_municipio": "250750",
+   "municipio": "João Pessoa",
+   "latitude": -7.126751050938191,
+   "longitude": -34.8712548913688,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-29"
+  },
+  {
+   "cnes": "4077946",
+   "nome": "FARMACIA BASICA DO MUNICIPIO DE RIO TINTO",
+   "endereco": {
+    "logradouro": "AVENIDA MANOEL GONCALVES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58297000"
+   },
+   "codigo_municipio": "251290",
+   "municipio": "Rio Tinto",
+   "latitude": -6.810023517101525,
+   "longitude": -35.07578372955322,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4078829",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA ANTONIO GREGORIO FILHO",
+    "numero": "S/N",
+    "bairro": "BELA VISTA",
+    "cep": "58665000"
+   },
+   "codigo_municipio": "251675",
+   "municipio": "Tenório",
+   "latitude": -6.937284,
+   "longitude": -36.630478,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4094603",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA EULINA MARIA BARBOSA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58460000"
+   },
+   "codigo_municipio": "250053",
+   "municipio": "Alcantil",
+   "latitude": -7.744055322994316,
+   "longitude": -36.055991649627686,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4191676",
+   "nome": "FARMACIA BASICA MUNICIPAL DE ALAGOA GRANDE",
+   "endereco": {
+    "logradouro": "AV 15 DE NOVEMBRO",
+    "numero": "153",
+    "bairro": "CENTRO",
+    "cep": "58388000"
+   },
+   "codigo_municipio": "250030",
+   "municipio": "Alagoa Grande",
+   "latitude": -7.04239,
+   "longitude": -35.62857,
+   "frentes": [
+    "CEAF",
+    "CESAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4194772",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA SEBASTIAO LUCENA",
+    "numero": "65",
+    "bairro": "CENTRO",
+    "cep": "58475000"
+   },
+   "codigo_municipio": "251250",
+   "municipio": "Queimadas",
+   "latitude": -7.36247,
+   "longitude": -35.89937,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4313542",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE ALHANDRA",
+   "endereco": {
+    "logradouro": "RUA NOSSA SENHORA DA ASSUNCAO",
+    "numero": "274",
+    "bairro": "CENTRO",
+    "cep": "58320000"
+   },
+   "codigo_municipio": "250060",
+   "municipio": "Alhandra",
+   "latitude": -7.434485,
+   "longitude": -34.911522,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4376692",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "NAPOLEAO F GOMES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58530000"
+   },
+   "codigo_municipio": "250390",
+   "municipio": "Camalaú",
+   "latitude": -7.889887074683232,
+   "longitude": -36.82636499404907,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4480732",
+   "nome": "CAF CAAPORA",
+   "endereco": {
+    "logradouro": "RUA SALOMAO VELOSO",
+    "numero": "00",
+    "bairro": "CENTRO",
+    "cep": "58326000"
+   },
+   "codigo_municipio": "250300",
+   "municipio": "Caaporã",
+   "latitude": -7.515629644105792,
+   "longitude": -34.91318548512541,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4503120",
+   "nome": "FARMACIA BASICA MUNICIPAL DE PICUI",
+   "endereco": {
+    "logradouro": "RUA GAUDINO PINHEIRO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58187000"
+   },
+   "codigo_municipio": "251140",
+   "municipio": "Picuí",
+   "latitude": -6.511372331969359,
+   "longitude": -36.348521411418915,
+   "frentes": [
+    "CEAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4540581",
+   "nome": "FARMACIA BOM JESUS",
+   "endereco": {
+    "logradouro": "MAXIMINO SOARES DE ALMEIDA",
+    "numero": "313",
+    "bairro": "CENTRO",
+    "cep": "58123000"
+   },
+   "codigo_municipio": "250215",
+   "municipio": "Boa Vista",
+   "latitude": -7.261975761171661,
+   "longitude": -36.24194651842117,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4548035",
+   "nome": "FARMACIA BASICA DE SERRA GRANDE PB",
+   "endereco": {
+    "logradouro": "AV PREFEITO IVO PINTO RAMALHO",
+    "numero": "S/N",
+    "bairro": "BELA VISTA",
+    "cep": "58955000"
+   },
+   "codigo_municipio": "251570",
+   "municipio": "Serra Grande",
+   "latitude": -7.2133724,
+   "longitude": -38.372934,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-11"
+  },
+  {
+   "cnes": "4750101",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA JOSE CASTOR DE ARAUJO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58155000"
+   },
+   "codigo_municipio": "251610",
+   "municipio": "Soledade",
+   "latitude": -7.059627690887893,
+   "longitude": -36.36274188339639,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4802691",
+   "nome": "CEDMEX CENTRO ESPEC DISPENSACAO DE MEDICAMENTOS EXCEPCIONAIS",
+   "endereco": {
+    "logradouro": "JUAREZ TAVORA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58300011"
+   },
+   "codigo_municipio": "251370",
+   "municipio": "Santa Rita",
+   "latitude": -7.118523010637838,
+   "longitude": -34.96467590332031,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4856082",
+   "nome": "FARMACIA BASICA SAO JOAO DO RIO DO PEIXE",
+   "endereco": {
+    "logradouro": "RUA PROJETADA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58910000"
+   },
+   "codigo_municipio": "250070",
+   "municipio": "São João do Rio do Peixe",
+   "latitude": -6.73048059338908,
+   "longitude": -38.44796419143677,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4936221",
+   "nome": "FARMACIA BASICA DE CARRAPATEIRA",
+   "endereco": {
+    "logradouro": "RUA JOSE VIEIRA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58945000"
+   },
+   "codigo_municipio": "250410",
+   "municipio": "Carrapateira",
+   "latitude": -7.037807570255287,
+   "longitude": -38.34395885467529,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4941063",
+   "nome": "FARMACIA BASICA DO MUNICIPIO DE BAIA DA TRAICAO",
+   "endereco": {
+    "logradouro": "RUA MARIA DA LUZ DE ALEXANDRIA",
+    "numero": "S/N",
+    "bairro": "LOTEAMENTO SAO FRANC",
+    "cep": "58295000"
+   },
+   "codigo_municipio": "250140",
+   "municipio": "Baía da Traição",
+   "latitude": -6.701093497583645,
+   "longitude": -34.945106506347656,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4978943",
+   "nome": "FARMACIA BASICA E CAF DE AREIAL",
+   "endereco": {
+    "logradouro": "RUA SAO JOSE",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58140000"
+   },
+   "codigo_municipio": "250120",
+   "municipio": "Areial",
+   "latitude": -7.0505104601109485,
+   "longitude": -35.92855453491211,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-31"
+  },
+  {
+   "cnes": "4982010",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA ANA GOMES DO NASCIMENTO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58818000"
+   },
+   "codigo_municipio": "251398",
+   "municipio": "São Francisco",
+   "latitude": -6.6199196,
+   "longitude": -38.095767,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5421357",
+   "nome": "FARMACIA BASICA DO MUNICIPIO",
+   "endereco": {
+    "logradouro": "PRACA SAO SEBASTIAO",
+    "numero": "58",
+    "bairro": "CENTRO",
+    "cep": "58210000"
+   },
+   "codigo_municipio": "251170",
+   "municipio": "Pilõezinhos",
+   "latitude": -6.843340059226312,
+   "longitude": -35.530906319618225,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5464242",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA ROMULO CAMPOS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58115000"
+   },
+   "codigo_municipio": "251240",
+   "municipio": "Puxinanã",
+   "latitude": -7.1474268,
+   "longitude": -35.961207,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5577837",
+   "nome": "FARMACIA BASICA DE FREI MARTINHO",
+   "endereco": {
+    "logradouro": "RUA LARGO DA GUIA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58195000"
+   },
+   "codigo_municipio": "250620",
+   "municipio": "Frei Martinho",
+   "latitude": -6.404503576289527,
+   "longitude": -36.45220756530762,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5815428",
+   "nome": "FARMACIA BASICA II FRANCISCA BANDEIRA DE OLIVEIRA",
+   "endereco": {
+    "logradouro": "AVENIDA MINISTRO JOSE AMERICO DE ALMEIDA",
+    "numero": "S/N",
+    "bairro": "SAO JOSE",
+    "cep": "58900000"
+   },
+   "codigo_municipio": "250370",
+   "municipio": "Cajazeiras",
+   "latitude": -6.8904645,
+   "longitude": -38.56053,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "5825164",
+   "nome": "FARMACIA BASICA DE MATA REDONDA",
+   "endereco": {
+    "logradouro": "RUA JOSE JOAO DA SILVA",
+    "numero": "S/N",
+    "bairro": "MATA REDONDA",
+    "cep": "58320000"
+   },
+   "codigo_municipio": "250060",
+   "municipio": "Alhandra",
+   "latitude": -7.35049,
+   "longitude": -34.946201,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "5825210",
+   "nome": "FARMACIA BASICA DE ALHANDRA",
+   "endereco": {
+    "logradouro": "RUA NOSSA SENHORA DA ASSUNCAO",
+    "numero": "264",
+    "bairro": "CENTRO",
+    "cep": "58320000"
+   },
+   "codigo_municipio": "250060",
+   "municipio": "Alhandra",
+   "latitude": -7.436734,
+   "longitude": -34.913574,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "5971888",
+   "nome": "FARMACIA POPULAR DO BRASIL UNIDADE CRUZ DAS ARMAS",
+   "endereco": {
+    "logradouro": "AV CRUZ DAS ARMAS",
+    "numero": "838",
+    "bairro": "CRUZ DAS ARMAS",
+    "cep": "58085000"
+   },
+   "codigo_municipio": "250750",
+   "municipio": "João Pessoa",
+   "latitude": -7.1397256,
+   "longitude": -34.8918095,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "6271251",
+   "nome": "SECRETARIA MUNICIPAL DE SAUDE DE SANTA HELENA",
+   "endereco": {
+    "logradouro": "RUA ELAINE SAORES BRASILEIRO",
+    "numero": "01",
+    "bairro": "CENTRO",
+    "cep": "58925000"
+   },
+   "codigo_municipio": "251330",
+   "municipio": "Santa Helena",
+   "latitude": -6.719420683714806,
+   "longitude": -38.637794852256775,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6513581",
+   "nome": "FARMACIA BASICA MUNICIPAL DE ESPERANCA E CAF",
+   "endereco": {
+    "logradouro": "RUA JUSCELINO KUBITSCHEK",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58135000"
+   },
+   "codigo_municipio": "250600",
+   "municipio": "Esperança",
+   "latitude": -7.017959,
+   "longitude": -35.862056,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-10"
+  },
+  {
+   "cnes": "6565271",
+   "nome": "ASSISTENCIA FARMACEUTICA E PRESTACAO JUDICIARIA 3 GRS PB",
+   "endereco": {
+    "logradouro": "RUA EUTESIA VITAL RIBEIRO",
+    "numero": "380",
+    "bairro": "CATOLE",
+    "cep": "58410205"
+   },
+   "codigo_municipio": "250400",
+   "municipio": "Campina Grande",
+   "latitude": -7.237542,
+   "longitude": -35.873567,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-29"
+  },
+  {
+   "cnes": "6589804",
+   "nome": "FARMACIA BASICA DE POCINHOS",
+   "endereco": {
+    "logradouro": "RUA PADRE ANTONIO GALDINO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58150000"
+   },
+   "codigo_municipio": "251200",
+   "municipio": "Pocinhos",
+   "latitude": -7.076958611163605,
+   "longitude": -36.06112003326416,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6603734",
+   "nome": "ASSISTENCIA FARMACEUTICA E PRESTACAO JUDICIARIA 7 GRS PB",
+   "endereco": {
+    "logradouro": "R PEDRO JERONIMO ANGELO",
+    "numero": "S/N",
+    "bairro": "OURO BRANCO",
+    "cep": "58765000"
+   },
+   "codigo_municipio": "251130",
+   "municipio": "Piancó",
+   "latitude": -7.198963563392013,
+   "longitude": -37.922042803499416,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-29"
+  },
+  {
+   "cnes": "6749550",
+   "nome": "FARMACIA MUNICIPAL DE ARARUNA",
+   "endereco": {
+    "logradouro": "R PROF JOAO MOREIRA",
+    "numero": "21",
+    "bairro": "CENTRO",
+    "cep": "58233000"
+   },
+   "codigo_municipio": "250100",
+   "municipio": "Araruna",
+   "latitude": -6.559,
+   "longitude": -35.743,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6861377",
+   "nome": "FARMACIA BASICA DE PRINCESA ISABEL",
+   "endereco": {
+    "logradouro": "RUA PEDRO SOBREIRA DUARTE",
+    "numero": "75",
+    "bairro": "CENTRO",
+    "cep": "58755000"
+   },
+   "codigo_municipio": "251230",
+   "municipio": "Princesa Isabel",
+   "latitude": -7.735614234137614,
+   "longitude": -37.99492835998535,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6882218",
+   "nome": "FARMACIA BASICA MUNICIPAL DE IGARACY",
+   "endereco": {
+    "logradouro": "RUA PRESIDENTE JOAO PESSOA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58775000"
+   },
+   "codigo_municipio": "250260",
+   "municipio": "Igaracy",
+   "latitude": -7.1808199645850035,
+   "longitude": -38.14903736114502,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6900607",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA ANTONIO CAETANO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58745000"
+   },
+   "codigo_municipio": "250670",
+   "municipio": "Imaculada",
+   "latitude": -7.390241,
+   "longitude": -37.511162,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7043090",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA CEL JOAO LEITE",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58840000"
+   },
+   "codigo_municipio": "251210",
+   "municipio": "Pombal",
+   "latitude": -6.7688047447510025,
+   "longitude": -37.80165910720825,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7173466",
+   "nome": "FARMACIA BASICA MUNICIPAL DE ITATUBA",
+   "endereco": {
+    "logradouro": "RUA JOAO LACERDA",
+    "numero": "60",
+    "bairro": "CENTRO",
+    "cep": "58378000"
+   },
+   "codigo_municipio": "250720",
+   "municipio": "Itatuba",
+   "latitude": -7.3771065,
+   "longitude": -35.6295888,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7177135",
+   "nome": "FARMACIA BASICA CENTRAL",
+   "endereco": {
+    "logradouro": "RUA ANTONIO PEREIRA BAE",
+    "numero": "200",
+    "bairro": "CENTRO",
+    "cep": "58540000"
+   },
+   "codigo_municipio": "251630",
+   "municipio": "Sumé",
+   "latitude": -7.672832334677578,
+   "longitude": -36.87784194946289,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7190425",
+   "nome": "FARMACIA CENTRAL DE AGUA BRANCA PB",
+   "endereco": {
+    "logradouro": "RUA JOSE PEDRO FIRMINO",
+    "numero": "14",
+    "bairro": "CENTRO",
+    "cep": "58748000"
+   },
+   "codigo_municipio": "250010",
+   "municipio": "Água Branca",
+   "latitude": -7.5150924,
+   "longitude": -37.6389947,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-06"
+  },
+  {
+   "cnes": "7213239",
+   "nome": "FARMACIA BASICA MUNICIPAL DE CACIMBAS",
+   "endereco": {
+    "logradouro": "RUA JOSE LAURINDO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58698000"
+   },
+   "codigo_municipio": "250355",
+   "municipio": "Cacimbas",
+   "latitude": -7.211,
+   "longitude": -37.058,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7214537",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVENIDA FELIPE MEDEIROS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58600000"
+   },
+   "codigo_municipio": "251340",
+   "municipio": "Santa Luzia",
+   "latitude": -6.872968789610407,
+   "longitude": -36.91810727119446,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-23"
+  },
+  {
+   "cnes": "7254210",
+   "nome": "FARMACIA BASICA ARARA PB",
+   "endereco": {
+    "logradouro": "RUA HERMES LIRA",
+    "numero": "20",
+    "bairro": "CENTRO",
+    "cep": "58396000"
+   },
+   "codigo_municipio": "250090",
+   "municipio": "Arara",
+   "latitude": -6.8305866,
+   "longitude": -35.7613918,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7256051",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA SAO SEBASTIAO",
+    "numero": "4",
+    "bairro": "CENTRO",
+    "cep": "58740000"
+   },
+   "codigo_municipio": "250870",
+   "municipio": "Mãe d'Água",
+   "latitude": -7.257843684701175,
+   "longitude": -37.4273219704628,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7258690",
+   "nome": "FARMACIA MUNICIPAL DE SAO MIGUEL DE TAIPU",
+   "endereco": {
+    "logradouro": "RUA EMILIA AGUSTA",
+    "numero": "20",
+    "bairro": "CENTRO",
+    "cep": "58334000"
+   },
+   "codigo_municipio": "251500",
+   "municipio": "São Miguel de Taipu",
+   "latitude": -7.249772611420172,
+   "longitude": -35.20957048771579,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7258712",
+   "nome": "FARMACIA BASICA DE LIVRAMENTO",
+   "endereco": {
+    "logradouro": "RUA JOSE MARINHEIRO DE BRITO",
+    "numero": "119",
+    "bairro": "CENTRO",
+    "cep": "58690000"
+   },
+   "codigo_municipio": "250850",
+   "municipio": "Livramento",
+   "latitude": -7.3744052113750085,
+   "longitude": -36.94494009017944,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7265549",
+   "nome": "FARMACIA BASICA MUNICIPAL DE TEIXEIRA",
+   "endereco": {
+    "logradouro": "RUA PRACA PEDRO BATISTA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58735000"
+   },
+   "codigo_municipio": "251670",
+   "municipio": "Teixeira",
+   "latitude": -7.221305,
+   "longitude": -37.252053,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7304218",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "JOSE MESQUITA",
+    "numero": "245",
+    "bairro": "CENTRO",
+    "cep": "58830000"
+   },
+   "codigo_municipio": "250740",
+   "municipio": "Jericó",
+   "latitude": -6.554,
+   "longitude": -37.809,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7334559",
+   "nome": "FARMACIA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA JOSE RODRIGUES COURA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58119000"
+   },
+   "codigo_municipio": "251510",
+   "municipio": "São Sebastião de Lagoa de Roça",
+   "latitude": -7.082899654214137,
+   "longitude": -35.83512783050537,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7344198",
+   "nome": "FARMACIA BASICA DE SAO JOSE DE ESPINHARAS",
+   "endereco": {
+    "logradouro": "RUA CAPITAO CAZUZA SATIRO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58723000"
+   },
+   "codigo_municipio": "251440",
+   "municipio": "São José de Espinharas",
+   "latitude": -6.847992472333355,
+   "longitude": -37.324528992176056,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7377487",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA CAPITAO MANOEL ARAUJO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58815000"
+   },
+   "codigo_municipio": "251420",
+   "municipio": "São José da Lagoa Tapada",
+   "latitude": -6.941965721652817,
+   "longitude": -38.16280514001846,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-08"
+  },
+  {
+   "cnes": "7393938",
+   "nome": "FARMACIA BASICA DE AREIA DE BARAUNAS",
+   "endereco": {
+    "logradouro": "RUA VALDECI SALES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58732000"
+   },
+   "codigo_municipio": "250115",
+   "municipio": "Areia de Baraúnas",
+   "latitude": -7.123,
+   "longitude": -36.941,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7433298",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA ANTONIO MOREIRA PINTO",
+    "numero": "00",
+    "bairro": "CENTRO",
+    "cep": "58822000"
+   },
+   "codigo_municipio": "251720",
+   "municipio": "Vieirópolis",
+   "latitude": -6.544186,
+   "longitude": -38.276364,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7450141",
+   "nome": "FARMACIA BASICA DO MUNICIPIO DE LAGOA",
+   "endereco": {
+    "logradouro": "RUA ISABEL PEREIRA",
+    "numero": "72",
+    "bairro": "CENTRO",
+    "cep": "58835000"
+   },
+   "codigo_municipio": "250810",
+   "municipio": "Lagoa",
+   "latitude": -6.590788249396105,
+   "longitude": -37.91462302207947,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7452470",
+   "nome": "FARMACIA BASICA DE VISTA SERRANA",
+   "endereco": {
+    "logradouro": "RUA JOSE AQUILINO DE FARIAS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58710000"
+   },
+   "codigo_municipio": "250550",
+   "municipio": "Vista Serrana",
+   "latitude": -6.7374648285521,
+   "longitude": -37.568119168281555,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7460724",
+   "nome": "FARMACIA BASICA DE MATUREIA",
+   "endereco": {
+    "logradouro": "AVENIDA MARIINHA DANTAS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58737000"
+   },
+   "codigo_municipio": "250939",
+   "municipio": "Maturéia",
+   "latitude": -7.26686608979452,
+   "longitude": -37.34483063220978,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-05"
+  },
+  {
+   "cnes": "7484046",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA TERTULINO AIRES DE QUEIROZ",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58575000"
+   },
+   "codigo_municipio": "251065",
+   "municipio": "Parari",
+   "latitude": -7.321073858123585,
+   "longitude": -36.655991077423096,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7486367",
+   "nome": "FARMACIA BASICA DE BOA VISTA",
+   "endereco": {
+    "logradouro": "MAXIMINO SOARES DE ALMEIDA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58123000"
+   },
+   "codigo_municipio": "250215",
+   "municipio": "Boa Vista",
+   "latitude": -7.267102888904842,
+   "longitude": -36.243242025375366,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7497180",
+   "nome": "FARMACIA MUNICIPAL DE JUAZEIRINHO",
+   "endereco": {
+    "logradouro": "PRACA JOSE VITAL GUEDES",
+    "numero": "10",
+    "bairro": "CENTRO",
+    "cep": "58660000"
+   },
+   "codigo_municipio": "250770",
+   "municipio": "Juazeirinho",
+   "latitude": -7.068,
+   "longitude": -36.578,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7507011",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA JOSE JOAO DE ALMEIDA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58857000"
+   },
+   "codigo_municipio": "251392",
+   "municipio": "São Bentinho",
+   "latitude": -6.8936763,
+   "longitude": -37.721509,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7568797",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "PRESIDENTE JOAO PESSOA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58125000"
+   },
+   "codigo_municipio": "250040",
+   "municipio": "Alagoa Nova",
+   "latitude": -7.071038786104624,
+   "longitude": -35.75800895690918,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-18"
+  },
+  {
+   "cnes": "7660073",
+   "nome": "UNIDADE DE DISPENSACAO DE MEDICAMENTOS",
+   "endereco": {
+    "logradouro": "RUA PETRONILO RIBEIRO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58890000"
+   },
+   "codigo_municipio": "250280",
+   "municipio": "Brejo do Cruz",
+   "latitude": -6.350828863155129,
+   "longitude": -37.49287247657776,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7663730",
+   "nome": "FARMACIA BASICA DE SANTANA DE MANGUEIRA",
+   "endereco": {
+    "logradouro": "RUA DR NELSON RIBEIRO LOPES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58985000"
+   },
+   "codigo_municipio": "251350",
+   "municipio": "Santana de Mangueira",
+   "latitude": -7.550059303649864,
+   "longitude": -38.33323001861572,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7664605",
+   "nome": "FARMACIA BASICA DE IBIARA",
+   "endereco": {
+    "logradouro": "RUA OZORIO PINTO RAMALHO",
+    "numero": "212",
+    "bairro": "CENTRO",
+    "cep": "58980000"
+   },
+   "codigo_municipio": "250660",
+   "municipio": "Ibiara",
+   "latitude": -7.497621529328646,
+   "longitude": -38.404340744018555,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7665466",
+   "nome": "FARMACIA BASICA DE SANTA INES",
+   "endereco": {
+    "logradouro": "AVENDIA 29 DE ABRIL",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58978000"
+   },
+   "codigo_municipio": "251335",
+   "municipio": "Santa Inês",
+   "latitude": -7.6273239,
+   "longitude": -38.5595262,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7666772",
+   "nome": "HOSPITAL GERAL DE MAMANGUAPE",
+   "endereco": {
+    "logradouro": "WALFRIDO DE ALMEIDA",
+    "numero": "S/N",
+    "bairro": "AREAL",
+    "cep": "58280000"
+   },
+   "codigo_municipio": "250890",
+   "municipio": "Mamanguape",
+   "latitude": -6.839041796407209,
+   "longitude": -35.138611793518066,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "7705158",
+   "nome": "FARMACIA CENTRAL DE JURU PB",
+   "endereco": {
+    "logradouro": "RUA MANOEL CARNEIRO",
+    "numero": "248",
+    "bairro": "CENTRO",
+    "cep": "58750000"
+   },
+   "codigo_municipio": "250800",
+   "municipio": "Juru",
+   "latitude": -7.537051498001464,
+   "longitude": -37.818530201911926,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-06"
+  },
+  {
+   "cnes": "7707010",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA VEREADOR MANOEL ALVES RIBEIRO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58993000"
+   },
+   "codigo_municipio": "250210",
+   "municipio": "Boa Ventura",
+   "latitude": -7.4204105803232965,
+   "longitude": -38.217594623565674,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7717385",
+   "nome": "FARMACIA BASICA DE REMIGIO",
+   "endereco": {
+    "logradouro": "FAVIO RIBEIRO COUTINHO",
+    "numero": "09",
+    "bairro": "CENTRO",
+    "cep": "58398000"
+   },
+   "codigo_municipio": "251270",
+   "municipio": "Remígio",
+   "latitude": -6.967237928463302,
+   "longitude": -35.79559475183487,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7734816",
+   "nome": "FARMACIA BASICA DE CONCEICAO",
+   "endereco": {
+    "logradouro": "RUA PE MANOEL OTAVIANO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58970000"
+   },
+   "codigo_municipio": "250440",
+   "municipio": "Conceição",
+   "latitude": -7.557546857326928,
+   "longitude": -38.50540637969971,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7742770",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA DUQUE DE CAXIAS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58100263"
+   },
+   "codigo_municipio": "250320",
+   "municipio": "Cabedelo",
+   "latitude": -6.9711023,
+   "longitude": -34.838058,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7780869",
+   "nome": "FARMACIA BASICA DE SAUDE DE PEDRA BRANCA",
+   "endereco": {
+    "logradouro": "AV ADAUTO OLIVEIRA",
+    "numero": "750",
+    "bairro": "CENTRO",
+    "cep": "58790000"
+   },
+   "codigo_municipio": "251100",
+   "municipio": "Pedra Branca",
+   "latitude": -7.4304571,
+   "longitude": -38.0711555,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7780877",
+   "nome": "FARMACIA BASICA DE SAUDE DE MARI",
+   "endereco": {
+    "logradouro": "MANOEL AVELINO DE PAIVA",
+    "numero": "81",
+    "bairro": "CENTRO",
+    "cep": "58345000"
+   },
+   "codigo_municipio": "250910",
+   "municipio": "Mari",
+   "latitude": -7.060561787493429,
+   "longitude": -35.315948724746704,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7785798",
+   "nome": "FARMACIA BASICA DE SAUDE SAO JOSE DO SABUGI",
+   "endereco": {
+    "logradouro": "RUA JOVENTINO JOSIAS DE ARAUJO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58610000"
+   },
+   "codigo_municipio": "251470",
+   "municipio": "São José do Sabugi",
+   "latitude": -6.776,
+   "longitude": -36.799,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7813600",
+   "nome": "FARMACIA BASICA DE RIACHAO DO POCO",
+   "endereco": {
+    "logradouro": "RUA JOAO FERREIRA ALVES",
+    "numero": "1",
+    "bairro": "CENTRO",
+    "cep": "58348000"
+   },
+   "codigo_municipio": "251276",
+   "municipio": "Riachão do Poço",
+   "latitude": -7.1465425,
+   "longitude": -35.2637743,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-08"
+  },
+  {
+   "cnes": "7862229",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA NOSSA SENHORA DA CONCEICAO",
+    "numero": "00000",
+    "bairro": "CENTRO",
+    "cep": "58170000"
+   },
+   "codigo_municipio": "250160",
+   "municipio": "Barra de Santa Rosa",
+   "latitude": -6.721929962753198,
+   "longitude": -36.058529019355774,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7866542",
+   "nome": "FARMACIA ATENCAO BASICA SERRARIA",
+   "endereco": {
+    "logradouro": "RUA PEDRO GODIM",
+    "numero": "80",
+    "bairro": "CENTRO",
+    "cep": "58395000"
+   },
+   "codigo_municipio": "251590",
+   "municipio": "Serraria",
+   "latitude": -6.819717778107013,
+   "longitude": -35.63291072845459,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7963963",
+   "nome": "FARMACIA ATENCAO BASICA",
+   "endereco": {
+    "logradouro": "BENJAMIM SOBRINHO",
+    "numero": "2",
+    "bairro": "CENTRO",
+    "cep": "58393000"
+   },
+   "codigo_municipio": "251160",
+   "municipio": "Pilões",
+   "latitude": -6.8655799,
+   "longitude": -35.6103627,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "8014140",
+   "nome": "REDEPHARMA CENTRO",
+   "endereco": {
+    "logradouro": "RUA CORONEL BATISTA CARNEIRO",
+    "numero": "157",
+    "bairro": "CENTRO",
+    "cep": "58280000"
+   },
+   "codigo_municipio": "250890",
+   "municipio": "Mamanguape",
+   "latitude": -6.8380614,
+   "longitude": -35.1237874,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-17"
+  },
+  {
+   "cnes": "8034567",
+   "nome": "FARMACIA BASICA MUNICIPAL DE SOSSEGO",
+   "endereco": {
+    "logradouro": "RUA HORACIO FERREIRA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58177000"
+   },
+   "codigo_municipio": "251615",
+   "municipio": "Sossêgo",
+   "latitude": -6.767239,
+   "longitude": -36.247585,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-17"
+  },
+  {
+   "cnes": "8051232",
+   "nome": "FARMACIA BASICA DISTRITAL 1",
+   "endereco": {
+    "logradouro": "DISTRITO DE SANTA GERTRUDES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58704470"
+   },
+   "codigo_municipio": "251080",
+   "municipio": "Patos",
+   "latitude": -7.02556,
+   "longitude": -37.23264779,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-17"
+  },
+  {
+   "cnes": "8220492",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA IZABEL LEOPOLDINA",
+    "numero": "200",
+    "bairro": "CENTRO",
+    "cep": "58620000"
+   },
+   "codigo_municipio": "251710",
+   "municipio": "Várzea",
+   "latitude": -6.771422971473735,
+   "longitude": -36.98948621749878,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-16"
+  },
+  {
+   "cnes": "8223114",
+   "nome": "DROGARIA SEVERINO CHOLE",
+   "endereco": {
+    "logradouro": "RUA MANOEL MARINHO",
+    "numero": "16",
+    "bairro": "CENTRO",
+    "cep": "58620000"
+   },
+   "codigo_municipio": "251710",
+   "municipio": "Várzea",
+   "latitude": -6.772152769676711,
+   "longitude": -36.9900307059288,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-16"
+  },
+  {
+   "cnes": "8250243",
+   "nome": "FARMACIA BASICA DO MUNICIPIO DE CAPIM",
+   "endereco": {
+    "logradouro": "RUA LUIZ VIEIRA",
+    "numero": "050",
+    "bairro": "CENTRO",
+    "cep": "58287000"
+   },
+   "codigo_municipio": "250403",
+   "municipio": "Capim",
+   "latitude": -6.910195152427,
+   "longitude": -35.16796588897705,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "8276242",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA CONEGO JOSE RODRIGUES FIDELIS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58399000"
+   },
+   "codigo_municipio": "250057",
+   "municipio": "Algodão de Jandaíra",
+   "latitude": -6.904694,
+   "longitude": -36.006093,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8277508",
+   "nome": "FARMACIA FARMAVIDA",
+   "endereco": {
+    "logradouro": "RUA ODILON FRANCISCO OLIVEIRA",
+    "numero": "45",
+    "bairro": "CENTRO",
+    "cep": "58933000"
+   },
+   "codigo_municipio": "251203",
+   "municipio": "Poço Dantas",
+   "latitude": -6.404883,
+   "longitude": -38.497121,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8285861",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA JOSEFA FERREIRA SANTOS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58173000"
+   },
+   "codigo_municipio": "250535",
+   "municipio": "Damião",
+   "latitude": -6.631870206172686,
+   "longitude": -35.91025114059448,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8295646",
+   "nome": "DROGARIA NOSSA SENHORA DE FATIMA",
+   "endereco": {
+    "logradouro": "FELIPE RODRIGUES",
+    "numero": "18",
+    "bairro": "CENTRO",
+    "cep": "58270000"
+   },
+   "codigo_municipio": "250080",
+   "municipio": "Araçagi",
+   "latitude": -6.852533217026558,
+   "longitude": -35.38094418948522,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "8295654",
+   "nome": "FARMACIA DESCONTAO",
+   "endereco": {
+    "logradouro": "PROFESSORA MARIA DO CARMO",
+    "numero": "49",
+    "bairro": "CENTRO",
+    "cep": "58270000"
+   },
+   "codigo_municipio": "250080",
+   "municipio": "Araçagi",
+   "latitude": -6.852966549491969,
+   "longitude": -35.38009407849616,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "8297460",
+   "nome": "DROGARIA POPULAR",
+   "endereco": {
+    "logradouro": "SEVERINO JERONIMO CARVALHO",
+    "numero": "37",
+    "bairro": "CENTRO",
+    "cep": "58819000"
+   },
+   "codigo_municipio": "250915",
+   "municipio": "Marizópolis",
+   "latitude": -6.8447941096371485,
+   "longitude": -38.35524559020996,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8302383",
+   "nome": "FARMACIA BASICA MUNICIPAL DE BORBOREMA",
+   "endereco": {
+    "logradouro": "RUA ARTHUR TINICO FILHO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58394000"
+   },
+   "codigo_municipio": "250270",
+   "municipio": "Borborema",
+   "latitude": -6.8043057,
+   "longitude": -35.599366,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8328978",
+   "nome": "CENTRO DE ABASTECIMENTO FARMACEUTICO CAF EM PITIMBU FARMA",
+   "endereco": {
+    "logradouro": "RUA DAS OLIVEIRAS",
+    "numero": "224",
+    "bairro": "CENTRO",
+    "cep": "58324000"
+   },
+   "codigo_municipio": "251190",
+   "municipio": "Pitimbu",
+   "latitude": -7.473011802453275,
+   "longitude": -34.80896598465931,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8340110",
+   "nome": "FARMACIA VELOSO",
+   "endereco": {
+    "logradouro": "SAO PAULO",
+    "numero": "84",
+    "bairro": "CENTRO",
+    "cep": "58330000"
+   },
+   "codigo_municipio": "250790",
+   "municipio": "Juripiranga",
+   "latitude": -7.3656251383786095,
+   "longitude": -35.2376775838486,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8351104",
+   "nome": "CAF",
+   "endereco": {
+    "logradouro": "RUA MANOEL ALVES",
+    "numero": "205",
+    "bairro": "CENTRO",
+    "cep": "58322000"
+   },
+   "codigo_municipio": "250460",
+   "municipio": "Conde",
+   "latitude": -7.268757818528866,
+   "longitude": -34.90556001663208,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8358206",
+   "nome": "FARMACIA DO TRABALHADOR DO VALE",
+   "endereco": {
+    "logradouro": "AVENIDA RUI CARNEIRO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58280000"
+   },
+   "codigo_municipio": "250890",
+   "municipio": "Mamanguape",
+   "latitude": -6.83972355566848,
+   "longitude": -35.132431983947754,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-15"
+  },
+  {
+   "cnes": "8422001",
+   "nome": "FARMACIA BASICA DE CUITE",
+   "endereco": {
+    "logradouro": "RUA JOSE VITORINO DE MEDEIROS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58175000"
+   },
+   "codigo_municipio": "250510",
+   "municipio": "Cuité",
+   "latitude": -6.485244904062009,
+   "longitude": -36.14918231964111,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-13"
+  },
+  {
+   "cnes": "9003061",
+   "nome": "FARMACIA MUNICIPAL DE SANTO ANDRE",
+   "endereco": {
+    "logradouro": "RUA HUMBERTO MATIAS DE MEDEIROS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58675000"
+   },
+   "codigo_municipio": "251385",
+   "municipio": "Santo André",
+   "latitude": -7.218,
+   "longitude": -36.633,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9011218",
+   "nome": "FARMACIA BASICA DE BANANEIRAS",
+   "endereco": {
+    "logradouro": "RODOVIA PB 105",
+    "numero": "398",
+    "bairro": "CENTRO",
+    "cep": "58220000"
+   },
+   "codigo_municipio": "250150",
+   "municipio": "Bananeiras",
+   "latitude": -6.75,
+   "longitude": -35.633,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9022244",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVENIDA BEZERRA CABRAL",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58455000"
+   },
+   "codigo_municipio": "250435",
+   "municipio": "Caturité",
+   "latitude": -7.422559649922496,
+   "longitude": -36.01947069168091,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9061851",
+   "nome": "FARMACIA BASICA DISTRITAL DE TABULEIRO",
+   "endereco": {
+    "logradouro": "TABULEIRO",
+    "numero": "1",
+    "bairro": "Z RURAL",
+    "cep": "58220000"
+   },
+   "codigo_municipio": "250150",
+   "municipio": "Bananeiras",
+   "latitude": -6.696307826843578,
+   "longitude": -35.63538830290653,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9062084",
+   "nome": "FARMACIA BASICA DISTRITAL DE ROMA",
+   "endereco": {
+    "logradouro": "RUA MANOEL GOMES DA SILVA",
+    "numero": "85",
+    "bairro": "Z RURAL",
+    "cep": "58220000"
+   },
+   "codigo_municipio": "250150",
+   "municipio": "Bananeiras",
+   "latitude": -6.75175649355173,
+   "longitude": -35.56612013434447,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9062106",
+   "nome": "FARMACIA BASICA DISTRITAL DE VILA MAIA",
+   "endereco": {
+    "logradouro": "RUA DIONISIO MAIA",
+    "numero": "1",
+    "bairro": "Z RURAL",
+    "cep": "58220000"
+   },
+   "codigo_municipio": "250150",
+   "municipio": "Bananeiras",
+   "latitude": -6.751696848935884,
+   "longitude": -35.6381497046112,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "9068309",
+   "nome": "ASSISTENCIA FARMACEUTICA E PRESTACAO JUDICIARIA 2 GRS PB",
+   "endereco": {
+    "logradouro": "RUA PADRE HILDEBRANDO MARQUES",
+    "numero": "S/N",
+    "bairro": "NOVO",
+    "cep": "58200000"
+   },
+   "codigo_municipio": "250630",
+   "municipio": "Guarabira",
+   "latitude": -6.851479630998248,
+   "longitude": -35.492535480895825,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-29"
+  },
+  {
+   "cnes": "9068317",
+   "nome": "ASSISTENCIA FARMACEUTICA E PRESTACAO JUDICIARIA 5 GRS PB",
+   "endereco": {
+    "logradouro": "RUA MARIA SALETE DE ALMEIDA",
+    "numero": "58",
+    "bairro": "CENTRO",
+    "cep": "58500000"
+   },
+   "codigo_municipio": "250970",
+   "municipio": "Monteiro",
+   "latitude": -7.891660095174414,
+   "longitude": -37.12400524513199,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-29"
+  },
+  {
+   "cnes": "9068325",
+   "nome": "ASSISTENCIA FARMACEUTICA E PRESTACAO JUDICIARIA 6 GRS PB",
+   "endereco": {
+    "logradouro": "RUA HORACIO NOBREGA",
+    "numero": "S/N",
+    "bairro": "BELO HORIZONTE",
+    "cep": "58704000"
+   },
+   "codigo_municipio": "251080",
+   "municipio": "Patos",
+   "latitude": -7.026766959192234,
+   "longitude": -37.27720312305113,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-29"
+  },
+  {
+   "cnes": "9068473",
+   "nome": "ASSISTENCIA FARMACEUTICA E PRESTACAO JUDICIARIA 9 GRS PB",
+   "endereco": {
+    "logradouro": "AV DR JOSE MOREIRA DE FIGUEIREDO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58900000"
+   },
+   "codigo_municipio": "250370",
+   "municipio": "Cajazeiras",
+   "latitude": -6.892872921181239,
+   "longitude": -38.56470990179997,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-29"
+  },
+  {
+   "cnes": "9068597",
+   "nome": "ASSISTENCIA FARMACEUTICA E PRESTACAO JUDICIARIA 10 GRS PB",
+   "endereco": {
+    "logradouro": "RUA JOSE FACUNDO DE LIRA",
+    "numero": "433",
+    "bairro": "GATO PRETO",
+    "cep": "58800860"
+   },
+   "codigo_municipio": "251620",
+   "municipio": "Sousa",
+   "latitude": -6.759834245485914,
+   "longitude": -38.22883189268017,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-29"
+  },
+  {
+   "cnes": "9068619",
+   "nome": "ASSISTENCIA FARMACEUTICA E PRESTACAO JUDICIARIA 11 GRS PB",
+   "endereco": {
+    "logradouro": "RUA PROFESSOR ROSAS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58755000"
+   },
+   "codigo_municipio": "251230",
+   "municipio": "Princesa Isabel",
+   "latitude": -7.73663950905445,
+   "longitude": -37.99261177720918,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-29"
+  },
+  {
+   "cnes": "9068643",
+   "nome": "CEDMEX CEAF 13 GRS POMBAL",
+   "endereco": {
+    "logradouro": "RUA CEL JOAO LEITE",
+    "numero": "294",
+    "bairro": "CENTRO",
+    "cep": "58840000"
+   },
+   "codigo_municipio": "251210",
+   "municipio": "Pombal",
+   "latitude": -6.773570676001166,
+   "longitude": -37.79990281088975,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9069275",
+   "nome": "FARMACIA BASICA MUNICIPAL MULUNGU",
+   "endereco": {
+    "logradouro": "RUA DR ACHILLES LEAL",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58354000"
+   },
+   "codigo_municipio": "250980",
+   "municipio": "Mulungu",
+   "latitude": -7.034107375563879,
+   "longitude": -35.46583592891693,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9104739",
+   "nome": "CEDMEX CEAF 1 GRS UNIDADE ESCLEROSE MULTIPLA",
+   "endereco": {
+    "logradouro": "RUA DR ORESTES LISBOA",
+    "numero": "S/N",
+    "bairro": "PEDRO GONDIM",
+    "cep": "58031090"
+   },
+   "codigo_municipio": "250750",
+   "municipio": "João Pessoa",
+   "latitude": -7.115304257314669,
+   "longitude": -34.84555258260546,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9121986",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVENIDA SENADOR RUI CARNEIRO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58158000"
+   },
+   "codigo_municipio": "251540",
+   "municipio": "São Vicente do Seridó",
+   "latitude": -6.934790910482145,
+   "longitude": -36.39952873947456,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9154485",
+   "nome": "FARMACIA BASICA DE SAO DOMINGOS",
+   "endereco": {
+    "logradouro": "RUA CASSIANO BARBOSA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58853000"
+   },
+   "codigo_municipio": "251396",
+   "municipio": "São Domingos",
+   "latitude": -6.8159249,
+   "longitude": -37.942602,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9167978",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA VALENTIM VINAGRE",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58385000"
+   },
+   "codigo_municipio": "251580",
+   "municipio": "Serra Redonda",
+   "latitude": -7.1781374959225674,
+   "longitude": -35.67503213882446,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9170863",
+   "nome": "CAF CENTRAL DE ASSISTENCIA FARMACEUTICA DE UMBUZEIRO",
+   "endereco": {
+    "logradouro": "RUA SEVERINO BEZERRA DA SILVA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58497000"
+   },
+   "codigo_municipio": "251700",
+   "municipio": "Umbuzeiro",
+   "latitude": -7.696383282322854,
+   "longitude": -35.66445350646973,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9171118",
+   "nome": "FARMACIA BASICA DE CACIMBA DE AREIA PB",
+   "endereco": {
+    "logradouro": "RUA CAPITAO SILVINO XAVIER",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58730000"
+   },
+   "codigo_municipio": "250340",
+   "municipio": "Cacimba de Areia",
+   "latitude": -7.128701,
+   "longitude": -37.1566416,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9185186",
+   "nome": "FARMACIA BASICA DE DESTERRO",
+   "endereco": {
+    "logradouro": "RUA FRANCISCO LEITE FERREIRA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58695000"
+   },
+   "codigo_municipio": "250540",
+   "municipio": "Desterro",
+   "latitude": -7.2885667,
+   "longitude": -37.0864265,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9187448",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA DO CRUZEIRO",
+    "numero": "156",
+    "bairro": "CENTRO",
+    "cep": "58994000"
+   },
+   "codigo_municipio": "250560",
+   "municipio": "Diamante",
+   "latitude": -7.428,
+   "longitude": -38.264,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9219226",
+   "nome": "FARMACIA BASICA DE COREMAS",
+   "endereco": {
+    "logradouro": "RUA SANTA RITA DE CASSIA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58770000"
+   },
+   "codigo_municipio": "250480",
+   "municipio": "Coremas",
+   "latitude": -7.0143658,
+   "longitude": -37.9467845,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "9241671",
+   "nome": "FARMACIA BASICA ALCIDES CAETANO DE FREITAS",
+   "endereco": {
+    "logradouro": "JUSTINO FRAGOSO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58887000"
+   },
+   "codigo_municipio": "250230",
+   "municipio": "Bom Sucesso",
+   "latitude": -6.446936087243864,
+   "longitude": -37.92829155921936,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9255117",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "PRACA PREFEITO ANTONIO GOMES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58463000"
+   },
+   "codigo_municipio": "251315",
+   "municipio": "Santa Cecília",
+   "latitude": -7.746156,
+   "longitude": -35.87871,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-13"
+  },
+  {
+   "cnes": "9261591",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA FELIX FERREIRA RAPOSO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58520000"
+   },
+   "codigo_municipio": "251410",
+   "municipio": "São João do Tigre",
+   "latitude": -8.079115159277363,
+   "longitude": -36.84745788574219,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9262539",
+   "nome": "FARMACIA BASICA DO MUNICIPIO DE ALAGOINHA",
+   "endereco": {
+    "logradouro": "RUA IRENE MARTINS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58390000"
+   },
+   "codigo_municipio": "250050",
+   "municipio": "Alagoinha",
+   "latitude": -6.948520864140398,
+   "longitude": -35.546157360076904,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9263748",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA JOSE PEREIRA DE AGUIAR",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58492000"
+   },
+   "codigo_municipio": "250625",
+   "municipio": "Gado Bravo",
+   "latitude": -7.582901471930939,
+   "longitude": -35.7909893989563,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9274472",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "RUA JOSE MOREIRA DE FIGUEIREDO",
+    "numero": "100",
+    "bairro": "COCODE",
+    "cep": "58900000"
+   },
+   "codigo_municipio": "250370",
+   "municipio": "Cajazeiras",
+   "latitude": -6.884334057768152,
+   "longitude": -38.55381488800049,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9279628",
+   "nome": "FARMACIA BASICA DO MUNICIPIO DE MAMANGUAPE",
+   "endereco": {
+    "logradouro": "RUA CORONEL LUIZ INACIO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58280000"
+   },
+   "codigo_municipio": "250890",
+   "municipio": "Mamanguape",
+   "latitude": -6.8358934,
+   "longitude": -35.128825199999994,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9304746",
+   "nome": "FARMACIA MANOEL JACOME DE MOURA",
+   "endereco": {
+    "logradouro": "RUA JOSE CAETANO DE ANDRADE",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58117000"
+   },
+   "codigo_municipio": "250830",
+   "municipio": "Lagoa Seca",
+   "latitude": -7.092907,
+   "longitude": -35.51098892,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9339817",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "TRAVESSA LUIZ XAVIER",
+    "numero": "123",
+    "bairro": "CENTRO",
+    "cep": "58625000"
+   },
+   "codigo_municipio": "251490",
+   "municipio": "São Mamede",
+   "latitude": -6.926613231387598,
+   "longitude": -37.097335159778595,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9388060",
+   "nome": "FARMACIA BASICA MUNICIPAL MARIA EUGENIA SANTANA",
+   "endereco": {
+    "logradouro": "RUA PREFEITO FRANCISCO CARNEIRO",
+    "numero": "003",
+    "bairro": "CENTRO",
+    "cep": "58253000"
+   },
+   "codigo_municipio": "250360",
+   "municipio": "Caiçara",
+   "latitude": -6.61513,
+   "longitude": -35.46726,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9390839",
+   "nome": "FARMACIA BASICA MUNCIPAL",
+   "endereco": {
+    "logradouro": "RUA MINISTRO JOSE AMERICO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58535000"
+   },
+   "codigo_municipio": "250470",
+   "municipio": "Congo",
+   "latitude": -7.79581441617348,
+   "longitude": -36.660974621772766,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9396004",
+   "nome": "FARMACIA BASICA DE RIACHAO",
+   "endereco": {
+    "logradouro": "RUA ERNESTO VIANA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58235000"
+   },
+   "codigo_municipio": "251274",
+   "municipio": "Riachão",
+   "latitude": -6.540594851021432,
+   "longitude": -35.660462379455566,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9426337",
+   "nome": "FARMACIA BASICA MUNICIPAL DE CUITE DE MAMANGUAPE",
+   "endereco": {
+    "logradouro": "PROJETADA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58289000"
+   },
+   "codigo_municipio": "250523",
+   "municipio": "Cuité de Mamanguape",
+   "latitude": -6.913013,
+   "longitude": -35.249119,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9440313",
+   "nome": "FARMACIA BASICA MUNICIPAL DE LOGRADOURO",
+   "endereco": {
+    "logradouro": "RUA CLAUDIONOR PEREIRA DA SILVA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58254000"
+   },
+   "codigo_municipio": "250855",
+   "municipio": "Logradouro",
+   "latitude": -6.365138404092332,
+   "longitude": -35.26354908943176,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-11"
+  },
+  {
+   "cnes": "9450947",
+   "nome": "FARMACIA BASICA DE SAO JOAO DO CARIRI",
+   "endereco": {
+    "logradouro": "RUA LOURIVAL RAMOS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58590000"
+   },
+   "codigo_municipio": "251400",
+   "municipio": "São João do Cariri",
+   "latitude": -7.389343650497306,
+   "longitude": -36.53160095214844,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9466614",
+   "nome": "FARMACIA DE ATENCAO BASICA DE AGUIAR PB",
+   "endereco": {
+    "logradouro": "RUA SEVERINO AMANCIO DE SOUSA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58778000"
+   },
+   "codigo_municipio": "250020",
+   "municipio": "Aguiar",
+   "latitude": -7.090501522389899,
+   "longitude": -38.17067742347717,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9473386",
+   "nome": "FARMACIA BASICA DE UIRAUNA",
+   "endereco": {
+    "logradouro": "RUA SILVESTRE CLAUDINO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58915000"
+   },
+   "codigo_municipio": "251690",
+   "municipio": "Uiraúna",
+   "latitude": -6.52323635795686,
+   "longitude": -38.40590178966522,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9528660",
+   "nome": "FARMACIA BASICA DO MUNICIPIO DE SERTAOZINHO",
+   "endereco": {
+    "logradouro": "RUA JOSE SOARES DE SENA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58268000"
+   },
+   "codigo_municipio": "251593",
+   "municipio": "Sertãozinho",
+   "latitude": -6.7553048,
+   "longitude": -35.441185,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9558551",
+   "nome": "FARMACIA BASICA CENTRAL",
+   "endereco": {
+    "logradouro": "RUA ESCRITOR RUI BARBOSA",
+    "numero": "343",
+    "bairro": "CENTRO",
+    "cep": "58700060"
+   },
+   "codigo_municipio": "251080",
+   "municipio": "Patos",
+   "latitude": -7.025961519340146,
+   "longitude": -37.277764678001404,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9565965",
+   "nome": "CENTRAL DE DISPENSACAO E DIST DE MEDICAMENTOS E INSUMOS",
+   "endereco": {
+    "logradouro": "AV DEPUTADO AMERICO MAIA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58884000"
+   },
+   "codigo_municipio": "250430",
+   "municipio": "Catolé do Rocha",
+   "latitude": -6.353371981300869,
+   "longitude": -37.746684551239014,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9574662",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVENIDA GOVERNADOR ANTONIO MARIZ",
+    "numero": "02",
+    "bairro": "CENTRO",
+    "cep": "58128000"
+   },
+   "codigo_municipio": "250933",
+   "municipio": "Matinhas",
+   "latitude": -7.124910648603369,
+   "longitude": -35.76693534851074,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9623485",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVENIDA ANTONIO COUTINHO",
+    "numero": "56",
+    "bairro": "CENTRO",
+    "cep": "58670000"
+   },
+   "codigo_municipio": "250650",
+   "municipio": "Gurjão",
+   "latitude": -7.247110219285853,
+   "longitude": -36.48900747299194,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9627340",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "RUA JACINTO DANTAS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58560000"
+   },
+   "codigo_municipio": "251060",
+   "municipio": "Ouro Velho",
+   "latitude": -7.624424022732807,
+   "longitude": -37.1486741784585,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9647996",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "RUA EUVIRA AMORIM",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58458000"
+   },
+   "codigo_municipio": "250157",
+   "municipio": "Barra de Santana",
+   "latitude": -7.522490375554199,
+   "longitude": -35.99986642599106,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9699562",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVENIDA JOSE SILVEIRA",
+    "numero": "16",
+    "bairro": "CENTRO",
+    "cep": "58360000"
+   },
+   "codigo_municipio": "250690",
+   "municipio": "Itabaiana",
+   "latitude": -7.328480190627522,
+   "longitude": -35.33346891403198,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9700951",
+   "nome": "FARMACIA ANTENCAO BASICA DE SAUDE",
+   "endereco": {
+    "logradouro": "RUA DO COMERCIO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58208000"
+   },
+   "codigo_municipio": "250520",
+   "municipio": "Cuitegi",
+   "latitude": -6.893792480184699,
+   "longitude": -35.52356243133545,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9711910",
+   "nome": "FARMACIA BASICA DE CATINGUEIRA",
+   "endereco": {
+    "logradouro": "RUA INACIO FELIX",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58715000"
+   },
+   "codigo_municipio": "250420",
+   "municipio": "Catingueira",
+   "latitude": -7.125871448114416,
+   "longitude": -37.60869026184082,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9765859",
+   "nome": "UNIDADE DE DISPENSACAO DE MEDICAMENTOS E INSUMOS",
+   "endereco": {
+    "logradouro": "RUA DOUTOR ANTONIO CARNEIRO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58870000"
+   },
+   "codigo_municipio": "251280",
+   "municipio": "Riacho dos Cavalos",
+   "latitude": -6.435422087596161,
+   "longitude": -37.65295743942261,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9787356",
+   "nome": "FARMACIA BASICA DE EMAS",
+   "endereco": {
+    "logradouro": "RUA VEREADOR MANOEL BATISTA NETO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58763000"
+   },
+   "codigo_municipio": "250590",
+   "municipio": "Emas",
+   "latitude": -7.108,
+   "longitude": -37.716,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9788468",
+   "nome": "FARMACIA BASICA DE SAO JOSE DE ESPINHARAS II",
+   "endereco": {
+    "logradouro": "ASSENTAMENTO NOVA SANTANA",
+    "numero": "S/N",
+    "bairro": "ZONA RURAL",
+    "cep": "58723000"
+   },
+   "codigo_municipio": "251440",
+   "municipio": "São José de Espinharas",
+   "latitude": -6.795444471274527,
+   "longitude": -37.38396406173706,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9799699",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA JOSE FERREIRA DE ANDRADE",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58824000"
+   },
+   "codigo_municipio": "251320",
+   "municipio": "Santa Cruz",
+   "latitude": -6.532643169039719,
+   "longitude": -38.06013822555542,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9816453",
+   "nome": "FARMACIA BASICA DE PASSAGEM",
+   "endereco": {
+    "logradouro": "RUA CAPITAO PEDRO RAFAEL",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58734000"
+   },
+   "codigo_municipio": "251070",
+   "municipio": "Passagem",
+   "latitude": -7.138,
+   "longitude": -37.049,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9852980",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA JOSE SILVEIRA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58370000"
+   },
+   "codigo_municipio": "251310",
+   "municipio": "Salgado de São Félix",
+   "latitude": -7.3555953,
+   "longitude": -35.4368554,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9885935",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA VALDELICE ALVES ROCHA",
+    "numero": "4",
+    "bairro": "CENTRO",
+    "cep": "58960000"
+   },
+   "codigo_municipio": "250240",
+   "municipio": "Bonito de Santa Fé",
+   "latitude": -7.317487701772281,
+   "longitude": -38.51758360862732,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9897208",
+   "nome": "FARMACIA BASICA DO MUNICIPIO DE MATO",
+   "endereco": {
+    "logradouro": "RUA GILMAR JOSE DE LIMA",
+    "numero": "417",
+    "bairro": "CENTRO",
+    "cep": "58832000"
+   },
+   "codigo_municipio": "250937",
+   "municipio": "Mato Grosso",
+   "latitude": -6.543067734377701,
+   "longitude": -37.71539926528931,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9900322",
+   "nome": "FARMACIA BASICA DO MUNICIPIO DE LUCENA",
+   "endereco": {
+    "logradouro": "AVENIDA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58315000"
+   },
+   "codigo_municipio": "250860",
+   "municipio": "Lucena",
+   "latitude": -6.9,
+   "longitude": -34.869,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9958940",
+   "nome": "CAF FARMACIA BASICA DE NOVA FLORESTA",
+   "endereco": {
+    "logradouro": "RUA JOAO PESSOA",
+    "numero": "437",
+    "bairro": "CENTRO",
+    "cep": "58178000"
+   },
+   "codigo_municipio": "251010",
+   "municipio": "Nova Floresta",
+   "latitude": -6.4542623,
+   "longitude": -36.2027939,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9974822",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA TOMAZ MARTINS DE MEDEIROS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "58184000"
+   },
+   "codigo_municipio": "251030",
+   "municipio": "Nova Palmeira",
+   "latitude": -6.676649074208013,
+   "longitude": -36.41819715499878,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  }
+ ],
+ "cnes_sem_cadastro": []
+}

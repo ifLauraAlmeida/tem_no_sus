@@ -1,0 +1,227 @@
+{
+ "fonte": {
+  "orgao": "Ministério da Saúde — DATASUS",
+  "documento": "CNES — Serviço especializado 125 (serviço de farmácia)",
+  "competencia_cnes": "202608",
+  "url_sr": "ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/SR/SRAP2608.dbc",
+  "sha256_sr": "856cb149ea22e811d428297c1ce06b988c0ffbc789bcb2fe7df797fa3ed27490",
+  "url_cadastro": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos",
+  "data_obtencao": "2026-10-11"
+ },
+ "uf": "AP",
+ "estabelecimentos": [
+  {
+   "cnes": "0470449",
+   "nome": "PMM CENTRO DE ESPECIALIDADES DR PAPALEO PAES",
+   "endereco": {
+    "logradouro": "RUA ADILSON JOSE PINTO PEREIRA",
+    "numero": "3104",
+    "bairro": "RENASCER",
+    "cep": "68908782"
+   },
+   "codigo_municipio": "160030",
+   "municipio": "Macapá",
+   "latitude": 0.0782199,
+   "longitude": -51.0705082,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2020904",
+   "nome": "SES AP HEMOAP",
+   "endereco": {
+    "logradouro": "RAIMUNDO ALVARES DA COSTA",
+    "numero": "1093",
+    "bairro": "CENTRAL",
+    "cep": "68900074"
+   },
+   "codigo_municipio": "160030",
+   "municipio": "Macapá",
+   "latitude": 0.04255055990097007,
+   "longitude": -51.05966806411743,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2022192",
+   "nome": "SES AP CENTRO DE REFERENCIA DE DOENCAS TROPICAIS",
+   "endereco": {
+    "logradouro": "RUA PROFESSOR TOSTES",
+    "numero": "2200",
+    "bairro": "SANTA RITA",
+    "cep": "68900010"
+   },
+   "codigo_municipio": "160030",
+   "municipio": "Macapá",
+   "latitude": 0.03197192979828489,
+   "longitude": -51.068594455718994,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2902230",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "AV PROJETADA 2",
+    "numero": "S/N",
+    "bairro": "ADELINO GURJAO",
+    "cep": "68990000"
+   },
+   "codigo_municipio": "160070",
+   "municipio": "Tartarugalzinho",
+   "latitude": 1.5096782896415573,
+   "longitude": -50.904523730278015,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4200403",
+   "nome": "FARMACIA DO POVO ESPECILIZADA EM MEDICAMENTOS CONTROLADOS",
+   "endereco": {
+    "logradouro": "AVENIDA TIRADENTES",
+    "numero": "S/N",
+    "bairro": "AGRESTE",
+    "cep": "68920000"
+   },
+   "codigo_municipio": "160027",
+   "municipio": "Laranjal do Jari",
+   "latitude": -0.8410461685288141,
+   "longitude": -52.51986265182495,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4761537",
+   "nome": "PMPBA CENTRAL DE ASSISTENCIA FARMACEUTICA",
+   "endereco": {
+    "logradouro": "RUA FRANCISCO BRAZ",
+    "numero": "35",
+    "bairro": "CENTRO",
+    "cep": "68945000"
+   },
+   "codigo_municipio": "160015",
+   "municipio": "Pedra Branca do Amapari",
+   "latitude": 0.776346,
+   "longitude": -51.954983,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6911927",
+   "nome": "SES AP COORDENADORIA DE ASSISTENCIA FARMACEUTICA",
+   "endereco": {
+    "logradouro": "RODOVIA TANCREDO NEVES",
+    "numero": "S/N",
+    "bairro": "SAO LAZARO",
+    "cep": "68908530"
+   },
+   "codigo_municipio": "160030",
+   "municipio": "Macapá",
+   "latitude": 0.06995199373023285,
+   "longitude": -51.05567693710327,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7738552",
+   "nome": "PMM SEMSA CAF COORDENACAO DE ASSISTENCIA FARMACEUTICA",
+   "endereco": {
+    "logradouro": "RUA MATADOURO",
+    "numero": "640",
+    "bairro": "FAZENDINHA",
+    "cep": "68911080"
+   },
+   "codigo_municipio": "160030",
+   "municipio": "Macapá",
+   "latitude": 0.03888129889570528,
+   "longitude": -51.06599807739258,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7790287",
+   "nome": "SES AP CENTRO DE ATENCAO PSICOSSOCIAL CASA GENTILEZA",
+   "endereco": {
+    "logradouro": "AV MARCILIO DIAS",
+    "numero": "1395",
+    "bairro": "JULIAO RAMOS",
+    "cep": "68908160"
+   },
+   "codigo_municipio": "160030",
+   "municipio": "Macapá",
+   "latitude": 0.050573,
+   "longitude": -51.0562013,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "8390630",
+   "nome": "PMP CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA FRANCISCO TEIXEIRA",
+    "numero": "229",
+    "bairro": "CENTRO",
+    "cep": "68918000"
+   },
+   "codigo_municipio": "160055",
+   "municipio": "Pracuúba",
+   "latitude": 1.7425448944968598,
+   "longitude": -50.783915519714355,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-15"
+  }
+ ],
+ "cnes_sem_cadastro": []
+}

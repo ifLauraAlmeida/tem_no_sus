@@ -1,5 +1,109 @@
 {
  "ufs": {
+  "AC": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 23
+  },
+  "AL": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 64
+  },
+  "AM": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 129
+  },
+  "AP": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 10
+  },
+  "BA": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 484
+  },
+  "CE": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 264
+  },
+  "DF": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 127
+  },
+  "ES": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 173
+  },
+  "GO": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 191
+  },
+  "MA": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 110
+  },
+  "MG": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 1386
+  },
+  "MS": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 148
+  },
+  "MT": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 224
+  },
+  "PA": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 193
+  },
+  "PB": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 195
+  },
+  "PE": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 246
+  },
+  "PI": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 69
+  },
+  "PR": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 435
+  },
+  "RJ": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 285
+  },
+  "RN": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 166
+  },
+  "RO": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 91
+  },
+  "RR": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 26
+  },
+  "RS": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 814
+  },
+  "SC": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 369
+  },
+  "SE": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 31
+  },
+  "SP": {
+   "competencia_cnes": "202608",
+   "estabelecimentos": 925
+  },
   "TO": {
    "competencia_cnes": "202608",
    "estabelecimentos": 64

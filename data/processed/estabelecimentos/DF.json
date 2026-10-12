@@ -1,0 +1,2555 @@
+{
+ "fonte": {
+  "orgao": "Ministério da Saúde — DATASUS",
+  "documento": "CNES — Serviço especializado 125 (serviço de farmácia)",
+  "competencia_cnes": "202608",
+  "url_sr": "ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/SR/SRDF2608.dbc",
+  "sha256_sr": "5f32d05e55eb750dd1138d108ddecafd28595a788dd0be59fe000d31c3bfeff4",
+  "url_cadastro": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos",
+  "data_obtencao": "2026-10-11"
+ },
+ "uf": "DF",
+ "estabelecimentos": [
+  {
+   "cnes": "0010510",
+   "nome": "HOSPITAL UNIVERSITARIO DE BRASILIA",
+   "endereco": {
+    "logradouro": "SGAN QUADRA 605",
+    "numero": "S/N",
+    "bairro": "ASA NORTE",
+    "cep": "70310500"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.771480871463751,
+   "longitude": -47.873783111572266,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-10-10"
+  },
+  {
+   "cnes": "0010588",
+   "nome": "POLICLINICA DE TAGUATINGA",
+   "endereco": {
+    "logradouro": "C 12 AREA ESPECIAL",
+    "numero": "1",
+    "bairro": "TAGUATINGA",
+    "cep": "72155000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.83501312004152,
+   "longitude": -48.05978089570999,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010626",
+   "nome": "UBS 05 TAGUATINGA",
+   "endereco": {
+    "logradouro": "SETOR D SUL AE 23",
+    "numero": "23",
+    "bairro": "TAGUATINGA SUL",
+    "cep": "72155000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.851049,
+   "longitude": -48.047118,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010634",
+   "nome": "UBS 1 PARANOA",
+   "endereco": {
+    "logradouro": "QD 21 AREA ESPECIAL CONJUNTO 15",
+    "numero": "15",
+    "bairro": "PARANOA",
+    "cep": "71572117"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.76919515774397,
+   "longitude": -47.779919329447786,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010642",
+   "nome": "UBS 01 SAMAMBAIA",
+   "endereco": {
+    "logradouro": "QS 408 AREA ESPECIAL 01",
+    "numero": "S/N",
+    "bairro": "SAMAMBAIA NORTE",
+    "cep": "72318599"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.862526,
+   "longitude": -48.077073,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010650",
+   "nome": "UBS 2 PLANALTINA",
+   "endereco": {
+    "logradouro": "ENTRE QUADRAS 1 10 AREA ESPECIAL",
+    "numero": "S/N",
+    "bairro": "PLANALTINA",
+    "cep": "73350100"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.6123694,
+   "longitude": -47.6432971,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010669",
+   "nome": "UBS 2 SANTA MARIA",
+   "endereco": {
+    "logradouro": "EQ 217 317 LOTE E",
+    "numero": "1",
+    "bairro": "SANTA MARIA",
+    "cep": "72547305"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.007247140447177,
+   "longitude": -47.98956871032715,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010677",
+   "nome": "UBS 03 SAMAMBAIA",
+   "endereco": {
+    "logradouro": "QN 429 CONJUNTO F LOTE",
+    "numero": "01",
+    "bairro": "SAMAMBAIA NORTE",
+    "cep": "72329500"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.896572,
+   "longitude": -48.138999,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010685",
+   "nome": "UBS 04 SAMAMBAIA",
+   "endereco": {
+    "logradouro": "QN 512 CONJUNTO 2 LOTE",
+    "numero": "123",
+    "bairro": "SAMAMBAIA SUL",
+    "cep": "72312702"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.878955,
+   "longitude": -48.068554,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010707",
+   "nome": "UBS 1 ASA NORTE",
+   "endereco": {
+    "logradouro": "SGAN",
+    "numero": "905",
+    "bairro": "ASA NORTE",
+    "cep": "70790054"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.773349675527177,
+   "longitude": -47.89260685443878,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010723",
+   "nome": "UBS 2 ASA NORTE",
+   "endereco": {
+    "logradouro": "EQN 114 115",
+    "numero": "01",
+    "bairro": "ASA NORTE",
+    "cep": "70764400"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.743074996438855,
+   "longitude": -47.89173781871796,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010731",
+   "nome": "UBS 1 CRUZEIRO",
+   "endereco": {
+    "logradouro": "SHCES QUADRA 601",
+    "numero": "S/N",
+    "bairro": "CRUZEIRO NOVO",
+    "cep": "70655610"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.800749940431798,
+   "longitude": -47.94215261936188,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010758",
+   "nome": "UBS 2 CRUZEIRO",
+   "endereco": {
+    "logradouro": "SRES LOTE",
+    "numero": "04",
+    "bairro": "CRUZEIRO VELHO",
+    "cep": "70640008"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.783483249623332,
+   "longitude": -47.93586552143097,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010774",
+   "nome": "UBS 02 SAMAMBAIA",
+   "endereco": {
+    "logradouro": "QS 611 AREA ESPECIAL",
+    "numero": "2",
+    "bairro": "SAMAMBAIA NORTE",
+    "cep": "72331565"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.875508,
+   "longitude": -48.109087,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010782",
+   "nome": "UBS 1 SANTA MARIA",
+   "endereco": {
+    "logradouro": "QR 207 307 CONJ T LOTE",
+    "numero": "2",
+    "bairro": "SANTA MARIA",
+    "cep": "72507520"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.026466570296016,
+   "longitude": -48.02629920944501,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-18"
+  },
+  {
+   "cnes": "0010790",
+   "nome": "UBS 1 SAO SEBASTIAO",
+   "endereco": {
+    "logradouro": "CENTRO DE MULTIPLAS ATIVIDADES CONJ 10",
+    "numero": "10",
+    "bairro": "SAO SEBASTIAO",
+    "cep": "71691047"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.902438624241869,
+   "longitude": -47.77261823415756,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010804",
+   "nome": "UBS 01 RECANTO DAS EMAS",
+   "endereco": {
+    "logradouro": "QUADRA 307 AREA ESPECIAL 01",
+    "numero": "S/N",
+    "bairro": "RECANTO DAS EMAS",
+    "cep": "72620400"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.919114,
+   "longitude": -48.10147,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010820",
+   "nome": "UBS 1 GAMA",
+   "endereco": {
+    "logradouro": "EQ 6 12 AREAS ESPECIAIS",
+    "numero": "S/N",
+    "bairro": "SETOR SUL GAMA",
+    "cep": "72415318"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.020679169244765,
+   "longitude": -48.084760308265686,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010839",
+   "nome": "UBS 2 GAMA",
+   "endereco": {
+    "logradouro": "QUADRA",
+    "numero": "11",
+    "bairro": "SETOR SUL",
+    "cep": "72410110"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.03646493849597,
+   "longitude": -48.06116184586904,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010847",
+   "nome": "UBS 3 GAMA",
+   "endereco": {
+    "logradouro": "EQ 3 5 AREA ESPECIAL SETOR LESTE GAMA",
+    "numero": "S/N",
+    "bairro": "GAMA",
+    "cep": "72450035"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.005834275683597,
+   "longitude": -48.0527400970459,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010855",
+   "nome": "UBS 4 GAMA",
+   "endereco": {
+    "logradouro": "PRACA 3 AREA ESPECIAL N",
+    "numero": "02",
+    "bairro": "GAMA DF",
+    "cep": "72460120"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.026092975141744,
+   "longitude": -48.056854605674744,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010863",
+   "nome": "UBS 5 GAMA",
+   "endereco": {
+    "logradouro": "QUADRA 38 AREA ESPECIAL LESTE SC",
+    "numero": "38",
+    "bairro": "GAMA",
+    "cep": "72405380"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.0232691,
+   "longitude": -48.06166343155779,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010871",
+   "nome": "UBS 6 GAMA",
+   "endereco": {
+    "logradouro": "ENTRE QUADRA",
+    "numero": "S/N",
+    "bairro": "SETOR OESTE",
+    "cep": "72465390"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.011547550512397,
+   "longitude": -48.07398319244385,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010898",
+   "nome": "UBS 7 GAMA",
+   "endereco": {
+    "logradouro": "AREA ESPECIAL N 17",
+    "numero": "17",
+    "bairro": "GAMA",
+    "cep": "72405170"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.013811158411322,
+   "longitude": -48.067535161972046,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010901",
+   "nome": "UBS 01 TAGUATINGA",
+   "endereco": {
+    "logradouro": "QNG AE 18 19",
+    "numero": "S/N",
+    "bairro": "TAGUATINGA NORTE",
+    "cep": "72155000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.795495,
+   "longitude": -48.059349,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010928",
+   "nome": "UBS 02 TAGUATINGA",
+   "endereco": {
+    "logradouro": "QND LOTE A PRACA DO BICALHO",
+    "numero": "02",
+    "bairro": "TAGUATINGA NORTE",
+    "cep": "72155000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.810484,
+   "longitude": -48.063039,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010936",
+   "nome": "UBS 03 TAGUATINGA",
+   "endereco": {
+    "logradouro": "QNL 01 AE 02",
+    "numero": "02",
+    "bairro": "TAGUATINGA NORTE",
+    "cep": "72155000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.832884,
+   "longitude": -48.076236,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010952",
+   "nome": "UBS 06 TAGUATINGA",
+   "endereco": {
+    "logradouro": "SETOR C SUL AE 01 TAGUATINGA SUL",
+    "numero": "01",
+    "bairro": "TAGUATINGA CENTRO",
+    "cep": "72155000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.836187,
+   "longitude": -48.063018,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010960",
+   "nome": "UBS 07 TAGUATINGA",
+   "endereco": {
+    "logradouro": "QNM 36 AREA ESPECIAL N",
+    "numero": "10",
+    "bairro": "TAGUATINGA NORTE",
+    "cep": "72155000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.800636,
+   "longitude": -48.09323,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010987",
+   "nome": "UBS 2 CEILANDIA",
+   "endereco": {
+    "logradouro": "QNN 15 LOTE F",
+    "numero": "15",
+    "bairro": "CEILANDIA NORTE",
+    "cep": "72225150"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.807759,
+   "longitude": -48.120503,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0010995",
+   "nome": "UBS 3 CEILANDIA",
+   "endereco": {
+    "logradouro": "QNM 15 LOTE D AREA ESPECIAL",
+    "numero": "15",
+    "bairro": "CEILANDIA SUL",
+    "cep": "72215150"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.830964,
+   "longitude": -48.09647,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011002",
+   "nome": "UBS 4 CEILANDIA",
+   "endereco": {
+    "logradouro": "QNN 16 LOTE F",
+    "numero": "16",
+    "bairro": "CEILANDIA SUL",
+    "cep": "72220160"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.835526,
+   "longitude": -48.105032,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011010",
+   "nome": "UBS 5 CEILANDIA",
+   "endereco": {
+    "logradouro": "QNM 16 LOTE F AREA ESPECIAL",
+    "numero": "16",
+    "bairro": "CEILANDIA NORTE",
+    "cep": "72210160"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.803237,
+   "longitude": -48.111877,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011029",
+   "nome": "UBS 6 CEILANDIA",
+   "endereco": {
+    "logradouro": "EQNP 10 14 LOTES E F G H",
+    "numero": "S/N",
+    "bairro": "CEILANDIA",
+    "cep": "72231413"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.840109,
+   "longitude": -48.114345,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011037",
+   "nome": "UBS 7 CEILANDIA",
+   "endereco": {
+    "logradouro": "QNO 10 AREA ESPECIAL D E",
+    "numero": "10",
+    "bairro": "SETOR O",
+    "cep": "72255000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.795681,
+   "longitude": -48.131103,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011045",
+   "nome": "UBS 8 CEILANDIA",
+   "endereco": {
+    "logradouro": "EQNP 13 17 LOTES A B C D P NORTE",
+    "numero": "S/N",
+    "bairro": "CEILANDIA NORTE",
+    "cep": "72241540"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.806933,
+   "longitude": -48.130009,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011053",
+   "nome": "UBS 9 CEILANDIA",
+   "endereco": {
+    "logradouro": "EQNP 28 32 LOTES A B C D",
+    "numero": "S/N",
+    "bairro": "CEILANDIA SUL",
+    "cep": "72235571"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.846694,
+   "longitude": -48.123528,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011061",
+   "nome": "UBS 11 CEILANDIA",
+   "endereco": {
+    "logradouro": "EQNO 17 AREA ESPECIAL",
+    "numero": "17",
+    "bairro": "CEILANDIA",
+    "cep": "72260744"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.79821,
+   "longitude": -48.133603,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011118",
+   "nome": "UBS 01 GUARA",
+   "endereco": {
+    "logradouro": "QE 06 LOTE C AREA ESPECIAL",
+    "numero": "S/N",
+    "bairro": "GUARA I",
+    "cep": "71010006"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.81994031,
+   "longitude": -47.98600674,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011126",
+   "nome": "UBS 01 NUCLEO BANDEIRANTE",
+   "endereco": {
+    "logradouro": "3 AVENIDA AREA ESPECIAL N 3",
+    "numero": "3",
+    "bairro": "NUCLEO BANDEIRANTE",
+    "cep": "71720585"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.870117592660918,
+   "longitude": -47.96659722531585,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011134",
+   "nome": "UBS 02 RECANTO DAS EMAS",
+   "endereco": {
+    "logradouro": "QUADRA 102 AREA ESPECIAL",
+    "numero": "01",
+    "bairro": "RECANTO DAS EMAS",
+    "cep": "72600200"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.901553,
+   "longitude": -48.058533,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011150",
+   "nome": "UBS 1 ASA SUL",
+   "endereco": {
+    "logradouro": "SGAS QUADRA 612 LOTES",
+    "numero": "S/N",
+    "bairro": "ASA SUL",
+    "cep": "70200720"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.8327733004566,
+   "longitude": -47.90950745344162,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011169",
+   "nome": "UBS 01 RIACHO FUNDO I",
+   "endereco": {
+    "logradouro": "QN 09 AREA ESPECIAL 11 RIACHO FUNDO I",
+    "numero": "9",
+    "bairro": "RIACHO FUNDO",
+    "cep": "71805821"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.885245122611966,
+   "longitude": -48.023396730422974,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011177",
+   "nome": "UBS 1 LAGO NORTE",
+   "endereco": {
+    "logradouro": "SHIN QI 3",
+    "numero": "03",
+    "bairro": "LAGO NORTE",
+    "cep": "71505600"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.72591958000638,
+   "longitude": -47.873903810977936,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011185",
+   "nome": "UBS 01 CANDANGOLANDIA",
+   "endereco": {
+    "logradouro": "EQ 5 7 AREA ESPECIAL CANDANGOLANDIA",
+    "numero": "01",
+    "bairro": "CANDANGOLANDIA",
+    "cep": "71725510"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.849772600247151,
+   "longitude": -47.95138478279114,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011207",
+   "nome": "UBS 10 CEILANDIA",
+   "endereco": {
+    "logradouro": "QNN 12 AREA ESPECIAL 1",
+    "numero": "12",
+    "bairro": "CEILANDIA SUL",
+    "cep": "72220120"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.824358,
+   "longitude": -48.113465,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011223",
+   "nome": "UBS 1 SOBRADINHO",
+   "endereco": {
+    "logradouro": "QUADRA 14 AREA ESPECIAL 22 23",
+    "numero": "01",
+    "bairro": "SOBRADINHO",
+    "cep": "73050063"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.650839573325188,
+   "longitude": -47.781912088394165,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011231",
+   "nome": "UBS 2 SOBRADINHO",
+   "endereco": {
+    "logradouro": "QUADRA 3 AREA ESPECIAL ENTRE CONJUNTOS D E",
+    "numero": "01",
+    "bairro": "SOBRADINHO",
+    "cep": "73030030"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.654831,
+   "longitude": -47.809573,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011258",
+   "nome": "UBS 1 SOBRADINHO II",
+   "endereco": {
+    "logradouro": "AR 13 AREA ESPECIAL CONJUNTO 7 LOTE",
+    "numero": "1",
+    "bairro": "SOBRADINHO II",
+    "cep": "73062307"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.644568530374748,
+   "longitude": -47.82445728778839,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-04"
+  },
+  {
+   "cnes": "0011266",
+   "nome": "UBS 02 GUARA",
+   "endereco": {
+    "logradouro": "QE 23 LOTE C AREA ESPECIAL",
+    "numero": "S/N",
+    "bairro": "GUARA II",
+    "cep": "71025000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.832765559101615,
+   "longitude": -47.97327697277069,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011274",
+   "nome": "UBS 03 GUARA",
+   "endereco": {
+    "logradouro": "QE 38 AREA ESPECIAL",
+    "numero": "S/N",
+    "bairro": "GUARA II",
+    "cep": "71070380"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.849194626917619,
+   "longitude": -47.96999394893646,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011355",
+   "nome": "UBS 3 ASA NORTE VILA PLANALTO",
+   "endereco": {
+    "logradouro": "RUA PIAU ACAMPAMENTO PACHECO FERNANDES",
+    "numero": "2",
+    "bairro": "VILA PLANALTO",
+    "cep": "70804190"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.795422974875835,
+   "longitude": -47.848345041275024,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011363",
+   "nome": "UBS 5 NOVA BETANIA SAO SEBASTIAO",
+   "endereco": {
+    "logradouro": "DF 140 KM 7 5",
+    "numero": "S/N",
+    "bairro": "JARDIM BOTANICO",
+    "cep": "71693990"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.99093195138926,
+   "longitude": -47.81321398085175,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011568",
+   "nome": "UBS 3 NOVA COLINA SOBRADINHO",
+   "endereco": {
+    "logradouro": "AREA ESPECIAL NOVO SETOR DE MANSOES NOVA COLINA",
+    "numero": "0",
+    "bairro": "SOBRADINHO",
+    "cep": "73017017"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.6480293,
+   "longitude": -47.7552849,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011576",
+   "nome": "UBS 11 RAJADINHA PLANALTINA",
+   "endereco": {
+    "logradouro": "NUCLEO RURAL RAJADINHA II RUA 2 LOTE 16 17",
+    "numero": "16",
+    "bairro": "PLANALTINA",
+    "cep": "73370992"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.747268,
+   "longitude": -47.662576,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011584",
+   "nome": "UBS 14 TABATINGA PLANALTINA",
+   "endereco": {
+    "logradouro": "DF 120 NUCLEO RURAL TABATINGA S N",
+    "numero": "S/N",
+    "bairro": "PLANALTINA",
+    "cep": "73307997"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.8203842,
+   "longitude": -47.5711038,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011592",
+   "nome": "UBS 16 PIPIRIPAU PLANALTINA",
+   "endereco": {
+    "logradouro": "NUCLEO RURAL PIPIRIPAU II AREA ESPECIAL",
+    "numero": "S/N",
+    "bairro": "PLANALTINA",
+    "cep": "73307992"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.534638,
+   "longitude": -47.511159,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011614",
+   "nome": "UBS 5 QUEBRADA DOS NERES",
+   "endereco": {
+    "logradouro": "DF 130 KM 56 QUEBRADA DOS NERES PARANOA",
+    "numero": "S/N",
+    "bairro": "PARANOA",
+    "cep": "71570990"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.907924526306179,
+   "longitude": -47.60884904462244,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011622",
+   "nome": "UBS 13 SAO JOSE PLANALTINA",
+   "endereco": {
+    "logradouro": "DF 250 NUCLEO RURAL SAO JOSE AREA ESPECIAL",
+    "numero": "0",
+    "bairro": "PLANALTINA",
+    "cep": "73499899"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.704136,
+   "longitude": -47.373487,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0011657",
+   "nome": "UBS 04 GUARA",
+   "endereco": {
+    "logradouro": "EQ 02 03 CONJUNTO LUCIO COSTA",
+    "numero": "S/N",
+    "bairro": "GUARA I",
+    "cep": "71100100"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.81022147583909,
+   "longitude": -47.98854947090149,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0207225",
+   "nome": "UBS 20 SAO SEBASTIAO CDP",
+   "endereco": {
+    "logradouro": "RODOVIA 465 KM",
+    "numero": "04",
+    "bairro": "SAO SEBASTIAO",
+    "cep": "71698906"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.9127936,
+   "longitude": -47.8085994,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0736260",
+   "nome": "UBS 1 JARDINS MANGUEIRAL",
+   "endereco": {
+    "logradouro": "PRACA DE ATIVIDADES 02 LOTE 01",
+    "numero": "01",
+    "bairro": "JARDIM BOTANICO",
+    "cep": "71699195"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.889197,
+   "longitude": -47.813541,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0957755",
+   "nome": "UBS 7 BURITIZINHO SOBRADINHO II",
+   "endereco": {
+    "logradouro": "QUADRA 05 AREA ESPECIAL A",
+    "numero": "01",
+    "bairro": "SOBRADINHO II",
+    "cep": "73061345"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.651387118195753,
+   "longitude": -47.82814264297485,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2617269",
+   "nome": "UBS 08 TAGUATINGA",
+   "endereco": {
+    "logradouro": "EQNL 24 AREA ESPECIAL",
+    "numero": "S/N",
+    "bairro": "TAGUATINGA",
+    "cep": "72155000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.820931,
+   "longitude": -48.092265,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2617293",
+   "nome": "UBS 12 CEILANDIA",
+   "endereco": {
+    "logradouro": "EQNQ 03 04",
+    "numero": "S/N",
+    "bairro": "CEILANDIA NORTE",
+    "cep": "72270300"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.804724,
+   "longitude": -48.14357,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2617358",
+   "nome": "UBS 1 VARJAO",
+   "endereco": {
+    "logradouro": "VILA VARJAO QUADRA 5",
+    "numero": "05",
+    "bairro": "VILA VARJAO DO TORTO",
+    "cep": "71540400"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.710898044258338,
+   "longitude": -47.87633389234543,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2660199",
+   "nome": "UBS 03 RIACHO FUNDO II",
+   "endereco": {
+    "logradouro": "QN 07 A B LOTES 1 E 2 AREA ESPECIAL",
+    "numero": "S/N",
+    "bairro": "RIACHO FUNDO II",
+    "cep": "71805731"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.885234803490286,
+   "longitude": -48.023402094841,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2672227",
+   "nome": "UBS 15 RIO PRETO PLANALTINA",
+   "endereco": {
+    "logradouro": "DF 320 NUCLEO RURAL RIO PRETO",
+    "numero": "S/N",
+    "bairro": "PLANALTINA",
+    "cep": "73390200"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.762626,
+   "longitude": -47.492915,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2673894",
+   "nome": "UBS 10 SANTA MARIA",
+   "endereco": {
+    "logradouro": "AREA ESPECIAL DO DVO RUA DO EUCALIPTO N",
+    "numero": "04",
+    "bairro": "SANTA MARIA",
+    "cep": "72450150"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.046349617294645,
+   "longitude": -48.04314851760864,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2779331",
+   "nome": "UBS 13 GAMA CASA GRANDE",
+   "endereco": {
+    "logradouro": "NUCLEO RURAL CASA GRANDE MONJOLO",
+    "numero": "S/N",
+    "bairro": "GAMA",
+    "cep": "72600100"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.964557717170544,
+   "longitude": -48.10042440891266,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2779374",
+   "nome": "UBS 01 ESTRUTURAL",
+   "endereco": {
+    "logradouro": "AREA ESPECIAL 02 SETOR CENTRAL VILA ESTRUTURAL",
+    "numero": "02",
+    "bairro": "ESTRUTURAL",
+    "cep": "71020010"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.783418349849695,
+   "longitude": -47.99715930173493,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2804247",
+   "nome": "UBS 08 RECANTO DAS EMAS SAO FRANCISCO",
+   "endereco": {
+    "logradouro": "DF 280 KM 03 QD 04 SETOR HABITACIONAL AGUA QUENTE",
+    "numero": "S/N",
+    "bairro": "RECANTO DAS EMAS",
+    "cep": "72600100"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.93752,
+   "longitude": -48.228113,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2804360",
+   "nome": "UBS 1 ENGENHO VELHO FERCAL",
+   "endereco": {
+    "logradouro": "DF 150 KM 12 QUADRA 10 CASA",
+    "numero": "14",
+    "bairro": "FERCAL",
+    "cep": "73150030"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.600273175065064,
+   "longitude": -47.871556878089905,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2804387",
+   "nome": "UBS 6 LAGO OESTE SOBRADINHO",
+   "endereco": {
+    "logradouro": "RODOVIA DF 001 KM 120 CHACARA",
+    "numero": "67",
+    "bairro": "SOBRADINHO",
+    "cep": "73100011"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.619113,
+   "longitude": -47.948548,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2816741",
+   "nome": "FARMACIA DE ALTO CUSTO ASA SUL",
+   "endereco": {
+    "logradouro": "SQS 102 202",
+    "numero": "S/N",
+    "bairro": "ASA SUL",
+    "cep": "70330000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.805051195167177,
+   "longitude": -47.88897747301128,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3027635",
+   "nome": "UBS 15 PFDF GAMA",
+   "endereco": {
+    "logradouro": "GRANJA LUIZ FERNANDO AESP 02",
+    "numero": "02",
+    "bairro": "SETOR LESTE",
+    "cep": "72425100"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.0049989275819,
+   "longitude": -48.0416893959045,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3027643",
+   "nome": "UBS 17 PDF II SAO SEBASTIAO",
+   "endereco": {
+    "logradouro": "ROD DF 465 KM",
+    "numero": "04",
+    "bairro": "SAO SEBASTIAO",
+    "cep": "71698904"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.90914794769077,
+   "longitude": -47.809603214263916,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3028003",
+   "nome": "UBS 14 SAO SEBASTIAO PDF IV",
+   "endereco": {
+    "logradouro": "RODOVIA 465 KM",
+    "numero": "04",
+    "bairro": "SAO SEBASTIAO",
+    "cep": "71698906"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.912967,
+   "longitude": -47.8076817,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3144569",
+   "nome": "UBS 7 SANTA MARIA",
+   "endereco": {
+    "logradouro": "AV BRIGADEIRO PINTO DE MOURA",
+    "numero": "01",
+    "bairro": "SANTA MARIA",
+    "cep": "72593302"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.993210865317081,
+   "longitude": -47.988125681877136,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3144577",
+   "nome": "UBS 11 PONTE ALTA NORTE GAMA",
+   "endereco": {
+    "logradouro": "DF 475 KM 5 NUCLEO RURAL",
+    "numero": "S/N",
+    "bairro": "GAMA",
+    "cep": "72457993"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.9807001141572,
+   "longitude": -48.07191252708435,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3144607",
+   "nome": "UBS 6 SANTA MARIA",
+   "endereco": {
+    "logradouro": "QR 202 302 LOTE 2",
+    "numero": "2",
+    "bairro": "SANTA MARIA",
+    "cep": "72505400"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.040075,
+   "longitude": -48.030621,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3144615",
+   "nome": "UBS 12 PONTE ALTA GAMA",
+   "endereco": {
+    "logradouro": "ANTIGO POSTO DA RECEITA FEDERAL DF",
+    "numero": "290",
+    "bairro": "GAMA",
+    "cep": "72457994"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.009113756670548,
+   "longitude": -48.15978705883026,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3144631",
+   "nome": "UBS 5 CHAPADINHA BRAZLANDIA",
+   "endereco": {
+    "logradouro": "RESERVA A GLEBA 02 CHAPADINHA",
+    "numero": "S/N",
+    "bairro": "BRAZLANDIA",
+    "cep": "72710990"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.672478,
+   "longitude": -48.149541,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-20"
+  },
+  {
+   "cnes": "3144666",
+   "nome": "UBS 17 JARDIM MORUMBI PLANALTINA",
+   "endereco": {
+    "logradouro": "NR JARDIM MORUMBI ROD DF 128 KM 3 GLEBA F",
+    "numero": "S/N",
+    "bairro": "PLANALTINA",
+    "cep": "73307990"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.5236961,
+   "longitude": -47.618671,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3212017",
+   "nome": "UBS 6 SAO FRANCISCO SAO SEBASTIAO",
+   "endereco": {
+    "logradouro": "PARQUE AGROPECUARIO DE SAO SEBASTIAO",
+    "numero": "0",
+    "bairro": "SAO SEBASTIAO",
+    "cep": "71694117"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.914413565280515,
+   "longitude": -47.758104155125984,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3212068",
+   "nome": "UBS 3 RESIDENCIAL OESTE SAO SEBASTIAO",
+   "endereco": {
+    "logradouro": "QUADRA 301 CONJ 06 AE 02",
+    "numero": "02",
+    "bairro": "SAO SEBASTIAO",
+    "cep": "71692725"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.907726747417737,
+   "longitude": -47.777667362463276,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-04"
+  },
+  {
+   "cnes": "3254887",
+   "nome": "UBS 2 T R E SAO SEBASTIAO",
+   "endereco": {
+    "logradouro": "QUADRA 101 AE 01",
+    "numero": "01",
+    "bairro": "SAO SEBASTIAO",
+    "cep": "71692061"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.90164,
+   "longitude": -47.774913,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-04"
+  },
+  {
+   "cnes": "3286959",
+   "nome": "UBS 2 ITAPOA",
+   "endereco": {
+    "logradouro": "AREA ESPECIAL ENTRE QUADRA 61 318",
+    "numero": "0",
+    "bairro": "ITAPOA",
+    "cep": "71591500"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.745567467563017,
+   "longitude": -47.76979980179746,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3513564",
+   "nome": "UBS 02 ESTRUTURAL",
+   "endereco": {
+    "logradouro": "AREA ESPECIAL 19",
+    "numero": "S/N",
+    "bairro": "ESTRUTURAL",
+    "cep": "71255230"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.783583911726057,
+   "longitude": -47.99709230661392,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3742873",
+   "nome": "UBS 9 RESIDENCIAL DO BOSQUE 1 SAO SEBASTIAO",
+   "endereco": {
+    "logradouro": "RUA DA ESCOLA 540",
+    "numero": "540",
+    "bairro": "SAO SEBASTIAO",
+    "cep": "71693168"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.905034409567238,
+   "longitude": -47.75583193378876,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3781402",
+   "nome": "UBS 7 MORRO DA CRUZ SAO SEBASTIAO",
+   "endereco": {
+    "logradouro": "CHACARA 10 CASA 03",
+    "numero": "10",
+    "bairro": "SAO SEBASTIAO",
+    "cep": "71693500"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.915879244795049,
+   "longitude": -47.77223026914414,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3781437",
+   "nome": "UBS 02 RIACHO FUNDO I",
+   "endereco": {
+    "logradouro": "QN 01 AREA ESPECIAL 01",
+    "numero": "01",
+    "bairro": "RIACHO FUNDO I",
+    "cep": "71805132"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.879352818069336,
+   "longitude": -48.000635504722595,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4431618",
+   "nome": "UBS 1 LAGO SUL",
+   "endereco": {
+    "logradouro": "SHIS QI 21",
+    "numero": "S/N",
+    "bairro": "LAGO SUL",
+    "cep": "71655600"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.846426008505944,
+   "longitude": -47.854342460632324,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4986768",
+   "nome": "UBS 19 VISTA BELA",
+   "endereco": {
+    "logradouro": "VISTA BELA NR ALEXANDRE GUSMAO",
+    "numero": "S/N",
+    "bairro": "CEILANDIA",
+    "cep": "72701997"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.809496,
+   "longitude": -48.212059,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5038669",
+   "nome": "UBS 01 RIACHO FUNDO II",
+   "endereco": {
+    "logradouro": "QC 06 CONJUNTO 16 AREA ESPECIAL 1 LOTE",
+    "numero": "01",
+    "bairro": "RIACHO FUNDO II",
+    "cep": "71882266"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.922860384455896,
+   "longitude": -48.04377383543672,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5050359",
+   "nome": "UBS 8 VALE DO AMANHECER PLANALTINA",
+   "endereco": {
+    "logradouro": "AREA ESPECIAL",
+    "numero": "01",
+    "bairro": "PLANALTINA",
+    "cep": "73370096"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.67114,
+   "longitude": -47.645447,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5167817",
+   "nome": "UBS 1 PLANALTINA",
+   "endereco": {
+    "logradouro": "QUADRA 18 CONJUNTO H AREA ESPECIAL",
+    "numero": "01",
+    "bairro": "PLANALTINA",
+    "cep": "73356040"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.617806823948234,
+   "longitude": -47.64106817394896,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6216013",
+   "nome": "UBS 4 PLANALTINA",
+   "endereco": {
+    "logradouro": "ESTANCIA NOVA PLANALTINA QD 02 RUA A AREA ESPECIAL",
+    "numero": "0",
+    "bairro": "PLANALTINA",
+    "cep": "73401012"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.619833746250539,
+   "longitude": -47.680519223213196,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6216021",
+   "nome": "UBS 5 PLANALTINA",
+   "endereco": {
+    "logradouro": "QUADRA 12 CONJUNTO D AREA ESPECIAL",
+    "numero": "0",
+    "bairro": "PLANALTINA",
+    "cep": "73368384"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.639407948056894,
+   "longitude": -47.64712035655975,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6268269",
+   "nome": "UBS 1 ITAPOA",
+   "endereco": {
+    "logradouro": "QUADRA 378 CONJ L AREA ESPECIAL",
+    "numero": "1",
+    "bairro": "ITAPOA",
+    "cep": "71593631"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.740243475543059,
+   "longitude": -47.76331861961001,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6585760",
+   "nome": "CENTRO DE ATENCAO PSICOSSOCIAL AD III CEILANDIA",
+   "endereco": {
+    "logradouro": "QNN 16 CEILANDIA",
+    "numero": "0",
+    "bairro": "CEILANDIA SUL",
+    "cep": "72220161"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.83668264682637,
+   "longitude": -48.10380935668945,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6662358",
+   "nome": "UBS 2 BRAZLANDIA",
+   "endereco": {
+    "logradouro": "QUADRA 45 AREA ESPECIAL VILA SAO JOSE",
+    "numero": "S/N",
+    "bairro": "VILA SAO JOSE",
+    "cep": "72745000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.658907,
+   "longitude": -48.192987,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6770657",
+   "nome": "UBS 5 BASEVI SOBRADINHO",
+   "endereco": {
+    "logradouro": "VILA BASEVI AREA ESPECIAL 01 LOTE",
+    "numero": "01",
+    "bairro": "SOBRADINHO",
+    "cep": "73100715"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.646394,
+   "longitude": -47.889475,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6926967",
+   "nome": "FARMACIA DE ALTO CUSTO CEILANDIA",
+   "endereco": {
+    "logradouro": "QUADRA EQNM 18 20",
+    "numero": "S/N",
+    "bairro": "CEILANDIA CENTRO",
+    "cep": "72210550"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.8110008576516,
+   "longitude": -48.100762367248535,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7053754",
+   "nome": "UBS 06 SAMAMBAIA",
+   "endereco": {
+    "logradouro": "QS 122 CONJUNTO 06 LOTE",
+    "numero": "01",
+    "bairro": "SAMAMBAIA SUL",
+    "cep": "72304526"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.869936,
+   "longitude": -48.058807,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7059892",
+   "nome": "UBS 05 RECANTO DAS EMAS",
+   "endereco": {
+    "logradouro": "QUADRA 804 CONJUNTO 20B LOTE 01",
+    "numero": "01",
+    "bairro": "RECANTO DAS EMAS",
+    "cep": "72650760"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.9241,
+   "longitude": -48.056108,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7075596",
+   "nome": "UBS 7 CAFE SEM TROCO PARANOA",
+   "endereco": {
+    "logradouro": "DF 270 KM 2 FAZENDA SANTO ANTONIO",
+    "numero": "0",
+    "bairro": "PARANOA",
+    "cep": "71570990"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.936238212690318,
+   "longitude": -47.58023234908678,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7108923",
+   "nome": "UBS 01 AGUAS CLARAS",
+   "endereco": {
+    "logradouro": "QS 05 LOTE 24 AV AREAL",
+    "numero": "24",
+    "bairro": "AGUAS CLARAS",
+    "cep": "72130077"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.859615,
+   "longitude": -48.036196,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7170939",
+   "nome": "UBS 03 RECANTO DAS EMAS",
+   "endereco": {
+    "logradouro": "QD 104 105 AREA ESPECIAL S N LOTE 25",
+    "numero": "25",
+    "bairro": "RECANTO DAS EMAS",
+    "cep": "72600400"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.901925,
+   "longitude": -48.074326,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7299877",
+   "nome": "UBS 07 SAMAMBAIA",
+   "endereco": {
+    "logradouro": "QUADRA 302 CONJUNTO 5 N",
+    "numero": "01",
+    "bairro": "SAMAMBAIA SUL",
+    "cep": "72300639"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.878026,
+   "longitude": -48.08263,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7347715",
+   "nome": "UBS 1 CEILANDIA",
+   "endereco": {
+    "logradouro": "EQNP 7 11SETOR P NORTE",
+    "numero": "S/N",
+    "bairro": "CEILANDIA",
+    "cep": "72240540"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.819091,
+   "longitude": -48.12995,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7347723",
+   "nome": "UBS 15 CEILANDIA",
+   "endereco": {
+    "logradouro": "QNR 02 AREA ESPECIAL 12",
+    "numero": "S/N",
+    "bairro": "CEILANDIA",
+    "cep": "72242000"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.809039,
+   "longitude": -48.156573,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7368895",
+   "nome": "UBS 2 SOBRADINHO II",
+   "endereco": {
+    "logradouro": "RODOVIA DF 420 COMPLEXO DE SAUDE SETOR DE MANSOES",
+    "numero": "01",
+    "bairro": "SOBRADINHO II",
+    "cep": "73080050"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.639041174991059,
+   "longitude": -47.81979560852051,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7417632",
+   "nome": "UBS 04 RECANTO DAS EMAS",
+   "endereco": {
+    "logradouro": "QUADRA 308 AREA ESPECIAL",
+    "numero": "02",
+    "bairro": "RECANTO DAS EMAS",
+    "cep": "72620400"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.91967,
+   "longitude": -48.101341,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7687079",
+   "nome": "UBS 4 ROTA DO CAVALO SOBRADINHO",
+   "endereco": {
+    "logradouro": "DF 440 CONDOMINIO RESIDENCIAL SERRA VERDE KM 12",
+    "numero": "0",
+    "bairro": "SOBRADINHO",
+    "cep": "73031615"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.702389,
+   "longitude": -47.758696,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7771479",
+   "nome": "UBS 11 SAMAMBAIA",
+   "endereco": {
+    "logradouro": "QR 831 CONJUNTO 02 LOTE 01",
+    "numero": "1",
+    "bairro": "SAMAMBAIA NORTE",
+    "cep": "72338712"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.887541,
+   "longitude": -48.147153,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "8192650",
+   "nome": "UBS 11 SANTA MARIA",
+   "endereco": {
+    "logradouro": "EQ 216 316 AREA ESPECIAL",
+    "numero": "S/N",
+    "bairro": "SANTA MARIA",
+    "cep": "72546304"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.008129711007264,
+   "longitude": -47.99604981349537,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-16"
+  },
+  {
+   "cnes": "8521549",
+   "nome": "FARMACIA DO COMP ESPECIALIZADO CENTRO DE TERAPIA ASSISTIDA",
+   "endereco": {
+    "logradouro": "QSC",
+    "numero": "1",
+    "bairro": "TAGUATINGA",
+    "cep": "72016010"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.836187209106313,
+   "longitude": -48.0597567567753,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-15"
+  },
+  {
+   "cnes": "9056963",
+   "nome": "UBS 01 VICENTE PIRES",
+   "endereco": {
+    "logradouro": "RUA 4C CHACARA 12 COLONIA AGRICOLA SAMAMBAIA",
+    "numero": "12",
+    "bairro": "SETOR HABITACIONAL V",
+    "cep": "72001185"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.8193,
+   "longitude": -48.020231,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9317368",
+   "nome": "FARMACIA DE ALTO CUSTO GAMA",
+   "endereco": {
+    "logradouro": "PRACA 1 LOTE UNICO",
+    "numero": "S/N",
+    "bairro": "GAMA LESTE",
+    "cep": "72405025"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -16.017353472790738,
+   "longitude": -48.05917739868164,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9475931",
+   "nome": "UBS 16 CEILANDIA",
+   "endereco": {
+    "logradouro": "QUADRA 500 AE S N TRECHO 1 SOL NASCENTE",
+    "numero": "S/N",
+    "bairro": "CEILANDIA",
+    "cep": "72236800"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.834473,
+   "longitude": -48.133699,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9480587",
+   "nome": "UBS 12 SAMAMBAIA",
+   "endereco": {
+    "logradouro": "QR 210 CONJUNTO 22 LOTE",
+    "numero": "01",
+    "bairro": "SAMAMBAIA NORTE",
+    "cep": "72316223"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.865519,
+   "longitude": -48.07305,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9509356",
+   "nome": "UBS 17 CEILANDIA",
+   "endereco": {
+    "logradouro": "EQNP 16 20 AREA ESPECIAL E F",
+    "numero": "S/N",
+    "bairro": "CEILANDIA SUL",
+    "cep": "72231560"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.846983,
+   "longitude": -48.114366,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9548203",
+   "nome": "UBS 9 ZONA RURAL DE BRAZLANDIA",
+   "endereco": {
+    "logradouro": "INCRA 8 CAAG Q 15",
+    "numero": "S/N",
+    "bairro": "BRAZLANDIA",
+    "cep": "72760120"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.743074,
+   "longitude": -48.170263,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9572481",
+   "nome": "UBS 3 ITAPOA",
+   "endereco": {
+    "logradouro": "QUADRA 378 CONJ A DEL LAGO N 4",
+    "numero": "4",
+    "bairro": "ITAPOA",
+    "cep": "71593620"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.744862783258741,
+   "longitude": -47.76092827157706,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9572511",
+   "nome": "UBS 3 PARANOA PARQUE",
+   "endereco": {
+    "logradouro": "QUADRA 2 CONJUNTO 6 AREA ESPECIAL 4",
+    "numero": "S/N",
+    "bairro": "PARANOA",
+    "cep": "71587134"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.767980272989352,
+   "longitude": -47.79170827826765,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9768637",
+   "nome": "UBS 20 PLANALTINA",
+   "endereco": {
+    "logradouro": "AREA ESPECIAL 9 A SETOR NORTE",
+    "numero": "00",
+    "bairro": "PLANALTINA",
+    "cep": "73310690"
+   },
+   "codigo_municipio": "530010",
+   "municipio": "Brasília",
+   "latitude": -15.6123495,
+   "longitude": -47.6517498,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  }
+ ],
+ "cnes_sem_cadastro": []
+}

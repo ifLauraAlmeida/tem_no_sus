@@ -1,0 +1,2786 @@
+{
+ "fonte": {
+  "orgao": "Ministério da Saúde — DATASUS",
+  "documento": "CNES — Serviço especializado 125 (serviço de farmácia)",
+  "competencia_cnes": "202608",
+  "url_sr": "ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/SR/SRAM2608.dbc",
+  "sha256_sr": "099b6af7d87b7345e48984e8978003947513432e1b14ed4b9236a0ed80f5ec1b",
+  "url_cadastro": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos",
+  "data_obtencao": "2026-10-11"
+ },
+ "uf": "AM",
+ "estabelecimentos": [
+  {
+   "cnes": "0115681",
+   "nome": "USF CARMEN NICOLAU",
+   "endereco": {
+    "logradouro": "RUA SANTA TEREZA DAVILA",
+    "numero": "S/N",
+    "bairro": "LAGO AZUL",
+    "cep": "69059664"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -2.9743809228333196,
+   "longitude": -60.00901937484741,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-01"
+  },
+  {
+   "cnes": "0278343",
+   "nome": "POLICLINICA JOAO MONTEIRO DE SOUZA",
+   "endereco": {
+    "logradouro": "RUA CONEGO BENTO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69260000"
+   },
+   "codigo_municipio": "130330",
+   "municipio": "Novo Aripuanã",
+   "latitude": -5.122212147202348,
+   "longitude": -60.377769470214844,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-28"
+  },
+  {
+   "cnes": "0460923",
+   "nome": "CAPSI II SUL PSICOLOGA NIVYA KELLEN DE CASTRO VALENTE",
+   "endereco": {
+    "logradouro": "RUA SANTA CATARINA",
+    "numero": "03",
+    "bairro": "FLORES",
+    "cep": "69058330"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.065727,
+   "longitude": -60.0135036,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0461091",
+   "nome": "USF SENADOR SEVERIANO NUNES",
+   "endereco": {
+    "logradouro": "RUA DAS DALIAS",
+    "numero": "S/N",
+    "bairro": "JORGE TEIXEIRA",
+    "cep": "69088181"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.043452,
+   "longitude": -59.938406,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0461156",
+   "nome": "USF DESEMBARGADOR FABIO COUTO VALLE",
+   "endereco": {
+    "logradouro": "AVENIDA BRIGADEIRO HILARIO GURJAO",
+    "numero": "S/N",
+    "bairro": "JORGE TEIXEIRA",
+    "cep": "69088480"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.033674,
+   "longitude": -59.932606,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0461172",
+   "nome": "USF PROFESSOR CARLSON GRACIE",
+   "endereco": {
+    "logradouro": "AVENIDA CURACAO",
+    "numero": "S/N",
+    "bairro": "NOVA CIDADE",
+    "cep": "69097235"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -2.991623283773692,
+   "longitude": -59.985085603540035,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-04"
+  },
+  {
+   "cnes": "0721018",
+   "nome": "CENTRO DE ABASTECIMENTO FARMACEUTICO DE GUAJARA",
+   "endereco": {
+    "logradouro": "RUA ANTONIO FERNANDES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69895000"
+   },
+   "codigo_municipio": "130165",
+   "municipio": "Guajará",
+   "latitude": -7.543898,
+   "longitude": -72.584297,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0766488",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "PRACA RIBEIRO JUNIOR",
+    "numero": "700",
+    "bairro": "URUCU",
+    "cep": "69460194"
+   },
+   "codigo_municipio": "130120",
+   "municipio": "Coari",
+   "latitude": -4.094635865770922,
+   "longitude": -63.15046012401581,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-17"
+  },
+  {
+   "cnes": "0767883",
+   "nome": "FARMA COARI",
+   "endereco": {
+    "logradouro": "RUA DOIS DE DEZEMBRO",
+    "numero": "477",
+    "bairro": "CENTRO",
+    "cep": "69460194"
+   },
+   "codigo_municipio": "130120",
+   "municipio": "Coari",
+   "latitude": -4.094379030919915,
+   "longitude": -63.15033674240112,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-23"
+  },
+  {
+   "cnes": "0797812",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "CONSELHEIRO RUY BARBOSA",
+    "numero": "485",
+    "bairro": "CENTRO",
+    "cep": "69100087"
+   },
+   "codigo_municipio": "130190",
+   "municipio": "Itacoatiara",
+   "latitude": -3.143488880458649,
+   "longitude": -58.447630405426025,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0968501",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE CODAJAS",
+   "endereco": {
+    "logradouro": "RUA JOAO PESSOA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69450000"
+   },
+   "codigo_municipio": "130130",
+   "municipio": "Codajás",
+   "latitude": -3.8367665,
+   "longitude": -62.0731637,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-14"
+  },
+  {
+   "cnes": "2011743",
+   "nome": "USF DR JOSE RAYOL DOS SANTOS",
+   "endereco": {
+    "logradouro": "AVENIDA CONSTANTINO NERY",
+    "numero": "S/N",
+    "bairro": "CHAPADA",
+    "cep": "69050001"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.087567462,
+   "longitude": -60.02678066,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-23"
+  },
+  {
+   "cnes": "2011786",
+   "nome": "USF AJURICABA",
+   "endereco": {
+    "logradouro": "AVENIDA LESTE",
+    "numero": "S/N",
+    "bairro": "ALVORADA",
+    "cep": "69046020"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.06208257237529,
+   "longitude": -60.0392663338431,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-04"
+  },
+  {
+   "cnes": "2011794",
+   "nome": "USF BAIRRO DA PAZ",
+   "endereco": {
+    "logradouro": "RUA COMANDANTE PAULO VARELLA",
+    "numero": "51",
+    "bairro": "DA PAZ",
+    "cep": "69048120"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.059089427,
+   "longitude": -60.03207851,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2011824",
+   "nome": "CAIC ALBERTO CARREIRA",
+   "endereco": {
+    "logradouro": "BRASIL",
+    "numero": "S/N",
+    "bairro": "COMPENSA I",
+    "cep": "69030500"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.1023781155370194,
+   "longitude": -60.05605459213257,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2011832",
+   "nome": "POLICLINICA CASTELO BRANCO",
+   "endereco": {
+    "logradouro": "RUA DO COMERCIO",
+    "numero": "S/N",
+    "bairro": "PARQUE 10 DE NOVEMBR",
+    "cep": "69055000"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.081255419,
+   "longitude": -60.01011978,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2011867",
+   "nome": "USF MEGUMO KADO",
+   "endereco": {
+    "logradouro": "RUA INOCENCIO DE ARAUJO",
+    "numero": "51",
+    "bairro": "EDUCANDOS",
+    "cep": "69070100"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.142931793,
+   "longitude": -60.01433979,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2011921",
+   "nome": "USF GERALDO MAGELA",
+   "endereco": {
+    "logradouro": "RUA RIO ENVIRA",
+    "numero": "S/N",
+    "bairro": "ARMANDO MENDES",
+    "cep": "69089130"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.088913754,
+   "longitude": -59.9425679,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2012650",
+   "nome": "FUNDACAO HOSPITALAR ALFREDO DA MATTA FUHAM",
+   "endereco": {
+    "logradouro": "AVENIDA CODAJAS",
+    "numero": "24",
+    "bairro": "CACHOEIRINHA",
+    "cep": "69065130"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.1198403438343347,
+   "longitude": -60.00552177429199,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-10-08"
+  },
+  {
+   "cnes": "2012847",
+   "nome": "USF FRANK ROSEMBERG CALDERON",
+   "endereco": {
+    "logradouro": "RUA BOA ESPERANCA",
+    "numero": "S/N",
+    "bairro": "CRESPO",
+    "cep": "69073150"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.128408072,
+   "longitude": -59.99169548,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2012863",
+   "nome": "USF ALMIR PEDREIRA",
+   "endereco": {
+    "logradouro": "RUA LAGOA VERDE",
+    "numero": "01",
+    "bairro": "CRESPO",
+    "cep": "69073169"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.1384552,
+   "longitude": -59.9867812,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2012871",
+   "nome": "USF LOURENCO BORGHI",
+   "endereco": {
+    "logradouro": "RUA CARLOS FILGUEIRAS",
+    "numero": "S/N",
+    "bairro": "JAPIIM",
+    "cep": "69078480"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.115629623,
+   "longitude": -59.98775517,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-23"
+  },
+  {
+   "cnes": "2012898",
+   "nome": "USF FREI VALERIO DI CARLO",
+   "endereco": {
+    "logradouro": "RUA RUFINO DE ELIZALDE",
+    "numero": "S/N",
+    "bairro": "NOVO ISRAEL",
+    "cep": "69039540"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.025411926,
+   "longitude": -60.01355556,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-23"
+  },
+  {
+   "cnes": "2012995",
+   "nome": "USF BALBINA MESTRINHO",
+   "endereco": {
+    "logradouro": "RUA CORONEL SILVERIO J NERY",
+    "numero": "170",
+    "bairro": "CIDADE NOVA",
+    "cep": "69094170"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0417429,
+   "longitude": -59.980489,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2013002",
+   "nome": "USF LUCIO FLAVIO DE VASCONCELOS DIAS",
+   "endereco": {
+    "logradouro": "TRAVESSA COMANDANTE FERRAZ",
+    "numero": "15",
+    "bairro": "BETANIA",
+    "cep": "69073060"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.13062373939729,
+   "longitude": -59.9948802202018,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2013479",
+   "nome": "USF DEODATO DE MIRANDA LEAO",
+   "endereco": {
+    "logradouro": "AVENIDA PRESIDENTE DUTRA",
+    "numero": "S/N",
+    "bairro": "GLORIA",
+    "cep": "69027615"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.119987986,
+   "longitude": -60.0364706,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-04"
+  },
+  {
+   "cnes": "2013487",
+   "nome": "USF SANTOS DUMONT",
+   "endereco": {
+    "logradouro": "RUA COMANDANTE NORBERTO WON GAL",
+    "numero": "434",
+    "bairro": "DA PAZ",
+    "cep": "69049100"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.052026459,
+   "longitude": -60.03258207,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-30"
+  },
+  {
+   "cnes": "2013541",
+   "nome": "USF THEOMARIO PINTO DA COSTA",
+   "endereco": {
+    "logradouro": "RUA NAZARETH MESQUITA",
+    "numero": "S/N",
+    "bairro": "PARQUE 10 DE NOVEMBR",
+    "cep": "69054501"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0751509997608,
+   "longitude": -60.0161110691308,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2013606",
+   "nome": "FUNDACAO DE MEDICINA TROPICAL",
+   "endereco": {
+    "logradouro": "PEDRO TEIXEIRA",
+    "numero": "S/N",
+    "bairro": "D PEDRO I",
+    "cep": "69040000"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0867368562872826,
+   "longitude": -60.03496170043945,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2013800",
+   "nome": "USF MAUAZINHO",
+   "endereco": {
+    "logradouro": "AVENIDA ARICA",
+    "numero": "113",
+    "bairro": "MAUAZINHO",
+    "cep": "69075771"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.124571997,
+   "longitude": -59.94033487,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-07"
+  },
+  {
+   "cnes": "2013878",
+   "nome": "USF DR WALDIR BUGALHO DE MEDEIROS",
+   "endereco": {
+    "logradouro": "RUA 7 DE SETEMBRO",
+    "numero": "S/N",
+    "bairro": "JORGE TEIXEIRA",
+    "cep": "69088058"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.02669899991375,
+   "longitude": -59.9237026514704,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2013886",
+   "nome": "USF MJ PM SALVIO BELOTA",
+   "endereco": {
+    "logradouro": "RUA JOAO MONTE FUSCO",
+    "numero": "786",
+    "bairro": "SANTA ETELVINA",
+    "cep": "69059500"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -2.9842283149814426,
+   "longitude": -60.012614848039945,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-23"
+  },
+  {
+   "cnes": "2013894",
+   "nome": "USF MARIA LEONOR BRILHANTE",
+   "endereco": {
+    "logradouro": "AVENIDA AUTAZ MIRIM",
+    "numero": "8004",
+    "bairro": "TANCREDO NEVES",
+    "cep": "69087215"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.047874543,
+   "longitude": -59.94340669,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2013916",
+   "nome": "USF DR ALFREDO CAMPOS",
+   "endereco": {
+    "logradouro": "AVENIDA COSME FERREIRA",
+    "numero": "S/N",
+    "bairro": "ZUMBI DOS PALMARES",
+    "cep": "69084425"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.07523071,
+   "longitude": -59.93753986,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2013924",
+   "nome": "USF VICENTE PALLOTTI",
+   "endereco": {
+    "logradouro": "RUA APURINA",
+    "numero": "279",
+    "bairro": "CENTRO",
+    "cep": "69020170"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.120720965,
+   "longitude": -60.01963836,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2013932",
+   "nome": "USF DOM MILTON CORREA",
+   "endereco": {
+    "logradouro": "RUA AUSTRAL",
+    "numero": "S/N",
+    "bairro": "SANTO AGOSTINHO",
+    "cep": "69036598"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0906766518659032,
+   "longitude": -60.06140559140569,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-05"
+  },
+  {
+   "cnes": "2014610",
+   "nome": "POLICLINICA DR DJALMA BATISTA",
+   "endereco": {
+    "logradouro": "RUA TEOTONIO VILELA",
+    "numero": "S/N",
+    "bairro": "COMPENSA",
+    "cep": "69035550"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.105716192,
+   "longitude": -60.0620735,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2014742",
+   "nome": "USF ARTHUR VIRGILIO FILHO",
+   "endereco": {
+    "logradouro": "TRAVESSA IMBITUBA",
+    "numero": "3015",
+    "bairro": "NOVO ALEIXO",
+    "cep": "69099107"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.041698464,
+   "longitude": -59.95668471,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "2014750",
+   "nome": "USF AUGIAS GADELHA",
+   "endereco": {
+    "logradouro": "RUA MARIA DA GLORIA SANTOS",
+    "numero": "218",
+    "bairro": "CIDADE NOVA",
+    "cep": "69095440"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.026291165549607,
+   "longitude": -59.982445046083804,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-26"
+  },
+  {
+   "cnes": "2015285",
+   "nome": "USF DR JOSE AMAZONAS PALHANO",
+   "endereco": {
+    "logradouro": "RUA ANTONIO MATIAS",
+    "numero": "S/N",
+    "bairro": "SAO JOSE OPERARIO",
+    "cep": "69085010"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.069244701,
+   "longitude": -59.95247351,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2015315",
+   "nome": "USF LEONOR DE FREITAS",
+   "endereco": {
+    "logradouro": "AVENIDA BRASIL",
+    "numero": "S/N",
+    "bairro": "COMPENSA",
+    "cep": "69036110"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.09773113,
+   "longitude": -60.05653137,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2015323",
+   "nome": "USF MANSOUR BULBOL",
+   "endereco": {
+    "logradouro": "AVENIDA DESEMBARGADOR JOAO MACHADO",
+    "numero": "S/N",
+    "bairro": "ALVORADA",
+    "cep": "69043000"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.07349561636937,
+   "longitude": -60.03395911,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2015420",
+   "nome": "USF DR ANTONIO REIS",
+   "endereco": {
+    "logradouro": "RUA ESCANDINAVIA",
+    "numero": "S/N",
+    "bairro": "SAO LAZARO",
+    "cep": "69073524"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.13722810707153,
+   "longitude": -59.99481624602704,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2015455",
+   "nome": "USF GEBES DE MELO MEDEIROS FILHO",
+   "endereco": {
+    "logradouro": "RUA PIRARUCU",
+    "numero": "100",
+    "bairro": "JORGE TEIXEIRA",
+    "cep": "69088765"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0362252712456024,
+   "longitude": -59.93333280086517,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2016141",
+   "nome": "HOSPITAL REGIONAL DE TEFE",
+   "endereco": {
+    "logradouro": "ESTRADA DA BEXIGA",
+    "numero": "S/N",
+    "bairro": "FONTE BOA",
+    "cep": "69553125"
+   },
+   "codigo_municipio": "130420",
+   "municipio": "Tefé",
+   "latitude": -3.3526274205536275,
+   "longitude": -64.7280764579773,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2016184",
+   "nome": "USF PETROPOLIS",
+   "endereco": {
+    "logradouro": "RUA DELFIM DE SOUZA",
+    "numero": "S/N",
+    "bairro": "PETROPOLIS",
+    "cep": "69063460"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.120694008,
+   "longitude": -59.99301801,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2016273",
+   "nome": "USF ARMANDO MENDES",
+   "endereco": {
+    "logradouro": "AVENIDA FRANCISCO QUEIROZ",
+    "numero": "S/N",
+    "bairro": "CIDADE NOVA",
+    "cep": "69090741"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.02344,
+   "longitude": -60.000932,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2016338",
+   "nome": "CEMA CENTRAL DE MEDICAMENTOS DO AMAZONAS",
+   "endereco": {
+    "logradouro": "AV DUQUE DE CAXIAS",
+    "numero": "1998",
+    "bairro": "PRACA 14",
+    "cep": "69020141"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.1181905505990675,
+   "longitude": -60.01152992248535,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2016702",
+   "nome": "USF DR LUIZ MONTENEGRO",
+   "endereco": {
+    "logradouro": "RUA DR EXPEDITO TEODORO",
+    "numero": "S/N",
+    "bairro": "NOSSA SENHORA DAS GR",
+    "cep": "69053415"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.112438047,
+   "longitude": -60.021824229,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2017040",
+   "nome": "POLICLINICA DR JOSE ANTONIO DA SILVA",
+   "endereco": {
+    "logradouro": "RUA GRUMIXAVA",
+    "numero": "55",
+    "bairro": "MONTE DAS OLIVEIRAS",
+    "cep": "69092500"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -2.9982704,
+   "longitude": -59.9951601,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2017059",
+   "nome": "USF DR JOSE AVELINO PEREIRA",
+   "endereco": {
+    "logradouro": "RUA CRAVINHO",
+    "numero": "S/N",
+    "bairro": "JORGE TEIXEIRA",
+    "cep": "69088464"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.032879267,
+   "longitude": -59.92382391,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2017067",
+   "nome": "USF DR JOSE RAIMUNDO FRANCO DE SA",
+   "endereco": {
+    "logradouro": "RUA VIRGILIO FERREIRA",
+    "numero": "150",
+    "bairro": "NOVA ESPERANCA",
+    "cep": "69037585"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.081724174,
+   "longitude": -60.05699831,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-04"
+  },
+  {
+   "cnes": "2017555",
+   "nome": "UNIDADE HOSPITALAR DE CARAUARI",
+   "endereco": {
+    "logradouro": "RUA CELINO DE MENEZES",
+    "numero": "1672",
+    "bairro": "NOVA REPUBLICA",
+    "cep": "69500000"
+   },
+   "codigo_municipio": "130100",
+   "municipio": "Carauari",
+   "latitude": -4.817312315826116,
+   "longitude": -66.829833984375,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-03"
+  },
+  {
+   "cnes": "2018187",
+   "nome": "UNIDADE BASICA DE SAUDE MARIA SARAIVA DO NASCIMENTO",
+   "endereco": {
+    "logradouro": "RUA CAPITAO RIBEIRO",
+    "numero": "190",
+    "bairro": "CENTRO",
+    "cep": "69680000"
+   },
+   "codigo_municipio": "130370",
+   "municipio": "Santo Antônio do Içá",
+   "latitude": -3.1035779834161534,
+   "longitude": -67.94322967529297,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-26"
+  },
+  {
+   "cnes": "2924595",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE ENVIRA",
+   "endereco": {
+    "logradouro": "RUA 05 DE SETEMBRO",
+    "numero": "S/N",
+    "bairro": "SAO FRANCISCO",
+    "cep": "69870000"
+   },
+   "codigo_municipio": "130150",
+   "municipio": "Envira",
+   "latitude": -7.433818486911259,
+   "longitude": -70.02486900028859,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2938146",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "AVENIDA BL 22",
+    "numero": "401",
+    "bairro": "PLATO DO PIQUIA",
+    "cep": "69850000"
+   },
+   "codigo_municipio": "130070",
+   "municipio": "Boca do Acre",
+   "latitude": -8.774347654439165,
+   "longitude": -67.33406782150269,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3027163",
+   "nome": "USF ENFERMEIRA IVONE LIMA DOS SANTOS",
+   "endereco": {
+    "logradouro": "RUA LUIZ CORRENTE",
+    "numero": "S/N",
+    "bairro": "COROADO",
+    "cep": "69082701"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0823313184316,
+   "longitude": -59.9732718587848,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3027171",
+   "nome": "USF ENFERMEIRA ANNA BARRETO PEREIRA",
+   "endereco": {
+    "logradouro": "AVENIDA AUTAZ MIRIM",
+    "numero": "S/N",
+    "bairro": "JORGE TEIXEIRA",
+    "cep": "69088245"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.023501811,
+   "longitude": -59.93330591,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3039285",
+   "nome": "POLICLINICA ANTONIO ALEIXO",
+   "endereco": {
+    "logradouro": "AV GETULIO VARGAS",
+    "numero": "S/N",
+    "bairro": "COLONIA ANTONIO ALEI",
+    "cep": "69008080"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.083769276283174,
+   "longitude": -59.891560077667236,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3042626",
+   "nome": "POLICLINICA ZENO LANZINI",
+   "endereco": {
+    "logradouro": "AUTAZ MIRIM",
+    "numero": "7035",
+    "bairro": "TACREDO NEVES",
+    "cep": "69087215"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.058488,
+   "longitude": -59.948709,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-06"
+  },
+  {
+   "cnes": "3074587",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA JOAO PAULO II",
+    "numero": "S/N",
+    "bairro": "GILBERTO MESTRINHO",
+    "cep": "69120000"
+   },
+   "codigo_municipio": "130200",
+   "municipio": "Itapiranga",
+   "latitude": -2.7459379465193945,
+   "longitude": -58.02637338638306,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3210243",
+   "nome": "HOSPITAL REGIONAL DR JOFRE DE MATOS COHEN",
+   "endereco": {
+    "logradouro": "RUA HERBERTH DE AZEVEDO",
+    "numero": "985",
+    "bairro": "SANTA CLARA",
+    "cep": "69151160"
+   },
+   "codigo_municipio": "130340",
+   "municipio": "Parintins",
+   "latitude": -2.621984617467807,
+   "longitude": -56.726847565420115,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4004388",
+   "nome": "USF MARIA IDA MENTONI",
+   "endereco": {
+    "logradouro": "RUA AJURICABA",
+    "numero": "S/N",
+    "bairro": "SAO JORGE",
+    "cep": "69033090"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.108736328460372,
+   "longitude": -60.042391419410706,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4005988",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF URUCURITUBA",
+   "endereco": {
+    "logradouro": "AV SAO SEBASTIAO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69180000"
+   },
+   "codigo_municipio": "130440",
+   "municipio": "Urucurituba",
+   "latitude": -3.1273768663440022,
+   "longitude": -58.15761923789978,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4052307",
+   "nome": "CAF SEMSA",
+   "endereco": {
+    "logradouro": "RUA CONEGO BENTO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69260000"
+   },
+   "codigo_municipio": "130330",
+   "municipio": "Novo Aripuanã",
+   "latitude": -5.121079431178413,
+   "longitude": -60.37877798080444,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-28"
+  },
+  {
+   "cnes": "4102606",
+   "nome": "CENTRAL ABASTECIMENTO FARMACEUTICO DE SAO PAULO DE OLIVENCA",
+   "endereco": {
+    "logradouro": "MONSENHOR EVANGELISTA",
+    "numero": "1209",
+    "bairro": "CAMPINAS",
+    "cep": "69600000"
+   },
+   "codigo_municipio": "130390",
+   "municipio": "São Paulo de Olivença",
+   "latitude": -3.4631713,
+   "longitude": -68.9509235,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4361601",
+   "nome": "USF PREFEITO AMAZONINO MENDES",
+   "endereco": {
+    "logradouro": "AVENIDA ESPERANCA",
+    "numero": "S/N",
+    "bairro": "LAGO AZUL",
+    "cep": "69018600"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -2.967187070437114,
+   "longitude": -59.99108988174882,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4478312",
+   "nome": "USF BENEDITO BATISTA DE ALMEIDA",
+   "endereco": {
+    "logradouro": "RUA WALDEMAR BAIA",
+    "numero": "S/N",
+    "bairro": "SAO FRANCISCO",
+    "cep": "69063190"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.1097133,
+   "longitude": -60.0006001,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4636511",
+   "nome": "USF PREFEITO FRANK ABRAHIM LIMA",
+   "endereco": {
+    "logradouro": "ABRAHAM BENZION",
+    "numero": "S/N",
+    "bairro": "NOVO ALEIXO",
+    "cep": "69098125"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0609042,
+   "longitude": -59.9750643,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4687175",
+   "nome": "CAPS AD II LESTE DRA ELIANA VITORINO SCHRAMM",
+   "endereco": {
+    "logradouro": "ALAMEDA ALPHAVILLE",
+    "numero": "S/N",
+    "bairro": "TANCREDO NEVES",
+    "cep": "69086622"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.05036813347295,
+   "longitude": -59.948658798282686,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4750187",
+   "nome": "FARMACIA BASICA DE URUCARA",
+   "endereco": {
+    "logradouro": "RUA ROSA FALABELLA",
+    "numero": "S/N",
+    "bairro": "SANTA LUZIA",
+    "cep": "69130000"
+   },
+   "codigo_municipio": "130430",
+   "municipio": "Urucará",
+   "latitude": -2.5323070073487433,
+   "longitude": -57.75684356689453,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4844963",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE ATALAIA DO NORTE",
+   "endereco": {
+    "logradouro": "RUA PEDRO TEIXEIRA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69650000"
+   },
+   "codigo_municipio": "130020",
+   "municipio": "Atalaia do Norte",
+   "latitude": -4.366790652650507,
+   "longitude": -70.19081354141235,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4858670",
+   "nome": "USF ROSA PEREIRA DE ALMEIDA",
+   "endereco": {
+    "logradouro": "RUA DONA MIMI",
+    "numero": "S/N",
+    "bairro": "MORRO DA LIBERDADE",
+    "cep": "69074760"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.135452958,
+   "longitude": -60.00001722,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4962753",
+   "nome": "USF DR AGNALDO GOMES DA COSTA",
+   "endereco": {
+    "logradouro": "RIO PIRATUCU",
+    "numero": "S/N",
+    "bairro": "SAO JOSE OPERARIO",
+    "cep": "69085293"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0635777376331697,
+   "longitude": -59.96160270069077,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5013364",
+   "nome": "FARMACIA VIVA",
+   "endereco": {
+    "logradouro": "AV ANDERSON DE MENEZES DENTRO DA UFAM",
+    "numero": "03000",
+    "bairro": "COROADO",
+    "cep": "69077000"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.1007087516335914,
+   "longitude": -59.97853583619442,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "5084237",
+   "nome": "UNIDADE SAUDE DA FAMILIA ROSSINIO SANTANA GOMES DA SILVA",
+   "endereco": {
+    "logradouro": "ESTRADA DO AEREOPORTO",
+    "numero": "S/N",
+    "bairro": "BAIRRO DA TV",
+    "cep": "69260000"
+   },
+   "codigo_municipio": "130330",
+   "municipio": "Novo Aripuanã",
+   "latitude": -5.122913,
+   "longitude": -60.371172,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-04"
+  },
+  {
+   "cnes": "5388376",
+   "nome": "USF SANTO ANTONIO",
+   "endereco": {
+    "logradouro": "RUA LAURO BITTENCOURT",
+    "numero": "S/N",
+    "bairro": "SANTO ANTONIO",
+    "cep": "69029060"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.115891096,
+   "longitude": -60.0418143,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5426596",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE PARINTINS",
+   "endereco": {
+    "logradouro": "RUA AMARO SILVA",
+    "numero": "3539",
+    "bairro": "SAO JOSE OPERARIO",
+    "cep": "69151512"
+   },
+   "codigo_municipio": "130340",
+   "municipio": "Parintins",
+   "latitude": -2.6349482698301547,
+   "longitude": -56.74591457336678,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-22"
+  },
+  {
+   "cnes": "5483875",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF UARINI",
+   "endereco": {
+    "logradouro": "AVENIDA FRANCO LOPES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69530000"
+   },
+   "codigo_municipio": "130426",
+   "municipio": "Uarini",
+   "latitude": -2.984773824883839,
+   "longitude": -65.15762686729431,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5532248",
+   "nome": "CENTRO ESPECIALIZADO DE ASSISTENCIA FARMACEUTICA",
+   "endereco": {
+    "logradouro": "AVENIDA GETULIO VARGAS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69280000"
+   },
+   "codigo_municipio": "130270",
+   "municipio": "Manicoré",
+   "latitude": -5.808658209412676,
+   "longitude": -61.29963397979736,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5538777",
+   "nome": "USF WALID ABDEL AZIZ",
+   "endereco": {
+    "logradouro": "AVENIDA JOSE MOACIR TEBERGA DE TOLEDO",
+    "numero": "1141",
+    "bairro": "PLANALTO",
+    "cep": "69044235"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0624931536793114,
+   "longitude": -60.06624287470359,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-04"
+  },
+  {
+   "cnes": "5575486",
+   "nome": "CENTRAL DE ASSISTENCIA FARMACEUTICA JOSE XAVIER MAIA CAF",
+   "endereco": {
+    "logradouro": "AV CORONEL LUIS GOMES",
+    "numero": "S/N",
+    "bairro": "PANTANAL",
+    "cep": "69830000"
+   },
+   "codigo_municipio": "130240",
+   "municipio": "Lábrea",
+   "latitude": -7.267076282269465,
+   "longitude": -64.79251384735107,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5632501",
+   "nome": "CENTRAL DE MEDICAMENTO DE ANORI",
+   "endereco": {
+    "logradouro": "AUGUSTO GRIJO",
+    "numero": "S/N",
+    "bairro": "SAO JOAO",
+    "cep": "69440000"
+   },
+   "codigo_municipio": "130010",
+   "municipio": "Anori",
+   "latitude": -3.745384223832465,
+   "longitude": -61.65883541107178,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-11"
+  },
+  {
+   "cnes": "5652170",
+   "nome": "CENTRAL DE ABASTECIMENTOS FARMACEUTICO",
+   "endereco": {
+    "logradouro": "ESTRADA DA BARE",
+    "numero": "S/N",
+    "bairro": "ESTRADA DA BARE",
+    "cep": "69670000"
+   },
+   "codigo_municipio": "130160",
+   "municipio": "Fonte Boa",
+   "latitude": -2.51376608425899,
+   "longitude": -66.0814138351625,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5686504",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "RUA FRANCISCO LINHARES",
+    "numero": "S/N",
+    "bairro": "CIDADE ALTA",
+    "cep": "69860000"
+   },
+   "codigo_municipio": "130350",
+   "municipio": "Pauini",
+   "latitude": -7.414,
+   "longitude": -66.141,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5908515",
+   "nome": "CENTRO DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "AVENIDA 20 DE DEZEMBRO",
+    "numero": "515",
+    "bairro": "CENTRO",
+    "cep": "69240000"
+   },
+   "codigo_municipio": "130030",
+   "municipio": "Autazes",
+   "latitude": -3.5767499635130893,
+   "longitude": -59.13118600845337,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-23"
+  },
+  {
+   "cnes": "6158676",
+   "nome": "FARMACIA MUNICIPAL DE RIO PRETO DA EVA",
+   "endereco": {
+    "logradouro": "RUA GOVERNADOR JOAO WALTER",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69117000"
+   },
+   "codigo_municipio": "130356",
+   "municipio": "Rio Preto da Eva",
+   "latitude": -2.697541180936394,
+   "longitude": -59.7016167640686,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6463525",
+   "nome": "CAPS III SUL BENJAMIM MATIAS FERNANDES",
+   "endereco": {
+    "logradouro": "AVENIDA MANECA MARQUES",
+    "numero": "1916",
+    "bairro": "PARQUE 10 DE NOVEMBR",
+    "cep": "69055021"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0831520174790636,
+   "longitude": -60.00651594586755,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-28"
+  },
+  {
+   "cnes": "6725260",
+   "nome": "SECRETARIA MUNICIPAL DE SAUDE",
+   "endereco": {
+    "logradouro": "AV DOM PEDRO II",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69500000"
+   },
+   "codigo_municipio": "130100",
+   "municipio": "Carauari",
+   "latitude": -4.878269,
+   "longitude": -66.898888,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-03"
+  },
+  {
+   "cnes": "7499744",
+   "nome": "CENTRAL DE MEDICAMENTOS ELISILENE MARINHO DA SILVA",
+   "endereco": {
+    "logradouro": "RUA ALVARO MAIA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69140052"
+   },
+   "codigo_municipio": "130300",
+   "municipio": "Nhamundá",
+   "latitude": -2.1888687636509307,
+   "longitude": -56.713539361953735,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-04"
+  },
+  {
+   "cnes": "7594372",
+   "nome": "USF DR JOSE FIGLIUOLO",
+   "endereco": {
+    "logradouro": "RUA RIO MAICURU",
+    "numero": "S/N",
+    "bairro": "LAGO AZUL",
+    "cep": "69018562"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -2.9686602,
+   "longitude": -59.9961719,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7611773",
+   "nome": "FARMACIA DA CIDADE DE EIRUNEPE",
+   "endereco": {
+    "logradouro": "RUA LELAND BARROSO",
+    "numero": "S/N",
+    "bairro": "N S APARECIDA",
+    "cep": "69880000"
+   },
+   "codigo_municipio": "130140",
+   "municipio": "Eirunepé",
+   "latitude": -6.6612401483525305,
+   "longitude": -69.86474275588989,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7740905",
+   "nome": "USF NILTON LINS",
+   "endereco": {
+    "logradouro": "RUA INGLATERRA",
+    "numero": "3159",
+    "bairro": "FLORES",
+    "cep": "69028220"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.054595299,
+   "longitude": -60.00564859,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7806868",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA EDILSON GONCALVES",
+    "numero": "215",
+    "bairro": "GRACILIANO GONCALVES",
+    "cep": "69750000"
+   },
+   "codigo_municipio": "130380",
+   "municipio": "São Gabriel da Cachoeira",
+   "latitude": -0.12507667144046147,
+   "longitude": -67.08949327468872,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7847718",
+   "nome": "CAPS AD III SUL DR AFRANIO SOARES",
+   "endereco": {
+    "logradouro": "RUA DIOGO BERNARDES",
+    "numero": "5",
+    "bairro": "ALEIXO",
+    "cep": "69060550"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0871852,
+   "longitude": -59.9983749,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7847866",
+   "nome": "USF FATIMA ANDRADE",
+   "endereco": {
+    "logradouro": "RUA INHAPIM",
+    "numero": "S/N",
+    "bairro": "NOVO ALEIXO",
+    "cep": "69099270"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.040025342,
+   "longitude": -59.9547417,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-01"
+  },
+  {
+   "cnes": "7940211",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "AV FRANCISCO MAGNANI",
+    "numero": "909",
+    "bairro": "SANTA LUZIA",
+    "cep": "69190096"
+   },
+   "codigo_municipio": "130290",
+   "municipio": "Maués",
+   "latitude": -3.393369211203379,
+   "longitude": -57.71440029144287,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-09"
+  },
+  {
+   "cnes": "8032629",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "RUA PORTUGAL",
+    "numero": "65",
+    "bairro": "COIMBRA",
+    "cep": "69630000"
+   },
+   "codigo_municipio": "130060",
+   "municipio": "Benjamin Constant",
+   "latitude": -4.380836589066467,
+   "longitude": -70.02553850412369,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-31"
+  },
+  {
+   "cnes": "8054487",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE ANAMA",
+   "endereco": {
+    "logradouro": "RUA JOSE VIDAL DE OLIVEIRA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69445000"
+   },
+   "codigo_municipio": "130008",
+   "municipio": "Anamã",
+   "latitude": -3.581382,
+   "longitude": -61.404474,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-10"
+  },
+  {
+   "cnes": "8055912",
+   "nome": "CENTRAL ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "AVENIDA ADEMAR DE BARROS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69730000"
+   },
+   "codigo_municipio": "130320",
+   "municipio": "Novo Airão",
+   "latitude": -2.6234324,
+   "longitude": -60.94881,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-14"
+  },
+  {
+   "cnes": "8075689",
+   "nome": "SERVICO DE PRONTO ATENDIMENTO 24 HORAS",
+   "endereco": {
+    "logradouro": "COPACABANA",
+    "numero": "S/N",
+    "bairro": "ABIAL",
+    "cep": "69550405"
+   },
+   "codigo_municipio": "130420",
+   "municipio": "Tefé",
+   "latitude": -3.3429879465971046,
+   "longitude": -64.69421625137329,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-14"
+  },
+  {
+   "cnes": "8075719",
+   "nome": "FARMACIA MUNICIPAL DESCENTRALIZADA DE TABATINGA",
+   "endereco": {
+    "logradouro": "RUA SANTOS DUMONT",
+    "numero": "S/N",
+    "bairro": "COMUNICACOES",
+    "cep": "69640000"
+   },
+   "codigo_municipio": "130406",
+   "municipio": "Tabatinga",
+   "latitude": -4.2308063,
+   "longitude": -69.9210803,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-14"
+  },
+  {
+   "cnes": "8089876",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF IRANDUBA",
+   "endereco": {
+    "logradouro": "RUA SOLIMOES",
+    "numero": "22",
+    "bairro": "ALTO",
+    "cep": "69415000"
+   },
+   "codigo_municipio": "130185",
+   "municipio": "Iranduba",
+   "latitude": -3.277181,
+   "longitude": -60.190918,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-07"
+  },
+  {
+   "cnes": "8141509",
+   "nome": "USF ADALGIZA BARBOSA DE LIMA",
+   "endereco": {
+    "logradouro": "AVENIDA LAGUNA",
+    "numero": "S/N",
+    "bairro": "LIRIO DO VALE",
+    "cep": "69038010"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0747774897810407,
+   "longitude": -60.06420920514203,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-17"
+  },
+  {
+   "cnes": "8166447",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE BARREIRINHA",
+   "endereco": {
+    "logradouro": "RUA BH1 NILO PEREIRA",
+    "numero": "S/N",
+    "bairro": "SAO JUDAS TADEU",
+    "cep": "69160000"
+   },
+   "codigo_municipio": "130050",
+   "municipio": "Barreirinha",
+   "latitude": -2.8027984234078804,
+   "longitude": -57.06751585006714,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-16"
+  },
+  {
+   "cnes": "8179514",
+   "nome": "UNIDADE BASICA DE SAUDE MOVEL UBSM",
+   "endereco": {
+    "logradouro": "AVENIDA SAMAUMA",
+    "numero": "1005",
+    "bairro": "MONTE DAS OLIVEIRAS",
+    "cep": "69093132"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.0107321682672423,
+   "longitude": -59.99131845936091,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-16"
+  },
+  {
+   "cnes": "8242836",
+   "nome": "FARMACIA MUNICIPAL DE SANTO ANTONIO DO ICA",
+   "endereco": {
+    "logradouro": "RUA ZENITH RAMOS",
+    "numero": "S/N",
+    "bairro": "ALVARO MAIA",
+    "cep": "69680000"
+   },
+   "codigo_municipio": "130370",
+   "municipio": "Santo Antônio do Içá",
+   "latitude": -3.102561,
+   "longitude": -67.94554,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8249377",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "AVENIDA COUTO VALE",
+    "numero": "520",
+    "bairro": "CENTRO",
+    "cep": "69425000"
+   },
+   "codigo_municipio": "130083",
+   "municipio": "Caapiranga",
+   "latitude": -3.330115,
+   "longitude": -61.211275,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "8330727",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "CEL GARCIA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69114000"
+   },
+   "codigo_municipio": "130400",
+   "municipio": "Silves",
+   "latitude": -2.8364676144614487,
+   "longitude": -58.21528673171997,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8340269",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "AV DOM PEDRO II",
+    "numero": "381",
+    "bairro": "CENTRO",
+    "cep": "69500000"
+   },
+   "codigo_municipio": "130100",
+   "municipio": "Carauari",
+   "latitude": -4.881615245790862,
+   "longitude": -66.8965083360672,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8402930",
+   "nome": "CAF BVR CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "TRAVESSA TIRADENTES",
+    "numero": "516",
+    "bairro": "NSA DE FATIMA",
+    "cep": "69220040"
+   },
+   "codigo_municipio": "130068",
+   "municipio": "Boa Vista do Ramos",
+   "latitude": -2.9658629558299032,
+   "longitude": -57.582221031188965,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-15"
+  },
+  {
+   "cnes": "9010327",
+   "nome": "CAF PRES FIGUEIREDO",
+   "endereco": {
+    "logradouro": "RUA ANDIRAS",
+    "numero": "11",
+    "bairro": "CENTRO",
+    "cep": "69720041"
+   },
+   "codigo_municipio": "130353",
+   "municipio": "Presidente Figueiredo",
+   "latitude": -2.0525718843851877,
+   "longitude": -60.0279101729393,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-07"
+  },
+  {
+   "cnes": "9041370",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "TRAVESSA DO HOSPITAL",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69800113"
+   },
+   "codigo_municipio": "130170",
+   "municipio": "Humaitá",
+   "latitude": -7.515278769413831,
+   "longitude": -63.02656888961792,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "9151788",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE BERURI AM",
+   "endereco": {
+    "logradouro": "RUA TAMBAQUI",
+    "numero": "S/N",
+    "bairro": "SANTO ANTONIO",
+    "cep": "69430000"
+   },
+   "codigo_municipio": "130063",
+   "municipio": "Beruri",
+   "latitude": -3.904181249808301,
+   "longitude": -61.368234157562256,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9223517",
+   "nome": "CENTRAL DE MEDICAMENTOS",
+   "endereco": {
+    "logradouro": "AV VARCY HERCULANO BARROSO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69890000"
+   },
+   "codigo_municipio": "130180",
+   "municipio": "Ipixuna",
+   "latitude": -7.05154,
+   "longitude": -71.6947,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-10"
+  },
+  {
+   "cnes": "9351574",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "ESTRADA DO AEROPORTO",
+    "numero": "2010",
+    "bairro": "SAO FRANCISCO",
+    "cep": "69552105"
+   },
+   "codigo_municipio": "130420",
+   "municipio": "Tefé",
+   "latitude": -3.3571472300866163,
+   "longitude": -64.71739053726196,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-12"
+  },
+  {
+   "cnes": "9351582",
+   "nome": "FARMACIA DO POVO",
+   "endereco": {
+    "logradouro": "MARECHAL DEODORO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69550133"
+   },
+   "codigo_municipio": "130420",
+   "municipio": "Tefé",
+   "latitude": -3.3496873910535028,
+   "longitude": -64.70621645450592,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9412808",
+   "nome": "CENTRAL DE MEDICAMENTOS DE MANICORE",
+   "endereco": {
+    "logradouro": "TRAVESSA 7 DE SETEMBRO",
+    "numero": "307",
+    "bairro": "MAZZARELLO",
+    "cep": "69280000"
+   },
+   "codigo_municipio": "130270",
+   "municipio": "Manicoré",
+   "latitude": -5.812781704815446,
+   "longitude": -61.29625853933484,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9434739",
+   "nome": "FARMACIA BASICA CARLINDO RAMOS",
+   "endereco": {
+    "logradouro": "RUA FREI PIO",
+    "numero": "20",
+    "bairro": "CENTRO",
+    "cep": "69620000"
+   },
+   "codigo_municipio": "130006",
+   "municipio": "Amaturá",
+   "latitude": -3.3629308421079087,
+   "longitude": -68.19917678833008,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9518924",
+   "nome": "USF FLUVIAL DR NEY LACERDA",
+   "endereco": {
+    "logradouro": "CALHA DO RIO NEGRO",
+    "numero": "S/N",
+    "bairro": "ZONA RURAL",
+    "cep": "69037000"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.14325855753886,
+   "longitude": -60.03273010253906,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-26"
+  },
+  {
+   "cnes": "9543252",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "AMAZONAS",
+    "numero": "S/N",
+    "bairro": "SANTA LUZIA",
+    "cep": "69230000"
+   },
+   "codigo_municipio": "130310",
+   "municipio": "Nova Olinda do Norte",
+   "latitude": -3.8911009360514894,
+   "longitude": -59.09951448440552,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9583858",
+   "nome": "CAPS DE NOVO ARIPUANA",
+   "endereco": {
+    "logradouro": "RUA CONEGO BENTO",
+    "numero": "S/N",
+    "bairro": "PALMEIRAS",
+    "cep": "69260000"
+   },
+   "codigo_municipio": "130330",
+   "municipio": "Novo Aripuanã",
+   "latitude": -5.128807913218342,
+   "longitude": -60.37251641132681,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-28"
+  },
+  {
+   "cnes": "9595414",
+   "nome": "CEHUM CENTRO DE ESPECIALIDADES DE HUMAITA",
+   "endereco": {
+    "logradouro": "TRAVESSA DO HOSPITAL",
+    "numero": "S/N",
+    "bairro": "SAO JOSE",
+    "cep": "69800113"
+   },
+   "codigo_municipio": "130170",
+   "municipio": "Humaitá",
+   "latitude": -7.515661689565382,
+   "longitude": -63.02659034729004,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "9723633",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "RUA CORONEL JULIO ROBERTO",
+    "numero": "2000",
+    "bairro": "SAO JOSE",
+    "cep": "69400809"
+   },
+   "codigo_municipio": "130250",
+   "municipio": "Manacapuru",
+   "latitude": -3.2879126101845046,
+   "longitude": -60.63324451446533,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9734872",
+   "nome": "CEAF AM",
+   "endereco": {
+    "logradouro": "AVENIDA DUQUE DE CAXIAS",
+    "numero": "1998",
+    "bairro": "PRACA 14 DE JANEIRO",
+    "cep": "69020141"
+   },
+   "codigo_municipio": "130260",
+   "municipio": "Manaus",
+   "latitude": -3.102913771008517,
+   "longitude": -60.02373933792114,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9767894",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE TABATINGA CAF",
+   "endereco": {
+    "logradouro": "RUA DA PATRIA",
+    "numero": "510",
+    "bairro": "SAO FRANCISCO",
+    "cep": "69640000"
+   },
+   "codigo_municipio": "130406",
+   "municipio": "Tabatinga",
+   "latitude": -4.2260524,
+   "longitude": -69.9382344,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "9981438",
+   "nome": "CENTRAL DE ABASTECIMENTO DE FARMACIA CAF",
+   "endereco": {
+    "logradouro": "RUA CICERO TUCHAUA",
+    "numero": "S/N",
+    "bairro": "SANTO ANTONIO",
+    "cep": "69660000"
+   },
+   "codigo_municipio": "130230",
+   "municipio": "Jutaí",
+   "latitude": -2.752260674835894,
+   "longitude": -66.7758572101593,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9985735",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO SESAI",
+   "endereco": {
+    "logradouro": "AV NACOES UNIDAS",
+    "numero": "1744",
+    "bairro": "CENTRO",
+    "cep": "69151000"
+   },
+   "codigo_municipio": "130340",
+   "municipio": "Parintins",
+   "latitude": -2.629550982057735,
+   "longitude": -56.73159599304199,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9998799",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA TRINTA E UM DE MAIO",
+    "numero": "S/N",
+    "bairro": "VISTA ALEGRE",
+    "cep": "69250000"
+   },
+   "codigo_municipio": "130110",
+   "municipio": "Careiro",
+   "latitude": -3.8231093,
+   "longitude": -60.3590088,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  }
+ ],
+ "cnes_sem_cadastro": []
+}

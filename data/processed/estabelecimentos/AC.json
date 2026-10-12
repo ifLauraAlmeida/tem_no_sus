@@ -1,0 +1,485 @@
+{
+ "fonte": {
+  "orgao": "Ministério da Saúde — DATASUS",
+  "documento": "CNES — Serviço especializado 125 (serviço de farmácia)",
+  "competencia_cnes": "202608",
+  "url_sr": "ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/SR/SRAC2608.dbc",
+  "sha256_sr": "fcef42706751c56165b5acb7f296229bf61ab319ed03a33527b84a5b02f00013",
+  "url_cadastro": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos",
+  "data_obtencao": "2026-10-11"
+ },
+ "uf": "AC",
+ "estabelecimentos": [
+  {
+   "cnes": "0078719",
+   "nome": "CENTRAL DE ABASTECIMENTO DA ASSISTENCIA BASICA",
+   "endereco": {
+    "logradouro": "AVENIDA EPITACIO PESSOA",
+    "numero": "149",
+    "bairro": "CENTRO",
+    "cep": "69928000"
+   },
+   "codigo_municipio": "120038",
+   "municipio": "Plácido de Castro",
+   "latitude": -10.336324992695046,
+   "longitude": -67.18500137329102,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-15"
+  },
+  {
+   "cnes": "0966711",
+   "nome": "CENTRAL UNICA DE MEDICAMENTO DO MUNIC DE PORTO WALTER",
+   "endereco": {
+    "logradouro": "BEIRA RIO",
+    "numero": "1296",
+    "bairro": "CENTRO",
+    "cep": "69982000"
+   },
+   "codigo_municipio": "120039",
+   "municipio": "Porto Walter",
+   "latitude": -8.265876287638779,
+   "longitude": -72.7405858039856,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2000466",
+   "nome": "COMPLEXO PENITENCIARIO DE RIO BRANCO",
+   "endereco": {
+    "logradouro": "ESTRADA DO BARRO VERMELHO",
+    "numero": "3",
+    "bairro": "DISTRITO INDUSTRIAL",
+    "cep": "69900970"
+   },
+   "codigo_municipio": "120040",
+   "municipio": "Rio Branco",
+   "latitude": -9.974260791984161,
+   "longitude": -67.80959129333496,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2001063",
+   "nome": "CENTRO DE CONTROLE DE ONCOLOGIA DO ACRE",
+   "endereco": {
+    "logradouro": "TRAVESSA DO HEMOACRE",
+    "numero": "67",
+    "bairro": "BOSQUE",
+    "cep": "69900604"
+   },
+   "codigo_municipio": "120040",
+   "municipio": "Rio Branco",
+   "latitude": -9.954711853788881,
+   "longitude": -67.81992316246033,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-02"
+  },
+  {
+   "cnes": "2001527",
+   "nome": "POLICLINICA TUCUMA",
+   "endereco": {
+    "logradouro": "AVENIDA NOROESTE",
+    "numero": "486",
+    "bairro": "TUCUMA",
+    "cep": "69919778"
+   },
+   "codigo_municipio": "120040",
+   "municipio": "Rio Branco",
+   "latitude": -9.950755008832783,
+   "longitude": -67.85815121628892,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2001578",
+   "nome": "HOSPITAL GERAL DE CLINICAS DE RIO BRANCO",
+   "endereco": {
+    "logradouro": "AV NACOES UNIDAS",
+    "numero": "700",
+    "bairro": "BOSQUE",
+    "cep": "69900478"
+   },
+   "codigo_municipio": "120040",
+   "municipio": "Rio Branco",
+   "latitude": -9.9649435,
+   "longitude": -67.8152152,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3542734",
+   "nome": "CENTRO DE REF PARA O PROG DE MEDICAMENTOS EXCEPCIONAIS",
+   "endereco": {
+    "logradouro": "TRAVESSA DO HEMOACRE",
+    "numero": "160",
+    "bairro": "BOSQUE",
+    "cep": "69900604"
+   },
+   "codigo_municipio": "120040",
+   "municipio": "Rio Branco",
+   "latitude": -9.9807275,
+   "longitude": -67.8129816,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3595943",
+   "nome": "U S F FRANCISCO DE CASTRO",
+   "endereco": {
+    "logradouro": "RUA AQUIRI",
+    "numero": "0206",
+    "bairro": "ZONA RURAL DISTRIT",
+    "cep": "69928000"
+   },
+   "codigo_municipio": "120038",
+   "municipio": "Plácido de Castro",
+   "latitude": -10.064191893696481,
+   "longitude": -67.29743957519531,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4587499",
+   "nome": "FARMACIA MUNICIPAL DE EPITACIOLANDIA",
+   "endereco": {
+    "logradouro": "AVENIDA SANTOS DUMONT",
+    "numero": "000",
+    "bairro": "CENTRO",
+    "cep": "69934000"
+   },
+   "codigo_municipio": "120025",
+   "municipio": "Epitaciolândia",
+   "latitude": -11.029,
+   "longitude": -68.029,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4727703",
+   "nome": "FARMACIA MUNICIPAL DE MARECHAL THAUMATURGO",
+   "endereco": {
+    "logradouro": "RUA DELEUZI BARAUNA",
+    "numero": "00",
+    "bairro": "CENTRO",
+    "cep": "69983000"
+   },
+   "codigo_municipio": "120035",
+   "municipio": "Marechal Thaumaturgo",
+   "latitude": -8.942911788747931,
+   "longitude": -72.79085040092468,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-01"
+  },
+  {
+   "cnes": "7111096",
+   "nome": "COFAM COMPLEXO FARMACEUTICO MUNICIPAL",
+   "endereco": {
+    "logradouro": "TRAV SAO LAZARO",
+    "numero": "S/N",
+    "bairro": "TANGARA",
+    "cep": "69915006"
+   },
+   "codigo_municipio": "120040",
+   "municipio": "Rio Branco",
+   "latitude": -9.96577,
+   "longitude": -67.83848,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7111118",
+   "nome": "DIVISAO DE ASSISTENCIA FARMACEUTICA DAF SEMSA",
+   "endereco": {
+    "logradouro": "RUA PROJETADA",
+    "numero": "001",
+    "bairro": "ABRAAO ALAB",
+    "cep": "69900460"
+   },
+   "codigo_municipio": "120040",
+   "municipio": "Rio Branco",
+   "latitude": -9.96675,
+   "longitude": -67.81915,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-19"
+  },
+  {
+   "cnes": "7334710",
+   "nome": "CENTRO DE REFERENCIA DE MEDIC EXCEPCIONAIS REGIONAL DO JURUA",
+   "endereco": {
+    "logradouro": "RUA LEOPOLDO DE BULHOES",
+    "numero": "216",
+    "bairro": "ALUMINIO",
+    "cep": "69980000"
+   },
+   "codigo_municipio": "120020",
+   "municipio": "Cruzeiro do Sul",
+   "latitude": -7.6272471828341235,
+   "longitude": -72.66501188278198,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7594763",
+   "nome": "CENTRAL ESTADUAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "TRAVESSA DO HEMOACRE",
+    "numero": "132",
+    "bairro": "BOSQUE",
+    "cep": "69900604"
+   },
+   "codigo_municipio": "120040",
+   "municipio": "Rio Branco",
+   "latitude": -9.953904,
+   "longitude": -67.819518,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7652844",
+   "nome": "FARMACIA CENTRAL DE XAPURI",
+   "endereco": {
+    "logradouro": "RUA CORONEL BRANDAO",
+    "numero": "534",
+    "bairro": "CENTRO",
+    "cep": "69930000"
+   },
+   "codigo_municipio": "120070",
+   "municipio": "Xapuri",
+   "latitude": -10.654536988226388,
+   "longitude": -68.50242076107287,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7780818",
+   "nome": "FARMACIA MUNICIPAL DE TARAUACA",
+   "endereco": {
+    "logradouro": "RUA JOAO PESSOA",
+    "numero": "661",
+    "bairro": "SENADOR POMPEU",
+    "cep": "69970000"
+   },
+   "codigo_municipio": "120060",
+   "municipio": "Tarauacá",
+   "latitude": -8.67891,
+   "longitude": -70.67891,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7827547",
+   "nome": "FARMACIA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA DOM GIOCONDO MARIA GROTTI",
+    "numero": "500",
+    "bairro": "CENTRO",
+    "cep": "69935000"
+   },
+   "codigo_municipio": "120005",
+   "municipio": "Assis Brasil",
+   "latitude": -10.940669,
+   "longitude": -69.561204,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7845375",
+   "nome": "FARMACIA MUNICIPAL DE BRASILEIA",
+   "endereco": {
+    "logradouro": "AV DR MANOEL MARINHO MONTES",
+    "numero": "1650",
+    "bairro": "FERREIRA DA SILVA",
+    "cep": "69932000"
+   },
+   "codigo_municipio": "120010",
+   "municipio": "Brasiléia",
+   "latitude": -10.997679238599448,
+   "longitude": -68.75273108482361,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "8377464",
+   "nome": "FARMACIA MUNICIPAL DE MANOEL URBANO",
+   "endereco": {
+    "logradouro": "VALERIO CALDAS DE MAGALHAES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69950000"
+   },
+   "codigo_municipio": "120034",
+   "municipio": "Manoel Urbano",
+   "latitude": -8.8363177,
+   "longitude": -69.259944,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8420262",
+   "nome": "FARMACIA MUNICIPAL DE FEIJO",
+   "endereco": {
+    "logradouro": "TV JOAO AMBROSIO TAVEIRA",
+    "numero": "S/N",
+    "bairro": "CIDADE NOVA",
+    "cep": "69960000"
+   },
+   "codigo_municipio": "120030",
+   "municipio": "Feijó",
+   "latitude": -8.16545922594767,
+   "longitude": -70.34997737271306,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-09"
+  },
+  {
+   "cnes": "9421548",
+   "nome": "FARMACIA MUNICIPAL AGUINALDO FERREIRA CHAVES",
+   "endereco": {
+    "logradouro": "TRAVESSA AEROPORTO",
+    "numero": "513",
+    "bairro": "CENTRO",
+    "cep": "69940000"
+   },
+   "codigo_municipio": "120050",
+   "municipio": "Sena Madureira",
+   "latitude": -9.068396469953672,
+   "longitude": -68.65537762641907,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9679189",
+   "nome": "FARMACIA PUBLICA CENTRAL",
+   "endereco": {
+    "logradouro": "EDMUNDO PINTO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69931000"
+   },
+   "codigo_municipio": "120017",
+   "municipio": "Capixaba",
+   "latitude": -10.57441191777763,
+   "longitude": -67.6767897605896,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9746110",
+   "nome": "CENTRAL UNICA DE MEDICAMENTOS",
+   "endereco": {
+    "logradouro": "RUA DJALMA DUTRA",
+    "numero": "289",
+    "bairro": "CENTRO",
+    "cep": "69980000"
+   },
+   "codigo_municipio": "120020",
+   "municipio": "Cruzeiro do Sul",
+   "latitude": -7.634180437943154,
+   "longitude": -72.66494750976562,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  }
+ ],
+ "cnes_sem_cadastro": []
+}

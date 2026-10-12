@@ -1,0 +1,548 @@
+{
+ "fonte": {
+  "orgao": "Ministério da Saúde — DATASUS",
+  "documento": "CNES — Serviço especializado 125 (serviço de farmácia)",
+  "competencia_cnes": "202608",
+  "url_sr": "ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/SR/SRRR2608.dbc",
+  "sha256_sr": "7a607830505917eed57b267d0d1b9c6d909fe7243672a14c1342786e6969a6e6",
+  "url_cadastro": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos",
+  "data_obtencao": "2026-10-11"
+ },
+ "uf": "RR",
+ "estabelecimentos": [
+  {
+   "cnes": "0419079",
+   "nome": "CENTRAL DE ASSISTENCIA FARMACEUTICA UIRAMUTA",
+   "endereco": {
+    "logradouro": "MARTIMIANO VIEIRA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69358000"
+   },
+   "codigo_municipio": "140070",
+   "municipio": "Uiramutã",
+   "latitude": 4.595145641066299,
+   "longitude": -60.16387403011322,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0550027",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE CANTA",
+   "endereco": {
+    "logradouro": "RUA RENATO COSTA DE ALMEIDA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69390000"
+   },
+   "codigo_municipio": "140017",
+   "municipio": "Cantá",
+   "latitude": 2.6102806984196345,
+   "longitude": -60.597968101501465,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0816418",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE AMAJARI",
+   "endereco": {
+    "logradouro": "RAUA JOSE PEREIRA DE MELO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69343000"
+   },
+   "codigo_municipio": "140002",
+   "municipio": "Amajari",
+   "latitude": 3.652002,
+   "longitude": -61.370315,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0882577",
+   "nome": "FARMACIA MUNICIPAL DE SAO JOAO DA BALIZA",
+   "endereco": {
+    "logradouro": "RUA JOSE DE ALENCAR",
+    "numero": "117",
+    "bairro": "CENTRO",
+    "cep": "69375000"
+   },
+   "codigo_municipio": "140050",
+   "municipio": "São João da Baliza",
+   "latitude": 0.948599,
+   "longitude": -59.909113,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0960772",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "AV CHICO RUFINO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69373000"
+   },
+   "codigo_municipio": "140047",
+   "municipio": "Rorainópolis",
+   "latitude": 0.9341451896967122,
+   "longitude": -60.442888140678406,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-20"
+  },
+  {
+   "cnes": "2319918",
+   "nome": "UBS GENESIO DA SILVA",
+   "endereco": {
+    "logradouro": "RUA PRINCIPAL",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69350000"
+   },
+   "codigo_municipio": "140005",
+   "municipio": "Alto Alegre",
+   "latitude": 2.752389272352183,
+   "longitude": -61.1883544921875,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2319969",
+   "nome": "CENTRO DE SAUDE ANA PEREIRA",
+   "endereco": {
+    "logradouro": "RUA JOAO 23",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69350000"
+   },
+   "codigo_municipio": "140005",
+   "municipio": "Alto Alegre",
+   "latitude": 2.9928523633384216,
+   "longitude": -61.310555934906006,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2320401",
+   "nome": "CENTRO DE SAUDE IRACEMA GALVAO",
+   "endereco": {
+    "logradouro": "AV MAURICIO HABERT",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69355000"
+   },
+   "codigo_municipio": "140040",
+   "municipio": "Normandia",
+   "latitude": 3.8829015522984047,
+   "longitude": -59.621944427490234,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-22"
+  },
+  {
+   "cnes": "2320681",
+   "nome": "HOSPITAL DA CRIANCA SANTO ANTONIO",
+   "endereco": {
+    "logradouro": "AV DAS GUIANAS",
+    "numero": "1645",
+    "bairro": "13 DE SETEMBRO",
+    "cep": "69308160"
+   },
+   "codigo_municipio": "140010",
+   "municipio": "Boa Vista",
+   "latitude": 2.8047701660578515,
+   "longitude": -60.68890571594238,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2320789",
+   "nome": "UNIDADE BASICA DE SAUDE REGINA RIBEIRO PAIVA",
+   "endereco": {
+    "logradouro": "AVENIDA JOAO RODRIGUES DA SILVA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69370000"
+   },
+   "codigo_municipio": "140060",
+   "municipio": "São Luiz do Anauá",
+   "latitude": 1.016243,
+   "longitude": -60.037902,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2589796",
+   "nome": "CENTRO DE SAUDE ANTONIO PEREIRA DA SILVA",
+   "endereco": {
+    "logradouro": "RUA A",
+    "numero": "S/N",
+    "bairro": "ZONA RURAL",
+    "cep": "69350000"
+   },
+   "codigo_municipio": "140005",
+   "municipio": "Alto Alegre",
+   "latitude": 3.287837631951555,
+   "longitude": -61.08977794647217,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2589885",
+   "nome": "COORDENADORIA GERAL DE ASSISTENCIA FARMACEUTICA CGAF",
+   "endereco": {
+    "logradouro": "AV SAO SEBASTIAO",
+    "numero": "1485",
+    "bairro": "SANTA TEREZA",
+    "cep": "69314152"
+   },
+   "codigo_municipio": "140010",
+   "municipio": "Boa Vista",
+   "latitude": 2.8217658,
+   "longitude": -60.6847814,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2589915",
+   "nome": "POLICLINICA CORONEL MOTA",
+   "endereco": {
+    "logradouro": "RUA CORONEL PINTO",
+    "numero": "636",
+    "bairro": "CENTRO",
+    "cep": "69301150"
+   },
+   "codigo_municipio": "140010",
+   "municipio": "Boa Vista",
+   "latitude": 2.82395,
+   "longitude": -60.67145,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-04"
+  },
+  {
+   "cnes": "2657198",
+   "nome": "CENTRO DE SAUDE AGENOR PAULO DA SILVA",
+   "endereco": {
+    "logradouro": "VILA PAREDAO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69350000"
+   },
+   "codigo_municipio": "140005",
+   "municipio": "Alto Alegre",
+   "latitude": 3.0711810741914762,
+   "longitude": -61.60379648208618,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "3221172",
+   "nome": "CENTRO DE REF DA SAUDE DA MULHER MARIA LUIZA CASTRO PERIN",
+   "endereco": {
+    "logradouro": "AV CAPITAO JULIO BEZERRA",
+    "numero": "1632",
+    "bairro": "APARECIDA",
+    "cep": "69306025"
+   },
+   "codigo_municipio": "140010",
+   "municipio": "Boa Vista",
+   "latitude": 2.8224438,
+   "longitude": -60.672304,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4990803",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "AV MAURICIO HABERT",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69355000"
+   },
+   "codigo_municipio": "140040",
+   "municipio": "Normandia",
+   "latitude": 3.8836014,
+   "longitude": -59.6236853,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5832454",
+   "nome": "UNIDADE BASICA DE SAUDE ALCINO MARIANO DA SILVA",
+   "endereco": {
+    "logradouro": "AVENIDA BOA VISTA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69370000"
+   },
+   "codigo_municipio": "140060",
+   "municipio": "São Luiz do Anauá",
+   "latitude": 1.018263139209369,
+   "longitude": -60.04335165023804,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "5877946",
+   "nome": "UNIDADE SAUDE DA FAMILIA UIRAMUTA JOSE JULIO",
+   "endereco": {
+    "logradouro": "RUA MUTUM",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69358000"
+   },
+   "codigo_municipio": "140070",
+   "municipio": "Uiramutã",
+   "latitude": 4.595225848687067,
+   "longitude": -60.162720680236816,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6615082",
+   "nome": "SAF SUPERINTENDENCIA DE ASSISTENCIA FARMACEUTICA",
+   "endereco": {
+    "logradouro": "AV CAPITAO JULIO BEZERRA",
+    "numero": "1150",
+    "bairro": "SAO FRANCISCO",
+    "cep": "69305025"
+   },
+   "codigo_municipio": "140010",
+   "municipio": "Boa Vista",
+   "latitude": 2.831972373122829,
+   "longitude": -60.67001760005951,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7000642",
+   "nome": "CAPS I RAIMUNDA DA SILVA ABREU",
+   "endereco": {
+    "logradouro": "RUA FABIAN PEREIRA DE MELO",
+    "numero": "S/N",
+    "bairro": "AZUL",
+    "cep": "69350000"
+   },
+   "codigo_municipio": "140005",
+   "municipio": "Alto Alegre",
+   "latitude": 2.9962728671549486,
+   "longitude": -61.310303807258606,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-12"
+  },
+  {
+   "cnes": "7317972",
+   "nome": "CENTRO DE SAUDE JOAO MARIANO",
+   "endereco": {
+    "logradouro": "AVENIDA GETULIO VARGAS",
+    "numero": "S/N",
+    "bairro": "MUTIRAO",
+    "cep": "69350000"
+   },
+   "codigo_municipio": "140005",
+   "municipio": "Alto Alegre",
+   "latitude": 2.991093723520748,
+   "longitude": -61.30757852677248,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "7428863",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE BONFIM",
+   "endereco": {
+    "logradouro": "RUA MARIA DEOLINDA FRANCO MEGIAS",
+    "numero": "S/N",
+    "bairro": "CIDADE NOVA",
+    "cep": "69380000"
+   },
+   "codigo_municipio": "140015",
+   "municipio": "Bonfim",
+   "latitude": 3.3648212189713798,
+   "longitude": -59.83011066913605,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7705093",
+   "nome": "UBS ELMAR MARCELO CRAVEIRO HOLANDA",
+   "endereco": {
+    "logradouro": "RR205",
+    "numero": "S/N",
+    "bairro": "ZONA RUARAL",
+    "cep": "69350000"
+   },
+   "codigo_municipio": "140005",
+   "municipio": "Alto Alegre",
+   "latitude": 2.913039388288353,
+   "longitude": -61.01188659667969,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "9094792",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE ALTO ALEGRE",
+   "endereco": {
+    "logradouro": "AV JETULIO VARGAS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69350000"
+   },
+   "codigo_municipio": "140005",
+   "municipio": "Alto Alegre",
+   "latitude": 2.9864988228353857,
+   "longitude": -61.306114196777344,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "9496475",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE MUCAJAI",
+   "endereco": {
+    "logradouro": "RUA MANOEL AGOSTINHO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "69340000"
+   },
+   "codigo_municipio": "140030",
+   "municipio": "Mucajaí",
+   "latitude": 2.445581895135788,
+   "longitude": -60.91549873352051,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9979123",
+   "nome": "CENTRO DE ASSISTENCIA FARMACEUTICA CAF 1",
+   "endereco": {
+    "logradouro": "RUA ESTER DE OLIVEIRA SEABRA",
+    "numero": "S/N",
+    "bairro": "VILA NOVA",
+    "cep": "69345000"
+   },
+   "codigo_municipio": "140045",
+   "municipio": "Pacaraima",
+   "latitude": 4.482691100990415,
+   "longitude": -61.13937735557556,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-18"
+  }
+ ],
+ "cnes_sem_cadastro": []
+}

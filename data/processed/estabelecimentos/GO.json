@@ -1,0 +1,4001 @@
+{
+ "fonte": {
+  "orgao": "Ministério da Saúde — DATASUS",
+  "documento": "CNES — Serviço especializado 125 (serviço de farmácia)",
+  "competencia_cnes": "202608",
+  "url_sr": "ftp://ftp.datasus.gov.br/dissemin/publicos/CNES/200508_/Dados/SR/SRGO2608.dbc",
+  "sha256_sr": "77f61a434a3b76c88e43e87ccbd1bce789cfa0f29635dcfadcc161b66fbbf611",
+  "url_cadastro": "https://apidadosabertos.saude.gov.br/cnes/estabelecimentos",
+  "data_obtencao": "2026-10-11"
+ },
+ "uf": "GO",
+ "estabelecimentos": [
+  {
+   "cnes": "0024112",
+   "nome": "CENTRAL ABASTECIMENTO FARMACEUTICO ALEXANIA",
+   "endereco": {
+    "logradouro": "RUA 15 DE N0VEMBRO QD 100 LOTES 01 04",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "72930000"
+   },
+   "codigo_municipio": "520030",
+   "municipio": "Alexânia",
+   "latitude": -16.0866505458025,
+   "longitude": -48.50883364677429,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0042552",
+   "nome": "FARMACIA BASICA DE ARACU",
+   "endereco": {
+    "logradouro": "RUA PARA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75410000"
+   },
+   "codigo_municipio": "520160",
+   "municipio": "Araçu",
+   "latitude": -16.35615341409493,
+   "longitude": -49.6811842918396,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0043141",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "AV RICARDO PEREIRA DOS SANTOS",
+    "numero": "S/N",
+    "bairro": "SETOR CEARA",
+    "cep": "76240042"
+   },
+   "codigo_municipio": "520170",
+   "municipio": "Aragarças",
+   "latitude": -15.906702591602752,
+   "longitude": -52.24417716264725,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-30"
+  },
+  {
+   "cnes": "0043222",
+   "nome": "FARMACIA BASICA MUNICIPAL DE ARAGARCAS",
+   "endereco": {
+    "logradouro": "RUA REGINA PEREIRA DA SILVA",
+    "numero": "5",
+    "bairro": "SETOR CEARA",
+    "cep": "76240038"
+   },
+   "codigo_municipio": "520170",
+   "municipio": "Aragarças",
+   "latitude": -15.907360077575543,
+   "longitude": -52.24330179900367,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-30"
+  },
+  {
+   "cnes": "0043230",
+   "nome": "FARMACIA HOSPITALAR DE ARAGARCAS",
+   "endereco": {
+    "logradouro": "AV RICARDO PEREIRA DOS SANTOS",
+    "numero": "S/N",
+    "bairro": "SETOR CEARA",
+    "cep": "76242042"
+   },
+   "codigo_municipio": "520170",
+   "municipio": "Aragarças",
+   "latitude": -15.907001813987046,
+   "longitude": -52.24445343017578,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-30"
+  },
+  {
+   "cnes": "0046698",
+   "nome": "FARMACIA BASICA DE CROMINIA",
+   "endereco": {
+    "logradouro": "AV RIO BRANCO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75635000"
+   },
+   "codigo_municipio": "520650",
+   "municipio": "Cromínia",
+   "latitude": -17.290495440040125,
+   "longitude": -49.37554121017456,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0056065",
+   "nome": "FARMACIA BASICA DE CATURAI",
+   "endereco": {
+    "logradouro": "AV GARIBALDI VIRGIANO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75430068"
+   },
+   "codigo_municipio": "520520",
+   "municipio": "Caturaí",
+   "latitude": -16.44666343105852,
+   "longitude": -49.49167013168335,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-26"
+  },
+  {
+   "cnes": "0134112",
+   "nome": "FARMACIA BASICA MUNICIPAL DE NIQUELANDIA",
+   "endereco": {
+    "logradouro": "PARANA ENTRE AS AVENIDAS ANHANGUERA E SAO JOSE",
+    "numero": "S/N",
+    "bairro": "BELO HORIZONTE",
+    "cep": "76420000"
+   },
+   "codigo_municipio": "521460",
+   "municipio": "Niquelândia",
+   "latitude": -14.473889196185263,
+   "longitude": -48.45998525619507,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0304174",
+   "nome": "FARMACIA DE JUDICIALIZACAO",
+   "endereco": {
+    "logradouro": "RUA 06 QD 07",
+    "numero": "1",
+    "bairro": "PARQUE RIO BRANCO",
+    "cep": "72870001"
+   },
+   "codigo_municipio": "522185",
+   "municipio": "Valparaíso de Goiás",
+   "latitude": -16.075794,
+   "longitude": -47.990268,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-13"
+  },
+  {
+   "cnes": "0413216",
+   "nome": "FARMACIA DE ALTO CUSTO",
+   "endereco": {
+    "logradouro": "RUA MANAUS",
+    "numero": "S/N",
+    "bairro": "VERA CRUZ",
+    "cep": "74976220"
+   },
+   "codigo_municipio": "520140",
+   "municipio": "Aparecida de Goiânia",
+   "latitude": -16.826354,
+   "longitude": -49.245293,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0418951",
+   "nome": "CENTRO MEDICO VILA NORTE",
+   "endereco": {
+    "logradouro": "RUA SW 4",
+    "numero": "S/N",
+    "bairro": "VILA NORTE",
+    "cep": "75085190"
+   },
+   "codigo_municipio": "520110",
+   "municipio": "Anápolis",
+   "latitude": -16.281956239620285,
+   "longitude": -48.92141145288918,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0496227",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "AV FELOSTRA MACHADO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75555000"
+   },
+   "codigo_municipio": "522205",
+   "municipio": "Vicentinópolis",
+   "latitude": -17.737262369439303,
+   "longitude": -49.7984504699707,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0515493",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVENIDA JOSE DIAS GUIMARAES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75667000"
+   },
+   "codigo_municipio": "521878",
+   "municipio": "Rio Quente",
+   "latitude": -17.76910139750296,
+   "longitude": -48.77361059188843,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-14"
+  },
+  {
+   "cnes": "0562092",
+   "nome": "FARMACIA BASICA DE PILAR DE GOIAS",
+   "endereco": {
+    "logradouro": "RUA PADRE BRAZ",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76372000"
+   },
+   "codigo_municipio": "521690",
+   "municipio": "Pilar de Goiás",
+   "latitude": -14.7630813,
+   "longitude": -49.5783936,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0696315",
+   "nome": "CENTRO DE DISTRIBUICAO FARMACEUTICA URUANA",
+   "endereco": {
+    "logradouro": "AVENIDA JODE ALVES TOLEDO",
+    "numero": "S/N",
+    "bairro": "SETOR BANDERANTES",
+    "cep": "76335000"
+   },
+   "codigo_municipio": "522170",
+   "municipio": "Uruana",
+   "latitude": -15.506701813031858,
+   "longitude": -49.679532051086426,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0798460",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "RUA CLARINDO VIEIRA DO CARMO",
+    "numero": "30",
+    "bairro": "CENTRO",
+    "cep": "75610000"
+   },
+   "codigo_municipio": "521210",
+   "municipio": "Joviânia",
+   "latitude": -17.808085243928744,
+   "longitude": -49.61445093154907,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0865885",
+   "nome": "FARMACIA BASICA DE VARJAO",
+   "endereco": {
+    "logradouro": "RUA JOSE VIEIRA DA SILVA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75355000"
+   },
+   "codigo_municipio": "522190",
+   "municipio": "Varjão",
+   "latitude": -17.045788864749287,
+   "longitude": -49.631327390670776,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0873764",
+   "nome": "CENTRO DE ASSISTENCIA FARMACEUTICA DE BONOPOLIS",
+   "endereco": {
+    "logradouro": "RUA SAO JOSE QD 51 LTS 08 A 10",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76570000"
+   },
+   "codigo_municipio": "520357",
+   "municipio": "Bonópolis",
+   "latitude": -13.636,
+   "longitude": -49.81,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0897329",
+   "nome": "FARMACIA MUNICIPAL DE GOIANDIRA",
+   "endereco": {
+    "logradouro": "RUA ANTONIO VERONEZ",
+    "numero": "09",
+    "bairro": "CENTRO",
+    "cep": "75740000"
+   },
+   "codigo_municipio": "520850",
+   "municipio": "Goiandira",
+   "latitude": -18.131445280494255,
+   "longitude": -48.086640536785126,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "0975427",
+   "nome": "CAF CENTRAL DE ASSISTENCIA FARMACEUTICA DE ABADIA DE GOIAS",
+   "endereco": {
+    "logradouro": "RUA SERGIO SIMON",
+    "numero": "S/N",
+    "bairro": "RESIDENCIAL ARIM GEN",
+    "cep": "75345000"
+   },
+   "codigo_municipio": "520005",
+   "municipio": "Abadia de Goiás",
+   "latitude": -16.764725651780136,
+   "longitude": -49.42491869734473,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-05"
+  },
+  {
+   "cnes": "2336766",
+   "nome": "CENTRO ESTADUAL DE MEDICACAO DE ALTO CUSTO JUAREZ BARBOSA",
+   "endereco": {
+    "logradouro": "R 16 ESQ C R 12",
+    "numero": "97",
+    "bairro": "CENTRO",
+    "cep": "74015020"
+   },
+   "codigo_municipio": "520870",
+   "municipio": "Goiânia",
+   "latitude": -16.679675,
+   "longitude": -49.259018,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2338262",
+   "nome": "HOSPITAL DE URGENCIAS DE GOIAS DR VALDEMIRO CRUZ HUGO",
+   "endereco": {
+    "logradouro": "PRIMEIRA RADIAL ESQUINA QUINTA RADIAL",
+    "numero": "S/N",
+    "bairro": "PEDRO LUDOVICO",
+    "cep": "74823030"
+   },
+   "codigo_municipio": "520870",
+   "municipio": "Goiânia",
+   "latitude": -16.70916417823114,
+   "longitude": -49.2556357383728,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2338424",
+   "nome": "HOSPITAL DAS CLINICAS",
+   "endereco": {
+    "logradouro": "PRIMEIRA AVENIDA",
+    "numero": "S/N",
+    "bairro": "SETOR LESTE UNIVERSI",
+    "cep": "74605050"
+   },
+   "codigo_municipio": "520870",
+   "municipio": "Goiânia",
+   "latitude": -16.6715214,
+   "longitude": -49.2466062,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2338734",
+   "nome": "HOSPITAL ESTADUAL DR ALBERTO RASSI HGG",
+   "endereco": {
+    "logradouro": "AVENIDA ANHANGUERA",
+    "numero": "6479",
+    "bairro": "OESTE",
+    "cep": "74125015"
+   },
+   "codigo_municipio": "520870",
+   "municipio": "Goiânia",
+   "latitude": -16.6524099,
+   "longitude": -49.3324597,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2340534",
+   "nome": "CENTRO MUNICIPAL DE SAUDE",
+   "endereco": {
+    "logradouro": "AV MARTA RASSI",
+    "numero": "11",
+    "bairro": "VILA NOVA",
+    "cep": "75200000"
+   },
+   "codigo_municipio": "521740",
+   "municipio": "Pires do Rio",
+   "latitude": -17.3076452,
+   "longitude": -48.2817281,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-29"
+  },
+  {
+   "cnes": "2361876",
+   "nome": "UBS GEORGINA AUXILIADORA DE MORAIS",
+   "endereco": {
+    "logradouro": "AVENIDA 03",
+    "numero": "464",
+    "bairro": "CENTRO",
+    "cep": "75184000"
+   },
+   "codigo_municipio": "520815",
+   "municipio": "Gameleira de Goiás",
+   "latitude": -16.487813327324808,
+   "longitude": -48.644843101501465,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-06"
+  },
+  {
+   "cnes": "2361949",
+   "nome": "HOSPITAL ESTADUAL DE JARAGUA SANDINO DE AMORIM",
+   "endereco": {
+    "logradouro": "AVENIDA DIONI GOMES PEREIRA DA SILVA",
+    "numero": "S/N",
+    "bairro": "AEROPORTO",
+    "cep": "76330000"
+   },
+   "codigo_municipio": "521180",
+   "municipio": "Jaraguá",
+   "latitude": -15.744264753310258,
+   "longitude": -49.3285575,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-21"
+  },
+  {
+   "cnes": "2382105",
+   "nome": "CENTRO DE SAUDE DE PIRACANJUBA",
+   "endereco": {
+    "logradouro": "RUA PROF PERCIVAL RABELO",
+    "numero": "401",
+    "bairro": "CENTRO",
+    "cep": "75640092"
+   },
+   "codigo_municipio": "521710",
+   "municipio": "Piracanjuba",
+   "latitude": -17.301988850465072,
+   "longitude": -49.02078151702881,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2382318",
+   "nome": "CENTRO DE SAUDE DE CAMPINORTE",
+   "endereco": {
+    "logradouro": "AV BERNARDO SAYAO",
+    "numero": "1569",
+    "bairro": "VILA BENEDITO DA ROC",
+    "cep": "76410000"
+   },
+   "codigo_municipio": "520470",
+   "municipio": "Campinorte",
+   "latitude": -14.308427801856588,
+   "longitude": -49.15071790409087,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2382350",
+   "nome": "UNIDADE BASICA DE SAUDE DR MARIO CANDIDO RIBEIRO",
+   "endereco": {
+    "logradouro": "RUA SAO PAULO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75790000"
+   },
+   "codigo_municipio": "522180",
+   "municipio": "Urutaí",
+   "latitude": -17.466771423356814,
+   "longitude": -48.20051908493042,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2382504",
+   "nome": "UBS SAYONARA DA PENHA BERNARDO GUINGNHONI",
+   "endereco": {
+    "logradouro": "RUA ADELINO FRANCISCO LOPES",
+    "numero": "366",
+    "bairro": "CENTRO",
+    "cep": "75825000"
+   },
+   "codigo_municipio": "520150",
+   "municipio": "Aporé",
+   "latitude": -18.9489888,
+   "longitude": -51.9088121,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-08"
+  },
+  {
+   "cnes": "2382547",
+   "nome": "UNIDADE DE SAUDE DA FAMILIA DOMETIL SOUZA CRUZ",
+   "endereco": {
+    "logradouro": "RUA DOMETIL SOUZA CRUZ",
+    "numero": "S/N",
+    "bairro": "PLANALTO",
+    "cep": "75823000"
+   },
+   "codigo_municipio": "521645",
+   "municipio": "Perolândia",
+   "latitude": -17.5299784,
+   "longitude": -52.0657683,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2382857",
+   "nome": "POSTO DE SAUDE NOSSA SENHORA DO CARMO",
+   "endereco": {
+    "logradouro": "RUA ROSA FERNANDES DE CARVALHO ESQ RUA RAIMUNDA",
+    "numero": "S/N",
+    "bairro": "NOSSA SENHORA DO CAR",
+    "cep": "76420000"
+   },
+   "codigo_municipio": "521460",
+   "municipio": "Niquelândia",
+   "latitude": -14.46902740898578,
+   "longitude": -48.4586763381958,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "2382954",
+   "nome": "CENTRO DE SAUDE DE MUTUNOPOLIS",
+   "endereco": {
+    "logradouro": "RUA CEARA",
+    "numero": "5",
+    "bairro": "CENTRO",
+    "cep": "76541232"
+   },
+   "codigo_municipio": "521410",
+   "municipio": "Mutunópolis",
+   "latitude": -13.723272364755449,
+   "longitude": -49.27466869354248,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-02"
+  },
+  {
+   "cnes": "2437511",
+   "nome": "CENTRO DE SAUDE DE JESUPOLIS",
+   "endereco": {
+    "logradouro": "PRACA LUIZ DE MATTOS",
+    "numero": "422",
+    "bairro": "CENTRO",
+    "cep": "75495000"
+   },
+   "codigo_municipio": "521205",
+   "municipio": "Jesúpolis",
+   "latitude": -15.954221773946022,
+   "longitude": -49.377171993255615,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2437627",
+   "nome": "HOSPITAL MUN DOM LUIZ FERNANDES SANTO ANTONIO DO DESCOBERTO",
+   "endereco": {
+    "logradouro": "QUADRA 65",
+    "numero": "15",
+    "bairro": "CENTRO",
+    "cep": "72900310"
+   },
+   "codigo_municipio": "521975",
+   "municipio": "Santo Antônio do Descoberto",
+   "latitude": -15.9606942,
+   "longitude": -48.2765328,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-13"
+  },
+  {
+   "cnes": "2441861",
+   "nome": "CENTRO DE SAUDE DE NOVA GLORIA",
+   "endereco": {
+    "logradouro": "AVENIDA SARGENTO LEONTINO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76307060"
+   },
+   "codigo_municipio": "521486",
+   "municipio": "Nova Glória",
+   "latitude": -15.151360896530054,
+   "longitude": -49.573949575424194,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2500132",
+   "nome": "ESF MARLENE NERY RIBEIRO",
+   "endereco": {
+    "logradouro": "RUA DA PRATA",
+    "numero": "09",
+    "bairro": "SETOR AGUAS DO ARAGU",
+    "cep": "76250000"
+   },
+   "codigo_municipio": "520310",
+   "municipio": "Baliza",
+   "latitude": -16.197103,
+   "longitude": -52.53387,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2506661",
+   "nome": "HOSPITAL ESTADUAL DOENCAS TROPICAIS DR ANUAR AUAD HDT",
+   "endereco": {
+    "logradouro": "AVENIDA CONTORNO",
+    "numero": "3556",
+    "bairro": "BELA VISTA",
+    "cep": "74853400"
+   },
+   "codigo_municipio": "520870",
+   "municipio": "Goiânia",
+   "latitude": -16.730698414781696,
+   "longitude": -49.23585594818479,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2519593",
+   "nome": "HOSPITAL MUNICIPAL DE IPORA",
+   "endereco": {
+    "logradouro": "AV SAO PAULO",
+    "numero": "341",
+    "bairro": "MATO GROSSO",
+    "cep": "76200192"
+   },
+   "codigo_municipio": "521020",
+   "municipio": "Iporá",
+   "latitude": -16.43209245,
+   "longitude": -51.12352609,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-17"
+  },
+  {
+   "cnes": "2534517",
+   "nome": "HOSPITAL DR JOSE PEIXOTO DA SILVEIRA ITAPACI",
+   "endereco": {
+    "logradouro": "AV LAURA LINS ALENCAR",
+    "numero": "07",
+    "bairro": "CENTRO",
+    "cep": "76360000"
+   },
+   "codigo_municipio": "521090",
+   "municipio": "Itapaci",
+   "latitude": -14.957348015722827,
+   "longitude": -49.54988479614258,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2534916",
+   "nome": "HOSPITAL MUNICIPAL DE ALVORADA DO NORTE",
+   "endereco": {
+    "logradouro": "RUA 02",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "73950000"
+   },
+   "codigo_municipio": "520080",
+   "municipio": "Alvorada do Norte",
+   "latitude": -14.48400718961441,
+   "longitude": -46.5115749835968,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2535696",
+   "nome": "UBS JOSE NONATO VIEIRA",
+   "endereco": {
+    "logradouro": "RUA S2",
+    "numero": "S/N",
+    "bairro": "VILA COMUNITARIA",
+    "cep": "76630000"
+   },
+   "codigo_municipio": "521040",
+   "municipio": "Itaberaí",
+   "latitude": -16.00650461422624,
+   "longitude": -49.79220628738403,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2569639",
+   "nome": "UBS VALDECI JOSE TELES",
+   "endereco": {
+    "logradouro": "PRACA BALDUINO DA SILVA CALDAS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76630000"
+   },
+   "codigo_municipio": "521040",
+   "municipio": "Itaberaí",
+   "latitude": -16.022798305050554,
+   "longitude": -49.806969165802,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2571412",
+   "nome": "UBS JEOVAH JOSE CAMILO",
+   "endereco": {
+    "logradouro": "RUA 14",
+    "numero": "S/N",
+    "bairro": "JD CABRAL",
+    "cep": "76630000"
+   },
+   "codigo_municipio": "521040",
+   "municipio": "Itaberaí",
+   "latitude": -16.03350191706065,
+   "longitude": -49.79269981384277,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2768585",
+   "nome": "UBS IRENE MARTINS ROSA CANEDO",
+   "endereco": {
+    "logradouro": "RUA GUILHERME VELOSO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75185000"
+   },
+   "codigo_municipio": "522026",
+   "municipio": "São Miguel do Passa Quatro",
+   "latitude": -17.054724,
+   "longitude": -48.665208,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-05"
+  },
+  {
+   "cnes": "2769433",
+   "nome": "POSTO DE SAUDE DR ALVARO PEIXOTO DE OLIVEIRA",
+   "endereco": {
+    "logradouro": "RUA JOAO ALVES DUARTE",
+    "numero": "S/N",
+    "bairro": "OESTE II",
+    "cep": "76360000"
+   },
+   "codigo_municipio": "521090",
+   "municipio": "Itapaci",
+   "latitude": -14.951107999861739,
+   "longitude": -49.56035614013672,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2831708",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "AV FABIO GARCIA",
+    "numero": "155",
+    "bairro": "CENTRO",
+    "cep": "75860108"
+   },
+   "codigo_municipio": "521850",
+   "municipio": "Quirinópolis",
+   "latitude": -18.453353947116284,
+   "longitude": -50.451742708683014,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-30"
+  },
+  {
+   "cnes": "2845849",
+   "nome": "CENTRAL DE ABASTECIMENTO DA ASSISTENCIA FARMACEUTICA",
+   "endereco": {
+    "logradouro": "RUA JOSE DA SILVA GALVAO",
+    "numero": "165",
+    "bairro": "CENTRO",
+    "cep": "75920000"
+   },
+   "codigo_municipio": "521930",
+   "municipio": "Santa Helena de Goiás",
+   "latitude": -17.81241625689275,
+   "longitude": -50.59547424316406,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2855356",
+   "nome": "POLICLINICA ESTADUAL BRASIL BRUNO DE BASTOS NETO GOIAS",
+   "endereco": {
+    "logradouro": "AVENIDA NOSSA SENHORA APARECIDA",
+    "numero": "S/N",
+    "bairro": "FAZENDA TRES PALMEIR",
+    "cep": "76600000"
+   },
+   "codigo_municipio": "520890",
+   "municipio": "Goiás",
+   "latitude": -15.95787,
+   "longitude": -50.14381,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-06"
+  },
+  {
+   "cnes": "2858657",
+   "nome": "DROGASHOP",
+   "endereco": {
+    "logradouro": "AVENIDA ANTONIO CARLOS PANIAGO",
+    "numero": "S/N",
+    "bairro": "SAO BENTO",
+    "cep": "75832072"
+   },
+   "codigo_municipio": "521310",
+   "municipio": "Mineiros",
+   "latitude": -17.5569628,
+   "longitude": -52.5282095,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "2875675",
+   "nome": "FARMACIA BOA VISTA",
+   "endereco": {
+    "logradouro": "PRACA DA LIBERDADE",
+    "numero": "01",
+    "bairro": "CENTRO",
+    "cep": "75780000"
+   },
+   "codigo_municipio": "521010",
+   "municipio": "Ipameri",
+   "latitude": -17.72172908172688,
+   "longitude": -48.163204193115234,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2877155",
+   "nome": "DROGARIA SAO PEDRO",
+   "endereco": {
+    "logradouro": "PRACA DA LIBERDADE",
+    "numero": "11",
+    "bairro": "CENTRO",
+    "cep": "75780000"
+   },
+   "codigo_municipio": "521010",
+   "municipio": "Ipameri",
+   "latitude": -17.72107501902648,
+   "longitude": -48.16238880157471,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2881063",
+   "nome": "POLICLINICA EST ISMAEL ALEXANDRINO PINTO SAO LUS M BELOS",
+   "endereco": {
+    "logradouro": "AV RPL 10",
+    "numero": "S/N",
+    "bairro": "PORTAL DO LAGO",
+    "cep": "76050802"
+   },
+   "codigo_municipio": "522010",
+   "municipio": "São Luís de Montes Belos",
+   "latitude": -16.53715,
+   "longitude": -50.36883,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-14"
+  },
+  {
+   "cnes": "2887037",
+   "nome": "CAF CENTRAL DE ASSISTENCIA FARMACEUTICA DE CIDADE OCIDENTAL",
+   "endereco": {
+    "logradouro": "SQ 12 QD 12 PROJECAO 7 A LOJA 3",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "72880490"
+   },
+   "codigo_municipio": "520549",
+   "municipio": "Cidade Ocidental",
+   "latitude": -16.10857601465056,
+   "longitude": -47.9323410987854,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-14"
+  },
+  {
+   "cnes": "2891778",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "RUA 6",
+    "numero": "3",
+    "bairro": "CENTRO",
+    "cep": "76440000"
+   },
+   "codigo_municipio": "520465",
+   "municipio": "Campinaçu",
+   "latitude": -13.789581716242765,
+   "longitude": -48.57012212276459,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "2969467",
+   "nome": "FARMACIA MUNICIPAL",
+   "endereco": {
+    "logradouro": "GELON TEIXEIRA",
+    "numero": "S/N",
+    "bairro": "NUPUTIRA",
+    "cep": "75820000"
+   },
+   "codigo_municipio": "522050",
+   "municipio": "Serranópolis",
+   "latitude": -18.306,
+   "longitude": -51.962,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3023184",
+   "nome": "POSTO DE SAUDE JUCA CABRAL ITAPACI",
+   "endereco": {
+    "logradouro": "RUA 03",
+    "numero": "S/N",
+    "bairro": "VILA SANTANA",
+    "cep": "76360000"
+   },
+   "codigo_municipio": "521090",
+   "municipio": "Itapaci",
+   "latitude": -14.962033091029774,
+   "longitude": -49.54059362411499,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3038920",
+   "nome": "UBS DIJIAN APOLINARIO DE ARAUJO I",
+   "endereco": {
+    "logradouro": "RUA 08 ESQ RUA 11 E 13",
+    "numero": "S/N",
+    "bairro": "RESIDENCIAL VITORIA",
+    "cep": "76630000"
+   },
+   "codigo_municipio": "521040",
+   "municipio": "Itaberaí",
+   "latitude": -16.037110905268243,
+   "longitude": -49.799169301986694,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-02"
+  },
+  {
+   "cnes": "3082512",
+   "nome": "FARMACIA BASICA DE DAMOLANDIA",
+   "endereco": {
+    "logradouro": "RUA ANTONIO DUARTE JUNIOR ESQ C AV DAS PALMEIRAS",
+    "numero": "S/N",
+    "bairro": "JARDIM ESPERANCA II",
+    "cep": "75421716"
+   },
+   "codigo_municipio": "520680",
+   "municipio": "Damolândia",
+   "latitude": -16.254801,
+   "longitude": -49.361105,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-23"
+  },
+  {
+   "cnes": "3090396",
+   "nome": "FARMACIA BASICA MUNICIPAL DE EDEALINA",
+   "endereco": {
+    "logradouro": "RUA OLIMPIO SILVA ESQ C RUA 30",
+    "numero": "311",
+    "bairro": "ALTO PARAISO",
+    "cep": "75945000"
+   },
+   "codigo_municipio": "520735",
+   "municipio": "Edealina",
+   "latitude": -17.426772006420542,
+   "longitude": -49.66127157211304,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3961117",
+   "nome": "FARMACIA POPULAR SENADOR CANEDO",
+   "endereco": {
+    "logradouro": "RUA BARIONE HORTENCIO",
+    "numero": "S/N",
+    "bairro": "JARDIM CANEDO",
+    "cep": "75250150"
+   },
+   "codigo_municipio": "522045",
+   "municipio": "Senador Canedo",
+   "latitude": -16.6958845,
+   "longitude": -49.1041711,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "3965627",
+   "nome": "FARMACIA POPULAR DO BRASIL",
+   "endereco": {
+    "logradouro": "RUA 73 QUADRA 109 LOTE 18 LOJA 01",
+    "numero": "18",
+    "bairro": "CEU AZUL",
+    "cep": "72870001"
+   },
+   "codigo_municipio": "522185",
+   "municipio": "Valparaíso de Goiás",
+   "latitude": -16.05779,
+   "longitude": -48.009179,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-13"
+  },
+  {
+   "cnes": "4039165",
+   "nome": "CAF",
+   "endereco": {
+    "logradouro": "QUADRA 72 LOTE",
+    "numero": "23",
+    "bairro": "CENTRO",
+    "cep": "72900182"
+   },
+   "codigo_municipio": "521975",
+   "municipio": "Santo Antônio do Descoberto",
+   "latitude": -15.9419077,
+   "longitude": -48.2609444,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-13"
+  },
+  {
+   "cnes": "4071468",
+   "nome": "NABS",
+   "endereco": {
+    "logradouro": "RUA WILSON BARBOSA",
+    "numero": "325",
+    "bairro": "JARDIM AMERICA",
+    "cep": "75523320"
+   },
+   "codigo_municipio": "521150",
+   "municipio": "Itumbiara",
+   "latitude": -18.40679723304478,
+   "longitude": -49.207420349121094,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-14"
+  },
+  {
+   "cnes": "4084209",
+   "nome": "UBS JORDANA DA SILVA GUERRA",
+   "endereco": {
+    "logradouro": "RUA 06",
+    "numero": "0",
+    "bairro": "SETOR ITAVILLY",
+    "cep": "76630000"
+   },
+   "codigo_municipio": "521040",
+   "municipio": "Itaberaí",
+   "latitude": -16.01413837,
+   "longitude": -49.7874797,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4084993",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA SANTOS DUMONT",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75175178"
+   },
+   "codigo_municipio": "522119",
+   "municipio": "Terezópolis de Goiás",
+   "latitude": -16.4860908,
+   "longitude": -49.0964507,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-07"
+  },
+  {
+   "cnes": "4094654",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RODOVIA GO 164",
+    "numero": "S/N",
+    "bairro": "SETOR LEDIO DE PAULO",
+    "cep": "76055860"
+   },
+   "codigo_municipio": "522010",
+   "municipio": "São Luís de Montes Belos",
+   "latitude": -16.520941923998127,
+   "longitude": -50.37038326263428,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4106253",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "RUA SIMON BOLIVAR",
+    "numero": "22",
+    "bairro": "ALTO DA PRIMAVERA",
+    "cep": "75955000"
+   },
+   "codigo_municipio": "520995",
+   "municipio": "Indiara",
+   "latitude": -17.14752603100278,
+   "longitude": -49.988940954208374,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4163680",
+   "nome": "FARMACIA BASICA DE SANTA ROSA DE GOIAS",
+   "endereco": {
+    "logradouro": "RUA 01",
+    "numero": "S/N",
+    "bairro": "RESIDENCIAL BATISTA",
+    "cep": "75455000"
+   },
+   "codigo_municipio": "521950",
+   "municipio": "Santa Rosa de Goiás",
+   "latitude": -16.0890698,
+   "longitude": -49.4962132,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4164318",
+   "nome": "CENTRO DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "AVENIDA RUI BARBOSA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76105000"
+   },
+   "codigo_municipio": "520780",
+   "municipio": "Firminópolis",
+   "latitude": -16.585166710044057,
+   "longitude": -50.30838131904602,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4182901",
+   "nome": "UBS RUBENS GOMES DE MORAIS",
+   "endereco": {
+    "logradouro": "RUA 01",
+    "numero": "S/N",
+    "bairro": "JARDIM ESMERALDA",
+    "cep": "76630000"
+   },
+   "codigo_municipio": "521040",
+   "municipio": "Itaberaí",
+   "latitude": -16.0237,
+   "longitude": -49.4715,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-11"
+  },
+  {
+   "cnes": "4187806",
+   "nome": "FARMACIA MUNICIPAL DE CACHOEIRA DOURADA",
+   "endereco": {
+    "logradouro": "AV EDUARDO SOARES FERREIRA",
+    "numero": "S/N",
+    "bairro": "SETOR NOROESTE",
+    "cep": "75562074"
+   },
+   "codigo_municipio": "520425",
+   "municipio": "Cachoeira Dourada",
+   "latitude": -18.4920839118958,
+   "longitude": -49.477089643478394,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4237048",
+   "nome": "FARMACIA MUNICIPAL JOAO MENDES",
+   "endereco": {
+    "logradouro": "RODOVIARIA DE ANICUNS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76170000"
+   },
+   "codigo_municipio": "520130",
+   "municipio": "Anicuns",
+   "latitude": -16.46188,
+   "longitude": -49.958251,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4287010",
+   "nome": "FARMACIA PUBLICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "PRACA JUSTO DE MAGALHAES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75620000"
+   },
+   "codigo_municipio": "521770",
+   "municipio": "Pontalina",
+   "latitude": -17.524319,
+   "longitude": -49.448411,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-02"
+  },
+  {
+   "cnes": "4296087",
+   "nome": "FARMARCIA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AV JOAQUIM ALVES",
+    "numero": "05",
+    "bairro": "CENTRO",
+    "cep": "72980175"
+   },
+   "codigo_municipio": "521730",
+   "municipio": "Pirenópolis",
+   "latitude": -15.854334403072833,
+   "longitude": -48.959675431251526,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4311434",
+   "nome": "FARMACIA MUNICIPAL DE ALTO CUSTO",
+   "endereco": {
+    "logradouro": "RUA 5",
+    "numero": "S/N",
+    "bairro": "VILA CARDOSO",
+    "cep": "75833045"
+   },
+   "codigo_municipio": "521310",
+   "municipio": "Mineiros",
+   "latitude": -17.5666716,
+   "longitude": -52.5456256,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4375696",
+   "nome": "FARMACIA BASICA DE HIDROLANDIA",
+   "endereco": {
+    "logradouro": "RUA DAS LARANJEIRAS",
+    "numero": "S/N",
+    "bairro": "JARDIM ADELAIDE",
+    "cep": "75340552"
+   },
+   "codigo_municipio": "520970",
+   "municipio": "Hidrolândia",
+   "latitude": -16.969826723383918,
+   "longitude": -49.22943592071533,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-01"
+  },
+  {
+   "cnes": "4646363",
+   "nome": "FARMACIA BASICA SAO BARTOLOMEU",
+   "endereco": {
+    "logradouro": "GOVERNADOR MAURO BORGES",
+    "numero": "S/N",
+    "bairro": "SAO BARTOLOMEU",
+    "cep": "73850000"
+   },
+   "codigo_municipio": "520620",
+   "municipio": "Cristalina",
+   "latitude": -16.5400155,
+   "longitude": -47.7985785,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4664310",
+   "nome": "FARMACIA BASICA DE SILVANIA",
+   "endereco": {
+    "logradouro": "AVENIDA DOM BOSCO",
+    "numero": "777",
+    "bairro": "CENTRO",
+    "cep": "75180000"
+   },
+   "codigo_municipio": "522060",
+   "municipio": "Silvânia",
+   "latitude": -16.666057357724938,
+   "longitude": -48.612104058265686,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4765753",
+   "nome": "FARMACIA CENTRAL DE CIDADE OCIDENTAL",
+   "endereco": {
+    "logradouro": "SQ 12 QUADRA 12 PROJECAO 7A LOJA 3",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "72880490"
+   },
+   "codigo_municipio": "520549",
+   "municipio": "Cidade Ocidental",
+   "latitude": -16.10845232345301,
+   "longitude": -47.93259859085083,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-11"
+  },
+  {
+   "cnes": "4857755",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO O",
+   "endereco": {
+    "logradouro": "RUA ALVORADA",
+    "numero": "S/N",
+    "bairro": "NOVO HORIZONTE",
+    "cep": "75523190"
+   },
+   "codigo_municipio": "521150",
+   "municipio": "Itumbiara",
+   "latitude": -18.41310867601532,
+   "longitude": -49.23872709274292,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-02-10"
+  },
+  {
+   "cnes": "4937996",
+   "nome": "COMPLEXO ONCOLOGICO DE REFERENCIA DO ESTADO DE GOIAS CORA",
+   "endereco": {
+    "logradouro": "BR 153 COM RUA GUATAMBUS",
+    "numero": "S/N",
+    "bairro": "BARRAVENTO",
+    "cep": "74594111"
+   },
+   "codigo_municipio": "520870",
+   "municipio": "Goiânia",
+   "latitude": -16.634488,
+   "longitude": -49.2042943,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "4999673",
+   "nome": "FARMACIA MUNICIPAL DE ALTO HORIZONTE",
+   "endereco": {
+    "logradouro": "AV MARACANA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76560000"
+   },
+   "codigo_municipio": "520055",
+   "municipio": "Alto Horizonte",
+   "latitude": -14.194063817445377,
+   "longitude": -49.34290156469425,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-02"
+  },
+  {
+   "cnes": "5052300",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA 14",
+    "numero": "S/N",
+    "bairro": "JARDIM GOIAS",
+    "cep": "75901970"
+   },
+   "codigo_municipio": "521880",
+   "municipio": "Rio Verde",
+   "latitude": -17.791802146038716,
+   "longitude": -50.91665267944336,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5148650",
+   "nome": "SAE CTA",
+   "endereco": {
+    "logradouro": "QUADRA 79 LOTE 17 18",
+    "numero": "S/N",
+    "bairro": "P E D XII",
+    "cep": "72904058"
+   },
+   "codigo_municipio": "521975",
+   "municipio": "Santo Antônio do Descoberto",
+   "latitude": -15.953736941162848,
+   "longitude": -48.292293548583984,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5478030",
+   "nome": "FARMACIA MUNICIPAL MIGUEL MULATO",
+   "endereco": {
+    "logradouro": "AV ARAGUAIA",
+    "numero": "97",
+    "bairro": "CENTRO",
+    "cep": "75850000"
+   },
+   "codigo_municipio": "520440",
+   "municipio": "Caiapônia",
+   "latitude": -16.95525969316592,
+   "longitude": -51.81054174900055,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-15"
+  },
+  {
+   "cnes": "5533759",
+   "nome": "DROGASIL AGUAS LINDAS GO 2",
+   "endereco": {
+    "logradouro": "Q 12 AV JK",
+    "numero": "S/N",
+    "bairro": "JARDIM BRASILIA",
+    "cep": "72915138"
+   },
+   "codigo_municipio": "520025",
+   "municipio": "Águas Lindas de Goiás",
+   "latitude": -15.734367,
+   "longitude": -48.283169,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5538025",
+   "nome": "FARMACIA BASICA DE MONTIVIU DO NORTE",
+   "endereco": {
+    "logradouro": "AVENIDA ORLANDO JOSE BORGES",
+    "numero": "001",
+    "bairro": "CENTRO",
+    "cep": "76465238"
+   },
+   "codigo_municipio": "521377",
+   "municipio": "Montividiu do Norte",
+   "latitude": -13.350000001,
+   "longitude": -48.6800001,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-14"
+  },
+  {
+   "cnes": "5545412",
+   "nome": "CENTRO DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA SALVADOR GARCIA",
+    "numero": "S/N",
+    "bairro": "AGUA BRANCA",
+    "cep": "76520000"
+   },
+   "codigo_municipio": "521483",
+   "municipio": "Nova Crixás",
+   "latitude": -14.09463,
+   "longitude": -50.33795,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5563178",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "RUA ALFREDO FRANCO",
+    "numero": "S/N",
+    "bairro": "SETOR SAO JOSE",
+    "cep": "76190124"
+   },
+   "codigo_municipio": "521570",
+   "municipio": "Palmeiras de Goiás",
+   "latitude": -16.8063504,
+   "longitude": -49.9183913,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-20"
+  },
+  {
+   "cnes": "5665183",
+   "nome": "FARMACIA MUNICIPAL DE POSSE",
+   "endereco": {
+    "logradouro": "AVENIDA NESTOR BALDUINO",
+    "numero": "02",
+    "bairro": "CENTRO",
+    "cep": "73902434"
+   },
+   "codigo_municipio": "521830",
+   "municipio": "Posse",
+   "latitude": -14.192139215371983,
+   "longitude": -46.462407717112,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-10-18"
+  },
+  {
+   "cnes": "5719755",
+   "nome": "FARMACIA BASICA DE MATA AZUL",
+   "endereco": {
+    "logradouro": "AVENIDA MINACU",
+    "numero": "05",
+    "bairro": "CENTRO",
+    "cep": "76468899"
+   },
+   "codigo_municipio": "521377",
+   "municipio": "Montividiu do Norte",
+   "latitude": -13.1142109,
+   "longitude": -48.6037661,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-20"
+  },
+  {
+   "cnes": "5826594",
+   "nome": "FARMACIA POPULAR DO BRASIL",
+   "endereco": {
+    "logradouro": "AV JOAO ISPER GEBRIM",
+    "numero": "455",
+    "bairro": "FORMOSINHA",
+    "cep": "73801110"
+   },
+   "codigo_municipio": "520800",
+   "municipio": "Formosa",
+   "latitude": -15.5508939,
+   "longitude": -47.3314384,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "5876125",
+   "nome": "FARMACIA BASICA MUNICIPAL DE SANCLERLANDIA",
+   "endereco": {
+    "logradouro": "AVENIDA FREDERICO OZANAM",
+    "numero": "1",
+    "bairro": "CENTRO",
+    "cep": "76160000"
+   },
+   "codigo_municipio": "521900",
+   "municipio": "Sanclerlândia",
+   "latitude": -16.202842698548785,
+   "longitude": -50.31339347669022,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "6179509",
+   "nome": "PSF RUI BRANDAO",
+   "endereco": {
+    "logradouro": "RUA SENADOR RAMOS CAIADO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75660000"
+   },
+   "codigo_municipio": "520390",
+   "municipio": "Buriti Alegre",
+   "latitude": -18.138689,
+   "longitude": -49.0432566,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-23"
+  },
+  {
+   "cnes": "6236782",
+   "nome": "FARMACIA BASICA DE MORRINHOS",
+   "endereco": {
+    "logradouro": "RUA JOAO FERREIRA MACEDO",
+    "numero": "S/N",
+    "bairro": "SETOR AEROPORTO",
+    "cep": "75654069"
+   },
+   "codigo_municipio": "521380",
+   "municipio": "Morrinhos",
+   "latitude": -17.73184,
+   "longitude": -49.122789,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-08"
+  },
+  {
+   "cnes": "6298303",
+   "nome": "FARMACIA MUNICIPAL DR JOSE PASCOAL",
+   "endereco": {
+    "logradouro": "AVENIDA FARID MIGUEL SAFATLE",
+    "numero": "580",
+    "bairro": "CENTRO",
+    "cep": "75701040"
+   },
+   "codigo_municipio": "520510",
+   "municipio": "Catalão",
+   "latitude": -18.16941142175888,
+   "longitude": -47.94505476951599,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6402798",
+   "nome": "FARMACIA DO CIDADAO DE CALDAS NOVAS",
+   "endereco": {
+    "logradouro": "RUA DR CIRO PALMERSTON",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75680047"
+   },
+   "codigo_municipio": "520450",
+   "municipio": "Caldas Novas",
+   "latitude": -17.7438611,
+   "longitude": -48.625968,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6449476",
+   "nome": "SECRETARIA MUNICIPAL DE SAUDE DE IPAMERI GO",
+   "endereco": {
+    "logradouro": "AVENIDA PANDIA CALOGERAS",
+    "numero": "84",
+    "bairro": "CENTRO",
+    "cep": "75780000"
+   },
+   "codigo_municipio": "521010",
+   "municipio": "Ipameri",
+   "latitude": -17.7240509,
+   "longitude": -48.1606994,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-01-20"
+  },
+  {
+   "cnes": "6533957",
+   "nome": "SECRETARIA MUNICIPAL DA SAUDE DE CERES",
+   "endereco": {
+    "logradouro": "AVENIDA BRASIL PRACA CIVICA",
+    "numero": "1240",
+    "bairro": "CENTRO",
+    "cep": "76300132"
+   },
+   "codigo_municipio": "520540",
+   "municipio": "Ceres",
+   "latitude": -15.309953434618873,
+   "longitude": -49.607176780700684,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-31"
+  },
+  {
+   "cnes": "6538223",
+   "nome": "FARMACIA POPULAR DO BRASIL DE CALDAS NOVAS",
+   "endereco": {
+    "logradouro": "RUA PROFESSOR JOSINO BRETAS",
+    "numero": "S/N",
+    "bairro": "CENTRAL",
+    "cep": "75680059"
+   },
+   "codigo_municipio": "520450",
+   "municipio": "Caldas Novas",
+   "latitude": -17.7464534,
+   "longitude": -48.6264536,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6542204",
+   "nome": "SECRETARIA MUNICIPAL DE SAUDE DE AURILANDIA",
+   "endereco": {
+    "logradouro": "RUA CAPITAO JOAO GOMES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76120000"
+   },
+   "codigo_municipio": "520260",
+   "municipio": "Aurilândia",
+   "latitude": -16.681181050557687,
+   "longitude": -50.4646897315979,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-10-10"
+  },
+  {
+   "cnes": "6567002",
+   "nome": "SECRETARIA MUNICIPAL DE SAUDE DE MOSSAMEDES",
+   "endereco": {
+    "logradouro": "AVENIDA JOAO FERREIRA DA CUNHA",
+    "numero": "631",
+    "bairro": "CENTRO",
+    "cep": "76150000"
+   },
+   "codigo_municipio": "521390",
+   "municipio": "Mossâmedes",
+   "latitude": -16.12513963065512,
+   "longitude": -50.201618671417236,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6716571",
+   "nome": "HIPERDIA FARMA",
+   "endereco": {
+    "logradouro": "RUA 32",
+    "numero": "247",
+    "bairro": "VILA SANTO ANTONIO",
+    "cep": "75901970"
+   },
+   "codigo_municipio": "521880",
+   "municipio": "Rio Verde",
+   "latitude": -17.806246574549064,
+   "longitude": -50.924270153045654,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6734839",
+   "nome": "FARMACIA BASICA DE MONTIVIDIU",
+   "endereco": {
+    "logradouro": "RUA RITA CANDIDA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75915000"
+   },
+   "codigo_municipio": "521375",
+   "municipio": "Montividiu",
+   "latitude": -17.4530677,
+   "longitude": -51.1769195,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6757847",
+   "nome": "FARMACIA PUBLICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA EDUVALDO VELOSO DO CARMO",
+    "numero": "367",
+    "bairro": "CENTRO",
+    "cep": "75920000"
+   },
+   "codigo_municipio": "521930",
+   "municipio": "Santa Helena de Goiás",
+   "latitude": -17.810822783220654,
+   "longitude": -50.59895038604736,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6903827",
+   "nome": "SAE CTA CATALAO",
+   "endereco": {
+    "logradouro": "AV 20 DE AGOSTO",
+    "numero": "2010",
+    "bairro": "CENTRO",
+    "cep": "75701010"
+   },
+   "codigo_municipio": "520510",
+   "municipio": "Catalão",
+   "latitude": -18.16806582415632,
+   "longitude": -47.94305920600891,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-05"
+  },
+  {
+   "cnes": "6929664",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "AVENIDA SANTOS DUMONT",
+    "numero": "S/N",
+    "bairro": "SETOR SANTISTA",
+    "cep": "75830082"
+   },
+   "codigo_municipio": "521310",
+   "municipio": "Mineiros",
+   "latitude": -17.572684387692153,
+   "longitude": -52.548508644104004,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "6936318",
+   "nome": "FARMACIA MUNICIPAL DE FORMOSA",
+   "endereco": {
+    "logradouro": "AVENIDA MAESTRO SENADOR COIMBRA",
+    "numero": "S/N",
+    "bairro": "JARDIM CALIFORNIA",
+    "cep": "73807685"
+   },
+   "codigo_municipio": "520800",
+   "municipio": "Formosa",
+   "latitude": -15.540525950849432,
+   "longitude": -47.31562614440918,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-02"
+  },
+  {
+   "cnes": "7068328",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO DE TRINDADE",
+   "endereco": {
+    "logradouro": "AVENIDA MARINHO DE MELO FILHO",
+    "numero": "00",
+    "bairro": "ST CRISTINA II",
+    "cep": "75387127"
+   },
+   "codigo_municipio": "522140",
+   "municipio": "Trindade",
+   "latitude": -16.6719834,
+   "longitude": -49.4873874,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7211414",
+   "nome": "FARMACIA BASICA DE ORIZONA",
+   "endereco": {
+    "logradouro": "AVENIDA EGERINEU TEIXEIRA",
+    "numero": "S/N",
+    "bairro": "NOSSA SENHORA DE FAT",
+    "cep": "75280250"
+   },
+   "codigo_municipio": "521530",
+   "municipio": "Orizona",
+   "latitude": -17.031591908489748,
+   "longitude": -48.304288387298584,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7235186",
+   "nome": "FARMACIA BASICA DA SMS PORANGATU",
+   "endereco": {
+    "logradouro": "RUA 10",
+    "numero": "03",
+    "bairro": "CENTRO",
+    "cep": "76550025"
+   },
+   "codigo_municipio": "521800",
+   "municipio": "Porangatu",
+   "latitude": -13.4515926,
+   "longitude": -49.160525,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-11"
+  },
+  {
+   "cnes": "7298935",
+   "nome": "FARMACIA DO CIDADAO",
+   "endereco": {
+    "logradouro": "AV DOM PEDRO I",
+    "numero": "155",
+    "bairro": "CENTRO",
+    "cep": "75860102"
+   },
+   "codigo_municipio": "521850",
+   "municipio": "Quirinópolis",
+   "latitude": -18.453374301469466,
+   "longitude": -50.45226573944092,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-04"
+  },
+  {
+   "cnes": "7321120",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AV CLOVIS RODRIGO DO VALE",
+    "numero": "647",
+    "bairro": "SEOR OESTE",
+    "cep": "75600000"
+   },
+   "codigo_municipio": "520910",
+   "municipio": "Goiatuba",
+   "latitude": -18.012998021690045,
+   "longitude": -49.35699909925461,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7360495",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA JOAQUIM DA SILVA RIBEIRO",
+    "numero": "790",
+    "bairro": "CENTRO",
+    "cep": "75715000"
+   },
+   "codigo_municipio": "521550",
+   "municipio": "Ouvidor",
+   "latitude": -18.230248089201023,
+   "longitude": -47.83398985862732,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7615027",
+   "nome": "FARMACIA DA ATENCAO BASICA",
+   "endereco": {
+    "logradouro": "AVENIDA HONORIO FERREIRA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75555000"
+   },
+   "codigo_municipio": "522205",
+   "municipio": "Vicentinópolis",
+   "latitude": -17.73789,
+   "longitude": -49.80789,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7684282",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA RIO VERMELHO",
+    "numero": "S/N",
+    "bairro": "SETOR TREVO",
+    "cep": "76050450"
+   },
+   "codigo_municipio": "522010",
+   "municipio": "São Luís de Montes Belos",
+   "latitude": -16.52658,
+   "longitude": -50.373169,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-12-09"
+  },
+  {
+   "cnes": "7718101",
+   "nome": "FARMACIA PUBLICA DE DISPENSACAO MUNICIPAL UNIDADE",
+   "endereco": {
+    "logradouro": "RUA 01",
+    "numero": "S/N",
+    "bairro": "VILA SAO GERALDO",
+    "cep": "76450000"
+   },
+   "codigo_municipio": "521308",
+   "municipio": "Minaçu",
+   "latitude": -13.540715,
+   "longitude": -48.222552,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7910908",
+   "nome": "FARMACIA BASICA MUNICIPAL JOAQUIM CANDIDO DE MOURA",
+   "endereco": {
+    "logradouro": "RUA PARANAIBA",
+    "numero": "S/N",
+    "bairro": "VILA SAO JOSE",
+    "cep": "76190390"
+   },
+   "codigo_municipio": "521570",
+   "municipio": "Palmeiras de Goiás",
+   "latitude": -16.80659520089075,
+   "longitude": -49.920995235443115,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-20"
+  },
+  {
+   "cnes": "7919506",
+   "nome": "FARMACIA BASICA MUNICIPAL DE SAO MIGUEL DO ARAGUAIA",
+   "endereco": {
+    "logradouro": "RUA 3",
+    "numero": "900",
+    "bairro": "CENTRO",
+    "cep": "76590000"
+   },
+   "codigo_municipio": "522020",
+   "municipio": "São Miguel do Araguaia",
+   "latitude": -13.272,
+   "longitude": -50.162,
+   "frentes": [
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7928521",
+   "nome": "UNIDADE BASICA DE SAUDE ALTAMIRA PEREIRA DOS SANTOS",
+   "endereco": {
+    "logradouro": "RUA 09",
+    "numero": "S/N",
+    "bairro": "JARDIM PAULISTA",
+    "cep": "76308830"
+   },
+   "codigo_municipio": "521486",
+   "municipio": "Nova Glória",
+   "latitude": -15.175664769069016,
+   "longitude": -49.54808235168457,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "7964714",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA 10",
+    "numero": "S/N",
+    "bairro": "CIDADE EMPRESARIAL N",
+    "cep": "75913205"
+   },
+   "codigo_municipio": "521880",
+   "municipio": "Rio Verde",
+   "latitude": -17.827962092453145,
+   "longitude": -50.96186399459839,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-05"
+  },
+  {
+   "cnes": "7988826",
+   "nome": "FARMACIA MUNICIPAL DE NOVA CRIXAS",
+   "endereco": {
+    "logradouro": "RUA SALVADOR GARCIA",
+    "numero": "S/N",
+    "bairro": "AGUA BRANCA",
+    "cep": "76520000"
+   },
+   "codigo_municipio": "521483",
+   "municipio": "Nova Crixás",
+   "latitude": -14.095611,
+   "longitude": -50.342,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "8010862",
+   "nome": "UNIDADE BASICA DE SAUDE DE BURITINOPOLIS",
+   "endereco": {
+    "logradouro": "AVN PRINCIPAL",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "73975000"
+   },
+   "codigo_municipio": "520396",
+   "municipio": "Buritinópolis",
+   "latitude": -14.459241181228379,
+   "longitude": -46.42680644989014,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "8013543",
+   "nome": "HOSPITAL MUNICIPAL DR EVARISTO VILELA MACHADO",
+   "endereco": {
+    "logradouro": "RUA TEODORO MICHELLUS",
+    "numero": "S/N",
+    "bairro": "BOA VISTA",
+    "cep": "75830329"
+   },
+   "codigo_municipio": "521310",
+   "municipio": "Mineiros",
+   "latitude": -17.586655530824697,
+   "longitude": -52.55852937698364,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "8015600",
+   "nome": "UBS ALAIR REZENDE",
+   "endereco": {
+    "logradouro": "RUA HERMINIO CARNEIRO",
+    "numero": "S/N",
+    "bairro": "JOAO CASSIANO",
+    "cep": "75410000"
+   },
+   "codigo_municipio": "520160",
+   "municipio": "Araçu",
+   "latitude": -16.36873305569912,
+   "longitude": -49.66850280761719,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-10"
+  },
+  {
+   "cnes": "8062633",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA CACHOEIRA QD 16 LT 06",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75330000"
+   },
+   "codigo_municipio": "520180",
+   "municipio": "Aragoiânia",
+   "latitude": -16.915739849836832,
+   "longitude": -49.45090055465698,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-14"
+  },
+  {
+   "cnes": "8096686",
+   "nome": "CAF ASSISTENCIA FARMACEUTICA",
+   "endereco": {
+    "logradouro": "RUA CIVAL DOS REIS LEAL",
+    "numero": "S/N",
+    "bairro": "LINDO HORIZONTE",
+    "cep": "72942214"
+   },
+   "codigo_municipio": "520010",
+   "municipio": "Abadiânia",
+   "latitude": -16.18671279674957,
+   "longitude": -48.712756633758545,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-14"
+  },
+  {
+   "cnes": "8186707",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO DE CRIXAS",
+   "endereco": {
+    "logradouro": "PRACA INACIO JOSE DE CAMPOS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76510000"
+   },
+   "codigo_municipio": "520640",
+   "municipio": "Crixás",
+   "latitude": -14.54666356443754,
+   "longitude": -49.96948726944771,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-16"
+  },
+  {
+   "cnes": "8219184",
+   "nome": "FARMACIA BASICA MUNICIPAL SMS IPORA",
+   "endereco": {
+    "logradouro": "AV SAO PAULO",
+    "numero": "362",
+    "bairro": "MATO GROSSO",
+    "cep": "76200192"
+   },
+   "codigo_municipio": "521020",
+   "municipio": "Iporá",
+   "latitude": -16.445528971,
+   "longitude": -51.120460331,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "8233276",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA JOAO LIMA DE ABREU",
+    "numero": "99",
+    "bairro": "CENTRO",
+    "cep": "75170000"
+   },
+   "codigo_municipio": "520840",
+   "municipio": "Goianápolis",
+   "latitude": -16.50701430627532,
+   "longitude": -49.02275562286377,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-05"
+  },
+  {
+   "cnes": "8235120",
+   "nome": "DROGARIAS ULTRA POPULAR",
+   "endereco": {
+    "logradouro": "RUA MIGUEL DAVID COSAC",
+    "numero": "27",
+    "bairro": "CENTRO",
+    "cep": "75780000"
+   },
+   "codigo_municipio": "521010",
+   "municipio": "Ipameri",
+   "latitude": -17.722015233408026,
+   "longitude": -48.16281795501709,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-21"
+  },
+  {
+   "cnes": "8243190",
+   "nome": "DROGARIA TEM TEM",
+   "endereco": {
+    "logradouro": "AVENIDA INTENDENTE JOSE VAZ",
+    "numero": "11",
+    "bairro": "CENTRO",
+    "cep": "75780000"
+   },
+   "codigo_municipio": "521010",
+   "municipio": "Ipameri",
+   "latitude": -17.721688202878003,
+   "longitude": -48.164684772491455,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-28"
+  },
+  {
+   "cnes": "8287325",
+   "nome": "FARMACIA BASICA DE EDEIA",
+   "endereco": {
+    "logradouro": "WASHINGTON LUIZ",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75940000"
+   },
+   "codigo_municipio": "520740",
+   "municipio": "Edéia",
+   "latitude": -17.348,
+   "longitude": -49.9444,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-27"
+  },
+  {
+   "cnes": "8287945",
+   "nome": "FARMACIA BASICA DE INACIOLANDIA",
+   "endereco": {
+    "logradouro": "ALVINO SILVESTRE DE OLIVEIRA",
+    "numero": "S/N",
+    "bairro": "DINOMAR RIBEIRO",
+    "cep": "75550000"
+   },
+   "codigo_municipio": "520993",
+   "municipio": "Inaciolândia",
+   "latitude": -18.487494979888286,
+   "longitude": -49.98751401901245,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "8292507",
+   "nome": "DROGARIA MEGA POPULAR",
+   "endereco": {
+    "logradouro": "R SENADOR PEDRO LUDOVICO",
+    "numero": "S/N",
+    "bairro": "SETOR CENTRAL",
+    "cep": "76260000"
+   },
+   "codigo_municipio": "520710",
+   "municipio": "Diorama",
+   "latitude": -16.23470078739185,
+   "longitude": -51.2577223777771,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "8296340",
+   "nome": "DROGA CENTER",
+   "endereco": {
+    "logradouro": "QUADRA 02",
+    "numero": "26",
+    "bairro": "SETOR LESTE",
+    "cep": "73752020"
+   },
+   "codigo_municipio": "521760",
+   "municipio": "Planaltina",
+   "latitude": -15.4575,
+   "longitude": -47.60669,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8302057",
+   "nome": "DROGARIA MAIS SAUDE",
+   "endereco": {
+    "logradouro": "FRANCISCO IRENE DA SILVA ESQUINA COM A RUA 03",
+    "numero": "103",
+    "bairro": "CENTRO",
+    "cep": "76440000"
+   },
+   "codigo_municipio": "520465",
+   "municipio": "Campinaçu",
+   "latitude": -13.790347556002134,
+   "longitude": -48.568459153175354,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8310548",
+   "nome": "DROGARIA SAO SEBASTIAO",
+   "endereco": {
+    "logradouro": "04",
+    "numero": "148",
+    "bairro": "CENTRO",
+    "cep": "76650000"
+   },
+   "codigo_municipio": "521056",
+   "municipio": "Itaguari",
+   "latitude": -15.91955,
+   "longitude": -49.60559,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8315116",
+   "nome": "FARMACIA GOIANESIA",
+   "endereco": {
+    "logradouro": "QC 03 MC LOTE",
+    "numero": "2",
+    "bairro": "SETOR NORTE",
+    "cep": "73751250"
+   },
+   "codigo_municipio": "521760",
+   "municipio": "Planaltina",
+   "latitude": -15.42418,
+   "longitude": -47.6144,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8315787",
+   "nome": "DROGARIA IDEAL",
+   "endereco": {
+    "logradouro": "QA 01 MC LOTE",
+    "numero": "06",
+    "bairro": "SETOR LESTE",
+    "cep": "73752101"
+   },
+   "codigo_municipio": "521760",
+   "municipio": "Planaltina",
+   "latitude": -15.45329,
+   "longitude": -47.61175,
+   "frentes": [
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": false,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8363951",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "CENTRO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76124970"
+   },
+   "codigo_municipio": "520260",
+   "municipio": "Aurilândia",
+   "latitude": -16.67858086773085,
+   "longitude": -50.46361684799194,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8374244",
+   "nome": "FARMARCIA BASICA EDILANDIA",
+   "endereco": {
+    "logradouro": "AV CONTORNO",
+    "numero": "S/N",
+    "bairro": "DISTRITO DE EDILANDI",
+    "cep": "72978000"
+   },
+   "codigo_municipio": "520551",
+   "municipio": "Cocalzinho de Goiás",
+   "latitude": -15.782115272502661,
+   "longitude": -48.53303253650665,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8374260",
+   "nome": "FARMARCIA BASICA GIRASSOL",
+   "endereco": {
+    "logradouro": "RESIDENCIAL PRIMAR",
+    "numero": "S/N",
+    "bairro": "DISTRITO DE GIRASSOL",
+    "cep": "72979000"
+   },
+   "codigo_municipio": "520551",
+   "municipio": "Cocalzinho de Goiás",
+   "latitude": -15.73681711604386,
+   "longitude": -48.41195225715637,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "8386358",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "PARANA ENTRE AS AVENIDAS ANHANGUERA E SAO JOSE",
+    "numero": "S/N",
+    "bairro": "BELO HORIZONTE",
+    "cep": "76420000"
+   },
+   "codigo_municipio": "521460",
+   "municipio": "Niquelândia",
+   "latitude": -14.469068963173616,
+   "longitude": -48.458547592163086,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-15"
+  },
+  {
+   "cnes": "8415730",
+   "nome": "FARMACIA BASICA MUNICIPAL DE CEZARINA",
+   "endereco": {
+    "logradouro": "AVENIDA PALMEIRAS",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76195000"
+   },
+   "codigo_municipio": "520545",
+   "municipio": "Cezarina",
+   "latitude": -16.971832872560885,
+   "longitude": -49.774900674819946,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-07-15"
+  },
+  {
+   "cnes": "8426082",
+   "nome": "CONSULTORIO TRANSSEXUALIZADOR",
+   "endereco": {
+    "logradouro": "QUADRA 491",
+    "numero": "01",
+    "bairro": "PARQUE ESTRELA DALVA",
+    "cep": "72860454"
+   },
+   "codigo_municipio": "521523",
+   "municipio": "Novo Gama",
+   "latitude": -16.055039,
+   "longitude": -48.034767,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-08-11"
+  },
+  {
+   "cnes": "9060472",
+   "nome": "FARMACIA BASICA DE PARAUNA",
+   "endereco": {
+    "logradouro": "AV JUSCELINO K DE OLIVEIRA",
+    "numero": "S/N",
+    "bairro": "ST PARQUE DOS BURITS",
+    "cep": "75980000"
+   },
+   "codigo_municipio": "521640",
+   "municipio": "Paraúna",
+   "latitude": -16.95502878715101,
+   "longitude": -50.438575744628906,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9089276",
+   "nome": "CENTRAL DE ASSISTENCIA FARMACEUTICA",
+   "endereco": {
+    "logradouro": "RUA A 18",
+    "numero": "157",
+    "bairro": "CIDADE JARDIM",
+    "cep": "75080705"
+   },
+   "codigo_municipio": "520110",
+   "municipio": "Anápolis",
+   "latitude": -16.6051124,
+   "longitude": -49.3465314,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9121153",
+   "nome": "FARMACIA MUNICIPAL DE GOIAS",
+   "endereco": {
+    "logradouro": "RUA JOAQUIM ALVES DE CASTRO",
+    "numero": "01",
+    "bairro": "JOAO FRANCISCO",
+    "cep": "76600000"
+   },
+   "codigo_municipio": "520890",
+   "municipio": "Goiás",
+   "latitude": -15.934920397294832,
+   "longitude": -50.14263153076172,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9140166",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO FAMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA ESPIRITO SANTOS",
+    "numero": "011",
+    "bairro": "CENTRO",
+    "cep": "76490000"
+   },
+   "codigo_municipio": "521280",
+   "municipio": "Mara Rosa",
+   "latitude": -14.008321619339537,
+   "longitude": -49.179418087005615,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9142967",
+   "nome": "FARMACIA DISTRITAL OESTE",
+   "endereco": {
+    "logradouro": "AV SENADOR CANEDO C AV GERCINA BORGES TEIXEIRA",
+    "numero": "S/N",
+    "bairro": "CONJ VERZ CRUZ I",
+    "cep": "74493160"
+   },
+   "codigo_municipio": "520870",
+   "municipio": "Goiânia",
+   "latitude": -16.729591429233185,
+   "longitude": -49.369468688964844,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9154671",
+   "nome": "FARMACIA MUNICIPAL BASICA DE URUANA",
+   "endereco": {
+    "logradouro": "AVENIDA JOSE ALVES TOLEDO",
+    "numero": "S/N",
+    "bairro": "BANDEIRANTE",
+    "cep": "76335000"
+   },
+   "codigo_municipio": "522170",
+   "municipio": "Uruana",
+   "latitude": -15.497976105452134,
+   "longitude": -49.68787908554077,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9160531",
+   "nome": "FARMACIA BASICA MUNICIPAL DE ITAPACI",
+   "endereco": {
+    "logradouro": "RUA VEREADOR JOSE RAIMUNDO BARBOSA",
+    "numero": "0",
+    "bairro": "JARDIM AMERICA",
+    "cep": "76360000"
+   },
+   "codigo_municipio": "521090",
+   "municipio": "Itapaci",
+   "latitude": -14.949967778015896,
+   "longitude": -49.55291032791138,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-09-04"
+  },
+  {
+   "cnes": "9165037",
+   "nome": "FARMACIA BASICA MUNICIPAL DE TROMBAS",
+   "endereco": {
+    "logradouro": "AVENIDA PRESIDENTE VARGAS",
+    "numero": null,
+    "bairro": "CENTRO",
+    "cep": "76460000"
+   },
+   "codigo_municipio": "522145",
+   "municipio": "Trombas",
+   "latitude": -13.5091434,
+   "longitude": -48.7418238,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9183302",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "AVE CRISTOVAO COLOMBO",
+    "numero": "S/N",
+    "bairro": "AEROPORTO",
+    "cep": "76330000"
+   },
+   "codigo_municipio": "521180",
+   "municipio": "Jaraguá",
+   "latitude": -15.74674,
+   "longitude": -49.329385,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9221115",
+   "nome": "FARMACIA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA PREFEITO ELIAS MIGUEL SALOMAO",
+    "numero": "S/N",
+    "bairro": "CENTRAL",
+    "cep": "75880000"
+   },
+   "codigo_municipio": "521630",
+   "municipio": "Paranaiguara",
+   "latitude": -18.91079811600022,
+   "longitude": -50.65494954586029,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9222006",
+   "nome": "SERVICO DE ASSISTENCIA ESPECIALIZADA EM SAUDE",
+   "endereco": {
+    "logradouro": "CONJUNTO 2HI RUA 30",
+    "numero": "14",
+    "bairro": "NOVO GAMA",
+    "cep": "72860010"
+   },
+   "codigo_municipio": "521523",
+   "municipio": "Novo Gama",
+   "latitude": -16.0560802,
+   "longitude": -48.0336961,
+   "frentes": [
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9227148",
+   "nome": "FARMACIA BASICA CENTRAL DE MOZARLANDIA",
+   "endereco": {
+    "logradouro": "AVENIDA JOSE CAMELO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76700850"
+   },
+   "codigo_municipio": "521400",
+   "municipio": "Mozarlândia",
+   "latitude": -14.74967200571528,
+   "longitude": -50.573694705963135,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-08"
+  },
+  {
+   "cnes": "9237933",
+   "nome": "FARMACIA E ALMOXARIFADO MUNICIPAL DE JUSSARA",
+   "endereco": {
+    "logradouro": "RUA BEBEDOURO Q 05 LT 08",
+    "numero": "S/N",
+    "bairro": "PLANALTO",
+    "cep": "76270000"
+   },
+   "codigo_municipio": "521220",
+   "municipio": "Jussara",
+   "latitude": -15.877939,
+   "longitude": -50.867044,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9254382",
+   "nome": "FARMACIA MUNICIPAL DE BOM JARDIM DE GOIAS",
+   "endereco": {
+    "logradouro": "RUA GOIANIA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76245000"
+   },
+   "codigo_municipio": "520340",
+   "municipio": "Bom Jardim de Goiás",
+   "latitude": -16.212449329307173,
+   "longitude": -52.17162609100342,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9262768",
+   "nome": "ALMOXARIFADO CENTRAL SMS JARAGUA",
+   "endereco": {
+    "logradouro": "AVENIDA PAULO ALVES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76330000"
+   },
+   "codigo_municipio": "521180",
+   "municipio": "Jaraguá",
+   "latitude": -15.746988,
+   "longitude": -49.327046,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9284567",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA ANTONIO INACIO DA SILVA",
+    "numero": "205",
+    "bairro": "CENTRO",
+    "cep": "75930000"
+   },
+   "codigo_municipio": "521300",
+   "municipio": "Maurilândia",
+   "latitude": -17.971936461836588,
+   "longitude": -50.339698791503906,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9309969",
+   "nome": "FARMACIA BASICA DE GUAPO",
+   "endereco": {
+    "logradouro": "RUA RODOLFO TAVARES",
+    "numero": "661",
+    "bairro": "CENTRO",
+    "cep": "75350000"
+   },
+   "codigo_municipio": "520920",
+   "municipio": "Guapó",
+   "latitude": -16.8325816,
+   "longitude": -49.530347,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9364595",
+   "nome": "FARMACIA BASICA MUNICIPAL DE CAVALCANTE",
+   "endereco": {
+    "logradouro": "RUA CRISTA",
+    "numero": "40",
+    "bairro": "CENTRO",
+    "cep": "73790000"
+   },
+   "codigo_municipio": "520530",
+   "municipio": "Cavalcante",
+   "latitude": -13.797344193372853,
+   "longitude": -47.460336685180664,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9404481",
+   "nome": "FARMARCIA BASICA COCALZINHO",
+   "endereco": {
+    "logradouro": "AV ANAPOLIS AREA ESPECIAL",
+    "numero": "S/N",
+    "bairro": "CIDADE DOS PIRINEUS",
+    "cep": "72975000"
+   },
+   "codigo_municipio": "520551",
+   "municipio": "Cocalzinho de Goiás",
+   "latitude": -15.784717002203093,
+   "longitude": -48.771690130233765,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-12"
+  },
+  {
+   "cnes": "9418687",
+   "nome": "FARMACIA BASICA CENTRAL BELA VISTA",
+   "endereco": {
+    "logradouro": "RUA CEL FRANCISCO J DA SILVA",
+    "numero": "159",
+    "bairro": "CENTRO",
+    "cep": "75240000"
+   },
+   "codigo_municipio": "520330",
+   "municipio": "Bela Vista de Goiás",
+   "latitude": -16.975919501434188,
+   "longitude": -48.951797783374786,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9440887",
+   "nome": "FARMACIA BASICA DE URUACU",
+   "endereco": {
+    "logradouro": "AV PEDRO LUDOVICO",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "76400000"
+   },
+   "codigo_municipio": "522160",
+   "municipio": "Uruaçu",
+   "latitude": -14.5233714,
+   "longitude": -49.1389714,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9444858",
+   "nome": "CENTRAL DE SUPRIMENTOS E LOGISTICA CAF",
+   "endereco": {
+    "logradouro": "QUADRA 47 LOTE",
+    "numero": "49",
+    "bairro": "SETOR I",
+    "cep": "72920010"
+   },
+   "codigo_municipio": "520025",
+   "municipio": "Águas Lindas de Goiás",
+   "latitude": -15.748884,
+   "longitude": -48.261463,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-03"
+  },
+  {
+   "cnes": "9447199",
+   "nome": "FARMACIA REGIONAL UNIDADE I SETOR X",
+   "endereco": {
+    "logradouro": "QD 108 CONJ A LOTE",
+    "numero": "31",
+    "bairro": "SETOR 09",
+    "cep": "72925123"
+   },
+   "codigo_municipio": "520025",
+   "municipio": "Águas Lindas de Goiás",
+   "latitude": -15.738412,
+   "longitude": -48.290211,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-28"
+  },
+  {
+   "cnes": "9447202",
+   "nome": "FARMACIA DE ALTO CUSTO",
+   "endereco": {
+    "logradouro": "QUADRA 04 LOTE",
+    "numero": "15",
+    "bairro": "JARDIM DA BARRAGEM I",
+    "cep": "72920010"
+   },
+   "codigo_municipio": "520025",
+   "municipio": "Águas Lindas de Goiás",
+   "latitude": -15.7347,
+   "longitude": -48.2867,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9447210",
+   "nome": "FARMACIA JUDICIAL",
+   "endereco": {
+    "logradouro": "QUADRA OE LOTE",
+    "numero": "15",
+    "bairro": "JARDIM BARRAGEM I",
+    "cep": "72920010"
+   },
+   "codigo_municipio": "520025",
+   "municipio": "Águas Lindas de Goiás",
+   "latitude": -15.7345,
+   "longitude": -48.2855,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9490809",
+   "nome": "FARMACIA REGIONAL UNIDADE III PEROLA II",
+   "endereco": {
+    "logradouro": "QUADRA 66 LOTE",
+    "numero": "01",
+    "bairro": "JARDIM PEROLA II",
+    "cep": "72910001"
+   },
+   "codigo_municipio": "520025",
+   "municipio": "Águas Lindas de Goiás",
+   "latitude": -15.73527,
+   "longitude": -48.257859,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-28"
+  },
+  {
+   "cnes": "9530045",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA 06",
+    "numero": "S/N",
+    "bairro": "VILA KLEREA",
+    "cep": "75363193"
+   },
+   "codigo_municipio": "520880",
+   "municipio": "Goianira",
+   "latitude": -16.51234271579485,
+   "longitude": -49.42654609680176,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9541004",
+   "nome": "UNIDADE DE PRONTO ATENDIMENTO",
+   "endereco": {
+    "logradouro": "AVENIDA R 1",
+    "numero": "S/N",
+    "bairro": "SETOR PADRE CICERO",
+    "cep": "76206004"
+   },
+   "codigo_municipio": "521020",
+   "municipio": "Iporá",
+   "latitude": -16.43147501,
+   "longitude": -51.12183094,
+   "frentes": [
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-16"
+  },
+  {
+   "cnes": "9570306",
+   "nome": "FARMACIA BASICA MUNICIPAL DE ABADIA DE GOIAS CAF 2",
+   "endereco": {
+    "logradouro": "AV COMERCIAL",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75345000"
+   },
+   "codigo_municipio": "520005",
+   "municipio": "Abadia de Goiás",
+   "latitude": -16.762754404308204,
+   "longitude": -49.43559651555153,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-06-05"
+  },
+  {
+   "cnes": "9623531",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA 33",
+    "numero": "420",
+    "bairro": "CENTRO",
+    "cep": "76380124"
+   },
+   "codigo_municipio": "520860",
+   "municipio": "Goianésia",
+   "latitude": -15.308835838298926,
+   "longitude": -49.60807800292969,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9639365",
+   "nome": "CAF CENTRAL DE ABASTECIMENTO FARMACEUTICO DE INHUMAS",
+   "endereco": {
+    "logradouro": "AVENIDA WILSON QUIRINO",
+    "numero": "450",
+    "bairro": "BAIRRO ANHANGUERA",
+    "cep": "75407530"
+   },
+   "codigo_municipio": "521000",
+   "municipio": "Inhumas",
+   "latitude": -16.3681797,
+   "longitude": -49.4867956,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9725598",
+   "nome": "FARMACIA DO SAE E DISPENSACAO BASICA E ESTRATEGICA",
+   "endereco": {
+    "logradouro": "QUADRA 109 SETOR 10",
+    "numero": "S/N",
+    "bairro": "SETOR 10",
+    "cep": "72925141"
+   },
+   "codigo_municipio": "520025",
+   "municipio": "Águas Lindas de Goiás",
+   "latitude": -15.7381,
+   "longitude": -48.2904,
+   "frentes": [
+    "CBAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-05-14"
+  },
+  {
+   "cnes": "9726551",
+   "nome": "FARMACIA BASICA MUNICIPAL",
+   "endereco": {
+    "logradouro": "RUA 07 DE SETEMBRO",
+    "numero": "01",
+    "bairro": "CENTRO",
+    "cep": "73850000"
+   },
+   "codigo_municipio": "520620",
+   "municipio": "Cristalina",
+   "latitude": -16.769021749077023,
+   "longitude": -47.61395215988159,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9726802",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO",
+   "endereco": {
+    "logradouro": "RUA ARAGUAIA",
+    "numero": "13",
+    "bairro": "CENTRO",
+    "cep": "73850000"
+   },
+   "codigo_municipio": "520620",
+   "municipio": "Cristalina",
+   "latitude": -16.777174,
+   "longitude": -47.6244611,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9760806",
+   "nome": "FARMACIA BASICA MUNICIPAL DE RUBIATABA",
+   "endereco": {
+    "logradouro": "PRACA INDAIA",
+    "numero": "1",
+    "bairro": "CENTRO",
+    "cep": "76350087"
+   },
+   "codigo_municipio": "521890",
+   "municipio": "Rubiataba",
+   "latitude": -15.161744516789245,
+   "longitude": -49.80563155616409,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-04-04"
+  },
+  {
+   "cnes": "9763864",
+   "nome": "FARMACIA BASICA",
+   "endereco": {
+    "logradouro": "RUA 33",
+    "numero": "420",
+    "bairro": "CENTRO",
+    "cep": "76380124"
+   },
+   "codigo_municipio": "520860",
+   "municipio": "Goianésia",
+   "latitude": -15.308297734238806,
+   "longitude": -49.60773468017578,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF",
+    "FARMACIA_POPULAR_CNES"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9809155",
+   "nome": "FARMACIA BASICA MUNICIPAL DE OURO VERDE",
+   "endereco": {
+    "logradouro": "RUA DAS FLORES",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "75165000"
+   },
+   "codigo_municipio": "521540",
+   "municipio": "Ouro Verde de Goiás",
+   "latitude": -16.219230624499183,
+   "longitude": -49.19833302497864,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9809724",
+   "nome": "FARMACIA E ALMOXARIFADO DE DAMOLANDIA",
+   "endereco": {
+    "logradouro": "RUA ANTONIO CAETANO DE SOUZA",
+    "numero": "10",
+    "bairro": "VILA SAO SEBASTIAO",
+    "cep": "75420780"
+   },
+   "codigo_municipio": "520680",
+   "municipio": "Damolândia",
+   "latitude": -16.253746448992658,
+   "longitude": -49.366164207458496,
+   "frentes": [
+    "CBAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2026-03-23"
+  },
+  {
+   "cnes": "9812121",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO DE NEROPOLIS",
+   "endereco": {
+    "logradouro": "RUA GETULINO ARTIAGA",
+    "numero": "866",
+    "bairro": "CENTRO",
+    "cep": "75460006"
+   },
+   "codigo_municipio": "521450",
+   "municipio": "Nerópolis",
+   "latitude": -16.408648998748642,
+   "longitude": -49.21619653701782,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-11-22"
+  },
+  {
+   "cnes": "9868666",
+   "nome": "CENTRO DE ABASTECIMENTO DE PLANALTINA GOIAS CAP",
+   "endereco": {
+    "logradouro": "PRACA JURANDIR CAMILO BOAVENTURA",
+    "numero": "S/N",
+    "bairro": "CENTRO",
+    "cep": "73758000"
+   },
+   "codigo_municipio": "521760",
+   "municipio": "Planaltina",
+   "latitude": -15.453369995683286,
+   "longitude": -47.61522889137268,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9885609",
+   "nome": "FARMACIA BASICA CENTRAL DE INHUMAS",
+   "endereco": {
+    "logradouro": "AV WILSON QUIRINO DE ANDRADE",
+    "numero": "450",
+    "bairro": "ANHANGUERA",
+    "cep": "75407530"
+   },
+   "codigo_municipio": "521000",
+   "municipio": "Inhumas",
+   "latitude": -16.3660837,
+   "longitude": -49.4922486,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9893555",
+   "nome": "FARMACIA BASICA MUNICIPAL DE MATRINCHA",
+   "endereco": {
+    "logradouro": "RUA OURO VERDE",
+    "numero": "S/N",
+    "bairro": "NOVA ESPERANCA",
+    "cep": "76730000"
+   },
+   "codigo_municipio": "521295",
+   "municipio": "Matrinchã",
+   "latitude": -15.43810617220402,
+   "longitude": -50.74737310409546,
+   "frentes": [
+    "CBAF",
+    "CEAF",
+    "CESAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  },
+  {
+   "cnes": "9912371",
+   "nome": "CENTRAL DE ABASTECIMENTO FARMACEUTICO CAF",
+   "endereco": {
+    "logradouro": "AVENIDA JK",
+    "numero": "S/N",
+    "bairro": "SETOR PARQUE DOS BUR",
+    "cep": "75980000"
+   },
+   "codigo_municipio": "521640",
+   "municipio": "Paraúna",
+   "latitude": -16.954454086504352,
+   "longitude": -50.439337491989136,
+   "frentes": [
+    "CBAF",
+    "CEAF"
+   ],
+   "vinculo_sus": true,
+   "competencia_cnes": "202608",
+   "cadastro_atualizado_em": "2025-09-03"
+  }
+ ],
+ "cnes_sem_cadastro": []
+}
