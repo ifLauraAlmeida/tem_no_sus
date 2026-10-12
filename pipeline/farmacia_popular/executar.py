@@ -24,10 +24,14 @@ DIRETORIO_SAIDA = Path("data/processed/farmacia_popular")
 
 
 def montar_farmacia(farmacia: FarmaciaCredenciada, localizacao: LocalizacaoCnes | None) -> dict:
+    # O painel traz a razão social; o nome fantasia (como a farmácia aparece
+    # na fachada e nos mapas) vem do CNES quando o CNPJ é encontrado lá.
+    nome_fantasia = localizacao.nome_fantasia if localizacao else None
     return {
         "cnpj": farmacia.cnpj,
         "cnes": localizacao.cnes if localizacao else None,
-        "nome": farmacia.nome,
+        "nome": nome_fantasia or farmacia.nome,
+        "razao_social": farmacia.nome,
         "endereco": {
             "logradouro": farmacia.logradouro,
             "numero": localizacao.numero if localizacao else None,

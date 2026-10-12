@@ -4,7 +4,7 @@ from pipeline.farmacia_popular.coordenadas_cnes import converter_coordenada, ind
 
 
 def registro(cnpj, cnes, latitude="-10,18", longitude="-48,33", motivo="", numero="100"):
-    return {"CO_CNES": cnes, "NU_CNPJ": cnpj, "NU_ENDERECO": numero, "CO_CEP": "77001002",
+    return {"CO_CNES": cnes, "NU_CNPJ": cnpj, "NO_FANTASIA": "DROGASMIL ", "NU_ENDERECO": numero, "CO_CEP": "77001002",
             "NU_LATITUDE": latitude, "NU_LONGITUDE": longitude, "CO_MOTIVO_DESAB": motivo}
 
 
@@ -22,6 +22,7 @@ def test_indexa_apenas_cnpjs_procurados():
     indice = indexar_por_cnpj([registro("1", "A"), registro("2", "B")], {"2"})
     assert list(indice) == ["2"]
     assert indice["2"].numero == "100"
+    assert indice["2"].nome_fantasia == "DROGASMIL"
 
 
 def test_prefere_cadastro_ativo_e_com_coordenada():

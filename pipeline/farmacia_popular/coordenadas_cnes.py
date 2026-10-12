@@ -1,4 +1,4 @@
-"""Busca número, CEP e coordenadas das farmácias pelo CNPJ na base completa do CNES.
+"""Busca nome fantasia, número, CEP e coordenadas das farmácias pelo CNPJ na base completa do CNES.
 
 A lista oficial do Farmácia Popular traz só logradouro e bairro; a base
 completa do CNES (tbEstabelecimento) tem o número do endereço e as coordenadas.
@@ -11,12 +11,13 @@ from collections.abc import Iterable
 from dataclasses import dataclass
 from pathlib import Path
 
-COLUNAS_TB_ESTABELECIMENTO = ("CO_CNES", "NU_CNPJ", "NU_ENDERECO", "CO_CEP", "NU_LATITUDE", "NU_LONGITUDE", "CO_MOTIVO_DESAB")
+COLUNAS_TB_ESTABELECIMENTO = ("CO_CNES", "NU_CNPJ", "NO_FANTASIA", "NU_ENDERECO", "CO_CEP", "NU_LATITUDE", "NU_LONGITUDE", "CO_MOTIVO_DESAB")
 
 
 @dataclass(frozen=True)
 class LocalizacaoCnes:
     cnes: str
+    nome_fantasia: str | None
     numero: str | None
     cep: str | None
     latitude: float | None
@@ -48,6 +49,7 @@ def converter_registro(registro: dict[str, str]) -> LocalizacaoCnes:
         latitude = longitude = None
     return LocalizacaoCnes(
         cnes=registro["CO_CNES"],
+        nome_fantasia=(registro["NO_FANTASIA"] or "").strip() or None,
         numero=(registro["NU_ENDERECO"] or "").strip() or None,
         cep=(registro["CO_CEP"] or "").strip() or None,
         latitude=latitude,
