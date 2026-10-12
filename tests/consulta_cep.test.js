@@ -60,7 +60,7 @@ test("rua ou município curtos demais não consultam o serviço", async () => {
 test("converte endereço do CEP e retorna null para CEP inexistente", async () => {
   const endereco = await buscarEnderecoPorCep(
     "77001-002",
-    resposta({ cep: "77001-002", logradouro: "Praça Girassóis", bairro: "Plano Diretor Norte", localidade: "Palmas", uf: "TO" }),
+    resposta({ cep: "77001-002", logradouro: "Praça Girassóis", bairro: "Plano Diretor Norte", localidade: "Palmas", uf: "TO", ibge: "1721000" }),
   );
   assert.deepEqual(endereco, {
     cep: "77001002",
@@ -68,6 +68,7 @@ test("converte endereço do CEP e retorna null para CEP inexistente", async () =
     complemento: "",
     bairro: "Plano Diretor Norte",
     municipio: "Palmas",
+    codigoMunicipio: "172100",
     uf: "TO",
   });
   assert.equal(await buscarEnderecoPorCep("00000000", resposta({ erro: true })), null);

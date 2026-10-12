@@ -34,6 +34,8 @@ function converterEndereco(dadosViaCep) {
     complemento: dadosViaCep.complemento || "",
     bairro: dadosViaCep.bairro || "",
     municipio: dadosViaCep.localidade,
+    // O ViaCEP traz o código IBGE de 7 dígitos; as bases usam os 6 primeiros.
+    codigoMunicipio: dadosViaCep.ibge ? String(dadosViaCep.ibge).slice(0, 6) : null,
     uf: dadosViaCep.uf,
   };
 }
