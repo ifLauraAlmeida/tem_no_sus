@@ -58,7 +58,6 @@
 .resultado__observacao { font-size: 0.88rem; color: var(--cinza-texto-suave); }
 
 .conversa__formulario {
-  border-top: 1px solid var(--cinza-borda);
   padding-top: 14px;
 }
 .conversa__formulario label { display: block; margin-bottom: 6px; }
@@ -147,7 +146,7 @@
 }
 .botao--sugestao:hover { background: var(--azul-fundo); }
 
-.resultado__programa { border-top: 1px solid var(--cinza-borda); padding-top: 8px; margin-top: 8px; }
+.resultado__programa { margin-top: 14px; }
 .resultado__programa-titulo { font-weight: 500; color: var(--cor-titulo); margin-bottom: 2px; }
 
 .botao--link {
@@ -183,5 +182,5 @@
   font-size: 0.9rem;
   text-decoration: none;
 }
-.orientacoes__secao { border-top: 1px solid var(--cinza-borda); padding-top: 8px; margin-top: 8px; }
+.orientacoes__secao { margin-top: 14px; }
 .orientacoes__secao ul { margin: 4px 0; padding-left: 20px; }

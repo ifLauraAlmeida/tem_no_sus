@@ -46,13 +46,8 @@
   padding-bottom: 40px;
 }
 
-.painel {
-  background: var(--superficie);
-  border: 1px solid var(--cinza-borda);
-  border-radius: var(--raio);
-  padding: 20px;
-}
-.painel h2 {
+/* O chat fica direto sobre o fundo da página, sem moldura. */
+.conversa h2 {
   margin-top: 0;
   font-size: 1.15rem;
 }
@@ -161,9 +156,7 @@
 }
 .faixa-fontes a:hover { border-color: var(--azul); }
 .sobre-dados {
-  border-top: 1px solid var(--cinza-borda);
-  margin-top: 16px;
-  padding-top: 8px;
+  margin-top: 20px;
 }
 .sobre-dados h2 { font-size: 1.05rem; }
 .sobre-dados .lista-fonte { display: grid; grid-template-columns: max-content 1fr; gap: 4px 16px; }
