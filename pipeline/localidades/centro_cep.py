@@ -52,14 +52,19 @@ class AcumuladorCep:
 
 
 def ler_registros_cnefe(caminho_zip: Path) -> Iterable[dict[str, str]]:
+    # Lê só as 4 colunas usadas, por posição: são ~110 milhões de endereços
+    # e montar o dicionário completo de cada linha tornaria a leitura lenta.
     with zipfile.ZipFile(caminho_zip) as arquivo_zip:
         [nome] = [nome for nome in arquivo_zip.namelist() if nome.endswith(".csv")]
         with arquivo_zip.open(nome) as bruto:
-            leitor = csv.DictReader(io.TextIOWrapper(bruto, encoding="latin-1", newline=""), delimiter=";")
-            ausentes = set(COLUNAS_CNEFE) - set(leitor.fieldnames or [])
+            leitor = csv.reader(io.TextIOWrapper(bruto, encoding="latin-1", newline=""), delimiter=";")
+            cabecalho = next(leitor)
+            ausentes = set(COLUNAS_CNEFE) - set(cabecalho)
             if ausentes:
                 raise ValueError(f"{caminho_zip.name}: colunas ausentes {sorted(ausentes)}; verifique o layout do CNEFE")
-            yield from leitor
+            posicoes = [cabecalho.index(coluna) for coluna in COLUNAS_CNEFE]
+            for linha in leitor:
+                yield dict(zip(COLUNAS_CNEFE, (linha[posicao] for posicao in posicoes)))
 
 
 def acumular_centros(registros: Iterable[dict[str, str]], acumuladores: dict[str, AcumuladorCep]) -> None:
