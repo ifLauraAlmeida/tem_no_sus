@@ -1,0 +1,11025 @@
+{
+"fonte": {
+"orgao": "Agência Nacional de Vigilância Sanitária (ANVISA)",
+"documento": "Dados abertos de medicamentos registrados",
+"url": "https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv",
+"sha256": "b71283bece2e11db95ffc48069fee0b4020c117ead18007fbc95c4f2082965ea",
+"data_obtencao": "2026-10-12"
+},
+"nomes": {
+"a curitybina": [
+"acido salicilico"
+],
+"aas protect": [
+"acido acetilsalicilico"
+],
+"abedosec": [
+"omeprazol"
+],
+"abelia": [
+"imiquimode"
+],
+"abepoten": [
+"captopril"
+],
+"aberalgina": [
+"dipirona"
+],
+"abidor": [
+"paracetamol"
+],
+"ablok": [
+"atenolol"
+],
+"acecorthyl": [
+"hidrocortisona"
+],
+"acectil": [
+"acido acetilsalicilico"
+],
+"acemedrox": [
+"medroxiprogesterona"
+],
+"acerol": [
+"benzoilmetronidazol",
+"metronidazol"
+],
+"acesyl": [
+"tiamina"
+],
+"acetamil": [
+"paracetamol"
+],
+"acetamol": [
+"paracetamol"
+],
+"acetan": [
+"paracetamol"
+],
+"acetato de medroxiprogesterona]": [
+"medroxiprogesterona"
+],
+"acetazona": [
+"dexametasona"
+],
+"acetilasa": [
+"acido acetilsalicilico"
+],
+"acetildor": [
+"acido acetilsalicilico"
+],
+"acetilessin": [
+"acido acetilsalicilico"
+],
+"acetilsalil": [
+"acido acetilsalicilico"
+],
+"acetitol": [
+"paracetamol"
+],
+"acetofen": [
+"paracetamol"
+],
+"acetoflux": [
+"medroxiprogesterona"
+],
+"acetylen": [
+"paracetamol"
+],
+"acfol": [
+"acido folico"
+],
+"aciclofar": [
+"aciclovir"
+],
+"aciclomed": [
+"aciclovir"
+],
+"aciclor": [
+"aciclovir"
+],
+"aciclovan": [
+"aciclovir"
+],
+"acidalic": [
+"acido acetilsalicilico"
+],
+"aciderm": [
+"cetoconazol"
+],
+"acidex": [
+"hidroxido de aluminio"
+],
+"acido folico - eurofarma": [
+"acido folico"
+],
+"aciveral": [
+"aciclovir"
+],
+"acivirax": [
+"aciclovir"
+],
+"aclaf": [
+"amoxicilina",
+"clavulanato"
+],
+"acnase gel": [
+"peroxido de benzoila"
+],
+"actiprofen": [
+"ibuprofeno"
+],
+"acyclo": [
+"aciclovir"
+],
+"ad - calcio": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"ad til": [
+"colecalciferol",
+"retinol"
+],
+"ad-til": [
+"colecalciferol",
+"retinol"
+],
+"ad-vitam": [
+"colecalciferol",
+"retinol"
+],
+"adalex": [
+"nifedipino"
+],
+"addera d3": [
+"colecalciferol"
+],
+"aderogil d3": [
+"colecalciferol",
+"retinol"
+],
+"aderogil gotas": [
+"colecalciferol",
+"retinol"
+],
+"adfen": [
+"ibuprofeno"
+],
+"adlyv": [
+"ibuprofeno"
+],
+"adrecon": [
+"dexametasona"
+],
+"adren": [
+"epinefrina"
+],
+"adren ped": [
+"epinefrina"
+],
+"advil": [
+"ibuprofeno"
+],
+"advil 12h": [
+"ibuprofeno"
+],
+"advil kids": [
+"ibuprofeno"
+],
+"advit": [
+"colecalciferol",
+"retinol"
+],
+"advnasal": [
+"cloreto de sodio"
+],
+"aero-ifal": [
+"salbutamol"
+],
+"aero-ped": [
+"salbutamol"
+],
+"aerocort s": [
+"beclometasona",
+"salbutamol"
+],
+"aerodilat": [
+"salbutamol"
+],
+"aerodini": [
+"salbutamol"
+],
+"aerodivent": [
+"ipratropio"
+],
+"aerofrin": [
+"salbutamol"
+],
+"aerogold": [
+"salbutamol"
+],
+"aerogreen": [
+"salbutamol"
+],
+"aerojet": [
+"salbutamol"
+],
+"aerolin": [
+"salbutamol"
+],
+"aeromed": [
+"salbutamol"
+],
+"aeronax": [
+"salbutamol"
+],
+"aerotamol": [
+"salbutamol"
+],
+"aerotide": [
+"beclometasona",
+"salbutamol"
+],
+"aerotrat": [
+"salbutamol"
+],
+"afolic": [
+"acido folico"
+],
+"afolic infantil": [
+"acido folico"
+],
+"afopic": [
+"acido folico"
+],
+"afrezza": [
+"insulina humana"
+],
+"aftoderm": [
+"nistatina"
+],
+"agarorio": [
+"oleo mineral"
+],
+"agezag": [
+"sulfadiazina de prata"
+],
+"ailuk": [
+"beclometasona"
+],
+"alba 3": [
+"albendazol"
+],
+"albel": [
+"albendazol"
+],
+"albemphil": [
+"albendazol"
+],
+"albendal": [
+"albendazol"
+],
+"albendan": [
+"albendazol"
+],
+"albendol": [
+"albendazol"
+],
+"albendoxil": [
+"albendazol"
+],
+"albendrox": [
+"albendazol"
+],
+"albendy": [
+"albendazol"
+],
+"albenix": [
+"albendazol"
+],
+"albentel": [
+"albendazol"
+],
+"albenzonil": [
+"albendazol"
+],
+"albezin": [
+"albendazol"
+],
+"albistat": [
+"nistatina"
+],
+"albistin": [
+"nistatina"
+],
+"alcalis gel": [
+"hidroxido de aluminio"
+],
+"ald mune": [
+"imiquimode"
+],
+"aldaril": [
+"espironolactona"
+],
+"aldazida": [
+"espironolactona",
+"hidroclorotiazida"
+],
+"aldijet": [
+"algestona acetofenida",
+"enantato de estradiol"
+],
+"aldneo": [
+"espironolactona"
+],
+"aldomet": [
+"metildopa"
+],
+"aldopa": [
+"metildopa"
+],
+"aldotil": [
+"metildopa"
+],
+"aledex": [
+"dexclorfeniramina"
+],
+"alendil calcio d": [
+"alendronato",
+"carbonato de calcio",
+"colecalciferol"
+],
+"alendrin": [
+"alendronato"
+],
+"alendrus": [
+"alendronato"
+],
+"alenost": [
+"alendronato"
+],
+"alerfin": [
+"beclometasona"
+],
+"alergaliv": [
+"loratadina"
+],
+"alergcortem": [
+"prednisona"
+],
+"alergiderm": [
+"prometazina"
+],
+"alergidex": [
+"betametasona",
+"dexclorfeniramina"
+],
+"alergomine": [
+"dexclorfeniramina"
+],
+"alergonil": [
+"dexclorfeniramina"
+],
+"alergosan": [
+"prometazina"
+],
+"alergyo": [
+"dexclorfeniramina"
+],
+"alermine": [
+"dexclorfeniramina"
+],
+"alernyx": [
+"dexclorfeniramina"
+],
+"alesse": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"alfasin": [
+"finasterida"
+],
+"alfusina": [
+"metildopa"
+],
+"algi - danilon": [
+"ibuprofeno",
+"paracetamol"
+],
+"algi-reumatril": [
+"ibuprofeno"
+],
+"algiflex": [
+"ibuprofeno"
+],
+"algirona": [
+"dipirona"
+],
+"algy gotas": [
+"ibuprofeno"
+],
+"algy-flanderil": [
+"ibuprofeno"
+],
+"algy-flanderil caps": [
+"ibuprofeno"
+],
+"alib": [
+"albendazol"
+],
+"alin": [
+"albendazol"
+],
+"alivdip": [
+"dipirona"
+],
+"alive": [
+"cloreto de sodio"
+],
+"alividerm": [
+"sulfadiazina de prata"
+],
+"alivirona": [
+"dipirona"
+],
+"alivision": [
+"salbutamol"
+],
+"alivpress": [
+"anlodipino"
+],
+"aliz": [
+"ibuprofeno"
+],
+"alopurimilium": [
+"alopurinol"
+],
+"alozic": [
+"alopurinol"
+],
+"alphacaine": [
+"epinefrina",
+"lidocaina"
+],
+"alphadopa": [
+"metildopa"
+],
+"altad": [
+"colecalciferol"
+],
+"altad caps": [
+"colecalciferol"
+],
+"altad caps dura": [
+"colecalciferol"
+],
+"aludor": [
+"ibuprofeno"
+],
+"aludroxil": [
+"hidroxido de aluminio"
+],
+"alumimax": [
+"hidroxido de aluminio"
+],
+"alvent": [
+"ipratropio"
+],
+"alveolin": [
+"epinefrina",
+"lidocaina"
+],
+"alyviazes": [
+"ibuprofeno"
+],
+"alyvler": [
+"dexclorfeniramina"
+],
+"ambilan": [
+"amoxicilina",
+"clavulanato"
+],
+"amclavu": [
+"amoxicilina",
+"clavulanato"
+],
+"amebil pediatrico": [
+"benzoilmetronidazol"
+],
+"ameniflac": [
+"paracetamol"
+],
+"amiclavin": [
+"amoxicilina"
+],
+"amicored": [
+"cianocobalamina"
+],
+"amicose": [
+"miconazol"
+],
+"amicozol": [
+"miconazol"
+],
+"aminofen": [
+"paracetamol"
+],
+"amio -bras": [
+"amiodarona"
+],
+"amiobal": [
+"amiodarona"
+],
+"amioron": [
+"amiodarona"
+],
+"amirona": [
+"amiodarona"
+],
+"amitrin": [
+"amitriptilina"
+],
+"amlodil": [
+"anlodipino"
+],
+"amlovasc": [
+"anlodipino"
+],
+"amoflux": [
+"amoxicilina"
+],
+"amox-ems": [
+"amoxicilina"
+],
+"amoxacin": [
+"amoxicilina"
+],
+"amoxadene": [
+"amoxicilina"
+],
+"amoxi-ped": [
+"amoxicilina"
+],
+"amoxibel": [
+"amoxicilina"
+],
+"amoxicap": [
+"amoxicilina"
+],
+"amoxiciclina": [
+"amoxicilina"
+],
+"amoxicilina solutab": [
+"amoxicilina"
+],
+"amoxiclav": [
+"amoxicilina",
+"clavulanato"
+],
+"amoxicom": [
+"amoxicilina"
+],
+"amoxifar": [
+"amoxicilina"
+],
+"amoxiflex": [
+"amoxicilina"
+],
+"amoxil": [
+"amoxicilina"
+],
+"amoxil bd": [
+"amoxicilina"
+],
+"amoxilon": [
+"amoxicilina"
+],
+"amoximed": [
+"amoxicilina"
+],
+"amoxina": [
+"amoxicilina"
+],
+"amoxipen": [
+"amoxicilina"
+],
+"amoxitan": [
+"amoxicilina"
+],
+"amoxitrin": [
+"amoxicilina"
+],
+"amplal": [
+"amoxicilina"
+],
+"amplamox ac": [
+"amoxicilina",
+"clavulanato"
+],
+"amplictil": [
+"clorpromazina"
+],
+"amplospec": [
+"ceftriaxona"
+],
+"amprax": [
+"propranolol"
+],
+"amytril": [
+"amitriptilina"
+],
+"ana- lip": [
+"sinvastatina"
+],
+"anacetil": [
+"acido acetilsalicilico"
+],
+"anador": [
+"dipirona"
+],
+"anaerocid": [
+"clindamicina"
+],
+"anafranil": [
+"clomipramina"
+],
+"analgesil": [
+"dipirona"
+],
+"analgesin": [
+"acido acetilsalicilico"
+],
+"analgisen": [
+"paracetamol"
+],
+"analiv": [
+"ibuprofeno"
+],
+"anapirin": [
+"paracetamol"
+],
+"anaten": [
+"anlodipino",
+"atenolol"
+],
+"anatyl": [
+"paracetamol"
+],
+"anclomax": [
+"aciclovir"
+],
+"ancoron": [
+"amiodarona"
+],
+"androcortil": [
+"succinato sodico de hidrocortisona"
+],
+"androlip": [
+"sinvastatina"
+],
+"anfebril": [
+"dipirona"
+],
+"anfugitarin": [
+"miconazol"
+],
+"angil": [
+"dinitrato de isossorbida"
+],
+"angiopril": [
+"enalapril"
+],
+"angipress": [
+"atenolol"
+],
+"angitens": [
+"atenolol"
+],
+"angyton": [
+"amiodarona"
+],
+"anlo": [
+"anlodipino"
+],
+"anlodibal": [
+"anlodipino"
+],
+"anlofec": [
+"anlodipino"
+],
+"anlusbed": [
+"anlodipino"
+],
+"anoril": [
+"carbamazepina"
+],
+"ansentron": [
+"ondansetrona"
+],
+"ansilive": [
+"diazepam"
+],
+"anteptil": [
+"fenitoina"
+],
+"antifebrin": [
+"acido acetilsalicilico"
+],
+"antipark": [
+"carbidopa",
+"levodopa"
+],
+"antipertin": [
+"hidroclorotiazida"
+],
+"antitensin": [
+"propranolol"
+],
+"anulov": [
+"levonorgestrel"
+],
+"aorten": [
+"captopril"
+],
+"aortt": [
+"captopril"
+],
+"apiron": [
+"dipirona"
+],
+"apluc": [
+"amoxicilina"
+],
+"apresolina": [
+"hidralazina"
+],
+"aradois anlo": [
+"anlodipino",
+"losartana"
+],
+"aradois h": [
+"hidroclorotiazida",
+"losartana"
+],
+"arartan": [
+"losartana"
+],
+"arcolan": [
+"cetoconazol"
+],
+"areblaz": [
+"atenolol"
+],
+"ares": [
+"ipratropio"
+],
+"aricilina": [
+"benzilpenicilina"
+],
+"arilin": [
+"enalapril"
+],
+"aristopramida": [
+"metoclopramida"
+],
+"armax": [
+"budesonida"
+],
+"arotinol": [
+"retinol"
+],
+"arovit": [
+"retinol"
+],
+"arovit vita": [
+"retinol"
+],
+"arritirom": [
+"amiodarona"
+],
+"artelac": [
+"hipromelose"
+],
+"artinizona": [
+"prednisona"
+],
+"artril": [
+"ibuprofeno"
+],
+"as-med": [
+"acido acetilsalicilico"
+],
+"asetisin": [
+"acido acetilsalicilico"
+],
+"asmaflux": [
+"salbutamol"
+],
+"asmakil": [
+"salbutamol"
+],
+"asmaliv": [
+"ipratropio"
+],
+"asmec": [
+"salbutamol"
+],
+"asmerolin": [
+"salbutamol"
+],
+"aspdip": [
+"dipirona"
+],
+"aspevent": [
+"acido acetilsalicilico"
+],
+"aspirilen": [
+"acido acetilsalicilico"
+],
+"aspirina impact": [
+"acido acetilsalicilico"
+],
+"aspirina prevent": [
+"acido acetilsalicilico"
+],
+"assepium": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"assetil": [
+"acido acetilsalicilico"
+],
+"astergyl": [
+"metronidazol"
+],
+"astro": [
+"azitromicina"
+],
+"astro iv": [
+"azitromicina"
+],
+"ataderm": [
+"sulfadiazina de prata"
+],
+"atak": [
+"amoxicilina"
+],
+"atak clav": [
+"amoxicilina",
+"clavulanato"
+],
+"atecor": [
+"atenolol"
+],
+"atenalon": [
+"atenolol"
+],
+"atenegran": [
+"atenolol"
+],
+"ateneo": [
+"atenolol"
+],
+"ateneum": [
+"atenolol"
+],
+"ateno-bras": [
+"atenolol"
+],
+"atenobal": [
+"atenolol"
+],
+"atenol": [
+"atenolol"
+],
+"atenolab": [
+"atenolol"
+],
+"atenopress": [
+"atenolol"
+],
+"atenorm": [
+"atenolol"
+],
+"atenoton": [
+"atenolol"
+],
+"atenozem": [
+"atenolol"
+],
+"atens": [
+"enalapril"
+],
+"atens h": [
+"enalapril",
+"hidroclorotiazida"
+],
+"atepress": [
+"atenolol"
+],
+"atinac": [
+"loratadina"
+],
+"atiovil": [
+"ibuprofeno"
+],
+"atlansil": [
+"amiodarona"
+],
+"atmos": [
+"anlodipino",
+"enalapril"
+],
+"atrofarma": [
+"atropina"
+],
+"atrofem": [
+"ibuprofeno"
+],
+"atrop": [
+"atropina"
+],
+"atropinon": [
+"atropina"
+],
+"atropion": [
+"atropina"
+],
+"atropocil": [
+"atropina"
+],
+"atrovent": [
+"ipratropio"
+],
+"atroveran dip": [
+"dipirona"
+],
+"aurecilina": [
+"tetraciclina"
+],
+"auridonal": [
+"cloranfenicol"
+],
+"aviral": [
+"aciclovir"
+],
+"axemy": [
+"amoxicilina",
+"clavulanato"
+],
+"axemy susp": [
+"amoxicilina",
+"clavulanato"
+],
+"axepen": [
+"amoxicilina"
+],
+"azalide": [
+"azitromicina"
+],
+"azatil": [
+"azitromicina"
+],
+"azenpi": [
+"clonazepam"
+],
+"azi iv": [
+"azitromicina"
+],
+"azicin": [
+"azitromicina"
+],
+"azidromic": [
+"azitromicina"
+],
+"azigel": [
+"hidroxido de aluminio"
+],
+"azimed": [
+"azitromicina"
+],
+"azimix": [
+"azitromicina"
+],
+"azinostil": [
+"azitromicina"
+],
+"aziprata": [
+"sulfadiazina de prata"
+],
+"aziram": [
+"hidroxido de aluminio"
+],
+"azitrax": [
+"azitromicina"
+],
+"azitrogen": [
+"azitromicina"
+],
+"azitrogran": [
+"azitromicina"
+],
+"azitrolab": [
+"azitromicina"
+],
+"azitrom": [
+"azitromicina"
+],
+"azitromed": [
+"azitromicina"
+],
+"azitromicil": [
+"azitromicina"
+],
+"azitromin": [
+"azitromicina"
+],
+"azitron": [
+"azitromicina"
+],
+"azitrophar": [
+"azitromicina"
+],
+"azitrosol": [
+"azitromicina"
+],
+"azix": [
+"azitromicina"
+],
+"azomicin": [
+"azitromicina"
+],
+"azukon": [
+"gliclazida"
+],
+"babypiril": [
+"ibuprofeno"
+],
+"babyvit": [
+"colecalciferol",
+"retinol"
+],
+"bac-sulfitrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bacaterin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bacfar": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bacgen": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bacimycin": [
+"clindamicina"
+],
+"bacmetrim": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bacprotin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bacris": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bacsulfaprim": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bacteracin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bacteran": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bactoflox": [
+"ciprofloxacino"
+],
+"bactrim": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bactrisan": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bactropin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"bacvax": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"baczin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"balancore": [
+"carvedilol"
+],
+"baralgin m": [
+"dipirona"
+],
+"barbitron": [
+"fenobarbital"
+],
+"baritekal hiperbarica": [
+"prilocaina"
+],
+"basena enema de glicerina a 12%": [
+"glicerol"
+],
+"baxter glicose": [
+"glicose"
+],
+"beca": [
+"metoprolol"
+],
+"becarve": [
+"carvedilol"
+],
+"beclonasal": [
+"beclometasona"
+],
+"beclonato": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"beclort": [
+"beclometasona"
+],
+"beclosol": [
+"beclometasona"
+],
+"beclotamol": [
+"beclometasona",
+"salbutamol"
+],
+"becortem": [
+"prednisona"
+],
+"bedfordpoly - b": [
+"polimixina b"
+],
+"bedimza": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"bedozil": [
+"cianocobalamina"
+],
+"befolik": [
+"acido folico"
+],
+"beldigox": [
+"digoxina"
+],
+"belfactrim": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"belspan dip": [
+"dipirona"
+],
+"beltazin": [
+"albendazol"
+],
+"benapen": [
+"benzilpenicilina",
+"benzilpenicilina procaina"
+],
+"benazol": [
+"albendazol"
+],
+"benclamin": [
+"glibenclamida"
+],
+"benectrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"benegrip multi febre e dor": [
+"paracetamol"
+],
+"benerva": [
+"tiamina"
+],
+"beneum": [
+"tiamina"
+],
+"benevat": [
+"betametasona"
+],
+"benzac ac": [
+"peroxido de benzoila"
+],
+"benzac eritromicina": [
+"estolato de eritromicina",
+"peroxido de benzoila"
+],
+"benzapen g": [
+"benzilpenicilina procaina"
+],
+"benzatil": [
+"benzilpenicilina benzatina"
+],
+"benzatron": [
+"benzilpenicilina benzatina"
+],
+"benzecilin": [
+"benzilpenicilina"
+],
+"benzenil": [
+"succinato sodico de hidrocortisona"
+],
+"benzetacil": [
+"benzilpenicilina benzatina"
+],
+"benzol": [
+"albendazol"
+],
+"bergox": [
+"cabergolina"
+],
+"berlison": [
+"hidrocortisona"
+],
+"besflox": [
+"ciprofloxacino"
+],
+"besilapin": [
+"anlodipino"
+],
+"beta-long": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"betabedoze ferroso": [
+"cianocobalamina",
+"piridoxina",
+"sulfato ferroso",
+"tiamina"
+],
+"betacard": [
+"atenolol"
+],
+"betacef": [
+"cefalexina"
+],
+"betaclav bd": [
+"amoxicilina",
+"clavulanato"
+],
+"betacortazol": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"betacortine": [
+"betametasona"
+],
+"betacris": [
+"metoprolol"
+],
+"betalol": [
+"atenolol"
+],
+"betalor": [
+"anlodipino",
+"atenolol"
+],
+"betameson moduran": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"betametagen n": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"betanazol": [
+"betametasona",
+"cetoconazol"
+],
+"betapro": [
+"betametasona",
+"cetoconazol"
+],
+"betaprospan": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"betason": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"betatrinta": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"betazol cort": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"beteglid": [
+"gliclazida"
+],
+"betnolon": [
+"betametasona"
+],
+"betnovate": [
+"betametasona"
+],
+"betnovate n": [
+"betametasona",
+"neomicina"
+],
+"betogenta": [
+"betametasona",
+"gentamicina"
+],
+"betrat": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"betrat b": [
+"betametasona"
+],
+"betricort": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"betrix": [
+"betametasona",
+"cetoconazol"
+],
+"beum": [
+"tiamina"
+],
+"beviter": [
+"tiamina"
+],
+"bexeton": [
+"dexametasona"
+],
+"bialu": [
+"ciprofloxacino"
+],
+"bialudex": [
+"ciprofloxacino",
+"dexametasona"
+],
+"biamotil": [
+"ciprofloxacino"
+],
+"biamotil d": [
+"ciprofloxacino",
+"dexametasona"
+],
+"biamox": [
+"amoxicilina"
+],
+"biancort": [
+"ciprofloxacino",
+"dexametasona"
+],
+"bibag": [
+"bicarbonato de sodio"
+],
+"bicarbon": [
+"bicarbonato de sodio"
+],
+"bicarbonato de sodio - farmace": [
+"bicarbonato de sodio"
+],
+"bicarbonato de sodio 8,4 %": [
+"bicarbonato de sodio"
+],
+"bicarbonato de sodio hypofarma": [
+"bicarbonato de sodio"
+],
+"bienn direct": [
+"ondansetrona"
+],
+"bigmar calcio folinato": [
+"folinato"
+],
+"bilyt": [
+"carbonato de litio"
+],
+"bimoxin": [
+"amoxicilina"
+],
+"binoctrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"biocal": [
+"carbonato de calcio"
+],
+"biocal d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"biocal m": [
+"carbonato de calcio"
+],
+"biocilin": [
+"benzilpenicilina"
+],
+"biodrox": [
+"hidroxido de aluminio"
+],
+"biofer": [
+"sulfato ferroso"
+],
+"biohulin 70/30": [
+"insulina humana"
+],
+"biohulin 80/20": [
+"insulina humana"
+],
+"biohulin 90/10": [
+"insulina humana"
+],
+"biohulin l": [
+"insulina humana"
+],
+"biohulin u": [
+"insulina humana"
+],
+"bioprazol": [
+"omeprazol"
+],
+"biostress": [
+"tiamina"
+],
+"biotenor": [
+"atenolol"
+],
+"biotrazol": [
+"itraconazol"
+],
+"biotrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"biozac-20": [
+"fluoxetina"
+],
+"biozitrom": [
+"azitromicina"
+],
+"bipeden": [
+"biperideno",
+"lactato de biperideno"
+],
+"bipolit": [
+"carbonato de litio"
+],
+"biproslam": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"bitlidopass": [
+"epinefrina",
+"lidocaina"
+],
+"blootec": [
+"enalapril"
+],
+"bonagran": [
+"alendronato"
+],
+"bonecal d": [
+"calcio tribasico",
+"colecalciferol"
+],
+"boneprev": [
+"alendronato"
+],
+"branta": [
+"anlodipino",
+"losartana"
+],
+"brataq": [
+"propafenona"
+],
+"bravitan": [
+"acido folico"
+],
+"bromil gripe": [
+"paracetamol"
+],
+"bromovent": [
+"ipratropio"
+],
+"broncomix": [
+"salbutamol"
+],
+"bronconal": [
+"salbutamol"
+],
+"broncovent": [
+"ipratropio"
+],
+"bronquil": [
+"salbutamol"
+],
+"bronquitamol": [
+"salbutamol"
+],
+"bucaciclina": [
+"tetraciclina"
+],
+"bucatrim": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"budecort aqua": [
+"budesonida"
+],
+"budiair": [
+"budesonida"
+],
+"bufferin": [
+"acido acetilsalicilico"
+],
+"bufferin cardio": [
+"acido acetilsalicilico"
+],
+"bulansi": [
+"claritromicina"
+],
+"bupican": [
+"bupivacaina"
+],
+"bupiva abbott pesada": [
+"bupivacaina",
+"glicose"
+],
+"buprolivium": [
+"ibuprofeno"
+],
+"buprovil": [
+"ibuprofeno"
+],
+"bupstesic": [
+"bupivacaina"
+],
+"bupstesic com vaso": [
+"bupivacaina",
+"epinefrina"
+],
+"buscofem": [
+"ibuprofeno"
+],
+"buscofem girls": [
+"ibuprofeno"
+],
+"busonid": [
+"budesonida"
+],
+"butalab": [
+"salbutamol"
+],
+"butovent pulvinal": [
+"salbutamol"
+],
+"caas": [
+"acido acetilsalicilico"
+],
+"caberedux": [
+"cabergolina"
+],
+"cabertrix": [
+"cabergolina"
+],
+"cabioten": [
+"captopril"
+],
+"cadvas": [
+"doxazosina"
+],
+"cadyr": [
+"propafenona"
+],
+"calchek": [
+"anlodipino"
+],
+"calcimec d3": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"calcimin": [
+"carbonato de calcio"
+],
+"calciofar plus": [
+"carbonato de calcio"
+],
+"calciolit": [
+"carbonato de calcio"
+],
+"calciomax": [
+"carbonato de calcio"
+],
+"calciovital b12": [
+"calcio tribasico",
+"cianocobalamina",
+"colecalciferol"
+],
+"calde": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"caldrox d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"calm. dor": [
+"dipirona"
+],
+"calmociteno": [
+"diazepam"
+],
+"calpol": [
+"paracetamol"
+],
+"calsan": [
+"carbonato de calcio"
+],
+"caltrate 600 + d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"canderm": [
+"benzoilmetronidazol",
+"metronidazol"
+],
+"candicort": [
+"betametasona",
+"cetoconazol"
+],
+"candiderm": [
+"cetoconazol"
+],
+"candiflox": [
+"nistatina"
+],
+"candigran": [
+"betametasona",
+"cetoconazol"
+],
+"canditrat": [
+"nistatina"
+],
+"candizol": [
+"fluconazol"
+],
+"candnazol": [
+"betametasona",
+"cetoconazol"
+],
+"candoral": [
+"cetoconazol"
+],
+"capobal": [
+"captopril"
+],
+"capotec hct": [
+"captopril",
+"hidroclorotiazida"
+],
+"capoten": [
+"captopril"
+],
+"capotrat": [
+"captopril"
+],
+"capotrineo": [
+"captopril"
+],
+"capox": [
+"captopril"
+],
+"capox h": [
+"captopril",
+"hidroclorotiazida"
+],
+"capril": [
+"captopril"
+],
+"capsfen": [
+"ibuprofeno"
+],
+"captil": [
+"captopril"
+],
+"capto-bras": [
+"captopril"
+],
+"captocord": [
+"captopril"
+],
+"captolab": [
+"captopril"
+],
+"captolin": [
+"captopril"
+],
+"captomax": [
+"captopril"
+],
+"captomed": [
+"captopril"
+],
+"captomido": [
+"captopril"
+],
+"capton": [
+"captopril"
+],
+"captophex": [
+"captopril"
+],
+"captopron": [
+"captopril"
+],
+"captosen": [
+"captopril"
+],
+"captotec": [
+"captopril"
+],
+"captozen": [
+"captopril"
+],
+"capyla-hair": [
+"finasterida"
+],
+"carbax": [
+"carbamazepina"
+],
+"carbazol": [
+"carbamazepina"
+],
+"carbidol": [
+"carbidopa",
+"levodopa"
+],
+"carbolim": [
+"carbonato de litio"
+],
+"carbolitium": [
+"carbonato de litio"
+],
+"carbonato de calcio + colecalciferol (vitamina d3)": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"cardbet": [
+"carvedilol"
+],
+"cardbloc": [
+"propranolol"
+],
+"cardcor": [
+"digoxina"
+],
+"cardgox": [
+"digoxina"
+],
+"cardicoron": [
+"amiodarona"
+],
+"cardilol": [
+"carvedilol"
+],
+"cardilom": [
+"captopril"
+],
+"cardio aas enterico": [
+"acido acetilsalicilico"
+],
+"cardioaas": [
+"acido acetilsalicilico"
+],
+"cardioaspirina": [
+"acido acetilsalicilico"
+],
+"cardiodopa": [
+"metildopa"
+],
+"cardiomet": [
+"metildopa"
+],
+"cardionato": [
+"enalapril"
+],
+"cardionato - h": [
+"enalapril",
+"hidroclorotiazida"
+],
+"cardionil": [
+"digoxina"
+],
+"cardiopranol": [
+"propranolol"
+],
+"cardioron": [
+"amiodarona"
+],
+"cardioxina": [
+"digoxina"
+],
+"carditril": [
+"captopril"
+],
+"cardix": [
+"propranolol"
+],
+"cardixin": [
+"digoxina"
+],
+"cardprex": [
+"captopril"
+],
+"carduran": [
+"doxazosina"
+],
+"careclean": [
+"peroxido de benzoila"
+],
+"carefluzol": [
+"fluconazol"
+],
+"carlit": [
+"carbonato de litio"
+],
+"carmazin": [
+"carbamazepina"
+],
+"carodesin": [
+"digoxina"
+],
+"carteson": [
+"carvedilol"
+],
+"carvecor": [
+"carvedilol"
+],
+"carvedilat": [
+"carvedilol"
+],
+"carvegran": [
+"carvedilol"
+],
+"carverol": [
+"carvao vegetal ativado"
+],
+"catoprol": [
+"captopril"
+],
+"cbequim": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"cebetym": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"cedil": [
+"dipirona"
+],
+"cefaben": [
+"cefalexina"
+],
+"cefabrina": [
+"paracetamol"
+],
+"cefacimed": [
+"cefalexina"
+],
+"cefagel": [
+"cefalexina"
+],
+"cefagon": [
+"cefalexina"
+],
+"cefagran": [
+"cefalexina"
+],
+"cefaklin": [
+"cefalexina"
+],
+"cefalexil": [
+"cefalexina"
+],
+"cefalexol": [
+"cefalexina"
+],
+"cefalium one": [
+"paracetamol"
+],
+"cefalox": [
+"cefalexina"
+],
+"cefanal": [
+"cefalexina"
+],
+"cefanid": [
+"cefalexina"
+],
+"cefaxon": [
+"cefalexina"
+],
+"cefexina": [
+"cefalexina"
+],
+"cefitamax": [
+"ceftriaxona"
+],
+"ceflexin": [
+"cefalexina"
+],
+"ceforan": [
+"cefotaxima"
+],
+"cefotamax": [
+"cefotaxima"
+],
+"cefoxan": [
+"cefotaxima"
+],
+"cefoxit": [
+"cefalexina"
+],
+"celaflex": [
+"cefalexina"
+],
+"celedex": [
+"betametasona",
+"dexclorfeniramina"
+],
+"celerg": [
+"betametasona",
+"dexclorfeniramina"
+],
+"celergin": [
+"betametasona",
+"dexclorfeniramina"
+],
+"celestamine": [
+"betametasona",
+"dexclorfeniramina"
+],
+"celestan": [
+"fosfato dissodico de betametasona"
+],
+"celestone soluspan": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"celestrat": [
+"betametasona",
+"dexclorfeniramina"
+],
+"celetil": [
+"betametasona",
+"dexclorfeniramina"
+],
+"celinax": [
+"cefalexina"
+],
+"cellexina": [
+"cefalexina"
+],
+"celocort": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"celozix": [
+"cetoconazol"
+],
+"celozol": [
+"fluconazol"
+],
+"ceporexin": [
+"cefalexina"
+],
+"cetaconal": [
+"cetoconazol"
+],
+"cetadex": [
+"dexametasona"
+],
+"cetafrin": [
+"paracetamol"
+],
+"cetamol": [
+"paracetamol"
+],
+"cetazima": [
+"cefotaxima"
+],
+"cetobeta": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"cetocol": [
+"cetoconazol"
+],
+"cetoconal": [
+"cetoconazol"
+],
+"cetoconalab": [
+"cetoconazol"
+],
+"cetocort": [
+"betametasona",
+"cetoconazol"
+],
+"cetocort-n": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"cetoderm": [
+"cetoconazol"
+],
+"cetofung": [
+"cetoconazol"
+],
+"cetohexal": [
+"cetoconazol"
+],
+"cetomed": [
+"cetoconazol"
+],
+"cetomicoss": [
+"cetoconazol"
+],
+"cetonat": [
+"cetoconazol"
+],
+"cetonax": [
+"cetoconazol"
+],
+"cetonazol": [
+"cetoconazol"
+],
+"cetoneo": [
+"cetoconazol"
+],
+"cetonin": [
+"cetoconazol"
+],
+"cetop": [
+"cetoconazol"
+],
+"cetoprox": [
+"cetoconazol"
+],
+"cetozan": [
+"cetoconazol"
+],
+"cetozol": [
+"cetoconazol"
+],
+"cianobevit": [
+"cianocobalamina"
+],
+"cianon - b12": [
+"cianocobalamina"
+],
+"cianon b12": [
+"cianocobalamina"
+],
+"cibramicina": [
+"benzilpenicilina",
+"benzilpenicilina procaina"
+],
+"cibramox": [
+"amoxicilina"
+],
+"ciclamox bd": [
+"amoxicilina"
+],
+"ciclatry": [
+"ciprofloxacino"
+],
+"ciclavix": [
+"aciclovir"
+],
+"ciclo 21": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"ciclocris": [
+"aciclovir"
+],
+"ciclofemme": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"cicloprimogyna": [
+"estradiol",
+"levonorgestrel"
+],
+"ciclorten": [
+"prednisona"
+],
+"cicloviral": [
+"aciclovir"
+],
+"ciclovular": [
+"algestona acetofenida",
+"enantato de estradiol"
+],
+"ciconazol": [
+"miconazol"
+],
+"ciflox": [
+"ciprofloxacino"
+],
+"cifloxatil": [
+"ciprofloxacino"
+],
+"cifloxin": [
+"ciprofloxacino"
+],
+"cifloxina": [
+"ciprofloxacino"
+],
+"cifloxtron": [
+"ciprofloxacino"
+],
+"cilodex": [
+"ciprofloxacino",
+"dexametasona"
+],
+"ciloxan": [
+"ciprofloxacino"
+],
+"ciloxan otologico": [
+"ciprofloxacino"
+],
+"cilvib": [
+"ciprofloxacino"
+],
+"cimaas": [
+"acido acetilsalicilico"
+],
+"cimadilic": [
+"gliclazida"
+],
+"cimecard": [
+"digoxina"
+],
+"cimecort": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"cimefer": [
+"sulfato ferroso"
+],
+"cimegripe 77c": [
+"paracetamol"
+],
+"cimegripe dor e febre": [
+"paracetamol"
+],
+"cinaderm": [
+"neomicina"
+],
+"cinatrex": [
+"tetraciclina"
+],
+"cincordil": [
+"mononitrato de isossorbida"
+],
+"cinogen": [
+"ciprofloxacino"
+],
+"cionyn": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"ciprix": [
+"ciprofloxacino"
+],
+"ciprixin dexa": [
+"ciprofloxacino",
+"dexametasona"
+],
+"cipro hc": [
+"ciprofloxacino",
+"hidrocortisona"
+],
+"ciproant": [
+"ciprofloxacino"
+],
+"ciprobacter": [
+"ciprofloxacino"
+],
+"ciprobiot": [
+"ciprofloxacino"
+],
+"ciprocin": [
+"ciprofloxacino"
+],
+"ciprocina": [
+"ciprofloxacino"
+],
+"ciprodine": [
+"ciprofloxacino"
+],
+"ciprofar": [
+"ciprofloxacino"
+],
+"ciproflan": [
+"ciprofloxacino"
+],
+"ciprofloxacina": [
+"ciprofloxacino"
+],
+"ciprofloxacina enila": [
+"ciprofloxacino"
+],
+"ciprofloxan": [
+"ciprofloxacino"
+],
+"ciprofloxatrin": [
+"ciprofloxacino"
+],
+"ciprofloxil": [
+"ciprofloxacino"
+],
+"ciproglen": [
+"ciprofloxacino"
+],
+"ciprogynus": [
+"estradiol"
+],
+"cipronal": [
+"ciprofloxacino"
+],
+"cipronid": [
+"ciprofloxacino"
+],
+"cipronom": [
+"ciprofloxacino"
+],
+"ciproxan": [
+"ciprofloxacino"
+],
+"ciproxil / ciproxil iv": [
+"ciprofloxacino"
+],
+"ciproxlin": [
+"ciprofloxacino"
+],
+"ciprozer": [
+"ciprofloxacino"
+],
+"cirok": [
+"ciprofloxacino"
+],
+"cirucaina 0,5 %": [
+"bupivacaina",
+"epinefrina"
+],
+"citanest 3% com octapressin": [
+"felipressina",
+"prilocaina"
+],
+"citobe": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"citocaina": [
+"felipressina",
+"prilocaina"
+],
+"citoneurin 5000 tabs": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"citriconex": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"clabat": [
+"claritromicina"
+],
+"clacilin": [
+"amoxicilina"
+],
+"claforan": [
+"cefotaxima",
+"lidocaina"
+],
+"clafordil": [
+"cefotaxima"
+],
+"clamiben": [
+"glibenclamida"
+],
+"clamicin": [
+"claritromicina"
+],
+"clarilerg": [
+"loratadina"
+],
+"clarilib": [
+"claritromicina"
+],
+"clarineo": [
+"claritromicina"
+],
+"claritab": [
+"claritromicina"
+],
+"claritromax": [
+"claritromicina"
+],
+"claritromicin": [
+"claritromicina"
+],
+"clasil": [
+"metoclopramida"
+],
+"clatem": [
+"claritromicina"
+],
+"clatorin": [
+"claritromicina"
+],
+"clav-air": [
+"amoxicilina",
+"clavulanato"
+],
+"clavaxacilin": [
+"amoxicilina",
+"clavulanato"
+],
+"claverta susp": [
+"amoxicilina",
+"clavulanato"
+],
+"clavicin": [
+"amoxicilina",
+"clavulanato"
+],
+"clavulanax": [
+"amoxicilina"
+],
+"clavupen": [
+"amoxicilina",
+"clavulanato"
+],
+"clavuron": [
+"amoxicilina"
+],
+"clavutam": [
+"amoxicilina",
+"clavulanato"
+],
+"clavutrex": [
+"amoxicilina",
+"clavulanato"
+],
+"claxam": [
+"amoxicilina",
+"clavulanato"
+],
+"claxilina": [
+"amoxicilina",
+"clavulanato"
+],
+"clazi xr": [
+"gliclazida"
+],
+"clean hair": [
+"permetrina"
+],
+"cleanfolic": [
+"acido folico"
+],
+"cleartop": [
+"cetoconazol"
+],
+"clenil": [
+"beclometasona"
+],
+"clenil compositum a": [
+"beclometasona",
+"salbutamol"
+],
+"clenil compositum hfa": [
+"beclometasona",
+"salbutamol"
+],
+"clenil hfa": [
+"beclometasona"
+],
+"cleocin": [
+"clindamicina"
+],
+"cleveron": [
+"alendronato"
+],
+"clic": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"climaderm 7 dias": [
+"estradiol"
+],
+"clinagel": [
+"clindamicina"
+],
+"clinax": [
+"clindamicina"
+],
+"clinbacter": [
+"claritromicina"
+],
+"clinda bbott": [
+"clindamicina"
+],
+"clindabiotic": [
+"clindamicina"
+],
+"clindacin": [
+"clindamicina"
+],
+"clindacne": [
+"clindamicina"
+],
+"clindal az": [
+"azitromicina"
+],
+"clindam": [
+"clindamicina"
+],
+"clindamicil": [
+"clindamicina"
+],
+"clindamin - c": [
+"clindamicina"
+],
+"clindamin - d": [
+"clindamicina"
+],
+"clindamin-c": [
+"clindamicina"
+],
+"clindarix": [
+"clindamicina"
+],
+"clindoxyl": [
+"clindamicina",
+"peroxido de benzoila"
+],
+"clinfar": [
+"sinvastatina"
+],
+"clinfol": [
+"clindamicina"
+],
+"clistin": [
+"loratadina"
+],
+"clofan": [
+"cloreto de potassio"
+],
+"clomipran": [
+"clomipramina"
+],
+"clonasun": [
+"clonazepam"
+],
+"clonetril": [
+"clonazepam"
+],
+"clonotril": [
+"clonazepam"
+],
+"clopam": [
+"clonazepam"
+],
+"cloprasil": [
+"metoclopramida"
+],
+"clopsina": [
+"clorpromazina"
+],
+"clorafenil": [
+"cloranfenicol"
+],
+"cloramed": [
+"cloranfenicol"
+],
+"clorana": [
+"hidroclorotiazida"
+],
+"cloranfen": [
+"cloranfenicol"
+],
+"cloranfenicol palmitato": [
+"cloranfenicol"
+],
+"cloranset": [
+"cloranfenicol"
+],
+"cloratadd": [
+"loratadina"
+],
+"cloratadd caps": [
+"loratadina"
+],
+"cloreto de potassio + glicose + cloreto de sodio": [
+"cloreto de potassio",
+"cloreto de sodio",
+"glicose"
+],
+"cloreto de potassio 10%": [
+"cloreto de potassio"
+],
+"cloreto de potassio 19,1%": [
+"cloreto de potassio"
+],
+"cloreto de potassio halex istar": [
+"cloreto de potassio"
+],
+"cloreto de sodio + glicose": [
+"cloreto de sodio",
+"glicose"
+],
+"cloreto de sodio - baxter": [
+"cloreto de sodio"
+],
+"cloreto de sodio 0,9 %": [
+"cloreto de sodio"
+],
+"cloreto de sodio 0,9 % indufal": [
+"cloreto de sodio"
+],
+"cloreto de sodio 0,9%": [
+"cloreto de sodio"
+],
+"cloreto de sodio 0,9% + glicose 5%": [
+"cloreto de sodio",
+"glicose"
+],
+"cloreto de sodio 0,9% basa": [
+"cloreto de sodio"
+],
+"cloreto de sodio 20%": [
+"cloreto de sodio"
+],
+"cloreto de sodio aster": [
+"cloreto de sodio"
+],
+"cloreto de sodio beker": [
+"cloreto de sodio"
+],
+"cloreto de sodio hypofarma": [
+"cloreto de sodio"
+],
+"cloreto de sodio jp fisiologico": [
+"cloreto de sodio"
+],
+"cloreto de sodio solucao fisiologica para irrigacao - baxter": [
+"cloreto de sodio"
+],
+"cloriazida": [
+"hidroclorotiazida"
+],
+"cloridrato de lidocaina + bitartarado de epinefrina": [
+"epinefrina",
+"lidocaina"
+],
+"cloridrato de propanolol": [
+"propranolol"
+],
+"cloridrato de verapamila": [
+"verapamil"
+],
+"cloridrato diidratado de ondansetrona - ondan": [
+"ondansetrona"
+],
+"clorifen": [
+"claritromicina"
+],
+"clorpromaz": [
+"clorpromazina"
+],
+"clorprox": [
+"clorpromazina"
+],
+"closenid": [
+"furosemida"
+],
+"clotassio": [
+"cloreto de potassio"
+],
+"clotrizol": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"clovantax": [
+"aciclovir"
+],
+"clovir": [
+"aciclovir"
+],
+"clovitom": [
+"aciclovir"
+],
+"co- enalil": [
+"enalapril",
+"hidroclorotiazida"
+],
+"co-enaprotec": [
+"enalapril",
+"hidroclorotiazida"
+],
+"co-labopril": [
+"captopril",
+"hidroclorotiazida"
+],
+"co-pressel": [
+"enalapril",
+"hidroclorotiazida"
+],
+"co-pressoless": [
+"enalapril",
+"hidroclorotiazida"
+],
+"co-pressotec": [
+"enalapril",
+"hidroclorotiazida"
+],
+"co-renitec": [
+"enalapril",
+"hidroclorotiazida"
+],
+"coenaplex": [
+"enalapril",
+"hidroclorotiazida"
+],
+"colonac": [
+"lactulose"
+],
+"colpadak": [
+"miconazol"
+],
+"colplen": [
+"metronidazol"
+],
+"comb iso": [
+"ferripolimaltose"
+],
+"combitrex": [
+"tetraciclina"
+],
+"combivent": [
+"ipratropio",
+"salbutamol"
+],
+"compaz": [
+"diazepam"
+],
+"compaz retard": [
+"diazepam"
+],
+"compress": [
+"captopril"
+],
+"comprimidos efervescentes de cloreto de potassio": [
+"cloreto de potassio"
+],
+"conacort": [
+"betametasona",
+"cetoconazol"
+],
+"conazol": [
+"cetoconazol"
+],
+"concepnor": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"conidrin 3%": [
+"cloreto de sodio"
+],
+"conidrin salina": [
+"cloreto de sodio"
+],
+"coniso": [
+"fosfato sodico de prednisolona"
+],
+"conmel": [
+"dipirona"
+],
+"contiabe": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"contracep": [
+"medroxiprogesterona"
+],
+"contrador": [
+"dipirona"
+],
+"contrathion": [
+"metilsulfato de pralidoxima"
+],
+"convixen": [
+"carbamazepina"
+],
+"convulsan": [
+"carbamazepina"
+],
+"convultin": [
+"fenitoina"
+],
+"copena": [
+"piridoxina"
+],
+"cor mio": [
+"amiodarona"
+],
+"corament": [
+"budesonida"
+],
+"corapril": [
+"captopril"
+],
+"corassetil": [
+"acido acetilsalicilico"
+],
+"cordarex": [
+"anlodipino"
+],
+"cordilat": [
+"verapamil"
+],
+"cordiox": [
+"acido acetilsalicilico"
+],
+"cordiron": [
+"sinvastatina"
+],
+"corediol": [
+"carvedilol"
+],
+"coreg": [
+"carvedilol"
+],
+"corintol": [
+"fenitoina"
+],
+"coristina soro esteril": [
+"cloreto de sodio"
+],
+"coristina soro nasal": [
+"cloreto de sodio"
+],
+"coristina termus": [
+"paracetamol"
+],
+"coronaril": [
+"verapamil"
+],
+"cortasm": [
+"budesonida"
+],
+"corticorten": [
+"prednisona"
+],
+"cortifar": [
+"betametasona"
+],
+"cortifungin": [
+"betametasona",
+"cetoconazol"
+],
+"cortigen": [
+"hidrocortisona"
+],
+"cortisonal": [
+"hidrocortisona",
+"succinato sodico de hidrocortisona"
+],
+"cortitop": [
+"dexametasona"
+],
+"cortivet": [
+"budesonida"
+],
+"cortizol": [
+"hidrocortisona",
+"succinato sodico de hidrocortisona"
+],
+"cortizon": [
+"succinato sodico de hidrocortisona"
+],
+"corus": [
+"losartana"
+],
+"costatin": [
+"nistatina"
+],
+"cotass": [
+"cloreto de potassio"
+],
+"cozaar": [
+"losartana"
+],
+"cozaless": [
+"losartana"
+],
+"cozib": [
+"claritromicina"
+],
+"cphd 35 ba": [
+"bicarbonato de sodio"
+],
+"cphd bicarbonato de sodio 6,6%": [
+"bicarbonato de sodio",
+"cloreto de sodio"
+],
+"cphd bicarbonato de sodio 8,4 %": [
+"bicarbonato de sodio"
+],
+"cphd farmarin": [
+"bicarbonato de sodio"
+],
+"cphd genius ds": [
+"bicarbonato de sodio",
+"cloreto de sodio",
+"glicose"
+],
+"cremefenergan": [
+"prometazina"
+],
+"crispred": [
+"prednisona"
+],
+"cristacilina": [
+"benzilpenicilina"
+],
+"cristalpen": [
+"benzilpenicilina"
+],
+"cronobe complex": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"cronobe complex im": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"cronocor": [
+"carvedilol"
+],
+"cronomet": [
+"carbidopa",
+"levodopa"
+],
+"cronovera": [
+"verapamil"
+],
+"cyclofemina": [
+"cipionato de estradiol",
+"medroxiprogesterona"
+],
+"cycrin": [
+"medroxiprogesterona"
+],
+"cyfenol": [
+"paracetamol"
+],
+"cyfenol baby": [
+"paracetamol"
+],
+"cygnus d": [
+"colecalciferol"
+],
+"cylocort": [
+"ciprofloxacino",
+"dexametasona"
+],
+"cypcino": [
+"ciprofloxacino"
+],
+"cytotec": [
+"misoprostol"
+],
+"cytrana": [
+"losartana"
+],
+"d.nova d3": [
+"colecalciferol"
+],
+"d3caps": [
+"colecalciferol"
+],
+"daforin": [
+"fluoxetina"
+],
+"dagli": [
+"gliclazida"
+],
+"daiva": [
+"algestona acetofenida",
+"enantato de estradiol"
+],
+"dakgran": [
+"miconazol"
+],
+"daknax": [
+"miconazol"
+],
+"daktarin": [
+"miconazol"
+],
+"daktarin gel oral": [
+"miconazol"
+],
+"daktazol": [
+"miconazol"
+],
+"daktazol creme": [
+"miconazol"
+],
+"dalacin c": [
+"clindamicina"
+],
+"dalacin c e dalacin v": [
+"clindamicina"
+],
+"dalacin t": [
+"clindamicina"
+],
+"dalsy": [
+"ibuprofeno"
+],
+"damater d": [
+"colecalciferol"
+],
+"danliv": [
+"ibuprofeno"
+],
+"dantalin": [
+"fenitoina"
+],
+"daonil": [
+"glibenclamida"
+],
+"dapana": [
+"dapagliflozina"
+],
+"dapazorg": [
+"dapagliflozina"
+],
+"dapflow": [
+"dapagliflozina"
+],
+"dapliza": [
+"dapagliflozina"
+],
+"daplys": [
+"dapagliflozina"
+],
+"dapye": [
+"dapagliflozina"
+],
+"darrowcor": [
+"digoxina"
+],
+"daudip": [
+"dipirona"
+],
+"daumol": [
+"paracetamol"
+],
+"dausmed": [
+"acido acetilsalicilico"
+],
+"dcol": [
+"colecalciferol"
+],
+"decadil": [
+"dexametasona",
+"neomicina"
+],
+"decadronal": [
+"dexametasona"
+],
+"decazol": [
+"dexametasona"
+],
+"decole caps": [
+"colecalciferol"
+],
+"deflux liquido": [
+"dexclorfeniramina"
+],
+"deforce": [
+"colecalciferol"
+],
+"defull": [
+"colecalciferol"
+],
+"degen": [
+"colecalciferol"
+],
+"delumi": [
+"colecalciferol"
+],
+"delux": [
+"colecalciferol"
+],
+"demedrox": [
+"medroxiprogesterona"
+],
+"demi-d": [
+"colecalciferol"
+],
+"denapril": [
+"enalapril"
+],
+"depacon (port 344/98 lista c-1)": [
+"valproato"
+],
+"depakene": [
+"acido valproico",
+"valproato"
+],
+"depakene chrono": [
+"acido valproico",
+"valproato"
+],
+"depo-provera": [
+"medroxiprogesterona"
+],
+"depomes": [
+"cipionato de estradiol",
+"medroxiprogesterona"
+],
+"depress": [
+"fluoxetina"
+],
+"depura": [
+"colecalciferol"
+],
+"dermalina": [
+"miconazol"
+],
+"dermazine": [
+"sulfadiazina de prata"
+],
+"dermicasp": [
+"cetoconazol"
+],
+"dermitrat": [
+"cetoconazol"
+],
+"dermizol": [
+"cetoconazol"
+],
+"dermomax": [
+"lidocaina"
+],
+"dermonil": [
+"betametasona"
+],
+"dermosalic": [
+"acido salicilico",
+"betametasona"
+],
+"dermoseptil": [
+"cetoconazol"
+],
+"dermovat": [
+"betametasona"
+],
+"dermoxin": [
+"fluocinolona acetonida",
+"neomicina"
+],
+"descodrin": [
+"cloreto de sodio"
+],
+"desonid": [
+"budesonida"
+],
+"despacilina": [
+"benzilpenicilina",
+"benzilpenicilina procaina"
+],
+"destosepan": [
+"fluoxetina"
+],
+"detaque": [
+"fluoxetina"
+],
+"dexa - citoneurin": [
+"cianocobalamina",
+"dexametasona",
+"piridoxina",
+"tiamina"
+],
+"dexa- bras": [
+"dexametasona"
+],
+"dexacobal": [
+"cianocobalamina",
+"dexametasona",
+"piridoxina",
+"tiamina"
+],
+"dexacort": [
+"dexametasona",
+"neomicina"
+],
+"dexaden": [
+"dexametasona"
+],
+"dexadermil": [
+"dexametasona"
+],
+"dexafenicol": [
+"cloranfenicol",
+"dexametasona"
+],
+"dexafloten": [
+"ciprofloxacino",
+"dexametasona"
+],
+"dexam": [
+"dexametasona"
+],
+"dexameral": [
+"dexametasona"
+],
+"dexametadron": [
+"dexametasona"
+],
+"dexametax": [
+"dexametasona"
+],
+"dexameton": [
+"dexametasona"
+],
+"dexametonal": [
+"dexametasona"
+],
+"dexametrat": [
+"dexametasona"
+],
+"dexamex": [
+"dexametasona"
+],
+"dexaminor": [
+"dexametasona"
+],
+"dexamytrex": [
+"dexametasona",
+"gentamicina"
+],
+"dexanil n": [
+"dexametasona",
+"neomicina"
+],
+"dexanom": [
+"dexametasona"
+],
+"dexazen": [
+"dexametasona"
+],
+"dexazona creme": [
+"dexametasona",
+"neomicina"
+],
+"dexclor": [
+"dexclorfeniramina"
+],
+"dexclorflex": [
+"dexclorfeniramina"
+],
+"dexfer": [
+"ferripolimaltose"
+],
+"dexfer folico": [
+"acido folico",
+"ferripolimaltose"
+],
+"dexlerg": [
+"dexclorfeniramina"
+],
+"dexmine": [
+"betametasona",
+"dexclorfeniramina"
+],
+"dexpolarim": [
+"dexclorfeniramina"
+],
+"dextaflam": [
+"betametasona",
+"dexclorfeniramina"
+],
+"dextamine": [
+"betametasona",
+"dexclorfeniramina"
+],
+"di-hidroclorotiazida": [
+"hidroclorotiazida"
+],
+"diaben": [
+"glibenclamida"
+],
+"diabexil": [
+"glibenclamida"
+],
+"diacqua": [
+"espironolactona"
+],
+"diad": [
+"levonorgestrel"
+],
+"diaformin": [
+"metformina"
+],
+"dialudon": [
+"diazepam",
+"fenitoina"
+],
+"diamida": [
+"glibenclamida"
+],
+"diamox": [
+"acetazolamida"
+],
+"diarona": [
+"dipirona"
+],
+"diatarcom mr": [
+"gliclazida"
+],
+"diazefast": [
+"diazepam"
+],
+"diazepam (port. 344/98 lista b 1)": [
+"diazepam"
+],
+"diazepam nq": [
+"diazepam"
+],
+"diazol": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"dibederm": [
+"betametasona",
+"gentamicina"
+],
+"dibetan": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"dicazid mr": [
+"gliclazida"
+],
+"dientrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"dienzepax": [
+"diazepam"
+],
+"difebril": [
+"dipirona"
+],
+"diflumid": [
+"furosemida"
+],
+"digiphar": [
+"digoxina"
+],
+"digitax": [
+"digoxina"
+],
+"digix": [
+"digoxina"
+],
+"digixina": [
+"digoxina"
+],
+"diglixx": [
+"metformina"
+],
+"digobal": [
+"digoxina"
+],
+"digocard": [
+"digoxina"
+],
+"digocris": [
+"digoxina"
+],
+"digopress": [
+"digoxina"
+],
+"digox": [
+"digoxina"
+],
+"digoxan": [
+"digoxina"
+],
+"digoxen": [
+"digoxina"
+],
+"digoxil": [
+"digoxina"
+],
+"digoxilab": [
+"digoxina"
+],
+"dilacor": [
+"verapamil"
+],
+"dilacoron": [
+"verapamil"
+],
+"dilaflux retard": [
+"nifedipino"
+],
+"dilamol": [
+"salbutamol"
+],
+"dilena": [
+"estradiol",
+"medroxiprogesterona"
+],
+"diluente - solucao salina fenolada": [
+"cloreto de sodio"
+],
+"dimarac": [
+"salbutamol"
+],
+"dimefor": [
+"metformina"
+],
+"dinador": [
+"dipirona"
+],
+"dinisorb": [
+"dinitrato de isossorbida"
+],
+"dipbe": [
+"dipirona"
+],
+"dipfar": [
+"dipirona"
+],
+"dipgrip": [
+"dipirona"
+],
+"dipidor": [
+"dipirona"
+],
+"dipifarma": [
+"dipirona"
+],
+"dipigina": [
+"dipirona"
+],
+"dipimax": [
+"dipirona"
+],
+"dipirac": [
+"dipirona"
+],
+"dipiral": [
+"dipirona"
+],
+"dipiralgin": [
+"dipirona"
+],
+"dipiran": [
+"dipirona"
+],
+"dipirogen": [
+"dipirona"
+],
+"dipirona funed": [
+"dipirona"
+],
+"dipirona magnesiana": [
+"dipirona"
+],
+"dipirona sodica": [
+"dipirona"
+],
+"dipironati": [
+"dipirona"
+],
+"dipiroplex": [
+"dipirona"
+],
+"dipirosil": [
+"dipirona"
+],
+"dipiroterm": [
+"dipirona"
+],
+"diplapon": [
+"dipirona"
+],
+"dipolic": [
+"acido salicilico",
+"betametasona"
+],
+"diprin": [
+"dipirona"
+],
+"dipro as": [
+"acido salicilico",
+"betametasona"
+],
+"diprobeta": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"diprogenta": [
+"betametasona",
+"gentamicina"
+],
+"dipronil": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"diprosalic": [
+"acido salicilico",
+"betametasona"
+],
+"diprosec": [
+"beclometasona"
+],
+"diprosen": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"diprosone": [
+"betametasona"
+],
+"diprospan": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"diprozil": [
+"betametasona",
+"gentamicina"
+],
+"diretif tm": [
+"furosemida"
+],
+"dironax": [
+"dipirona"
+],
+"disotol": [
+"dinitrato de isossorbida"
+],
+"dispeptrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"distonil gi": [
+"diazepam"
+],
+"ditenol": [
+"atenolol"
+],
+"ditranal": [
+"itraconazol"
+],
+"ditylen": [
+"paracetamol"
+],
+"diureclor": [
+"hidroclorotiazida"
+],
+"diuremida": [
+"furosemida"
+],
+"diuremil": [
+"furosemida"
+],
+"diuret": [
+"furosemida"
+],
+"diuretic": [
+"hidroclorotiazida"
+],
+"diuretil": [
+"hidroclorotiazida"
+],
+"diuretom": [
+"hidroclorotiazida"
+],
+"diurexil": [
+"furosemida"
+],
+"diurezin c": [
+"captopril",
+"hidroclorotiazida"
+],
+"diurezin e": [
+"enalapril",
+"hidroclorotiazida"
+],
+"diurit": [
+"furosemida"
+],
+"diurix": [
+"hidroclorotiazida"
+],
+"divagil": [
+"metronidazol"
+],
+"divelol": [
+"carvedilol"
+],
+"divextrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"dobine tm": [
+"dobutamina"
+],
+"dobtan": [
+"dobutamina"
+],
+"dobu": [
+"dobutamina"
+],
+"dobutabbott": [
+"dobutamina"
+],
+"dobutaflex": [
+"dobutamina"
+],
+"dobutal": [
+"dobutamina"
+],
+"dobutanil": [
+"dobutamina"
+],
+"dobutariston": [
+"dobutamina"
+],
+"dobutil": [
+"dobutamina"
+],
+"dobutrex": [
+"dobutamina"
+],
+"dodoy": [
+"dipirona"
+],
+"dolemil ap": [
+"paracetamol"
+],
+"dolotrat": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"dometil": [
+"metildopa"
+],
+"donosor": [
+"ibuprofeno"
+],
+"dopabane": [
+"dopamina"
+],
+"dopacris": [
+"dopamina"
+],
+"dopamet": [
+"metildopa"
+],
+"dopamol": [
+"dopamina"
+],
+"dopatil": [
+"dopamina"
+],
+"dopimex": [
+"dopamina"
+],
+"doplafex": [
+"dopamina"
+],
+"dopo": [
+"levonorgestrel"
+],
+"dorageo": [
+"dipirona"
+],
+"doralex": [
+"dipirona"
+],
+"doralfebre": [
+"paracetamol"
+],
+"doralfen": [
+"paracetamol"
+],
+"doraliv gel oral": [
+"ibuprofeno"
+],
+"doralstop": [
+"dipirona"
+],
+"doramol": [
+"paracetamol"
+],
+"doraplax": [
+"ibuprofeno"
+],
+"doratyl": [
+"dipirona"
+],
+"dorcaina": [
+"bupivacaina"
+],
+"dorenxaq": [
+"dipirona"
+],
+"doretrim": [
+"ibuprofeno"
+],
+"dorfebril": [
+"dipirona"
+],
+"dorfen": [
+"paracetamol"
+],
+"dorfenol": [
+"paracetamol"
+],
+"dorflex dip": [
+"dipirona"
+],
+"dorflex uno": [
+"dipirona"
+],
+"doricin uno": [
+"dipirona"
+],
+"dorico": [
+"paracetamol"
+],
+"dorigren": [
+"ibuprofeno"
+],
+"dorilan": [
+"dipirona"
+],
+"dorilax df": [
+"paracetamol"
+],
+"dorilen dip": [
+"dipirona"
+],
+"dorine": [
+"dipirona"
+],
+"dormant": [
+"midazolam"
+],
+"dormec": [
+"acido acetilsalicilico"
+],
+"dormire": [
+"midazolam"
+],
+"dormium": [
+"midazolam"
+],
+"dormonid": [
+"midazolam"
+],
+"dornal": [
+"dipirona"
+],
+"dornil": [
+"cianocobalamina",
+"dipirona",
+"piridoxina",
+"tiamina"
+],
+"dorona": [
+"dipirona"
+],
+"dorpidina": [
+"dipirona"
+],
+"dorpinon": [
+"dipirona"
+],
+"dorpirona": [
+"dipirona"
+],
+"dorsanol": [
+"paracetamol"
+],
+"doss": [
+"colecalciferol"
+],
+"dostinex": [
+"cabergolina"
+],
+"dotynol ap": [
+"paracetamol"
+],
+"doxal": [
+"piridoxina",
+"tiamina"
+],
+"doxaneo": [
+"doxazosina"
+],
+"doxaprost": [
+"doxazosina"
+],
+"doxativo": [
+"doxazosina"
+],
+"doxprovir": [
+"doxazosina"
+],
+"doxsol": [
+"doxazosina"
+],
+"doxuran": [
+"doxazosina"
+],
+"dozoito": [
+"metoprolol"
+],
+"dphar": [
+"colecalciferol"
+],
+"dprev": [
+"colecalciferol"
+],
+"dprev caps": [
+"colecalciferol"
+],
+"dprev gotas": [
+"colecalciferol"
+],
+"drenalib": [
+"norepinefrina"
+],
+"drenol": [
+"hidroclorotiazida"
+],
+"droptim": [
+"timolol"
+],
+"dropy-d": [
+"colecalciferol"
+],
+"ds 500": [
+"dipirona"
+],
+"dualgi": [
+"ibuprofeno",
+"paracetamol"
+],
+"ductocilina": [
+"amoxicilina"
+],
+"ductogel": [
+"hidroxido de aluminio"
+],
+"ductomet": [
+"metildopa"
+],
+"duodex": [
+"ciprofloxacino",
+"dexametasona"
+],
+"duodopa cr": [
+"carbidopa",
+"levodopa"
+],
+"duoflam": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"duomo": [
+"doxazosina"
+],
+"duomo hp": [
+"doxazosina",
+"finasterida"
+],
+"duopril": [
+"enalapril",
+"hidroclorotiazida"
+],
+"duosync": [
+"carbidopa",
+"levodopa"
+],
+"duotrat": [
+"betametasona",
+"gentamicina"
+],
+"duphalac": [
+"lactulose"
+],
+"duramox": [
+"amoxicilina",
+"clavulanato"
+],
+"duzimicin": [
+"amoxicilina"
+],
+"duzor": [
+"dipirona"
+],
+"dviterd3": [
+"colecalciferol"
+],
+"dvitta": [
+"colecalciferol"
+],
+"dyarim": [
+"dapagliflozina"
+],
+"dypyrol": [
+"dipirona"
+],
+"dyspne-inhal": [
+"epinefrina"
+],
+"ebrolin": [
+"salbutamol"
+],
+"ecasil-81": [
+"acido acetilsalicilico"
+],
+"edhanol": [
+"fenobarbital"
+],
+"efotiazida": [
+"hidroclorotiazida"
+],
+"efrinalin": [
+"epinefrina"
+],
+"ekson": [
+"benserazida",
+"levodopa"
+],
+"elfi": [
+"albendazol"
+],
+"elim": [
+"azitromicina"
+],
+"elimin": [
+"permetrina"
+],
+"elixir santa clara": [
+"tiamina"
+],
+"elomicina": [
+"neomicina"
+],
+"elotin": [
+"fluocinolona acetonida",
+"lidocaina",
+"neomicina",
+"polimixina b"
+],
+"elprazol": [
+"omeprazol"
+],
+"emergest": [
+"levonorgestrel"
+],
+"emetic": [
+"metoclopramida"
+],
+"eminil tm": [
+"metoclopramida"
+],
+"emistatin": [
+"metronidazol",
+"nistatina"
+],
+"emistop": [
+"ondansetrona"
+],
+"emla": [
+"lidocaina",
+"prilocaina"
+],
+"emprol xr": [
+"metoprolol"
+],
+"emscort": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"emsgrip": [
+"paracetamol"
+],
+"emyclam": [
+"amoxicilina",
+"clavulanato"
+],
+"emyo": [
+"levonorgestrel"
+],
+"enacor": [
+"enalapril"
+],
+"enalabal": [
+"enalapril"
+],
+"enalamed": [
+"enalapril"
+],
+"enalap": [
+"enalapril"
+],
+"enalapress": [
+"enalapril"
+],
+"enalapron": [
+"enalapril"
+],
+"enalatec": [
+"enalapril"
+],
+"enalil": [
+"enalapril"
+],
+"enalprin": [
+"enalapril"
+],
+"enaplex": [
+"enalapril"
+],
+"enatec": [
+"enalapril"
+],
+"enatec f": [
+"enalapril",
+"hidroclorotiazida"
+],
+"enatil": [
+"enalapril"
+],
+"enatom": [
+"enalapril"
+],
+"enavo gotas": [
+"ondansetrona"
+],
+"enavo odt": [
+"ondansetrona"
+],
+"endofolin": [
+"acido folico"
+],
+"endonidazol": [
+"metronidazol"
+],
+"enjovix flash": [
+"ondansetrona"
+],
+"eno tabs frutas sortidas": [
+"carbonato de calcio"
+],
+"enopproz": [
+"omeprazol"
+],
+"entocort": [
+"budesonida"
+],
+"enzilom": [
+"metoclopramida"
+],
+"epactiv b12": [
+"cianocobalamina"
+],
+"epelin": [
+"fenitoina"
+],
+"ephicaina": [
+"bupivacaina",
+"epinefrina"
+],
+"epifrin": [
+"epinefrina"
+],
+"epikabi": [
+"norepinefrina"
+],
+"epilenil": [
+"acido valproico",
+"valproato"
+],
+"epileptil": [
+"clonazepam"
+],
+"epizetol": [
+"carbamazepina"
+],
+"equiplex - metronidazol": [
+"metronidazol"
+],
+"eribec": [
+"estolato de eritromicina"
+],
+"eribiotic": [
+"estolato de eritromicina"
+],
+"eriflogin": [
+"estolato de eritromicina"
+],
+"eriticin": [
+"estolato de eritromicina"
+],
+"ermocilina": [
+"benzilpenicilina benzatina"
+],
+"ermofenicol": [
+"cloranfenicol"
+],
+"ermogina": [
+"dipirona"
+],
+"ermonderm": [
+"betametasona"
+],
+"ermosolona": [
+"prednisona"
+],
+"erowgliz": [
+"gliclazida"
+],
+"erradic": [
+"amoxicilina",
+"claritromicina",
+"omeprazol"
+],
+"escabipolan": [
+"permetrina"
+],
+"espectrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"espectroprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"espirobal": [
+"espironolactona"
+],
+"estalis": [
+"estradiol",
+"noretisterona"
+],
+"estomepe": [
+"omeprazol"
+],
+"estracomb tts": [
+"estradiol",
+"noretisterona"
+],
+"estradelle": [
+"estradiol"
+],
+"estraderm tts": [
+"estradiol"
+],
+"estragest": [
+"estradiol",
+"noretisterona"
+],
+"estramon": [
+"estradiol"
+],
+"estril": [
+"estriol"
+],
+"estring": [
+"estradiol"
+],
+"estrinolon": [
+"estrogenios conjugados"
+],
+"estrionil": [
+"estriol"
+],
+"estriopax": [
+"estriol"
+],
+"estrofem": [
+"estradiol"
+],
+"estrogenil": [
+"estrogenios conjugados"
+],
+"estrogenios conjugados + acetato de medroxiprogesterona": [
+"estrogenios conjugados",
+"medroxiprogesterona"
+],
+"estrogenios conjugados usp": [
+"estrogenios conjugados"
+],
+"estrogex": [
+"estrogenios conjugados"
+],
+"estroliol": [
+"estrogenios conjugados"
+],
+"estron": [
+"estrogenios conjugados"
+],
+"estroplus": [
+"estrogenios conjugados"
+],
+"etildopanan": [
+"metildopa"
+],
+"eucil": [
+"metoclopramida"
+],
+"eufor": [
+"fluoxetina"
+],
+"eupept": [
+"omeprazol"
+],
+"eupressin": [
+"enalapril"
+],
+"eupressin h": [
+"enalapril",
+"hidroclorotiazida"
+],
+"euprostatin": [
+"doxazosina"
+],
+"euthyrox": [
+"levotiroxina"
+],
+"evanor": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"evetrina": [
+"azitromicina"
+],
+"evocina": [
+"folinato"
+],
+"exavir": [
+"aciclovir"
+],
+"excalv": [
+"finasterida"
+],
+"exomax": [
+"fluconazol"
+],
+"expectamin f": [
+"dexclorfeniramina"
+],
+"exubera": [
+"insulina humana"
+],
+"falexina": [
+"cefalexina"
+],
+"fanorm": [
+"propafenona"
+],
+"far maguinhos ibuprofeno": [
+"ibuprofeno"
+],
+"far manguinhos-dexametasona": [
+"dexametasona"
+],
+"far manguinhos-diazepam": [
+"diazepam"
+],
+"far manguinhos-enalapril": [
+"enalapril"
+],
+"far- maguinhos -alopurinol": [
+"alopurinol"
+],
+"far- manguinhos acido folico": [
+"acido folico"
+],
+"far-maguinhos paracetamol": [
+"paracetamol"
+],
+"far-manguinhos - aciclovir": [
+"aciclovir"
+],
+"far-manguinhos - diazepam": [
+"diazepam"
+],
+"far-manguinhos captopril": [
+"captopril"
+],
+"far-manguinhos cetoconazol": [
+"cetoconazol"
+],
+"far-manguinhos glibenclamida": [
+"glibenclamida"
+],
+"far-manguinhos sulfato ferroso": [
+"sulfato ferroso"
+],
+"far-manguinhos vitamina a": [
+"retinol"
+],
+"farlac": [
+"lactulose"
+],
+"farlutal": [
+"medroxiprogesterona"
+],
+"farmacart": [
+"bicarbonato de sodio"
+],
+"farmace-glicose": [
+"glicose"
+],
+"farmace-glicose 5% solucao isotonica": [
+"glicose"
+],
+"farmanguinhos - amoxicilina": [
+"amoxicilina"
+],
+"farmanguinhos - carbamazepina": [
+"carbamazepina"
+],
+"farmanguinhos - dexametasona": [
+"dexametasona"
+],
+"farmanguinhos - fenobarbital": [
+"fenobarbital"
+],
+"farmanguinhos - fluconazol": [
+"fluconazol"
+],
+"farmanguinhos - haloperidol": [
+"haloperidol"
+],
+"farmanguinhos - hidroclorotiazida": [
+"hidroclorotiazida"
+],
+"farmanguinhos - metildopa": [
+"metildopa"
+],
+"farmanguinhos - metronidazol": [
+"metronidazol"
+],
+"farmanguinhos - paracetamol": [
+"paracetamol"
+],
+"farmanguinhos - prednisona": [
+"prednisona"
+],
+"farmanguinhos - propranolol": [
+"propranolol"
+],
+"farmanguinhos - rifampicina": [
+"rifampicina"
+],
+"farmanguinhos - sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"farmanguinhos digoxina": [
+"digoxina"
+],
+"farmanguinhos sulfato ferroso": [
+"sulfato ferroso"
+],
+"farmanguinhos-tetraciclina": [
+"tetraciclina"
+],
+"farmazol": [
+"fluconazol"
+],
+"fasys": [
+"aciclovir"
+],
+"fdc - vit b12": [
+"cianocobalamina"
+],
+"febralgin": [
+"paracetamol"
+],
+"febridor": [
+"acido acetilsalicilico"
+],
+"febrilon": [
+"dipirona"
+],
+"febsen": [
+"ibuprofeno"
+],
+"femme calcio": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"femme folico": [
+"acido folico"
+],
+"femodiol": [
+"estradiol"
+],
+"femurid": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"fenalgin": [
+"paracetamol"
+],
+"fenatil": [
+"clomipramina"
+],
+"fendical": [
+"finasterida"
+],
+"fenelom": [
+"midazolam"
+],
+"fenergan": [
+"prometazina"
+],
+"fenicloran": [
+"cloranfenicol"
+],
+"fenirax": [
+"dexclorfeniramina"
+],
+"fenital": [
+"fenitoina"
+],
+"fenital oral": [
+"fenitoina"
+],
+"feniton": [
+"fenitoina"
+],
+"fenobarbitol": [
+"fenobarbital"
+],
+"fenoprom": [
+"prometazina"
+],
+"fenotil": [
+"ibuprofeno"
+],
+"fenotom": [
+"ibuprofeno"
+],
+"ferro": [
+"ferripolimaltose"
+],
+"ferromax": [
+"sulfato ferroso"
+],
+"ferromil": [
+"sulfato ferroso"
+],
+"ferrotron": [
+"sulfato ferroso"
+],
+"fervex": [
+"paracetamol"
+],
+"filmcel": [
+"hipromelose"
+],
+"finalop": [
+"finasterida"
+],
+"finapecia": [
+"finasterida"
+],
+"finarid": [
+"finasterida"
+],
+"finastec": [
+"finasterida"
+],
+"finastil": [
+"finasterida"
+],
+"finifert": [
+"enantato de noretisterona",
+"estradiol"
+],
+"fisiosoro nasal infantil": [
+"cloreto de sodio"
+],
+"flagyl": [
+"metronidazol"
+],
+"flagyl geleia": [
+"metronidazol"
+],
+"flagyl nistatina": [
+"metronidazol",
+"nistatina"
+],
+"flagyl pediatrico": [
+"benzoilmetronidazol"
+],
+"flamacorten": [
+"prednisona"
+],
+"flamape": [
+"prednisona"
+],
+"flamezol": [
+"metronidazol"
+],
+"flanizol": [
+"metronidazol"
+],
+"flaxin": [
+"finasterida"
+],
+"flazol": [
+"metronidazol"
+],
+"floltec": [
+"fluconazol"
+],
+"flossotec": [
+"enalapril"
+],
+"floxacipro": [
+"ciprofloxacino"
+],
+"floxan": [
+"ciprofloxacino"
+],
+"floxen": [
+"ciprofloxacino"
+],
+"floxocip": [
+"ciprofloxacino"
+],
+"flozura": [
+"fluoxetina"
+],
+"flucanil": [
+"fluconazol"
+],
+"flucazol": [
+"fluconazol"
+],
+"fluccil": [
+"metoclopramida"
+],
+"flucocin": [
+"fluconazol"
+],
+"flucodan": [
+"fluconazol"
+],
+"flucol": [
+"fluconazol"
+],
+"flucolcid": [
+"fluconazol"
+],
+"flucoltrix": [
+"fluconazol"
+],
+"flucolup": [
+"fluconazol"
+],
+"flucomed": [
+"fluconazol"
+],
+"flucomex": [
+"fluconazol"
+],
+"fluconal": [
+"fluconazol"
+],
+"fluconan": [
+"fluconazol"
+],
+"fluconeo": [
+"fluconazol"
+],
+"fluconid": [
+"fluconazol"
+],
+"flucotil": [
+"fluconazol"
+],
+"flucoton": [
+"fluconazol"
+],
+"flucovil": [
+"fluconazol"
+],
+"flucozen": [
+"fluconazol"
+],
+"fluimare": [
+"cloreto de sodio"
+],
+"flumazen": [
+"flumazenil"
+],
+"flumazil": [
+"flumazenil"
+],
+"flumilib": [
+"flumazenil"
+],
+"flunal": [
+"fluconazol"
+],
+"flunexil": [
+"flumazenil"
+],
+"fluox": [
+"fluoxetina"
+],
+"fluoxetin": [
+"fluoxetina"
+],
+"fluozac": [
+"fluoxetina"
+],
+"flurgyn": [
+"fluconazol"
+],
+"flutec": [
+"fluconazol"
+],
+"fluxene": [
+"fluoxetina"
+],
+"fluxil": [
+"furosemida"
+],
+"fluxopress": [
+"hidroclorotiazida"
+],
+"fluxozol": [
+"fluconazol"
+],
+"fluzantic": [
+"flumazenil"
+],
+"focus": [
+"ibuprofeno"
+],
+"folacin": [
+"acido folico"
+],
+"folantine": [
+"acido folico"
+],
+"folcalcio": [
+"folinato"
+],
+"folico 400 fdc": [
+"acido folico"
+],
+"folifolin": [
+"acido folico"
+],
+"folin": [
+"acido folico"
+],
+"folinac": [
+"folinato"
+],
+"folipur": [
+"acido folico"
+],
+"folital": [
+"acido folico"
+],
+"folonin": [
+"acido folico"
+],
+"font d": [
+"colecalciferol"
+],
+"fonti b1": [
+"tiamina"
+],
+"fontical": [
+"carbonato de calcio"
+],
+"fonto-vit a": [
+"retinol"
+],
+"fonto-vit b6": [
+"piridoxina"
+],
+"foritus": [
+"ciprofloxacino"
+],
+"formet": [
+"metformina"
+],
+"formyn": [
+"metformina"
+],
+"fosamax": [
+"alendronato"
+],
+"fosamax d": [
+"alendronato",
+"colecalciferol"
+],
+"foscalvit d": [
+"calcio tribasico",
+"colecalciferol"
+],
+"fosfato de calcio tribasico + associacao": [
+"calcio tribasico"
+],
+"fosfato de potassio": [
+"potassio dibasico",
+"potassio monobasico"
+],
+"fosfato de potassio 2 meq/ml aster": [
+"potassio dibasico",
+"potassio monobasico"
+],
+"fosteo d": [
+"calcio tribasico",
+"colecalciferol"
+],
+"fotax": [
+"cefotaxima"
+],
+"frenaler": [
+"loratadina"
+],
+"fresenizol": [
+"metronidazol"
+],
+"fresoflox": [
+"ciprofloxacino"
+],
+"fresolcan": [
+"fluconazol"
+],
+"frusix": [
+"furosemida"
+],
+"fueblo": [
+"fluconazol"
+],
+"funds acido acetilsalicilico": [
+"acido acetilsalicilico"
+],
+"funds paracetamol": [
+"paracetamol"
+],
+"funed - carbamazepina": [
+"carbamazepina"
+],
+"funed - fenitoina": [
+"fenitoina"
+],
+"funed - fenobarbital": [
+"fenobarbital"
+],
+"funed - furosemida": [
+"furosemida"
+],
+"funed - hidroxido de aluminio": [
+"hidroxido de aluminio"
+],
+"funed - insulina mista nph": [
+"insulina nph"
+],
+"funed acido folico": [
+"acido folico"
+],
+"funed amoxicilina": [
+"amoxicilina"
+],
+"funed cetoconazol": [
+"cetoconazol"
+],
+"funed diazepam": [
+"diazepam"
+],
+"funed digoxina": [
+"digoxina"
+],
+"funed haloperidol": [
+"haloperidol"
+],
+"funed hidroclortiazida": [
+"hidroclorotiazida"
+],
+"funed insulina r": [
+"insulina humana"
+],
+"funed loratadina": [
+"loratadina"
+],
+"funed metformina": [
+"metformina"
+],
+"funed paracetamol": [
+"paracetamol"
+],
+"funed prednisona": [
+"prednisona"
+],
+"funed sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"funed- amitriptilina": [
+"amitriptilina"
+],
+"funed- dexclorfeniramina": [
+"dexclorfeniramina"
+],
+"funed-albendazol": [
+"albendazol"
+],
+"funed-captopril": [
+"captopril"
+],
+"funed-dexametasona": [
+"dexametasona"
+],
+"funed-glibenclamida": [
+"glibenclamida"
+],
+"funed-propranolol": [
+"propranolol"
+],
+"funed-salbutamol": [
+"salbutamol"
+],
+"fungiciden": [
+"fluconazol"
+],
+"fungicort": [
+"betametasona",
+"cetoconazol"
+],
+"fungilab": [
+"cetoconazol"
+],
+"fungistatina": [
+"nistatina"
+],
+"fungonax": [
+"itraconazol"
+],
+"fungonazol": [
+"cetoconazol"
+],
+"funok": [
+"itraconazol"
+],
+"furecin": [
+"furosemida"
+],
+"furomida": [
+"furosemida"
+],
+"furomix": [
+"furosemida"
+],
+"furosan": [
+"furosemida"
+],
+"furosantisa": [
+"furosemida"
+],
+"furosecord": [
+"furosemida"
+],
+"furosefarma": [
+"furosemida"
+],
+"furosem": [
+"furosemida"
+],
+"furosemida injetavel abbott": [
+"furosemida"
+],
+"furosemide": [
+"furosemida"
+],
+"furosemide composto": [
+"cloreto de potassio",
+"furosemida"
+],
+"furosemil": [
+"furosemida"
+],
+"furosemin": [
+"furosemida"
+],
+"furosen": [
+"furosemida"
+],
+"furosetron": [
+"furosemida"
+],
+"furosix": [
+"furosemida"
+],
+"furoxal": [
+"furosemida"
+],
+"furozix": [
+"furosemida"
+],
+"furp - acido acetilsalicilico": [
+"acido acetilsalicilico"
+],
+"furp - amoxicilina": [
+"amoxicilina"
+],
+"furp - ceftriaxona": [
+"ceftriaxona"
+],
+"furp - cloreto de potassio": [
+"cloreto de potassio"
+],
+"furp - cloreto de sodio": [
+"cloreto de sodio"
+],
+"furp - clorpromazina": [
+"clorpromazina"
+],
+"furp - fenitoina": [
+"fenitoina"
+],
+"furp - glicose": [
+"glicose"
+],
+"furp - metildopa": [
+"metildopa"
+],
+"furp - metoclopramida": [
+"metoclopramida"
+],
+"furp - nistatina": [
+"nistatina"
+],
+"furp - paracetamol": [
+"paracetamol"
+],
+"furp - propranolol": [
+"propranolol"
+],
+"furp - tetraciclina": [
+"tetraciclina"
+],
+"furp -bicarbonato de sodio": [
+"bicarbonato de sodio"
+],
+"furp -carbamazepina": [
+"carbamazepina"
+],
+"furp -cloranfenicol": [
+"cloranfenicol"
+],
+"furp -nifedipina": [
+"nifedipino"
+],
+"furp metronidazol": [
+"benzoilmetronidazol"
+],
+"furp- dipirona": [
+"dipirona"
+],
+"furp- gentamicina": [
+"gentamicina"
+],
+"furp-atenolol": [
+"atenolol"
+],
+"furp-atropina": [
+"atropina"
+],
+"furp-benzilpenicilina benzatina": [
+"benzilpenicilina benzatina"
+],
+"furp-benzilpenicilina procaina + benzilpenicilina potassica": [
+"benzilpenicilina",
+"benzilpenicilina procaina"
+],
+"furp-captopril": [
+"captopril"
+],
+"furp-cefalexina": [
+"cefalexina"
+],
+"furp-dexametasona": [
+"dexametasona"
+],
+"furp-digoxina": [
+"digoxina"
+],
+"furp-furosemida": [
+"furosemida"
+],
+"furp-glibenclamida": [
+"glibenclamida"
+],
+"furp-haloperidol": [
+"haloperidol"
+],
+"furp-hidroclorotiazida": [
+"hidroclorotiazida"
+],
+"furp-hidroxido de aluminio": [
+"hidroxido de aluminio"
+],
+"furp-metronidazol": [
+"benzoilmetronidazol",
+"metronidazol"
+],
+"furp-rifampicina": [
+"rifampicina"
+],
+"furp-salbutamol": [
+"salbutamol"
+],
+"furp-solucao fisiologica nasal": [
+"cloreto de sodio"
+],
+"furp-sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"fursemida": [
+"furosemida"
+],
+"gaduol": [
+"retinol"
+],
+"garamicina": [
+"gentamicina"
+],
+"garamox": [
+"gentamicina"
+],
+"garasone": [
+"fosfato dissodico de betametasona",
+"gentamicina"
+],
+"gardenal": [
+"fenobarbital"
+],
+"gasec gastrocaps": [
+"omeprazol"
+],
+"gaspiren": [
+"omeprazol"
+],
+"gastrib": [
+"omeprazol"
+],
+"gastrium": [
+"omeprazol"
+],
+"gastrobel": [
+"hidroxido de aluminio"
+],
+"gastrocimet": [
+"omeprazol"
+],
+"gastronol": [
+"hidroxido de aluminio"
+],
+"gastropage": [
+"carbonato de calcio"
+],
+"gastropept": [
+"hidroxido de aluminio"
+],
+"gastroprazol": [
+"omeprazol"
+],
+"gastrosec": [
+"omeprazol"
+],
+"gastrozol": [
+"omeprazol"
+],
+"geflil": [
+"metronidazol"
+],
+"gelnat": [
+"hidroxido de aluminio"
+],
+"genalapril": [
+"enalapril"
+],
+"gencarpine": [
+"pilocarpina"
+],
+"genfenicol": [
+"cloranfenicol"
+],
+"genocardil": [
+"sinvastatina"
+],
+"genoctrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"genomoxil": [
+"amoxicilina"
+],
+"genoprazol": [
+"omeprazol"
+],
+"genopress": [
+"atenolol"
+],
+"genoprin": [
+"paracetamol"
+],
+"genovitan": [
+"retinol"
+],
+"genox": [
+"gentamicina"
+],
+"gentagran": [
+"gentamicina"
+],
+"gentamicil": [
+"gentamicina"
+],
+"gentamicin": [
+"gentamicina"
+],
+"gentamil": [
+"gentamicina"
+],
+"gentamin": [
+"gentamicina"
+],
+"gentamisan": [
+"gentamicina"
+],
+"gentaron": [
+"gentamicina"
+],
+"gentasone": [
+"fosfato dissodico de betametasona",
+"gentamicina"
+],
+"gentom": [
+"gentamicina"
+],
+"gestac": [
+"acido folico"
+],
+"gestrelan": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"gestrocon": [
+"estrogenios conjugados"
+],
+"gineane": [
+"estradiol",
+"noretisterona"
+],
+"ginedak": [
+"miconazol"
+],
+"gingilone": [
+"hidrocortisona",
+"neomicina"
+],
+"gino - ricin": [
+"tetraciclina"
+],
+"gino -candifen": [
+"metronidazol",
+"nistatina"
+],
+"gino daczol": [
+"miconazol"
+],
+"gino mizonol": [
+"miconazol"
+],
+"ginotarin": [
+"miconazol"
+],
+"glaucoliv": [
+"timolol"
+],
+"glaucotrat": [
+"timolol"
+],
+"glautimol": [
+"timolol"
+],
+"glencovorin": [
+"folinato"
+],
+"glibemida": [
+"glibenclamida"
+],
+"gliben": [
+"glibenclamida"
+],
+"glibendiab": [
+"glibenclamida"
+],
+"glibeneck": [
+"glibenclamida"
+],
+"glibeta": [
+"glibenclamida",
+"metformina"
+],
+"glibexil": [
+"glibenclamida"
+],
+"glibion": [
+"glibenclamida"
+],
+"glicamida": [
+"glibenclamida"
+],
+"glicamin": [
+"glibenclamida"
+],
+"glicefor": [
+"metformina"
+],
+"glicel": [
+"glicerol"
+],
+"glicep xr": [
+"metformina"
+],
+"glicerin": [
+"glicerol"
+],
+"glicerol enema 12%": [
+"glicerol"
+],
+"glicerolina": [
+"glicerol"
+],
+"glicetex": [
+"glicerol"
+],
+"glicetop": [
+"glicerol"
+],
+"glicocontrol": [
+"glibenclamida"
+],
+"glicofisiologica": [
+"cloreto de sodio",
+"glicose"
+],
+"glicolabor-metronidazol": [
+"metronidazol"
+],
+"glicomet": [
+"metformina"
+],
+"gliconil": [
+"glibenclamida"
+],
+"glicose + cloreto de sodio farmace": [
+"cloreto de sodio",
+"glicose"
+],
+"glicose 10% darrow": [
+"glicose"
+],
+"glicose 5% + cloreto de sodio 0,9%": [
+"cloreto de sodio",
+"glicose"
+],
+"glicose 75%": [
+"glicose"
+],
+"glicose a 5% + cloreto de sodio a 0,9%": [
+"cloreto de sodio",
+"glicose"
+],
+"glicose basa": [
+"glicose"
+],
+"glicose beker": [
+"glicose"
+],
+"glicose halex istar": [
+"glicose"
+],
+"glicose hypofarma": [
+"glicose"
+],
+"glif": [
+"dapagliflozina"
+],
+"glif met": [
+"dapagliflozina",
+"metformina"
+],
+"glifage": [
+"metformina"
+],
+"glifage xr": [
+"metformina"
+],
+"gliformil": [
+"metformina"
+],
+"glimil": [
+"glibenclamida"
+],
+"gliocort": [
+"succinato sodico de hidrocortisona"
+],
+"glionil": [
+"glibenclamida"
+],
+"glioten": [
+"enalapril"
+],
+"gliotenzide": [
+"enalapril",
+"hidroclorotiazida"
+],
+"glityfom": [
+"metformina"
+],
+"glivance xr": [
+"gliclazida",
+"metformina"
+],
+"globo itraconazol": [
+"itraconazol"
+],
+"glucoformin": [
+"metformina"
+],
+"glucosil": [
+"glibenclamida"
+],
+"glucovance": [
+"glibenclamida",
+"metformina"
+],
+"glycelax": [
+"glicerol"
+],
+"glyflucan": [
+"fluconazol"
+],
+"glygran": [
+"metformina"
+],
+"gob6": [
+"piridoxina"
+],
+"goxin": [
+"digoxina"
+],
+"gran-d": [
+"colecalciferol"
+],
+"grifopril": [
+"enalapril"
+],
+"gripalce uno": [
+"paracetamol"
+],
+"gripotermon": [
+"paracetamol"
+],
+"gross": [
+"fenobarbital"
+],
+"gynotran": [
+"metronidazol",
+"miconazol"
+],
+"haar intern": [
+"colecalciferol",
+"piridoxina",
+"retinol"
+],
+"hairintern": [
+"colecalciferol",
+"piridoxina",
+"retinol"
+],
+"halex istar solucao glicofisiologica": [
+"cloreto de sodio",
+"glicose"
+],
+"halexminophen": [
+"paracetamol"
+],
+"halo": [
+"haloperidol"
+],
+"haloper": [
+"haloperidol"
+],
+"halopsitol": [
+"haloperidol"
+],
+"hantina": [
+"nitrofurantoina"
+],
+"hd novo tipo b": [
+"bicarbonato de sodio",
+"cloreto de sodio"
+],
+"helicocid": [
+"claritromicina"
+],
+"helicocid triplice": [
+"amoxicilina",
+"claritromicina",
+"omeprazol"
+],
+"helmiless": [
+"albendazol"
+],
+"hematofer": [
+"sulfato ferroso"
+],
+"hemetil": [
+"metoclopramida"
+],
+"herpesil": [
+"aciclovir"
+],
+"herpfar": [
+"aciclovir"
+],
+"hertrax": [
+"aciclovir"
+],
+"hervirax": [
+"aciclovir"
+],
+"herzov": [
+"aciclovir"
+],
+"hiconazol": [
+"fluconazol"
+],
+"hidantal": [
+"fenitoina"
+],
+"hidopat": [
+"metildopa"
+],
+"hidrazida": [
+"hidroclorotiazida"
+],
+"hidrazil": [
+"benzoilmetronidazol"
+],
+"hidrazim": [
+"hidroclorotiazida"
+],
+"hidrion": [
+"cloreto de potassio",
+"furosemida"
+],
+"hidroal": [
+"hidroxido de aluminio"
+],
+"hidrocortex": [
+"succinato sodico de hidrocortisona"
+],
+"hidrocortiz": [
+"succinato sodico de hidrocortisona"
+],
+"hidroflux": [
+"hidroclorotiazida"
+],
+"hidrol": [
+"hidroclorotiazida"
+],
+"hidrolan": [
+"hidroclorotiazida"
+],
+"hidroless": [
+"hidroclorotiazida"
+],
+"hidromed": [
+"hidroclorotiazida"
+],
+"hidroneo": [
+"hidrocortisona",
+"neomicina"
+],
+"hidropressin": [
+"enalapril",
+"hidroclorotiazida"
+],
+"hidrosone": [
+"succinato sodico de hidrocortisona"
+],
+"hidrotiazida": [
+"hidroclorotiazida"
+],
+"hidrotiazin": [
+"hidroclorotiazida"
+],
+"hidroxid": [
+"hidroxido de aluminio"
+],
+"hidroxiplus": [
+"hidroxido de aluminio"
+],
+"hifloxan": [
+"ciprofloxacino"
+],
+"hilergro": [
+"dexclorfeniramina"
+],
+"himaagin": [
+"atenolol"
+],
+"hincomox": [
+"amoxicilina"
+],
+"hiperlopril": [
+"enalapril"
+],
+"hipernolol": [
+"propranolol"
+],
+"hiperterona": [
+"amiodarona"
+],
+"hipertin": [
+"enalapril"
+],
+"hipertonic 5%": [
+"cloreto de sodio"
+],
+"hipnazolam": [
+"midazolam"
+],
+"hipodex": [
+"colecalciferol",
+"retinol"
+],
+"hipofol": [
+"acido folico"
+],
+"hipoformin": [
+"metformina"
+],
+"hipoten": [
+"captopril"
+],
+"hipotensil": [
+"captopril"
+],
+"hipovas": [
+"anlodipino",
+"losartana"
+],
+"hipovit b": [
+"tiamina"
+],
+"hipozol": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"hislor": [
+"dexclorfeniramina"
+],
+"histadin": [
+"loratadina"
+],
+"histamix": [
+"loratadina"
+],
+"histenor": [
+"levonorgestrel"
+],
+"hominus": [
+"doxazosina",
+"finasterida"
+],
+"hora h": [
+"levonorgestrel"
+],
+"hormocervix": [
+"estriol"
+],
+"hpmix": [
+"aciclovir"
+],
+"hpvir": [
+"aciclovir"
+],
+"humulin 70n/30r": [
+"insulina humana"
+],
+"humulin r": [
+"insulina humana"
+],
+"hyclin": [
+"clindamicina"
+],
+"hydin": [
+"hidrocortisona"
+],
+"hyfren": [
+"epinefrina"
+],
+"hylosar": [
+"hidroclorotiazida",
+"losartana"
+],
+"hynalgin": [
+"dipirona"
+],
+"hypobup": [
+"bupivacaina"
+],
+"hypobup h": [
+"bupivacaina"
+],
+"hypocaina hyperbarica": [
+"lidocaina"
+],
+"hypoflox": [
+"ciprofloxacino"
+],
+"hypoflunazol": [
+"fluconazol"
+],
+"hypomagne": [
+"sulfato de magnesio"
+],
+"hyponor": [
+"norepinefrina"
+],
+"hyporidrol": [
+"haloperidol"
+],
+"hyposil": [
+"metoclopramida"
+],
+"hypot": [
+"cloreto de potassio"
+],
+"hypozam": [
+"midazolam"
+],
+"hysemida": [
+"furosemida"
+],
+"hystin": [
+"dexclorfeniramina"
+],
+"hytamicina": [
+"gentamicina"
+],
+"hyzaar": [
+"hidroclorotiazida",
+"losartana"
+],
+"ibruve": [
+"ibuprofeno"
+],
+"ibucaps": [
+"ibuprofeno"
+],
+"ibufenox": [
+"ibuprofeno"
+],
+"ibuflex": [
+"ibuprofeno"
+],
+"ibufran": [
+"ibuprofeno"
+],
+"ibuglobo": [
+"ibuprofeno"
+],
+"ibuliv": [
+"ibuprofeno"
+],
+"ibumedfem": [
+"ibuprofeno"
+],
+"ibupril": [
+"ibuprofeno"
+],
+"ibupril caps": [
+"ibuprofeno"
+],
+"ibuprofan": [
+"ibuprofeno"
+],
+"ibupromed": [
+"ibuprofeno"
+],
+"ibuprotrat": [
+"ibuprofeno"
+],
+"ibuprotrat cm": [
+"ibuprofeno"
+],
+"ibuvix": [
+"ibuprofeno"
+],
+"ibux": [
+"ibuprofeno"
+],
+"iconazol": [
+"itraconazol"
+],
+"ictus": [
+"carvedilol"
+],
+"iflo": [
+"dapagliflozina"
+],
+"imectrym": [
+"sulfametoxazol"
+],
+"imik": [
+"imiquimode"
+],
+"imoxy": [
+"imiquimode"
+],
+"inalajet": [
+"budesonida"
+],
+"inalide": [
+"budesonida"
+],
+"inderal": [
+"propranolol"
+],
+"indufal - solucao glicofisiologica": [
+"cloreto de sodio",
+"glicose"
+],
+"induson": [
+"midazolam"
+],
+"ineca-t": [
+"enalapril",
+"hidroclorotiazida"
+],
+"inephoros xr": [
+"metoprolol"
+],
+"infamox": [
+"amoxicilina"
+],
+"infectrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"inlact": [
+"lactulose"
+],
+"inofungin": [
+"nistatina"
+],
+"inotam": [
+"dobutamina"
+],
+"inotropisa": [
+"dopamina"
+],
+"inpruv d": [
+"colecalciferol"
+],
+"insugen 70/30": [
+"insulina humana"
+],
+"insugen r": [
+"insulina humana"
+],
+"insulina humana recombinante nph": [
+"insulina humana"
+],
+"insulina humana recombinante r": [
+"insulina humana"
+],
+"insuliv r": [
+"insulina humana"
+],
+"insuman": [
+"insulina humana"
+],
+"insuneo n": [
+"insulina humana"
+],
+"insunorm 70/30": [
+"insulina humana"
+],
+"insunorm n": [
+"insulina humana"
+],
+"insunorm r": [
+"insulina humana"
+],
+"intrafem": [
+"estradiol"
+],
+"invit d3": [
+"colecalciferol"
+],
+"iolin n": [
+"insulina nph"
+],
+"ionclor": [
+"cloreto de potassio"
+],
+"ionil plus": [
+"acido salicilico"
+],
+"iprabon": [
+"ipratropio"
+],
+"ipraflux": [
+"ipratropio"
+],
+"ipraneo": [
+"ipratropio"
+],
+"iprat": [
+"ipratropio"
+],
+"ipravent": [
+"ipratropio"
+],
+"iqueco- omeprazol": [
+"omeprazol"
+],
+"iquego - furosemida": [
+"furosemida"
+],
+"iquego - glibenclamida": [
+"glibenclamida"
+],
+"iquego - paracetamol": [
+"paracetamol"
+],
+"iquego - propanolol": [
+"propranolol"
+],
+"iquego sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"iquego- enalapril": [
+"enalapril"
+],
+"iquego- hidroclorotiazida": [
+"hidroclorotiazida"
+],
+"iquego-amoxicilina": [
+"amoxicilina"
+],
+"iquego-captopril": [
+"captopril"
+],
+"iquego-hidroxido de aluminio": [
+"hidroxido de aluminio"
+],
+"iquego-ibuprofeno": [
+"ibuprofeno"
+],
+"iquego-salbutamol": [
+"salbutamol"
+],
+"ironfer": [
+"sulfato ferroso"
+],
+"isobid": [
+"dinitrato de isossorbida"
+],
+"isocord": [
+"dinitrato de isossorbida"
+],
+"isofarma - solucao de glicose": [
+"glicose"
+],
+"isofarma - solucao glicofisiologica (glicose 5% + cloreto de sodio 0,": [
+"cloreto de sodio",
+"glicose"
+],
+"isofarma - solucoes glicose 25%": [
+"glicose"
+],
+"isofarma bicarbonato de sodio": [
+"bicarbonato de sodio"
+],
+"isofarma solucao de fosfato de potassio 2 meq/ml": [
+"potassio dibasico",
+"potassio monobasico"
+],
+"isofarma-solucao de cloreto de potassio": [
+"cloreto de potassio"
+],
+"isofarma-solucao de cloreto de sodio": [
+"cloreto de sodio"
+],
+"isogreen": [
+"dinitrato de isossorbida"
+],
+"isopto atropina": [
+"atropina"
+],
+"isopto carpine": [
+"pilocarpina"
+],
+"isordil": [
+"dinitrato de isossorbida"
+],
+"istartrop": [
+"atropina"
+],
+"istasil": [
+"metoclopramida"
+],
+"itazil": [
+"benzilpenicilina benzatina"
+],
+"itracon": [
+"itraconazol"
+],
+"itracotan": [
+"itraconazol"
+],
+"itrahexal": [
+"itraconazol"
+],
+"itralex": [
+"itraconazol"
+],
+"itranax": [
+"itraconazol"
+],
+"itraspor": [
+"itraconazol"
+],
+"itrazol": [
+"itraconazol"
+],
+"ivb - furosemida": [
+"furosemida"
+],
+"ivb - insulina humana r": [
+"insulina humana"
+],
+"ivb - propranolol": [
+"propranolol"
+],
+"ivb - sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"ivb metoclopramida": [
+"metoclopramida"
+],
+"ivb-captopril": [
+"captopril"
+],
+"ivb-hidroclorotiazida": [
+"hidroclorotiazida"
+],
+"ivb-omeprazol": [
+"omeprazol"
+],
+"ivecte": [
+"ivermectina"
+],
+"iverlat": [
+"ivermectina"
+],
+"iverliv": [
+"ivermectina"
+],
+"ivermec": [
+"ivermectina"
+],
+"iverneo": [
+"ivermectina"
+],
+"ixium": [
+"imiquimode"
+],
+"izonax": [
+"cetoconazol"
+],
+"jarrel-metildopa": [
+"metildopa"
+],
+"jaydess": [
+"levonorgestrel"
+],
+"jofix": [
+"ondansetrona"
+],
+"jp fisiologico": [
+"cloreto de sodio"
+],
+"jp glicofisiologico": [
+"cloreto de sodio",
+"glicose"
+],
+"jp glicose": [
+"glicose"
+],
+"kabipamol": [
+"paracetamol"
+],
+"kalmax": [
+"hidroxido de aluminio"
+],
+"kandistat": [
+"nistatina"
+],
+"kaodine": [
+"permetrina"
+],
+"karbac": [
+"carbamazepina"
+],
+"karvil": [
+"carvedilol"
+],
+"kbot madrevita": [
+"permetrina"
+],
+"kefalexin": [
+"cefalexina"
+],
+"kefaxim": [
+"cefotaxima"
+],
+"keflaxina": [
+"cefalexina"
+],
+"keflex": [
+"cefalexina"
+],
+"keforal": [
+"cefalexina"
+],
+"kefozil": [
+"cefotaxima"
+],
+"kelare": [
+"amoxicilina",
+"clavulanato"
+],
+"keltrina": [
+"permetrina"
+],
+"kemyza": [
+"ondansetrona"
+],
+"kenazol": [
+"cetoconazol"
+],
+"kepios": [
+"permetrina"
+],
+"ketocon": [
+"cetoconazol"
+],
+"ketogin": [
+"miconazol"
+],
+"ketomicol": [
+"cetoconazol"
+],
+"ketonan": [
+"cetoconazol"
+],
+"ketonazol": [
+"cetoconazol"
+],
+"kiatrium": [
+"diazepam"
+],
+"kiflexin": [
+"cefalexina"
+],
+"kinof": [
+"ciprofloxacino"
+],
+"klaricid": [
+"claritromicina"
+],
+"klarin": [
+"claritromicina"
+],
+"klaritril": [
+"claritromicina"
+],
+"klaroxil": [
+"claritromicina"
+],
+"klidacin": [
+"clindamicina"
+],
+"kliogest": [
+"estradiol",
+"noretisterona"
+],
+"knortex": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"koide": [
+"betametasona"
+],
+"koide d": [
+"betametasona",
+"dexclorfeniramina"
+],
+"koidexa": [
+"dexametasona"
+],
+"koli d3": [
+"colecalciferol"
+],
+"kolpazol": [
+"nistatina"
+],
+"koprexx": [
+"anlodipino"
+],
+"kwell": [
+"permetrina"
+],
+"kyleena": [
+"levonorgestrel"
+],
+"labcaina": [
+"lidocaina"
+],
+"labopril": [
+"captopril"
+],
+"labopurinol": [
+"alopurinol"
+],
+"laborim- cphd- fracao basica": [
+"bicarbonato de sodio"
+],
+"lacnax": [
+"lactulose"
+],
+"lacrigel a": [
+"retinol"
+],
+"lactisone": [
+"hidrocortisona"
+],
+"lactosan": [
+"lactulose"
+],
+"lactuliv": [
+"lactulose"
+],
+"lactulosum": [
+"lactulose"
+],
+"lafepe - carbamazepina": [
+"carbamazepina"
+],
+"lafepe - dexametasona": [
+"dexametasona"
+],
+"lafepe - furosemida": [
+"furosemida"
+],
+"lafepe - hidroclorotiazida": [
+"hidroclorotiazida"
+],
+"lafepe - metronidazol": [
+"benzoilmetronidazol",
+"metronidazol"
+],
+"lafepe - nistatina": [
+"nistatina"
+],
+"lafepe - paracetamol": [
+"paracetamol"
+],
+"lafepe - rifampicina": [
+"rifampicina"
+],
+"lafepe -glibenclamida": [
+"glibenclamida"
+],
+"lafepe benzilpenicilina benzatina": [
+"benzilpenicilina benzatina"
+],
+"lafepe cefalexina": [
+"cefalexina"
+],
+"lafepe cloreto de sodio": [
+"cloreto de sodio"
+],
+"lafepe glicose 50%": [
+"glicose"
+],
+"lafepe propranolol": [
+"propranolol"
+],
+"lafepe sulfato de atropina": [
+"atropina"
+],
+"lafepe-captopril": [
+"captopril"
+],
+"lafepe-dipirona sodica": [
+"dipirona"
+],
+"lafepe-metildopa": [
+"metildopa"
+],
+"lafepe-salbutamol": [
+"salbutamol"
+],
+"lafergs - acido acetilsalicilico": [
+"acido acetilsalicilico"
+],
+"lafergs - carbamazepina": [
+"carbamazepina"
+],
+"lafergs - clorpromazina": [
+"clorpromazina"
+],
+"lafergs - dexametasona": [
+"dexametasona"
+],
+"lafergs - diazepam": [
+"diazepam"
+],
+"lafergs - fenobarbital": [
+"fenobarbital"
+],
+"lafergs - furosemida": [
+"furosemida"
+],
+"lafergs - metoclopramida": [
+"metoclopramida"
+],
+"lafergs - propranolol": [
+"propranolol"
+],
+"lafergs - sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"lafergs dipirona sodica": [
+"dipirona"
+],
+"lafesc-captopril": [
+"captopril"
+],
+"lafesc-hidroclorotiazida": [
+"hidroclorotiazida"
+],
+"lafesc-propranolol": [
+"propranolol"
+],
+"lanexat": [
+"flumazenil"
+],
+"lanico": [
+"amoxicilina",
+"clavulanato"
+],
+"lapritec": [
+"enalapril"
+],
+"laqfa - cloreto de sodio": [
+"cloreto de sodio"
+],
+"laqfa - digoxina": [
+"digoxina"
+],
+"laqfa - furosemida": [
+"furosemida"
+],
+"laqfa amoxicilina": [
+"amoxicilina"
+],
+"laqfa captopril": [
+"captopril"
+],
+"laqfa- prednisona": [
+"prednisona"
+],
+"laqfa-cefalexina": [
+"cefalexina"
+],
+"laqfa-cloreto de potassio": [
+"cloreto de potassio"
+],
+"laqfa-diazepam": [
+"diazepam"
+],
+"laqfa-haloperidol": [
+"haloperidol"
+],
+"laqfex metildopa": [
+"metildopa"
+],
+"laquixan": [
+"lactulose"
+],
+"lasa - dexametasona": [
+"dexametasona"
+],
+"lasamine": [
+"dexclorfeniramina"
+],
+"lasatrex": [
+"tetraciclina"
+],
+"lasatrim": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"lasilactona": [
+"espironolactona",
+"furosemida"
+],
+"lasiol": [
+"furosemida"
+],
+"lasix": [
+"furosemida"
+],
+"lavie": [
+"valproato"
+],
+"laxfar": [
+"lactulose"
+],
+"lebens": [
+"benserazida",
+"levodopa"
+],
+"ledar": [
+"alendronato"
+],
+"legifol cs": [
+"acido folinico"
+],
+"lenazen": [
+"flumazenil"
+],
+"lendrex": [
+"permetrina"
+],
+"lento kalium": [
+"cloreto de potassio"
+],
+"lepemc": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"lepemc aas 100mg": [
+"acido acetilsalicilico"
+],
+"lepemc aas 500": [
+"acido acetilsalicilico"
+],
+"lepemc captopril 25 mg": [
+"captopril"
+],
+"lergidrin": [
+"betametasona",
+"dexclorfeniramina"
+],
+"lergitec": [
+"loratadina"
+],
+"lestalgyn": [
+"betametasona",
+"dexclorfeniramina"
+],
+"lestamil": [
+"betametasona",
+"dexclorfeniramina"
+],
+"leucor": [
+"folinato"
+],
+"leucovorina calcio": [
+"folinato"
+],
+"level": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"leverctin": [
+"ivermectina"
+],
+"levocarb": [
+"carbidopa",
+"levodopa"
+],
+"levodopa + cloridrato de benzerazida": [
+"benserazida"
+],
+"levogen": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"levonorgestrel + etinilestradiol": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"levophed": [
+"norepinefrina"
+],
+"levotroid": [
+"levotiroxina"
+],
+"levrasida": [
+"benserazida",
+"levodopa"
+],
+"lexin": [
+"cefalexina"
+],
+"lfm - acido acetil salicilico": [
+"acido acetilsalicilico"
+],
+"lfm - amitriptilina": [
+"amitriptilina"
+],
+"lfm - amoxicilina": [
+"amoxicilina"
+],
+"lfm - anlodipino": [
+"anlodipino"
+],
+"lfm - carbamazepina": [
+"carbamazepina"
+],
+"lfm - clorpromazina": [
+"clorpromazina"
+],
+"lfm - digoxina": [
+"digoxina"
+],
+"lfm - metronidazol": [
+"metronidazol"
+],
+"lfm - mononitrato de isossorbida": [
+"mononitrato de isossorbida"
+],
+"lfm - nistatina": [
+"nistatina"
+],
+"lfm - sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"lfm - sulfato ferroso": [
+"sulfato ferroso"
+],
+"lfm -furosemida": [
+"furosemida"
+],
+"lfm metildopa": [
+"metildopa"
+],
+"lfm  metformina": [
+"metformina"
+],
+"lfm-aciclovir": [
+"aciclovir"
+],
+"lfm-azitromicina": [
+"azitromicina"
+],
+"lfm-captopril": [
+"captopril"
+],
+"lfm-carbonato de calcio": [
+"carbonato de calcio"
+],
+"lfm-cefalexina": [
+"cefalexina"
+],
+"lfm-diazepam": [
+"diazepam"
+],
+"lfm-dipirona": [
+"dipirona"
+],
+"lfm-fenobarbital": [
+"fenobarbital"
+],
+"lfm-hidroclorotiazida": [
+"hidroclorotiazida"
+],
+"lfm-paracetamol": [
+"paracetamol"
+],
+"lfm-prednisona": [
+"prednisona"
+],
+"lfm-propanolol": [
+"propranolol"
+],
+"lfm-salbutamol": [
+"salbutamol"
+],
+"lfm-tetraciclina": [
+"tetraciclina"
+],
+"licilon": [
+"amoxicilina"
+],
+"lidcal": [
+"lidocaina"
+],
+"lidial": [
+"lidocaina"
+],
+"lidocabbot": [
+"lidocaina"
+],
+"lidocrem": [
+"lidocaina"
+],
+"lidoepiabbott": [
+"epinefrina",
+"lidocaina"
+],
+"lidogel": [
+"lidocaina"
+],
+"lidol": [
+"lidocaina"
+],
+"lidopass": [
+"lidocaina"
+],
+"lidosporin": [
+"lidocaina",
+"polimixina b"
+],
+"lidospray": [
+"lidocaina"
+],
+"lidostesim": [
+"lidocaina",
+"norepinefrina"
+],
+"lidostesim ad": [
+"epinefrina",
+"lidocaina"
+],
+"lidostesim sv": [
+"lidocaina"
+],
+"lidoston": [
+"lidocaina"
+],
+"lidotopic": [
+"lidocaina"
+],
+"lifal - captopril": [
+"captopril"
+],
+"lifal - propranolol": [
+"propranolol"
+],
+"lifal - sulfato ferroso": [
+"sulfato ferroso"
+],
+"lifal -sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"lifal rifampicina": [
+"rifampicina"
+],
+"lifal-furosemida": [
+"furosemida"
+],
+"lifalexin": [
+"cefalexina"
+],
+"lifalhidroclorotiazida": [
+"hidroclorotiazida"
+],
+"lifalmetronidazol": [
+"metronidazol"
+],
+"lifamox": [
+"amoxicilina"
+],
+"lifesa - sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"lifesa glibenclamida": [
+"glibenclamida"
+],
+"lifesa-hidroclorotiazida": [
+"hidroclorotiazida"
+],
+"lifesa-metronidazol": [
+"metronidazol"
+],
+"lifesa-propranolol": [
+"propranolol"
+],
+"lifolin": [
+"folinato"
+],
+"lifotax": [
+"cefotaxima"
+],
+"limoxin": [
+"amoxicilina"
+],
+"linamox": [
+"amoxicilina"
+],
+"linatis": [
+"noretisterona"
+],
+"linofeme": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"lipistatina": [
+"sinvastatina"
+],
+"liposeron": [
+"cloreto de potassio"
+],
+"lipotex": [
+"sinvastatina"
+],
+"liptrat": [
+"sinvastatina"
+],
+"lisador dip": [
+"dipirona"
+],
+"lisoderme": [
+"dexametasona"
+],
+"lisoven": [
+"captopril"
+],
+"listo": [
+"ondansetrona"
+],
+"listo solucao oral": [
+"ondansetrona"
+],
+"litcar": [
+"carbonato de litio"
+],
+"literata": [
+"carbonato de litio"
+],
+"liticarb": [
+"carbonato de litio"
+],
+"litiocar": [
+"carbonato de litio"
+],
+"livrador": [
+"dipirona"
+],
+"lodipen": [
+"anlodipino"
+],
+"loette": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"lofernim": [
+"dexclorfeniramina"
+],
+"lofernim beta": [
+"betametasona",
+"dexclorfeniramina"
+],
+"lofert": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"lomafril": [
+"clomipramina"
+],
+"lombalgina": [
+"ibuprofeno"
+],
+"lomdor": [
+"dipirona"
+],
+"lomfer": [
+"sulfato ferroso"
+],
+"lomicina": [
+"neomicina"
+],
+"longacaina": [
+"bupivacaina"
+],
+"longacilin": [
+"benzilpenicilina benzatina"
+],
+"longactil": [
+"clorpromazina"
+],
+"loprazol": [
+"omeprazol"
+],
+"lopressor": [
+"metoprolol"
+],
+"lopril-d": [
+"captopril",
+"hidroclorotiazida"
+],
+"lopurax": [
+"alopurinol"
+],
+"loradine": [
+"loratadina"
+],
+"loralerg": [
+"loratadina"
+],
+"loranil": [
+"loratadina"
+],
+"lorasliv": [
+"loratadina"
+],
+"loratamed": [
+"loratadina"
+],
+"loremix": [
+"loratadina"
+],
+"loritil": [
+"loratadina"
+],
+"lorsar-hct": [
+"hidroclorotiazida",
+"losartana"
+],
+"losacoron": [
+"losartana"
+],
+"losar": [
+"omeprazol"
+],
+"losartec": [
+"losartana"
+],
+"losatal": [
+"losartana"
+],
+"losenin": [
+"losartana"
+],
+"losporin": [
+"cefotaxima"
+],
+"lotanol": [
+"losartana"
+],
+"lotanol hct": [
+"hidroclorotiazida",
+"losartana"
+],
+"lotar": [
+"anlodipino",
+"losartana"
+],
+"lotrimin": [
+"miconazol"
+],
+"lovacor": [
+"sinvastatina"
+],
+"lovelle": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"loxetin": [
+"fluoxetina"
+],
+"lozan": [
+"cetoconazol"
+],
+"lozaprol": [
+"omeprazol"
+],
+"lozeprel": [
+"omeprazol"
+],
+"lpm-propranolol": [
+"propranolol"
+],
+"lqfa cloridrato de propanolol": [
+"propranolol"
+],
+"lqfa-acido folico": [
+"acido folico"
+],
+"lqfe - acido folico": [
+"acido folico"
+],
+"lqfe - clindamicina": [
+"clindamicina"
+],
+"lqfe - diazepam": [
+"diazepam"
+],
+"lqfe hidroclorotiazida": [
+"hidroclorotiazida"
+],
+"lqfe- metoclopramida": [
+"metoclopramida"
+],
+"lqfex - acido acetilsalicilico": [
+"acido acetilsalicilico"
+],
+"lqfex - acido acetisalicilico": [
+"acido acetilsalicilico"
+],
+"lqfex - albendazol": [
+"albendazol"
+],
+"lqfex - amoxicilina": [
+"amoxicilina"
+],
+"lqfex - captopril": [
+"captopril"
+],
+"lqfex - clindamicina": [
+"clindamicina"
+],
+"lqfex - dexametasona": [
+"dexametasona"
+],
+"lqfex - dipirona": [
+"dipirona"
+],
+"lqfex - enalapril": [
+"enalapril"
+],
+"lqfex - hidroxido de aluminio": [
+"hidroxido de aluminio"
+],
+"lqfex - insulina humana r": [
+"insulina humana"
+],
+"lqfex - paracetamol": [
+"paracetamol"
+],
+"lqfex - sulf. de salbutamol": [
+"salbutamol"
+],
+"lqfex - sulfametoxazol+ trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"lqfex - sulfato de atropina": [
+"atropina"
+],
+"lqfex benzilpenicilina benzatina": [
+"benzilpenicilina benzatina"
+],
+"lqfex cefalexina": [
+"cefalexina"
+],
+"lqfex cloridrato de lidocaina": [
+"lidocaina"
+],
+"lqfex glicose 25%": [
+"glicose"
+],
+"lqfex metronidazol": [
+"metronidazol"
+],
+"lqfex miconazol": [
+"miconazol"
+],
+"lqfex propranolol": [
+"propranolol"
+],
+"lqfex- epinefrina": [
+"epinefrina"
+],
+"lqfex-glibenclamida": [
+"glibenclamida"
+],
+"ltf - glibenclamida": [
+"glibenclamida"
+],
+"ltf - paracetamol": [
+"paracetamol"
+],
+"ltf - sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"ltf - tetraciclina": [
+"tetraciclina"
+],
+"ltf- salbutamol": [
+"salbutamol"
+],
+"ltf-acido acetilsalicilico": [
+"acido acetilsalicilico"
+],
+"ltf-dipirona": [
+"dipirona"
+],
+"lubrik": [
+"hipromelose"
+],
+"luca": [
+"ondansetrona"
+],
+"luftafem": [
+"ibuprofeno",
+"paracetamol"
+],
+"lutics": [
+"doxazosina"
+],
+"luzati": [
+"fluoxetina"
+],
+"lyndaveluno": [
+"cipionato de estradiol",
+"medroxiprogesterona"
+],
+"lyvabe": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"maclicin": [
+"claritromicina"
+],
+"macrodantina": [
+"nitrofurantoina"
+],
+"macrozol": [
+"omeprazol"
+],
+"magnopyrol": [
+"dipirona"
+],
+"maisol": [
+"colecalciferol"
+],
+"maleapril": [
+"enalapril"
+],
+"maleato de enalapril + hidroclorotiazida": [
+"enalapril"
+],
+"malena": [
+"enalapril"
+],
+"malena hct": [
+"enalapril",
+"hidroclorotiazida"
+],
+"mapitrim": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"marcaina": [
+"bupivacaina"
+],
+"marcaina com epinefrina": [
+"bupivacaina",
+"epinefrina"
+],
+"maresis ht": [
+"cloreto de sodio"
+],
+"marevan": [
+"varfarina"
+],
+"marfarin": [
+"varfarina"
+],
+"masterpril": [
+"captopril"
+],
+"mater folic": [
+"acido folico"
+],
+"maxalgina": [
+"dipirona"
+],
+"maxicalc": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"maxidex": [
+"dexametasona"
+],
+"maxifen": [
+"ibuprofeno"
+],
+"maxiflox": [
+"ciprofloxacino"
+],
+"maxiflox d": [
+"ciprofloxacino",
+"dexametasona"
+],
+"maxiliv": [
+"dipirona"
+],
+"maxinom": [
+"dexametasona",
+"neomicina",
+"polimixina b"
+],
+"maxitrol": [
+"dexametasona",
+"neomicina",
+"polimixina b"
+],
+"maxiview": [
+"dexametasona",
+"neomicina",
+"polimixina b"
+],
+"maxtatin": [
+"nistatina"
+],
+"mazitrom": [
+"azitromicina"
+],
+"mebenix": [
+"albendazol"
+],
+"mebutol": [
+"salbutamol"
+],
+"medalgesico": [
+"dipirona"
+],
+"medantiacid": [
+"hidroxido de aluminio"
+],
+"medat": [
+"cianocobalamina"
+],
+"medicaina": [
+"lidocaina",
+"prilocaina"
+],
+"medmulher": [
+"ibuprofeno"
+],
+"medprazol": [
+"omeprazol"
+],
+"medrogest": [
+"medroxiprogesterona"
+],
+"medroxi": [
+"medroxiprogesterona"
+],
+"medroxiprev": [
+"medroxiprogesterona"
+],
+"medroxon": [
+"medroxiprogesterona"
+],
+"medtrim": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"medvitd3": [
+"colecalciferol"
+],
+"medxil": [
+"amoxicilina"
+],
+"meflagin": [
+"metronidazol"
+],
+"mefordex": [
+"metformina"
+],
+"meformina": [
+"metformina"
+],
+"meg - sulfal": [
+"sulfato de magnesio"
+],
+"megapacilina": [
+"benzilpenicilina"
+],
+"megapen": [
+"benzilpenicilina"
+],
+"megavir": [
+"aciclovir"
+],
+"megazol": [
+"omeprazol"
+],
+"meglize": [
+"metformina"
+],
+"meguanin": [
+"metformina"
+],
+"meniston n": [
+"metronidazol",
+"nistatina"
+],
+"menoclin": [
+"estrogenios conjugados",
+"medroxiprogesterona"
+],
+"menocol": [
+"sinvastatina"
+],
+"menoprin": [
+"estrogenios conjugados"
+],
+"menormon ciclico 5": [
+"estrogenios conjugados"
+],
+"menostar": [
+"estradiol"
+],
+"menotrogen": [
+"estrogenios conjugados"
+],
+"meprasec": [
+"omeprazol"
+],
+"mepraz": [
+"omeprazol"
+],
+"meprazan": [
+"omeprazol"
+],
+"meradizol": [
+"cetoconazol"
+],
+"mericomb": [
+"estradiol",
+"noretisterona"
+],
+"merigest": [
+"estradiol",
+"noretisterona"
+],
+"merimono": [
+"estradiol"
+],
+"mesidox": [
+"doxazosina"
+],
+"mesigyna": [
+"enantato de noretisterona",
+"estradiol"
+],
+"metadex": [
+"dexametasona"
+],
+"metagesic": [
+"dipirona"
+],
+"metfor": [
+"metformina"
+],
+"metfordin": [
+"metformina"
+],
+"metform": [
+"metformina"
+],
+"metformed": [
+"metformina"
+],
+"metformix": [
+"metformina"
+],
+"metglifor xr": [
+"metformina"
+],
+"meticorten": [
+"prednisona"
+],
+"metilbio": [
+"metildopa"
+],
+"metilcord": [
+"metildopa"
+],
+"metildp": [
+"metildopa"
+],
+"metilen": [
+"prednisona"
+],
+"metilpress": [
+"metildopa"
+],
+"metoclopramil": [
+"metoclopramida"
+],
+"metoclosan": [
+"metoclopramida"
+],
+"metoclosantisa": [
+"metoclopramida"
+],
+"metoclosil": [
+"metoclopramida"
+],
+"metoplamin": [
+"metoclopramida"
+],
+"metoprobal": [
+"metoprolol"
+],
+"metrizol": [
+"metronidazol"
+],
+"metrobacter": [
+"metronidazol"
+],
+"metrodax": [
+"benzoilmetronidazol",
+"metronidazol"
+],
+"metrofarma": [
+"metoclopramida"
+],
+"metronack": [
+"metronidazol"
+],
+"metronidan": [
+"benzoilmetronidazol",
+"metronidazol"
+],
+"metronide": [
+"metronidazol"
+],
+"metroniflex": [
+"metronidazol"
+],
+"metronil": [
+"benzoilmetronidazol",
+"metronidazol"
+],
+"metronin": [
+"benzoilmetronidazol",
+"metronidazol"
+],
+"metronix": [
+"metronidazol"
+],
+"metroval": [
+"benzoilmetronidazol",
+"metronidazol"
+],
+"metrozil": [
+"metronidazol"
+],
+"metta sr": [
+"metformina"
+],
+"mevilip": [
+"sinvastatina"
+],
+"mialgin": [
+"acido acetilsalicilico"
+],
+"miclox": [
+"metoprolol"
+],
+"micofim": [
+"miconazol"
+],
+"micogyn": [
+"miconazol"
+],
+"miconal": [
+"itraconazol"
+],
+"miconil": [
+"miconazol"
+],
+"micoral": [
+"cetoconazol"
+],
+"micostal": [
+"nistatina"
+],
+"micostalab": [
+"nistatina"
+],
+"micostatin": [
+"nistatina"
+],
+"micotarin": [
+"miconazol"
+],
+"micotics": [
+"miconazol"
+],
+"micotrin": [
+"miconazol"
+],
+"micozen": [
+"miconazol"
+],
+"micozol": [
+"miconazol"
+],
+"micronor": [
+"noretisterona"
+],
+"microsteron": [
+"levonorgestrel"
+],
+"microvlar": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"mictrin": [
+"hidroclorotiazida"
+],
+"midaclop": [
+"metoclopramida"
+],
+"midadorm": [
+"midazolam"
+],
+"miflasona": [
+"beclometasona"
+],
+"miflonide": [
+"budesonida"
+],
+"miflonide brizz": [
+"budesonida"
+],
+"mikol": [
+"miconazol"
+],
+"milde": [
+"colecalciferol"
+],
+"millar": [
+"midazolam"
+],
+"minegyl": [
+"metronidazol"
+],
+"minegyl n": [
+"metronidazol",
+"nistatina"
+],
+"minidex": [
+"dexametasona"
+],
+"minipil": [
+"levonorgestrel"
+],
+"minisal": [
+"cloreto de potassio",
+"cloreto de sodio",
+"sulfato de magnesio"
+],
+"minola": [
+"metoprolol"
+],
+"minupress": [
+"captopril"
+],
+"minusorb": [
+"alendronato"
+],
+"miocor": [
+"amiodarona"
+],
+"miocoron": [
+"amiodarona"
+],
+"miodaren": [
+"amiodarona"
+],
+"miodarid": [
+"amiodarona"
+],
+"miodaron": [
+"amiodarona"
+],
+"miodon": [
+"amiodarona"
+],
+"miorrelax uno": [
+"dipirona"
+],
+"miracal": [
+"carbonato de calcio"
+],
+"miracalcio vit d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"mirador": [
+"dipirona"
+],
+"miranova": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"mirena": [
+"levonorgestrel"
+],
+"mitrip": [
+"amitriptilina"
+],
+"mixistar": [
+"cloreto de potassio",
+"cloreto de sodio",
+"glicose"
+],
+"mizonol": [
+"miconazol"
+],
+"modifical": [
+"ondansetrona"
+],
+"modik": [
+"imiquimode"
+],
+"monicil": [
+"rifampicina"
+],
+"monitrax": [
+"itraconazol"
+],
+"monocan": [
+"fluconazol"
+],
+"monocordil": [
+"mononitrato de isossorbida"
+],
+"monozen": [
+"albendazol"
+],
+"monozol": [
+"albendazol"
+],
+"motrin": [
+"ibuprofeno"
+],
+"moxiplus": [
+"amoxicilina"
+],
+"multicor": [
+"verapamil"
+],
+"multigram": [
+"tetraciclina"
+],
+"multigrip dor e febre": [
+"paracetamol"
+],
+"multipiral": [
+"dipirona"
+],
+"multipressim": [
+"enalapril"
+],
+"multiralgim": [
+"dipirona"
+],
+"muro 128": [
+"cloreto de sodio"
+],
+"myrafer": [
+"ferripolimaltose"
+],
+"mytfor": [
+"metformina"
+],
+"mytfor lp": [
+"metformina"
+],
+"naclol": [
+"cloreto de sodio"
+],
+"naderm": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"nadroxen": [
+"digoxina"
+],
+"naevia": [
+"tiamina"
+],
+"naldecon dor": [
+"paracetamol"
+],
+"nalfan": [
+"ibuprofeno"
+],
+"nalgesin": [
+"paracetamol"
+],
+"naloxon": [
+"naloxona"
+],
+"nantron": [
+"ondansetrona"
+],
+"naomi": [
+"cipionato de estradiol",
+"medroxiprogesterona"
+],
+"narcan": [
+"naloxona"
+],
+"naridrin bebe": [
+"cloreto de sodio"
+],
+"naridrin h": [
+"cloreto de sodio"
+],
+"narix infantil": [
+"cloreto de sodio"
+],
+"nasalfree": [
+"cloreto de sodio"
+],
+"nasofar ad": [
+"cloreto de sodio"
+],
+"nasojet": [
+"cloreto de sodio"
+],
+"nasojet 3h": [
+"cloreto de sodio"
+],
+"nason": [
+"budesonida"
+],
+"nasterid": [
+"finasterida"
+],
+"natecal": [
+"carbonato de calcio"
+],
+"natecal d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"natuscilin": [
+"cefalexina"
+],
+"naudan odt": [
+"ondansetrona"
+],
+"naumetron": [
+"metoclopramida"
+],
+"nausedron": [
+"ondansetrona"
+],
+"nautex": [
+"ondansetrona"
+],
+"nautex gotas": [
+"ondansetrona"
+],
+"nautex odg": [
+"ondansetrona"
+],
+"navotrax": [
+"clonazepam"
+],
+"nedax": [
+"permetrina"
+],
+"nenfy": [
+"ferripolimaltose"
+],
+"neo - amitriptilin": [
+"amitriptilina"
+],
+"neo - cort": [
+"betametasona",
+"neomicina"
+],
+"neo amitriptilin": [
+"amitriptilina"
+],
+"neo b": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"neo bendazol": [
+"albendazol"
+],
+"neo digoxin": [
+"digoxina"
+],
+"neo fenicol": [
+"cloranfenicol"
+],
+"neo fluoxetin": [
+"fluoxetina"
+],
+"neo folico": [
+"acido folico"
+],
+"neo gentamicin": [
+"gentamicina"
+],
+"neo halop": [
+"haloperidol"
+],
+"neo hidroclor": [
+"hidroclorotiazida"
+],
+"neo itrax": [
+"itraconazol"
+],
+"neo loratadin": [
+"loratadina"
+],
+"neo metformin": [
+"metformina"
+],
+"neo mistatin": [
+"nistatina"
+],
+"neo moxilin": [
+"amoxicilina"
+],
+"neo-rinactive": [
+"budesonida"
+],
+"neobutamina": [
+"dobutamina"
+],
+"neocaina": [
+"bupivacaina"
+],
+"neocaina com vasoconstritor": [
+"bupivacaina",
+"epinefrina"
+],
+"neocaina pesada": [
+"bupivacaina",
+"glicose"
+],
+"neocal d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"neoceflex": [
+"cefalexina"
+],
+"neoderme": [
+"neomicina"
+],
+"neodermicina": [
+"neomicina"
+],
+"neodex": [
+"dexametasona"
+],
+"neodia": [
+"levonorgestrel"
+],
+"neodronex": [
+"dexametasona"
+],
+"neolapril": [
+"enalapril"
+],
+"neolasil": [
+"metoclopramida"
+],
+"neolitium": [
+"carbonato de litio"
+],
+"neomed": [
+"neomicina"
+],
+"neomicin": [
+"neomicina"
+],
+"neomicina - bras": [
+"neomicina"
+],
+"neomicon": [
+"neomicina"
+],
+"neomina": [
+"neomicina"
+],
+"neopamil": [
+"verapamil"
+],
+"neoplexus": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"neoprazol": [
+"omeprazol"
+],
+"neopress": [
+"captopril"
+],
+"neosaldina dip": [
+"dipirona"
+],
+"neosemid": [
+"furosemida"
+],
+"neosoro h": [
+"cloreto de sodio"
+],
+"neostatin": [
+"nistatina"
+],
+"neosulin n": [
+"insulina nph"
+],
+"neotrin balsamico": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"neoverpamil": [
+"verapamil"
+],
+"neovlar": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"nepodex": [
+"dexametasona",
+"neomicina",
+"polimixina b"
+],
+"neprazol": [
+"omeprazol"
+],
+"neprazol gastro": [
+"omeprazol"
+],
+"nepresol": [
+"hidralazina"
+],
+"nervamin": [
+"tiamina"
+],
+"nerven": [
+"tiamina"
+],
+"nesh calcio": [
+"carbonato de calcio"
+],
+"nesh ferro": [
+"sulfato ferroso"
+],
+"nesh folico": [
+"acido folico"
+],
+"nesh zinco": [
+"sulfato de zinco"
+],
+"nestra": [
+"enantato de noretisterona",
+"estradiol"
+],
+"netacil": [
+"benzilpenicilina",
+"benzilpenicilina procaina"
+],
+"neuri - b6": [
+"piridoxina"
+],
+"neurivit": [
+"tiamina"
+],
+"neurolithium": [
+"carbonato de litio"
+],
+"neurotrypt": [
+"amitriptilina"
+],
+"neutoss": [
+"salbutamol"
+],
+"neutrocal d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"nevraldor": [
+"dipirona"
+],
+"nevralgex dip": [
+"dipirona"
+],
+"nevralgina": [
+"dipirona"
+],
+"nevrix im": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"nice": [
+"cloreto de sodio"
+],
+"nicord": [
+"anlodipino"
+],
+"nicostan": [
+"nistatina"
+],
+"nicostat": [
+"nistatina"
+],
+"nidazofarma": [
+"metronidazol"
+],
+"nidazolin": [
+"nistatina"
+],
+"nienza": [
+"carvedilol"
+],
+"nife-bras": [
+"nifedipino"
+],
+"nifedipress": [
+"nifedipino"
+],
+"nifelat": [
+"atenolol",
+"nifedipino"
+],
+"niilis": [
+"digoxina"
+],
+"nilclamida": [
+"glibenclamida"
+],
+"nioxil": [
+"nifedipino"
+],
+"nisbal": [
+"prednisona"
+],
+"nisocort": [
+"prednisona"
+],
+"nistagen": [
+"nistatina"
+],
+"nistagyn": [
+"nistatina"
+],
+"nistamax": [
+"nistatina"
+],
+"nistan": [
+"nistatina"
+],
+"nistatec": [
+"nistatina"
+],
+"nistatin": [
+"nistatina"
+],
+"nistatina prodotti": [
+"nistatina"
+],
+"nistatitan": [
+"nistatina"
+],
+"nistaval": [
+"nistatina"
+],
+"nistax": [
+"nistatina"
+],
+"nistazine": [
+"nistatina"
+],
+"nistomic": [
+"nistatina"
+],
+"nistrazin": [
+"nistatina"
+],
+"nitrofen": [
+"nitrofurantoina"
+],
+"nizoral": [
+"cetoconazol"
+],
+"nizoretic": [
+"cetoconazol"
+],
+"noacid": [
+"hidroxido de aluminio"
+],
+"nociclin 21": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"nocip": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"noele": [
+"enantato de noretisterona",
+"estradiol"
+],
+"noex": [
+"budesonida"
+],
+"nofebrin": [
+"dipirona"
+],
+"nopasure": [
+"lidocaina"
+],
+"nopirodil": [
+"dipirona"
+],
+"noprosil": [
+"metoclopramida"
+],
+"noradrem": [
+"norepinefrina"
+],
+"norbinot": [
+"cloranfenicol"
+],
+"nordette": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"noregyna": [
+"enantato de noretisterona",
+"estradiol"
+],
+"norepine": [
+"norepinefrina"
+],
+"norestin": [
+"noretisterona"
+],
+"noretisterona + etinilestradiol": [
+"etinilestradiol",
+"noretisterona"
+],
+"nori-1": [
+"ferripolimaltose"
+],
+"noriderm": [
+"cetoconazol"
+],
+"noriptol": [
+"nortriptilina"
+],
+"noripurum": [
+"ferripolimaltose"
+],
+"noripurum folico": [
+"acido folico",
+"ferripolimaltose"
+],
+"norlevo": [
+"levonorgestrel"
+],
+"norlyn": [
+"nortriptilina"
+],
+"normalac": [
+"lactulose"
+],
+"normamor": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"normolax": [
+"lactulose"
+],
+"normopres": [
+"nifedipino"
+],
+"noronal": [
+"cetoconazol"
+],
+"nortrel": [
+"levonorgestrel"
+],
+"nortrip": [
+"nortriptilina"
+],
+"nortry": [
+"nortriptilina"
+],
+"norvasc": [
+"anlodipino"
+],
+"norvil": [
+"verapamil"
+],
+"novacort": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"novagest": [
+"levonorgestrel"
+],
+"novagreen": [
+"dipirona"
+],
+"novaldip": [
+"dipirona"
+],
+"novalfem": [
+"ibuprofeno"
+],
+"novalgina": [
+"dipirona"
+],
+"novapirona": [
+"dipirona"
+],
+"novaton": [
+"atropina"
+],
+"novatrex": [
+"azitromicina"
+],
+"novistar": [
+"dipirona"
+],
+"novo rino - s": [
+"cloreto de sodio"
+],
+"novocilin": [
+"amoxicilina"
+],
+"novolin 70/30": [
+"insulina humana"
+],
+"novolin 80/20": [
+"insulina humana"
+],
+"novolin 90/10": [
+"insulina humana"
+],
+"novolin l": [
+"insulina humana"
+],
+"novolin n": [
+"insulina humana"
+],
+"novolin r": [
+"insulina humana"
+],
+"novolin u": [
+"insulina humana"
+],
+"novoprazol": [
+"omeprazol"
+],
+"novopulmon novolizer": [
+"budesonida"
+],
+"novosil": [
+"metoclopramida"
+],
+"novosoro h": [
+"cloreto de sodio"
+],
+"novoxil": [
+"amoxicilina"
+],
+"novoxilac": [
+"amoxicilina",
+"clavulanato"
+],
+"ntf dipirona": [
+"dipirona"
+],
+"ntf paracetamol": [
+"paracetamol"
+],
+"nujol": [
+"oleo mineral"
+],
+"nuplam - sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"nuplam - sulfato ferroso": [
+"sulfato ferroso"
+],
+"nurofen": [
+"ibuprofeno"
+],
+"nuromol": [
+"ibuprofeno",
+"paracetamol"
+],
+"nutracort": [
+"hidrocortisona"
+],
+"nutrassio": [
+"cloreto de potassio"
+],
+"nutrical d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"nutricress": [
+"colecalciferol",
+"piridoxina",
+"retinol"
+],
+"nyolol gel": [
+"timolol"
+],
+"ocylin": [
+"amoxicilina"
+],
+"ofite plus": [
+"tetraciclina"
+],
+"ohde": [
+"colecalciferol"
+],
+"ohde caps": [
+"colecalciferol"
+],
+"omec": [
+"omeprazol"
+],
+"omenax": [
+"omeprazol"
+],
+"omepramed gastro": [
+"omeprazol"
+],
+"omepramix": [
+"amoxicilina",
+"claritromicina",
+"omeprazol"
+],
+"omeprazin": [
+"omeprazol"
+],
+"omeprazolex": [
+"omeprazol"
+],
+"omeprotec": [
+"omeprazol"
+],
+"omezol": [
+"omeprazol"
+],
+"omezolon": [
+"omeprazol"
+],
+"omoprel": [
+"omeprazol"
+],
+"onadyv": [
+"ondansetrona"
+],
+"oncileg cort": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"ondaalive": [
+"ondansetrona"
+],
+"ondanmed": [
+"ondansetrona"
+],
+"ondantril": [
+"ondansetrona"
+],
+"ondavon": [
+"ondansetrona"
+],
+"ondetron": [
+"ondansetrona"
+],
+"ondif": [
+"ondansetrona"
+],
+"ondralix": [
+"ondansetrona"
+],
+"ondrau": [
+"ondansetrona"
+],
+"ondset inj": [
+"ondansetrona"
+],
+"ondset odt": [
+"ondansetrona"
+],
+"ondset solucao oral": [
+"ondansetrona"
+],
+"ontrax": [
+"ondansetrona"
+],
+"oraice": [
+"cloreto de sodio"
+],
+"oralpred": [
+"fosfato sodico de prednisolona"
+],
+"orosprevent": [
+"acido acetilsalicilico",
+"nifedipino"
+],
+"orostan": [
+"losartana",
+"nifedipino"
+],
+"oscal 500": [
+"carbonato de calcio"
+],
+"ossotrat - d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"ostelox": [
+"alendronato"
+],
+"osteoduo": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"osteoduo fos": [
+"calcio tribasico",
+"colecalciferol"
+],
+"osteofix": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"osteonutri": [
+"calcio tribasico",
+"colecalciferol"
+],
+"osteoprevix d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"ostrazil": [
+"alendronato"
+],
+"otiun": [
+"ibuprofeno"
+],
+"otocaine": [
+"ciprofloxacino"
+],
+"otociriax": [
+"ciprofloxacino",
+"hidrocortisona"
+],
+"otocort": [
+"fluocinolona acetonida",
+"lidocaina",
+"neomicina",
+"polimixina b"
+],
+"otofoxin": [
+"ciprofloxacino"
+],
+"otogran": [
+"ciprofloxacino"
+],
+"otomicina": [
+"cloranfenicol",
+"lidocaina"
+],
+"otomixyn": [
+"fluocinolona acetonida",
+"lidocaina",
+"neomicina",
+"polimixina b"
+],
+"otoquinoflox": [
+"ciprofloxacino",
+"hidrocortisona"
+],
+"otosporin": [
+"hidrocortisona",
+"neomicina",
+"polimixina b"
+],
+"otosylase": [
+"fluocinolona acetonida",
+"lidocaina",
+"neomicina",
+"polimixina b"
+],
+"otosynalar": [
+"fluocinolona acetonida",
+"lidocaina",
+"neomicina",
+"polimixina b"
+],
+"ouvidonal": [
+"cloranfenicol",
+"lidocaina"
+],
+"ovestrion": [
+"estriol"
+],
+"oxcord": [
+"nifedipino"
+],
+"ozurdex": [
+"dexametasona"
+],
+"pacemol": [
+"paracetamol"
+],
+"pamelor": [
+"nortriptilina"
+],
+"pamergan": [
+"prometazina"
+],
+"pamfer": [
+"ferripolimaltose"
+],
+"panoxyl gel": [
+"peroxido de benzoila"
+],
+"pantec": [
+"fluconazol"
+],
+"paracemil": [
+"paracetamol"
+],
+"paracen": [
+"paracetamol"
+],
+"paracetrex": [
+"paracetamol"
+],
+"parafen": [
+"paracetamol"
+],
+"paraflan": [
+"paracetamol"
+],
+"paralgen": [
+"paracetamol"
+],
+"paralgesic": [
+"paracetamol"
+],
+"paramol": [
+"paracetamol"
+],
+"parartrin": [
+"ibuprofeno"
+],
+"parasin": [
+"albendazol"
+],
+"parazol": [
+"albendazol"
+],
+"parenzyme tetraciclina": [
+"tetraciclina"
+],
+"parkidopa": [
+"carbidopa",
+"levodopa"
+],
+"parkinsol": [
+"biperideno",
+"lactato de biperideno"
+],
+"parklen": [
+"carbidopa",
+"levodopa"
+],
+"pasmodex": [
+"atropina"
+],
+"passerota": [
+"nistatina"
+],
+"pasta parisiense": [
+"acido salicilico"
+],
+"pen-syn": [
+"benzilpenicilina"
+],
+"pencil 400": [
+"benzilpenicilina",
+"benzilpenicilina procaina"
+],
+"peni proc": [
+"benzilpenicilina procaina"
+],
+"penicilina g potassica": [
+"benzilpenicilina"
+],
+"penkaron": [
+"benzilpenicilina",
+"benzilpenicilina procaina"
+],
+"penretard": [
+"benzilpenicilina benzatina"
+],
+"pentalac": [
+"lactulose"
+],
+"penvicilin": [
+"amoxicilina"
+],
+"pepgastrin": [
+"hidroxido de aluminio"
+],
+"peprazol": [
+"omeprazol"
+],
+"pepsamar": [
+"hidroxido de aluminio"
+],
+"pepsicaps": [
+"omeprazol"
+],
+"peptgel": [
+"hidroxido de aluminio"
+],
+"peptrat": [
+"omeprazol"
+],
+"perladol": [
+"haloperidol"
+],
+"perlumes": [
+"algestona acetofenida",
+"enantato de estradiol"
+],
+"perlutan": [
+"algestona acetofenida",
+"enantato de estradiol"
+],
+"permassin": [
+"permanganato"
+],
+"permenati": [
+"permetrina"
+],
+"permese": [
+"betametasona",
+"fosfato dissodico de betametasona"
+],
+"permetril": [
+"permetrina"
+],
+"permetrix": [
+"permetrina"
+],
+"permitrat": [
+"permetrina"
+],
+"peroxiben": [
+"peroxido de benzoila"
+],
+"pertopril": [
+"captopril"
+],
+"pharnolol": [
+"propranolol"
+],
+"pilem": [
+"levonorgestrel"
+],
+"pilocan": [
+"pilocarpina"
+],
+"pilosol": [
+"pilocarpina"
+],
+"pio secto": [
+"permetrina"
+],
+"piodrex": [
+"permetrina"
+],
+"piolat": [
+"permetrina"
+],
+"piolell": [
+"permetrina"
+],
+"piolendia": [
+"permetrina"
+],
+"pioletal": [
+"permetrina"
+],
+"piolex": [
+"permetrina"
+],
+"piolixina": [
+"permetrina"
+],
+"piosan": [
+"permetrina"
+],
+"piosidim": [
+"permetrina"
+],
+"piosol": [
+"permetrina"
+],
+"piotraty": [
+"permetrina"
+],
+"piperorgan": [
+"albendazol"
+],
+"piramin": [
+"paracetamol"
+],
+"piridor": [
+"dipirona"
+],
+"pirofebran": [
+"dipirona"
+],
+"pirogina": [
+"dipirona"
+],
+"plabel": [
+"metoclopramida"
+],
+"plagex": [
+"metoclopramida"
+],
+"plamida": [
+"metoclopramida"
+],
+"plamidasil": [
+"metoclopramida"
+],
+"plamivon": [
+"metoclopramida"
+],
+"plasil": [
+"metoclopramida"
+],
+"plavom": [
+"metoclopramida"
+],
+"plenacor": [
+"atenolol"
+],
+"plex-d3 vitamin": [
+"colecalciferol"
+],
+"plurimec": [
+"ivermectina"
+],
+"pneumocris": [
+"salbutamol"
+],
+"polapic": [
+"dexclorfeniramina"
+],
+"polaradex": [
+"dexclorfeniramina"
+],
+"polaramine": [
+"dexclorfeniramina"
+],
+"polaratin": [
+"dexclorfeniramina"
+],
+"polarax": [
+"dexclorfeniramina"
+],
+"polarbel": [
+"dexclorfeniramina"
+],
+"polaren": [
+"dexclorfeniramina"
+],
+"polaryn": [
+"dexclorfeniramina"
+],
+"policlavumoxil bd": [
+"amoxicilina",
+"clavulanato"
+],
+"polimoxil": [
+"amoxicilina"
+],
+"polix": [
+"polimixina b"
+],
+"polixil b": [
+"polimixina b"
+],
+"polizol": [
+"albendazol"
+],
+"polol": [
+"propranolol"
+],
+"polol h": [
+"hidroclorotiazida",
+"propranolol"
+],
+"poly b": [
+"polimixina b"
+],
+"polycid": [
+"polimixina b"
+],
+"polytek-b": [
+"polimixina b"
+],
+"pomada de penicilina rhodia": [
+"benzilpenicilina"
+],
+"pomax": [
+"betametasona",
+"gentamicina"
+],
+"pomicina": [
+"neomicina"
+],
+"poslov": [
+"levonorgestrel"
+],
+"postinor": [
+"levonorgestrel"
+],
+"postinor uno": [
+"levonorgestrel"
+],
+"postoval": [
+"estradiol",
+"levonorgestrel"
+],
+"pozato": [
+"levonorgestrel"
+],
+"pozato uni": [
+"levonorgestrel"
+],
+"pracap": [
+"finasterida"
+],
+"pralivio": [
+"ibuprofeno"
+],
+"pralivio mulher": [
+"ibuprofeno"
+],
+"pranolal": [
+"propranolol"
+],
+"prati-donaduzzi sulfato ferroso": [
+"sulfato ferroso"
+],
+"pratifolin": [
+"acido folico"
+],
+"pratiprazol": [
+"omeprazol"
+],
+"pratium": [
+"paracetamol"
+],
+"pratsorin": [
+"cloreto de sodio"
+],
+"pratsorin - h": [
+"cloreto de sodio"
+],
+"prazolex": [
+"omeprazol"
+],
+"prazonil": [
+"omeprazol"
+],
+"prazotom": [
+"omeprazol"
+],
+"pre-folic": [
+"acido folico"
+],
+"precortil": [
+"prednisona"
+],
+"predcort": [
+"prednisona"
+],
+"predinis": [
+"prednisona"
+],
+"prediped": [
+"fosfato sodico de prednisolona"
+],
+"preditec": [
+"prednisona"
+],
+"prednax": [
+"prednisona"
+],
+"prednisolon": [
+"fosfato sodico de prednisolona"
+],
+"predsim odt": [
+"fosfato sodico de prednisolona"
+],
+"predval": [
+"prednisona"
+],
+"preg-less": [
+"algestona acetofenida",
+"enantato de estradiol"
+],
+"pregnil": [
+"algestona acetofenida",
+"enantato de estradiol"
+],
+"pregnolan": [
+"algestona acetofenida",
+"enantato de estradiol"
+],
+"prem": [
+"estrogenios conjugados"
+],
+"prempro": [
+"estrogenios conjugados",
+"medroxiprogesterona"
+],
+"prenisol": [
+"fosfato sodico de prednisolona"
+],
+"prenix": [
+"permetrina"
+],
+"pressel": [
+"enalapril"
+],
+"pressocord": [
+"enalapril"
+],
+"pressodopa": [
+"metildopa"
+],
+"pressoflux": [
+"propranolol"
+],
+"pressomax": [
+"captopril"
+],
+"pressomede": [
+"enalapril"
+],
+"pressotec": [
+"enalapril"
+],
+"pressovita": [
+"hidroclorotiazida"
+],
+"presstopril": [
+"captopril"
+],
+"prevical d": [
+"calcio tribasico",
+"colecalciferol"
+],
+"previdez - 2": [
+"levonorgestrel"
+],
+"prevyol-2": [
+"levonorgestrel"
+],
+"prilaten": [
+"captopril"
+],
+"prilocaina + felipressina": [
+"felipressina",
+"prilocaina"
+],
+"prilonest": [
+"felipressina",
+"prilocaina"
+],
+"prilostesina 3%": [
+"felipressina",
+"prilocaina"
+],
+"prilpressin": [
+"captopril"
+],
+"primacef": [
+"cefalexina"
+],
+"primogyna": [
+"estradiol"
+],
+"primogyna®": [
+"estradiol"
+],
+"primolut - nor": [
+"noretisterona"
+],
+"primolut-nor": [
+"noretisterona"
+],
+"primosiston": [
+"etinilestradiol",
+"noretisterona"
+],
+"probatol": [
+"ibuprofeno"
+],
+"probenzil": [
+"benzilpenicilina",
+"benzilpenicilina procaina"
+],
+"procept": [
+"medroxiprogesterona"
+],
+"procsim": [
+"ciprofloxacino"
+],
+"proderal": [
+"propranolol"
+],
+"prodinix": [
+"prednisona"
+],
+"prodocaina": [
+"lidocaina"
+],
+"prodopina": [
+"nifedipino"
+],
+"prodopressin": [
+"enalapril"
+],
+"prodoxil": [
+"amoxicilina"
+],
+"prodoxin": [
+"ceftriaxona"
+],
+"produto teste 21.08": [
+"paracetamol"
+],
+"profalexina": [
+"cefalexina"
+],
+"profenicol": [
+"cloranfenicol"
+],
+"profergan": [
+"prometazina"
+],
+"proflox": [
+"ciprofloxacino"
+],
+"proflox d": [
+"ciprofloxacino",
+"dexametasona"
+],
+"progerin": [
+"medroxiprogesterona"
+],
+"prohair": [
+"finasterida"
+],
+"proherp": [
+"aciclovir"
+],
+"proinflac": [
+"ibuprofeno"
+],
+"prolerg": [
+"prometazina"
+],
+"prolopa": [
+"benserazida",
+"levodopa"
+],
+"prolox": [
+"propranolol"
+],
+"promangiol": [
+"propranolol"
+],
+"promeclor": [
+"prometazina"
+],
+"promergan": [
+"prometazina"
+],
+"prometazol": [
+"prometazina"
+],
+"pronasteron": [
+"finasterida"
+],
+"pronazol": [
+"fluconazol"
+],
+"pronistin": [
+"nistatina"
+],
+"pronol": [
+"propranolol"
+],
+"pronolol": [
+"propranolol"
+],
+"prontomid": [
+"midazolam"
+],
+"propaermonol": [
+"propranolol"
+],
+"propalol": [
+"propranolol"
+],
+"propanderal": [
+"propranolol"
+],
+"propanolon": [
+"propranolol"
+],
+"propanox": [
+"propranolol"
+],
+"propecia": [
+"finasterida"
+],
+"propilracil": [
+"propiltiouracila"
+],
+"propisone": [
+"betametasona"
+],
+"propramed": [
+"propranolol"
+],
+"propranolil": [
+"propranolol"
+],
+"propranolom": [
+"propranolol"
+],
+"propratec": [
+"propranolol"
+],
+"pros": [
+"doxazosina"
+],
+"pros-hp": [
+"doxazosina",
+"finasterida"
+],
+"proscar": [
+"finasterida"
+],
+"prosolin": [
+"fosfato sodico de prednisolona"
+],
+"prostadox": [
+"doxazosina"
+],
+"prostaflux": [
+"doxazosina"
+],
+"prosteride": [
+"finasterida"
+],
+"prostex": [
+"finasterida"
+],
+"prostide": [
+"finasterida"
+],
+"prostokos": [
+"misoprostol"
+],
+"protanol": [
+"amitriptilina"
+],
+"provera": [
+"medroxiprogesterona"
+],
+"provicta d": [
+"colecalciferol"
+],
+"prozac": [
+"fluoxetina"
+],
+"prozen": [
+"fluoxetina"
+],
+"pryltec": [
+"enalapril"
+],
+"pryltec h": [
+"enalapril",
+"hidroclorotiazida"
+],
+"psiquial": [
+"fluoxetina"
+],
+"pulkrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"pulmicort": [
+"budesonida"
+],
+"pulmotrin": [
+"salbutamol"
+],
+"puran t4": [
+"levotiroxina"
+],
+"purinol": [
+"alopurinol"
+],
+"pyotrina": [
+"permetrina"
+],
+"pyrimel": [
+"paracetamol"
+],
+"qbl dipirona": [
+"dipirona"
+],
+"qiftrim": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"quadriderm® duo": [
+"betametasona",
+"gentamicina"
+],
+"quemicetina": [
+"cloranfenicol"
+],
+"quenzor": [
+"metoprolol"
+],
+"quiflox": [
+"ciprofloxacino"
+],
+"quimotrin": [
+"dipirona"
+],
+"quinoflox": [
+"ciprofloxacino"
+],
+"reacbe": [
+"loratadina"
+],
+"rebaten la": [
+"propranolol"
+],
+"redizol": [
+"fosfato sodico de prednisolona"
+],
+"reduscar": [
+"finasterida"
+],
+"regrair": [
+"salbutamol"
+],
+"reidrin": [
+"bicarbonato de sodio",
+"cloreto de potassio",
+"cloreto de sodio",
+"glicose"
+],
+"relapax": [
+"diazepam"
+],
+"remetin": [
+"metoclopramida"
+],
+"renalapril": [
+"enalapril"
+],
+"renapril": [
+"enalapril"
+],
+"renipress": [
+"enalapril"
+],
+"renopress": [
+"enalapril"
+],
+"renopril": [
+"enalapril"
+],
+"renovi b": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"repocal d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"repotas": [
+"cloreto de potassio"
+],
+"repril": [
+"captopril"
+],
+"resfec": [
+"paracetamol"
+],
+"resfenol thermus": [
+"paracetamol"
+],
+"retinar": [
+"retinol"
+],
+"revastin": [
+"sinvastatina"
+],
+"revectina": [
+"ivermectina"
+],
+"revivan": [
+"dopamina"
+],
+"riconazol": [
+"fluconazol"
+],
+"rifacin": [
+"rifampicina"
+],
+"rifaldin": [
+"rifampicina"
+],
+"rifamax": [
+"rifampicina"
+],
+"rifampicina ivb": [
+"rifampicina"
+],
+"rifanptil": [
+"rifampicina"
+],
+"rifansil": [
+"rifampicina"
+],
+"rifantex": [
+"rifampicina"
+],
+"rifondil": [
+"rifampicina"
+],
+"rinordil": [
+"cloreto de sodio"
+],
+"rinosoft s solucao": [
+"cloreto de sodio"
+],
+"rinosol": [
+"cloreto de sodio"
+],
+"rinosoro": [
+"cloreto de sodio"
+],
+"rinosoro sic": [
+"cloreto de sodio"
+],
+"rioxina": [
+"digoxina"
+],
+"riselle": [
+"estradiol"
+],
+"ritcor": [
+"atenolol"
+],
+"ritmonorm": [
+"propafenona"
+],
+"ritpress": [
+"captopril"
+],
+"rivotril": [
+"clonazepam"
+],
+"ronal": [
+"acido acetilsalicilico"
+],
+"roxflan": [
+"anlodipino"
+],
+"royton": [
+"succinato sodico de hidrocortisona"
+],
+"roytrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"rozex": [
+"metronidazol"
+],
+"sal de vichy efervescente - ems": [
+"bicarbonato de sodio"
+],
+"salbulim": [
+"salbutamol"
+],
+"salburin": [
+"salbutamol"
+],
+"salbutam": [
+"salbutamol"
+],
+"salbutib": [
+"salbutamol"
+],
+"salbutrat": [
+"salbutamol"
+],
+"salicil": [
+"acido acetilsalicilico"
+],
+"salicin": [
+"acido acetilsalicilico"
+],
+"saliprevi": [
+"acido acetilsalicilico"
+],
+"salitil": [
+"acido acetilsalicilico"
+],
+"salonfer": [
+"sulfato ferroso"
+],
+"salsatresquinas": [
+"tiamina"
+],
+"salsep": [
+"cloreto de sodio"
+],
+"sandrena": [
+"estradiol"
+],
+"sanifolin": [
+"acido folinico"
+],
+"sanpronol": [
+"propranolol"
+],
+"santiazepam": [
+"diazepam"
+],
+"santidor": [
+"dipirona"
+],
+"santigel": [
+"hidroxido de aluminio"
+],
+"santisa cloreto de potassio": [
+"cloreto de potassio"
+],
+"santropina": [
+"atropina"
+],
+"sanusole": [
+"colecalciferol"
+],
+"sanvapress": [
+"enalapril"
+],
+"sanverme": [
+"metronidazol"
+],
+"sany d": [
+"colecalciferol"
+],
+"sany d 800": [
+"colecalciferol"
+],
+"sany d caps": [
+"colecalciferol"
+],
+"sarolin": [
+"salbutamol"
+],
+"saya control": [
+"levonorgestrel"
+],
+"sayana": [
+"medroxiprogesterona"
+],
+"seasonique": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"secuclor": [
+"clorpromazina"
+],
+"secudarona": [
+"amiodarona"
+],
+"secudip": [
+"dipirona"
+],
+"secufen": [
+"fenitoina"
+],
+"secufenotal": [
+"fenobarbital"
+],
+"seculexina": [
+"cefalexina"
+],
+"secupranol": [
+"propranolol"
+],
+"securicol": [
+"cloranfenicol"
+],
+"securtisona": [
+"succinato sodico de hidrocortisona"
+],
+"secusemida": [
+"furosemida"
+],
+"secusona": [
+"dexametasona"
+],
+"secutronida": [
+"metronidazol"
+],
+"secutropina": [
+"atropina"
+],
+"sedaclon": [
+"clonazepam"
+],
+"seis b": [
+"piridoxina"
+],
+"selecta": [
+"estrogenios conjugados",
+"medroxiprogesterona"
+],
+"selectrim": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"selectrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"selimax": [
+"azitromicina"
+],
+"selimax pulso": [
+"azitromicina"
+],
+"seloken": [
+"metoprolol"
+],
+"selopress": [
+"hidroclorotiazida",
+"metoprolol"
+],
+"selozok": [
+"metoprolol"
+],
+"senoclin": [
+"clindamicina"
+],
+"sensinil tm": [
+"lidocaina"
+],
+"sensitex": [
+"betametasona"
+],
+"septmyc": [
+"claritromicina"
+],
+"septopal": [
+"gentamicina"
+],
+"septra": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"setrociclina": [
+"estolato de eritromicina"
+],
+"setronax": [
+"ondansetrona"
+],
+"sidamicin": [
+"azitromicina"
+],
+"sifaas": [
+"acido acetilsalicilico"
+],
+"sifnazol": [
+"cetoconazol"
+],
+"sigma clav": [
+"amoxicilina",
+"clavulanato"
+],
+"sigma-clav bd": [
+"amoxicilina",
+"clavulanato"
+],
+"silglos": [
+"sulfadiazina de prata"
+],
+"simlip": [
+"sinvastatina"
+],
+"sinemet": [
+"carbidopa",
+"levodopa"
+],
+"sinergen": [
+"anlodipino",
+"enalapril"
+],
+"sinot": [
+"amoxicilina"
+],
+"sinot clav": [
+"amoxicilina",
+"clavulanato"
+],
+"sinstiphar": [
+"sinvastatina"
+],
+"sintomatic": [
+"propafenona"
+],
+"sintomicetina": [
+"cloranfenicol"
+],
+"sinustrat": [
+"cloreto de sodio"
+],
+"sinustrat solucao natural": [
+"cloreto de sodio"
+],
+"sinvalip": [
+"sinvastatina"
+],
+"sinvalip aaspac": [
+"acido acetilsalicilico",
+"sinvastatina"
+],
+"sinvane": [
+"sinvastatina"
+],
+"sinvascor": [
+"sinvastatina"
+],
+"sinvasmax": [
+"sinvastatina"
+],
+"sinvast": [
+"sinvastatina"
+],
+"sinvastacor": [
+"sinvastatina"
+],
+"sinvastamed": [
+"sinvastatina"
+],
+"sinvastamil": [
+"sinvastatina"
+],
+"sinvastin": [
+"sinvastatina"
+],
+"sinvaston": [
+"sinvastatina"
+],
+"sinvatrox": [
+"sinvastatina"
+],
+"sinvax": [
+"sinvastatina"
+],
+"sinvaz": [
+"sinvastatina"
+],
+"sioconazol": [
+"cetoconazol"
+],
+"sipul": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"sivastin": [
+"sinvastatina"
+],
+"slow-k": [
+"cloreto de potassio"
+],
+"snif": [
+"cloreto de sodio"
+],
+"snif 3%": [
+"cloreto de sodio"
+],
+"snif sc": [
+"cloreto de sodio"
+],
+"snouse": [
+"cloreto de sodio"
+],
+"sof d": [
+"colecalciferol"
+],
+"softderm": [
+"acido salicilico",
+"betametasona"
+],
+"softez": [
+"dexclorfeniramina"
+],
+"sol-cart b": [
+"bicarbonato de sodio"
+],
+"solu-cortef": [
+"succinato sodico de hidrocortisona"
+],
+"solucao de cloreto de potassio": [
+"cloreto de potassio"
+],
+"solucao de cloreto de sodio b.braun": [
+"cloreto de sodio"
+],
+"solucao de dipirona barros": [
+"dipirona"
+],
+"solucao de glicose 5%": [
+"glicose"
+],
+"solucao de glicose a 10 % basa": [
+"glicose"
+],
+"solucao de glicose a 5 % basa": [
+"glicose"
+],
+"solucao de glicose a 5% isotonica": [
+"glicose"
+],
+"solucao de glicose b. braun": [
+"glicose"
+],
+"solucao enema de glicerina": [
+"glicerol"
+],
+"solucao fisiologica": [
+"cloreto de sodio"
+],
+"solucao fisiologica - gaspar viana": [
+"cloreto de sodio"
+],
+"solucao fisiologica a 0,9%": [
+"cloreto de sodio"
+],
+"solucao fisiologica de cloreto de sodio": [
+"cloreto de sodio"
+],
+"solucao fisiologica de cloreto de sodio equiplex": [
+"cloreto de sodio"
+],
+"solucao glico-fisiologica 1:1": [
+"cloreto de sodio",
+"glicose"
+],
+"solucao glicocloretada": [
+"cloreto de sodio",
+"glicose"
+],
+"solucao glicocloretada basa": [
+"cloreto de sodio",
+"glicose"
+],
+"solucao glicofisiologica": [
+"cloreto de sodio",
+"glicose"
+],
+"solucao glicofisiologica beker": [
+"cloreto de sodio",
+"glicose"
+],
+"solucao glicofisiologica gaspar viana": [
+"cloreto de sodio",
+"glicose"
+],
+"solucao glicofisiologica madrevita": [
+"cloreto de sodio",
+"glicose"
+],
+"solucao glicofisiologica sanobiol": [
+"cloreto de sodio",
+"glicose"
+],
+"solucao glicofisiologica snb": [
+"cloreto de sodio",
+"glicose"
+],
+"solucao glicosada madrevita": [
+"glicose"
+],
+"solucao injetavel de cloreto de sodio 0,9% darrow": [
+"cloreto de sodio"
+],
+"solucao injetavel de glicose 10%": [
+"glicose"
+],
+"solucao injetavel vitamina b 12 500 mcg": [
+"cianocobalamina"
+],
+"solucao isotonica de cloreto de sodio a 0,9%": [
+"cloreto de sodio"
+],
+"solucao polieletrolitica": [
+"acetato de sodio",
+"cloreto de potassio",
+"cloreto de sodio",
+"glicose"
+],
+"solugel": [
+"peroxido de benzoila"
+],
+"solumox": [
+"amoxicilina"
+],
+"somalfen": [
+"ibuprofeno"
+],
+"somalgin prevent": [
+"acido acetilsalicilico"
+],
+"somixil": [
+"acido folico"
+],
+"sonolam": [
+"midazolam"
+],
+"sonridor": [
+"paracetamol"
+],
+"soolantra": [
+"ivermectina"
+],
+"soriflux nasal": [
+"cloreto de sodio"
+],
+"sorinan infantil": [
+"cloreto de sodio"
+],
+"sorine h": [
+"cloreto de sodio"
+],
+"sorine ssc": [
+"cloreto de sodio"
+],
+"sorocris": [
+"cloreto de sodio"
+],
+"sorofar": [
+"cloreto de sodio"
+],
+"soroliv": [
+"cloreto de sodio"
+],
+"soroliv hipertonico": [
+"cloreto de sodio"
+],
+"soronazen": [
+"cloreto de sodio"
+],
+"sorum": [
+"cloreto de sodio"
+],
+"spectroflex": [
+"ciprofloxacino"
+],
+"spiroctan": [
+"espironolactona"
+],
+"sporanox": [
+"itraconazol"
+],
+"spox": [
+"polimixina b"
+],
+"spozol": [
+"itraconazol"
+],
+"stele": [
+"estriol"
+],
+"stiefcortil": [
+"hidrocortisona"
+],
+"stilgrip cha": [
+"paracetamol"
+],
+"strips": [
+"permetrina"
+],
+"subtrax": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"sulfaderm": [
+"sulfadiazina de prata"
+],
+"sulfadiazina argentica": [
+"sulfadiazina de prata"
+],
+"sulfametoxazol + trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"sulfametoxazol + trimetroprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"sulfametoxazol+trimetoprima": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"sulfamin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"sulfato de gentamicina": [
+"gentamicina"
+],
+"sulfato de magnesio aster": [
+"sulfato de magnesio"
+],
+"sulfato de neomicina + sulfato de polimixina b": [
+"neomicina",
+"polimixina b"
+],
+"sulfato ferroso phytolab": [
+"sulfato ferroso"
+],
+"sulfatrim": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"sulfatrimexol": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"sulfatrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"sulfergel": [
+"sulfato ferroso"
+],
+"sulftrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"sulph": [
+"sulfadiazina de prata"
+],
+"suple - k": [
+"cloreto de potassio"
+],
+"suprema": [
+"estradiol",
+"noretisterona"
+],
+"suprical d": [
+"carbonato de calcio",
+"colecalciferol"
+],
+"supritass": [
+"cloreto de potassio"
+],
+"synalar": [
+"fluocinolona acetonida"
+],
+"synthroid": [
+"levotiroxina"
+],
+"tabcin": [
+"paracetamol"
+],
+"tabcin hot drink": [
+"paracetamol"
+],
+"takdrin": [
+"miconazol"
+],
+"tandrex-a": [
+"paracetamol"
+],
+"tapazol": [
+"tiamazol"
+],
+"tarbet": [
+"metoprolol"
+],
+"taxbac": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"taxelina": [
+"metoprolol"
+],
+"taxima": [
+"cefotaxima"
+],
+"teclind": [
+"clindamicina"
+],
+"tegretard": [
+"carbamazepina"
+],
+"tegretol": [
+"carbamazepina"
+],
+"tegrex": [
+"carbamazepina"
+],
+"tegrezin": [
+"carbamazepina"
+],
+"telol": [
+"atenolol"
+],
+"telozam": [
+"midazolam"
+],
+"temazepina": [
+"carbamazepina"
+],
+"tenadren": [
+"hidroclorotiazida",
+"propranolol"
+],
+"tenavit": [
+"acido folico",
+"cianocobalamina",
+"piridoxina"
+],
+"tendipina": [
+"anlodipino"
+],
+"tenlopin": [
+"anlodipino"
+],
+"tenoftal": [
+"timolol"
+],
+"tenolon": [
+"atenolol"
+],
+"termalgin": [
+"dipirona"
+],
+"termix": [
+"ibuprofeno"
+],
+"termo-ped": [
+"paracetamol"
+],
+"termol": [
+"paracetamol"
+],
+"termomed ibup": [
+"ibuprofeno"
+],
+"termonal": [
+"dipirona"
+],
+"termopirona": [
+"dipirona"
+],
+"termoprin": [
+"dipirona"
+],
+"termosil": [
+"dipirona"
+],
+"tetraben": [
+"tetraciclina"
+],
+"tetracaps": [
+"tetraciclina"
+],
+"tetraciclisa": [
+"tetraciclina"
+],
+"tetracilil": [
+"tetraciclina"
+],
+"tetracina": [
+"tetraciclina"
+],
+"tetraclin": [
+"tetraciclina"
+],
+"tetragel": [
+"tetraciclina"
+],
+"tetralup": [
+"tetraciclina"
+],
+"tetramax": [
+"tetraciclina"
+],
+"tetramed": [
+"tetraciclina"
+],
+"tetramicin": [
+"tetraciclina"
+],
+"tetraplex": [
+"tetraciclina"
+],
+"tetrex": [
+"tetraciclina"
+],
+"tetroid": [
+"levotiroxina"
+],
+"teucarba": [
+"carbamazepina"
+],
+"teuciprox": [
+"ciprofloxacino"
+],
+"teudom": [
+"dopamina"
+],
+"teusil": [
+"captopril"
+],
+"teutoformin": [
+"metformina"
+],
+"teutozol": [
+"omeprazol"
+],
+"teutrazi": [
+"azitromicina"
+],
+"teutrin": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"tevafolin": [
+"folinato"
+],
+"tevazi": [
+"azitromicina"
+],
+"texon cloreto de potassio": [
+"cloreto de potassio"
+],
+"texon solucao de cloreto de sodio 0,9%": [
+"cloreto de sodio"
+],
+"tezara mr": [
+"gliclazida"
+],
+"therasona": [
+"hidrocortisona"
+],
+"theravir": [
+"aciclovir"
+],
+"thermostab": [
+"acido acetilsalicilico"
+],
+"thrombo ass": [
+"acido acetilsalicilico"
+],
+"thylom": [
+"paracetamol"
+],
+"tifeivo": [
+"ferripolimaltose"
+],
+"tildomet": [
+"metildopa"
+],
+"tilekin": [
+"paracetamol"
+],
+"tilenati": [
+"paracetamol"
+],
+"tilina": [
+"amitriptilina"
+],
+"timoclor": [
+"timolol"
+],
+"timoglal": [
+"timolol"
+],
+"timoneo": [
+"timolol"
+],
+"timonom": [
+"timolol"
+],
+"timoptol": [
+"timolol"
+],
+"timosan": [
+"timolol"
+],
+"tipici": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"tirador": [
+"paracetamol"
+],
+"tirazia": [
+"hidroxido de aluminio"
+],
+"tiroidin": [
+"levotiroxina"
+],
+"tiste": [
+"estradiol",
+"noretisterona"
+],
+"tobilex": [
+"cefalexina"
+],
+"tompril": [
+"captopril"
+],
+"tonazox": [
+"cetoconazol"
+],
+"topcaine": [
+"lidocaina"
+],
+"toperma": [
+"lidocaina"
+],
+"topicaina": [
+"lidocaina"
+],
+"topidexa": [
+"dexametasona"
+],
+"torlos h": [
+"hidroclorotiazida",
+"losartana"
+],
+"torval cr": [
+"acido valproico",
+"valproato"
+],
+"tracnox": [
+"itraconazol"
+],
+"traconal": [
+"itraconazol"
+],
+"traconax": [
+"itraconazol"
+],
+"tracozol": [
+"itraconazol"
+],
+"tracozon": [
+"itraconazol"
+],
+"tractera": [
+"midazolam"
+],
+"tradinol": [
+"bupivacaina"
+],
+"tratalerg": [
+"dexametasona"
+],
+"tratfer": [
+"sulfato ferroso"
+],
+"tratmic": [
+"neomicina"
+],
+"tratzol": [
+"itraconazol"
+],
+"traxon": [
+"ceftriaxona"
+],
+"traxonol": [
+"itraconazol"
+],
+"trenden": [
+"digoxina"
+],
+"tresde": [
+"colecalciferol"
+],
+"tri - bufered aspirin": [
+"acido acetilsalicilico"
+],
+"tri-gestinol": [
+"etinilestradiol"
+],
+"triaxin": [
+"ceftriaxona"
+],
+"triazi": [
+"azitromicina"
+],
+"triazol": [
+"fluconazol"
+],
+"tricban": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"tricocet": [
+"nistatina"
+],
+"tricortid": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"trifanil": [
+"clomipramina"
+],
+"trifen": [
+"paracetamol"
+],
+"triformin": [
+"metformina"
+],
+"trigian": [
+"metronidazol"
+],
+"trimedal d&f": [
+"paracetamol"
+],
+"trimetoprim composto": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"trimexazol": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"trimezol": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"trinodazol": [
+"metronidazol"
+],
+"trinodazol nistatina": [
+"metronidazol",
+"nistatina"
+],
+"trinordiol": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"trioxina": [
+"ceftriaxona"
+],
+"tripsol": [
+"amitriptilina"
+],
+"triquilar": [
+"etinilestradiol",
+"levonorgestrel"
+],
+"trirubin": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"trisequens": [
+"estradiol",
+"noretisterona"
+],
+"trisomatol": [
+"amitriptilina"
+],
+"trivagel n": [
+"dexametasona",
+"neomicina",
+"nistatina"
+],
+"triview": [
+"dexametasona",
+"neomicina",
+"polimixina b"
+],
+"trofurim": [
+"nitrofurantoina"
+],
+"trok": [
+"betametasona",
+"cetoconazol"
+],
+"trok-g": [
+"betametasona",
+"gentamicina"
+],
+"trok-n": [
+"betametasona",
+"cetoconazol",
+"neomicina"
+],
+"tromix": [
+"azitromicina"
+],
+"tromizir": [
+"azitromicina"
+],
+"tropirin": [
+"dipirona"
+],
+"trynde": [
+"colecalciferol"
+],
+"tryptanol": [
+"amitriptilina"
+],
+"tua d3": [
+"colecalciferol"
+],
+"tunta": [
+"propafenona"
+],
+"tybunol": [
+"paracetamol"
+],
+"tyflen": [
+"paracetamol"
+],
+"tylaflex": [
+"paracetamol"
+],
+"tylalgin": [
+"paracetamol"
+],
+"tylecetamol": [
+"paracetamol"
+],
+"tyleflan": [
+"paracetamol"
+],
+"tylemax": [
+"paracetamol"
+],
+"tylenol": [
+"paracetamol"
+],
+"tylidol": [
+"paracetamol"
+],
+"tylol": [
+"paracetamol"
+],
+"tyneo": [
+"paracetamol"
+],
+"tyramol": [
+"paracetamol"
+],
+"uciclav": [
+"amoxicilina",
+"clavulanato"
+],
+"uciose": [
+"ivermectina"
+],
+"uepg - dexametasona": [
+"dexametasona"
+],
+"ulcecaps": [
+"omeprazol"
+],
+"ulcefor": [
+"omeprazol"
+],
+"ulcevit": [
+"omeprazol"
+],
+"ulcezol": [
+"omeprazol"
+],
+"ulciden": [
+"omeprazol"
+],
+"ultrafer": [
+"ferripolimaltose"
+],
+"ultramox": [
+"amoxicilina"
+],
+"unak": [
+"sinvastatina"
+],
+"uni - digoxin": [
+"digoxina"
+],
+"uni amox": [
+"amoxicilina"
+],
+"uni cefalexin": [
+"cefalexina"
+],
+"uni fenicol": [
+"cloranfenicol"
+],
+"uni haloper": [
+"haloperidol"
+],
+"uni propralol": [
+"propranolol"
+],
+"uni tetra": [
+"tetraciclina"
+],
+"uni-carbamaz": [
+"carbamazepina"
+],
+"uni-clonazepax": [
+"clonazepam"
+],
+"uni-diazepax": [
+"diazepam"
+],
+"uni-glic": [
+"gliclazida"
+],
+"uni-z comprimido": [
+"sulfato de zinco"
+],
+"unianora": [
+"norepinefrina"
+],
+"uniazida": [
+"hidroclorotiazida"
+],
+"unidose": [
+"enantato de estradiol"
+],
+"unifenitoin": [
+"fenitoina"
+],
+"unifurix": [
+"furosemida"
+],
+"unigrip": [
+"paracetamol"
+],
+"unimag": [
+"hidroxido de aluminio"
+],
+"uniprofen": [
+"ibuprofeno"
+],
+"unisoro": [
+"cloreto de sodio"
+],
+"univali - lapam captopril": [
+"captopril"
+],
+"univali lapam glibenclameda": [
+"glibenclamida"
+],
+"univali-lapam hidroclorotiazida": [
+"hidroclorotiazida"
+],
+"univali-lapam paracetamol": [
+"paracetamol"
+],
+"unizinco comprimido": [
+"sulfato de zinco"
+],
+"unizol": [
+"fluconazol"
+],
+"unoprost": [
+"doxazosina"
+],
+"urasix": [
+"furosemida"
+],
+"urcip": [
+"ciprofloxacino"
+],
+"uric": [
+"alopurinol"
+],
+"urogen": [
+"nitrofurantoina"
+],
+"uropol": [
+"sulfametoxazol",
+"trimetoprima"
+],
+"usempax": [
+"clonazepam"
+],
+"usmedina": [
+"dipirona"
+],
+"vagestril": [
+"estriol"
+],
+"vagi biotic m": [
+"metronidazol"
+],
+"vagimax": [
+"metronidazol",
+"nistatina"
+],
+"vagistatina": [
+"nistatina"
+],
+"valbet": [
+"betametasona"
+],
+"valecort": [
+"betametasona"
+],
+"valecort n": [
+"betametasona",
+"neomicina"
+],
+"valflex": [
+"cefalexina"
+],
+"valium": [
+"diazepam"
+],
+"valoron": [
+"paracetamol"
+],
+"valoxin": [
+"digoxina"
+],
+"valpakine": [
+"valproato"
+],
+"valprene": [
+"acido valproico",
+"valproato"
+],
+"valtrian": [
+"losartana"
+],
+"valtrian hct": [
+"hidroclorotiazida",
+"losartana"
+],
+"vantil": [
+"ibuprofeno"
+],
+"varfan": [
+"varfarina"
+],
+"vasclin": [
+"acido acetilsalicilico",
+"mononitrato de isossorbida"
+],
+"vascord": [
+"verapamil"
+],
+"vasoglif": [
+"dapagliflozina"
+],
+"vasopril": [
+"enalapril"
+],
+"vasopril plus": [
+"enalapril",
+"hidroclorotiazida"
+],
+"vasoton": [
+"verapamil"
+],
+"vastatil": [
+"sinvastatina"
+],
+"vate": [
+"carbamazepina"
+],
+"vatis": [
+"propafenona"
+],
+"velamox": [
+"amoxicilina"
+],
+"velamox bd": [
+"amoxicilina"
+],
+"venalapril": [
+"enalapril"
+],
+"venopressin": [
+"metildopa"
+],
+"venopril": [
+"captopril"
+],
+"ventilastin": [
+"salbutamol"
+],
+"vera - bras": [
+"verapamil"
+],
+"verac": [
+"aciclovir"
+],
+"veracor": [
+"verapamil"
+],
+"veraflux": [
+"verapamil"
+],
+"veralpress": [
+"verapamil"
+],
+"veramil": [
+"verapamil"
+],
+"verap": [
+"verapamil"
+],
+"verapil": [
+"verapamil"
+],
+"verapress": [
+"verapamil"
+],
+"veraval": [
+"verapamil"
+],
+"verdazol": [
+"albendazol"
+],
+"vermectil": [
+"ivermectina"
+],
+"vermiclase": [
+"albendazol"
+],
+"vermiperazin": [
+"albendazol"
+],
+"vermital": [
+"albendazol"
+],
+"verocardil": [
+"verapamil"
+],
+"verotina": [
+"fluoxetina"
+],
+"vexell": [
+"mononitrato de isossorbida"
+],
+"vick pyrena": [
+"paracetamol"
+],
+"vidap": [
+"dapagliflozina"
+],
+"vidyn d3": [
+"colecalciferol"
+],
+"virflox": [
+"ciprofloxacino"
+],
+"virotin": [
+"aciclovir"
+],
+"visalmin": [
+"cloranfenicol"
+],
+"visine": [
+"hipromelose"
+],
+"vistajuntin": [
+"neomicina",
+"polimixina b"
+],
+"vit glibenclamida": [
+"glibenclamida"
+],
+"vit. bio d": [
+"colecalciferol"
+],
+"vit. d soleil": [
+"colecalciferol"
+],
+"vit. d soleil caps": [
+"colecalciferol"
+],
+"vitadesan": [
+"colecalciferol",
+"retinol"
+],
+"vitadiazin": [
+"sulfadiazina de prata"
+],
+"vitafol": [
+"acido folico"
+],
+"vitalfolic": [
+"acido folico"
+],
+"vitamin b-6 100 mg": [
+"piridoxina"
+],
+"vitamina a": [
+"retinol"
+],
+"vitamina a funed": [
+"retinol"
+],
+"vitamina b1": [
+"tiamina"
+],
+"vitamina b1 neo quimica": [
+"tiamina"
+],
+"vitamina d": [
+"colecalciferol"
+],
+"vitamina d cimed": [
+"colecalciferol"
+],
+"vitamina d3": [
+"colecalciferol"
+],
+"vitaminas b1 + b6 + b12": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"vitaminer s": [
+"tiamina"
+],
+"vitapan cloranfenil": [
+"cloranfenicol"
+],
+"vitatonus": [
+"cianocobalamina",
+"piridoxina",
+"tiamina"
+],
+"vitaum": [
+"tiamina"
+],
+"vitdera d3": [
+"colecalciferol"
+],
+"vitersol dm": [
+"colecalciferol"
+],
+"vodol": [
+"miconazol"
+],
+"vodsso": [
+"acido valproico",
+"valproato"
+],
+"volfax": [
+"itraconazol"
+],
+"volig": [
+"ondansetrona"
+],
+"volnac": [
+"miconazol"
+],
+"vomistop": [
+"metoclopramida",
+"piridoxina"
+],
+"vomix": [
+"metoclopramida"
+],
+"vonau": [
+"ondansetrona"
+],
+"vonau solucao oral": [
+"ondansetrona"
+],
+"vonset": [
+"ondansetrona"
+],
+"voumedi": [
+"metoclopramida"
+],
+"warfarin": [
+"varfarina"
+],
+"wartec": [
+"podofilotoxina"
+],
+"westcort": [
+"hidrocortisona"
+],
+"wonilin": [
+"benzilpenicilina",
+"benzilpenicilina procaina"
+],
+"wosulin 70/30": [
+"insulina humana"
+],
+"wosulin r": [
+"insulina humana"
+],
+"wycillin r": [
+"benzilpenicilina",
+"benzilpenicilina procaina"
+],
+"xantur": [
+"alopurinol"
+],
+"xilofen": [
+"tetraciclina"
+],
+"xo! pos picada": [
+"dexclorfeniramina"
+],
+"xomergan! pos picada": [
+"prometazina"
+],
+"xylestesin com norepinefrina": [
+"lidocaina",
+"norepinefrina"
+],
+"xylestesin isobarico": [
+"lidocaina"
+],
+"xylestesin pesada": [
+"glicose",
+"lidocaina"
+],
+"xylestesin sem vasoconstritor": [
+"lidocaina"
+],
+"xylid": [
+"lidocaina"
+],
+"xylocaina 2% com epinefrina": [
+"epinefrina",
+"lidocaina"
+],
+"xylocaina 2% sem vaso constritor": [
+"lidocaina"
+],
+"zaarpress": [
+"losartana"
+],
+"zaarpress hct": [
+"hidroclorotiazida",
+"losartana"
+],
+"zanoc": [
+"cetoconazol"
+],
+"zanubis": [
+"azitromicina"
+],
+"zaplam": [
+"clonazepam"
+],
+"zarmine": [
+"metoprolol"
+],
+"zart": [
+"losartana"
+],
+"zart anlo": [
+"anlodipino",
+"losartana"
+],
+"zart h": [
+"hidroclorotiazida",
+"losartana"
+],
+"zartecore": [
+"hidroclorotiazida",
+"losartana"
+],
+"zediv": [
+"ibuprofeno"
+],
+"zelix": [
+"fluconazol"
+],
+"zelnin": [
+"aciclovir"
+],
+"zentel": [
+"albendazol"
+],
+"ziclovir": [
+"aciclovir"
+],
+"zidimax": [
+"azitromicina"
+],
+"zilepam": [
+"clonazepam"
+],
+"zilopur": [
+"alopurinol"
+],
+"zimicina": [
+"azitromicina"
+],
+"zinco fontovit": [
+"sulfato de zinco"
+],
+"zindaclin": [
+"clindamicina"
+],
+"zirk": [
+"azitromicina"
+],
+"zitalgin": [
+"dipirona"
+],
+"zitrac": [
+"azitromicina"
+],
+"zitril": [
+"azitromicina"
+],
+"zitrina": [
+"azitromicina"
+],
+"zitrobiol": [
+"azitromicina"
+],
+"zitromax": [
+"azitromicina"
+],
+"zitromicin": [
+"azitromicina"
+],
+"zitromil": [
+"azitromicina"
+],
+"zitroneo": [
+"azitromicina"
+],
+"zitrox": [
+"azitromicina"
+],
+"zocor": [
+"sinvastatina"
+],
+"zoflux": [
+"doxazosina"
+],
+"zofran": [
+"ondansetrona"
+],
+"zolamox": [
+"acetazolamida"
+],
+"zolanix": [
+"fluconazol"
+],
+"zolben": [
+"albendazol"
+],
+"zoldan": [
+"albendazol"
+],
+"zolidam": [
+"midazolam"
+],
+"zolmicol": [
+"cetoconazol"
+],
+"zolmin": [
+"albendazol"
+],
+"zolpramex": [
+"omeprazol"
+],
+"zolprox": [
+"azitromicina"
+],
+"zolsan": [
+"fluconazol"
+],
+"zolstatin": [
+"fluconazol"
+],
+"zoltec": [
+"fluconazol"
+],
+"zoltren": [
+"fluconazol"
+],
+"zoltron": [
+"nortriptilina"
+],
+"zonax": [
+"ondansetrona"
+],
+"zoprinol": [
+"alopurinol"
+],
+"zorbex": [
+"aciclovir"
+],
+"zorten": [
+"captopril"
+],
+"zorvy creme": [
+"aciclovir"
+],
+"zovirax": [
+"aciclovir"
+],
+"zoylex": [
+"aciclovir"
+],
+"zuclon": [
+"clonazepam"
+],
+"zuplyn": [
+"paracetamol"
+],
+"zyfloxin": [
+"fluoxetina"
+],
+"zyloric": [
+"alopurinol"
+]
+}
+}
