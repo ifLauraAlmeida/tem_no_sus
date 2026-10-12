@@ -8,6 +8,26 @@ Quando houver disponibilidade, o sistema também poderá indicar os estabelecime
 
 ---
 
+## Capturas de tela
+
+Consulta de "Aerolin; Losartana 50 mg" seguida do CEP 20520-054 (Tijuca, Rio de Janeiro): o chat reconhece o nome comercial, informa a cobertura e mostra os locais próximos, com 2 farmácias credenciadas ao Farmácia Popular e 2 unidades da rede pública.
+
+### Computador
+
+| Tema claro | Tema escuro |
+|---|---|
+| <img src="docs/img/desktop-claro.png" alt="Tem No SUS? no computador, tema claro, com locais próximos para retirada" width="420"> | <img src="docs/img/desktop-escuro.png" alt="Tem No SUS? no computador, tema escuro, com locais próximos para retirada" width="420"> |
+
+### Celular
+
+| Tema claro | Tema escuro |
+|---|---|
+| <img src="docs/img/celular-claro.png" alt="Tem No SUS? no celular, tema claro" width="260"> | <img src="docs/img/celular-escuro.png" alt="Tem No SUS? no celular, tema escuro" width="260"> |
+
+O tema segue a preferência do sistema e pode ser trocado no botão sol/lua do cabeçalho. O layout se adapta à largura da tela: no celular, o cabeçalho quebra o texto e o chat ocupa toda a largura.
+
+---
+
 ## Objetivo
 
 Facilitar o acesso da população às informações públicas sobre medicamentos disponibilizados gratuitamente no Brasil.
