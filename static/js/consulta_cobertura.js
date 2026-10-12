@@ -1,4 +1,5 @@
 import { buscarMedicamento, SITUACAO } from "./busca_medicamentos.js";
+import { resolverNomeComercial } from "./nomes_comerciais.js";
 import { GRUPO_POR_FRENTE } from "./selecao_estabelecimentos.js";
 
 export const COBERTURA = Object.freeze({
@@ -32,11 +33,30 @@ function gruposDeRetirada(farmaciaPopular, componenteBasico) {
   return grupos;
 }
 
+// Nome comercial só é consultado quando o texto não bate direto com a DCB,
+// para não sobrescrever o que o usuário escreveu pelo princípio ativo.
+function buscarNasListas(entrada, bases) {
+  return {
+    farmaciaPopular: buscarMedicamento(entrada, bases.farmaciaPopular.itens),
+    componenteBasico: buscarMedicamento(entrada, bases.componenteBasico.itens),
+  };
+}
+
+function encontrouAlgo({ farmaciaPopular, componenteBasico }) {
+  return farmaciaPopular.itens.length > 0 || componenteBasico.itens.length > 0;
+}
+
 export function consultarCobertura(entrada, bases) {
-  const farmaciaPopular = buscarMedicamento(entrada, bases.farmaciaPopular.itens);
-  const componenteBasico = buscarMedicamento(entrada, bases.componenteBasico.itens);
+  let resultados = buscarNasListas(entrada, bases);
+  let nomeComercial = null;
+  if (!encontrouAlgo(resultados) && bases.nomesComerciais) {
+    nomeComercial = resolverNomeComercial(entrada, bases.nomesComerciais.nomes);
+    if (nomeComercial) resultados = buscarNasListas(nomeComercial.entradaConvertida, bases);
+  }
+  const { farmaciaPopular, componenteBasico } = resultados;
   return {
     entrada,
+    nomeComercial,
     farmaciaPopular,
     componenteBasico,
     cobertura: classificarCobertura([farmaciaPopular, componenteBasico]),
