@@ -537,6 +537,22 @@ curl -L -o rename2024.pdf https://bvsms.saude.gov.br/bvs/publicacoes/relacao_nac
 
 Gera `data/reference/rename_2024_componente_basico.json`.
 
+### Farmácias credenciadas ao Farmácia Popular
+
+Requer Google Chrome ou Chromium instalado (o painel oficial só responde a navegadores) e a base completa do CNES:
+
+```bash
+curl -o data/raw/cnes/base_completa/BASE_DE_DADOS_CNES_202608.ZIP ftp://ftp.datasus.gov.br/cnes/BASE_DE_DADOS_CNES_202608.ZIP
+.venv/bin/python -m pipeline.farmacia_popular.executar --base-cnes data/raw/cnes/base_completa/BASE_DE_DADOS_CNES_202608.ZIP
+```
+
+### Nomes comerciais (ANVISA)
+
+```bash
+curl -o data/raw/anvisa/DADOS_ABERTOS_MEDICAMENTOS.csv https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv
+.venv/bin/python -m pipeline.anvisa.nomes_comerciais --csv data/raw/anvisa/DADOS_ABERTOS_MEDICAMENTOS.csv
+```
+
 As fontes oficiais e a frequência de atualização de cada uma estão em [`docs/fontes_oficiais.md`](docs/fontes_oficiais.md). As regras de uso do CNES estão em [`docs/cnes_servico_farmacia.md`](docs/cnes_servico_farmacia.md).
 
 ---
@@ -549,6 +565,8 @@ Consulta implementada no elenco do Farmácia Popular (31/08/2026) e no Component
 Nomes não encontrados recebem aviso de possível falta de cobertura ou erro de digitação, com sugestão de grafia.
 Após a consulta, o chat pede o CEP (ou, em "Não sei meu CEP", estado, município, rua e número para descobri-lo), converte em coordenadas (ViaCEP + Nominatim) e indica até 4 locais do CNES.
 Base de locais gerada para as 27 UFs (CNES, competência 2026-08, 7.242 estabelecimentos).
+Farmácias credenciadas da lista oficial do Farmácia Popular (20.782, dados até 08/10/2026); com o medicamento no programa, 2 dos 4 locais são farmácias credenciadas.
+Nomes comerciais reconhecidos pela base da ANVISA (ex.: Aerolin → salbutamol), com aviso de que o programa oferece o princípio ativo.
 Pendentes: componentes estratégico e especializado, listas municipais (REMUME) e PDF.
 ```
 
