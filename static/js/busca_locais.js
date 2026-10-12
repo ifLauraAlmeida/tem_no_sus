@@ -1,6 +1,12 @@
 import { criarElemento, criarLink, formatarData } from "./elementos_dom.js";
+import { buscarEnderecoPorCep, ConsultaCepIndisponivelError, formatarCep } from "./consulta_cep.js";
 import { criarFormularioEndereco } from "./formulario_endereco.js";
-import { GeocodificacaoIndisponivelError, PRECISAO, geocodificarEndereco } from "./geocodificacao.js";
+import {
+  GeocodificacaoIndisponivelError,
+  PRECISAO,
+  geocodificarEndereco,
+  identificarUfPorPosicao,
+} from "./geocodificacao.js";
 import { normalizarTexto } from "./normalizacao.js";
 import { GRUPO_POR_FRENTE, ordenarPorProximidade, selecionarComDiversidade } from "./selecao_estabelecimentos.js";
 
@@ -104,7 +110,7 @@ async function localizarEndereco(endereco) {
     if (!posicao) return { posicao: null, observacao: "Não localizei o endereço no mapa; usei o município e o bairro." };
     const observacao =
       posicao.precisao === PRECISAO.MUNICIPIO
-        ? "Não localizei a rua; as distâncias são aproximadas, a partir do centro do município."
+        ? "Não localizei a rua do CEP no mapa; as distâncias são aproximadas, a partir do centro do município."
         : null;
     return { posicao, observacao };
   } catch (erro) {
@@ -123,14 +129,45 @@ function selecionarSemCoordenadas(base, endereco, gruposPermitidos) {
   return selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, filtros));
 }
 
-async function buscarPorEndereco(endereco, gruposPermitidos, adicionarMensagem) {
-  const descricao = [endereco.rua, endereco.numero].filter(Boolean).join(", ");
-  adicionarMensagem("usuario", `${descricao} — ${endereco.bairro}, ${endereco.municipio}/${endereco.uf}`);
+function selecionarPorPosicao(base, posicao, gruposPermitidos) {
+  return selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, { posicaoUsuario: posicao, gruposPermitidos }));
+}
+
+function descreverEnderecoDoCep(endereco) {
+  const partes = [endereco.rua, endereco.bairro, `${endereco.municipio}/${endereco.uf}`].filter(Boolean);
+  return `CEP ${formatarCep(endereco.cep)} — ${partes.join(", ")}`;
+}
+
+async function obterEnderecoDoCep(cep, adicionarMensagem) {
+  try {
+    const endereco = await buscarEnderecoPorCep(cep);
+    if (!endereco) {
+      adicionarMensagem("usuario", `CEP ${formatarCep(cep)}`);
+      adicionarMensagem("sistema", "Não encontrei esse CEP. Confira os números ou use \u201cNão sei meu CEP\u201d.");
+    }
+    return endereco;
+  } catch (erro) {
+    if (!(erro instanceof ConsultaCepIndisponivelError)) throw erro;
+    console.error(erro);
+    adicionarMensagem("sistema mensagem--erro", "O serviço de CEP não respondeu. Tente novamente em instantes.");
+    return null;
+  }
+}
+
+async function buscarPorCep(cep, contexto) {
+  const { ufsDisponiveis, gruposPermitidos, adicionarMensagem } = contexto;
+  const endereco = await obterEnderecoDoCep(cep, adicionarMensagem);
+  if (!endereco) return;
+  adicionarMensagem("usuario", descreverEnderecoDoCep(endereco));
+  if (!ufsDisponiveis.includes(endereco.uf)) {
+    adicionarMensagem("sistema", `Ainda não há base de locais para ${endereco.uf}.`);
+    return;
+  }
   const carregando = adicionarMensagem("sistema mensagem--carregando", "Localizando o endereço…");
   try {
     const [base, { posicao, observacao }] = await Promise.all([carregarBaseUf(endereco.uf), localizarEndereco(endereco)]);
     const selecionados = posicao
-      ? selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, { posicaoUsuario: posicao, gruposPermitidos }))
+      ? selecionarPorPosicao(base, posicao, gruposPermitidos)
       : selecionarSemCoordenadas(base, endereco, gruposPermitidos);
     adicionarMensagem("sistema", mensagemResultadoLocais(selecionados, observacao ? [observacao] : []));
   } catch (erro) {
@@ -141,13 +178,17 @@ async function buscarPorEndereco(endereco, gruposPermitidos, adicionarMensagem) 
   }
 }
 
-async function buscarPorPosicao({ uf, posicao }, gruposPermitidos, adicionarMensagem) {
+async function buscarPorPosicao(posicao, contexto) {
+  const { ufsDisponiveis, gruposPermitidos, adicionarMensagem } = contexto;
   adicionarMensagem("usuario", "Usar minha localização");
   try {
+    const uf = await identificarUfPorPosicao(posicao);
+    if (!uf || !ufsDisponiveis.includes(uf)) {
+      adicionarMensagem("sistema", "Não consegui identificar seu estado pela localização. Informe o CEP.");
+      return;
+    }
     const base = await carregarBaseUf(uf);
-    const filtros = { posicaoUsuario: posicao, gruposPermitidos };
-    const selecionados = selecionarComDiversidade(ordenarPorProximidade(base.estabelecimentos, filtros));
-    adicionarMensagem("sistema", mensagemResultadoLocais(selecionados, []));
+    adicionarMensagem("sistema", mensagemResultadoLocais(selecionarPorPosicao(base, posicao, gruposPermitidos), []));
   } catch (erro) {
     console.error(erro);
     adicionarMensagem("sistema mensagem--erro", "Não foi possível buscar os locais agora. Tente novamente.");
@@ -166,14 +207,15 @@ export async function oferecerBuscaDeLocais(adicionarMensagem, gruposPermitidos)
     return;
   }
   contadorFormularios += 1;
+  const contexto = { ufsDisponiveis: Object.keys(indice.ufs), gruposPermitidos, adicionarMensagem };
   const formulario = criarFormularioEndereco({
-    ufsDisponiveis: Object.keys(indice.ufs),
+    ufsDisponiveis: contexto.ufsDisponiveis,
     sufixo: contadorFormularios,
-    aoEnviarEndereco: (endereco) => buscarPorEndereco(endereco, gruposPermitidos, adicionarMensagem),
-    aoUsarLocalizacao: (dados) => buscarPorPosicao(dados, gruposPermitidos, adicionarMensagem),
+    aoEnviarCep: (cep) => buscarPorCep(cep, contexto),
+    aoUsarLocalizacao: (posicao) => buscarPorPosicao(posicao, contexto),
   });
   adicionarMensagem("sistema", [
-    "Qual é o seu endereço? Com ele indico até 4 locais próximos onde você pode tentar retirar o medicamento.",
+    "Qual é o seu CEP? Com ele indico até 4 locais próximos onde você pode tentar retirar o medicamento.",
     formulario,
   ]);
 }
