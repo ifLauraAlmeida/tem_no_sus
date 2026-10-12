@@ -88,6 +88,8 @@ Base completa do CNES (`ftp://ftp.datasus.gov.br/cnes/BASE_DE_DADOS_CNES_{aaaamm
 - Extração em 12/10/2026: 20.782 farmácias ativas, dados até 08/10/2026.
 - O painel só responde a navegadores; o pipeline abre a página em Chrome headless e lê os dados pela mesma API Qlik que o botão "Baixar dados" da página usa.
 - Coordenadas: cruzamento pelo CNPJ com a base completa do CNES — 8.196 farmácias (39%) localizadas.
+- Nome fantasia: também vem do CNES pelo CNPJ (8.081 farmácias); nas demais aparece a razão social do painel.
+- Pendente: os dados abertos de CNPJ da Receita Federal trariam nome fantasia, número e CEP de todas as farmácias, mas o compartilhamento público (`arquivos.receitafederal.gov.br`) não listou arquivos em 12/10/2026.
 - As portarias do programa consultadas (página de legislação) tratam de elenco, gratuidade e valores; não trazem relação nominal de estabelecimentos. O painel é a fonte oficial dos endereços.
 - O conjunto "Estabelecimentos do Aqui tem Farmácia Popular" em dados.gov.br retornou acesso negado em 11/10/2026.
 
@@ -98,3 +100,12 @@ Base completa do CNES (`ftp://ftp.datasus.gov.br/cnes/BASE_DE_DADOS_CNES_{aaaamm
 - Fonte: <https://dados.anvisa.gov.br/dados/DADOS_ABERTOS_MEDICAMENTOS.csv> (medicamentos registrados; arquivo de 07/10/2026).
 - Gera `data/reference/nomes_comerciais.json`: 3.470 marcas associadas a princípios ativos das listas usadas (ex.: Aerolin → salbutamol).
 - Marcas cujo produto tem componente fora das listas (ex.: dipirona + cafeína) ou registros divergentes são descartadas.
+
+---
+
+## 8. Orientações para retirada
+
+- Farmácia Popular: documentos e regras de representante conforme <https://www.gov.br/saude/pt-br/composicao/sectics/farmacia-popular>. A página não informa prazo de validade da receita; o prazo não é citado na ferramenta.
+- Receita de controle especial: Portaria SVS/MS 344/1998 (2 vias em papel, validade de 30 dias), atualizada pela RDC Anvisa 1.000/2025, em vigor desde 15/02/2026, que dispensa as 2 vias na receita eletrônica.
+- Antimicrobianos: RDC Anvisa 471/2021 (2 vias, validade de 10 dias).
+- Rede pública: documentos variam por município; a ferramenta lista os mais pedidos e orienta confirmar com a unidade.
