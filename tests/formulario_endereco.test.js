@@ -1,11 +1,23 @@
 import { test } from "node:test";
 import assert from "node:assert/strict";
-import { camposFaltantes } from "../static/js/formulario_endereco.js";
+import { camposFaltantesSemCep, descreverCandidato } from "../static/js/formulario_endereco.js";
 
-test("lista campos mínimos ausentes do endereço", () => {
-  assert.deepEqual(camposFaltantes({ uf: "TO", municipio: "", bairro: "Centro", rua: "" }), ["município", "rua"]);
+test("sem CEP, exige estado, município e rua", () => {
+  assert.deepEqual(camposFaltantesSemCep({ uf: "TO", municipio: "", rua: "", numero: "" }), ["município", "rua"]);
 });
 
-test("número e CEP são opcionais", () => {
-  assert.deepEqual(camposFaltantes({ uf: "TO", municipio: "Palmas", bairro: "Centro", rua: "Rua 1", numero: "", cep: "" }), []);
+test("número é opcional para descobrir o CEP", () => {
+  assert.deepEqual(camposFaltantesSemCep({ uf: "TO", municipio: "Palmas", rua: "Avenida JK", numero: "" }), []);
+});
+
+test("descreve candidato com faixa de número e CEP formatado", () => {
+  const descricao = descreverCandidato({
+    cep: "20520054",
+    rua: "Rua Conde de Bonfim",
+    complemento: "de 0188 a 0528 - lado par",
+    bairro: "Tijuca",
+    municipio: "Rio de Janeiro",
+    uf: "RJ",
+  });
+  assert.equal(descricao, "20520-054 — Rua Conde de Bonfim (de 0188 a 0528 - lado par), Tijuca, Rio de Janeiro/RJ");
 });

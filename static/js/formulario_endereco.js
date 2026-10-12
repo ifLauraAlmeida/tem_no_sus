@@ -1,7 +1,8 @@
+import { buscarCepsPorEndereco, ConsultaCepIndisponivelError, formatarCep, limparCep } from "./consulta_cep.js";
 import { criarElemento } from "./elementos_dom.js";
-import { NOME_POR_UF, completarPorCep, limparCep } from "./geocodificacao.js";
+import { NOME_POR_UF } from "./geocodificacao.js";
 
-const CAMPOS_OBRIGATORIOS = Object.freeze({ uf: "estado", municipio: "município", bairro: "bairro", rua: "rua" });
+const CAMPOS_OBRIGATORIOS_SEM_CEP = Object.freeze({ uf: "estado", municipio: "município", rua: "rua" });
 
 function criarCampo(rotulo, controle, id) {
   const campo = criarElemento("div", "campo");
@@ -12,74 +13,103 @@ function criarCampo(rotulo, controle, id) {
   return campo;
 }
 
-function criarEntradaTexto(nome, autocomplete) {
-  return Object.assign(criarElemento("input"), { type: "text", name: nome, autocomplete });
+function criarEntradaTexto(nome, autocomplete, extras = {}) {
+  return Object.assign(criarElemento("input"), { type: "text", name: nome, autocomplete, ...extras });
 }
 
-function criarSelectUf(ufsDisponiveis) {
+function criarBotao(classe, texto, tipo = "button") {
+  return Object.assign(criarElemento("button", `botao ${classe}`, texto), { type: tipo });
+}
+
+function criarSelectUf(ufs) {
   const select = Object.assign(criarElemento("select"), { name: "uf" });
-  const vazio = Object.assign(criarElemento("option", null, "Selecione"), { value: "" });
-  const opcoes = ufsDisponiveis.map((uf) =>
-    Object.assign(criarElemento("option", null, `${NOME_POR_UF[uf] ?? uf} (${uf})`), { value: uf }),
-  );
-  select.append(vazio, ...opcoes);
+  const opcoes = ufs.map((uf) => Object.assign(criarElemento("option", null, `${NOME_POR_UF[uf] ?? uf} (${uf})`), { value: uf }));
+  select.append(Object.assign(criarElemento("option", null, "Selecione"), { value: "" }), ...opcoes);
   return select;
 }
 
-function lerEndereco(formulario) {
-  const valor = (nome) => formulario.elements[nome].value.trim();
-  return {
-    cep: valor("cep"),
-    uf: valor("uf"),
-    municipio: valor("municipio"),
-    bairro: valor("bairro"),
-    rua: valor("rua"),
-    numero: valor("numero"),
-  };
+function criarSituacao() {
+  const situacao = criarElemento("p", "resultado__observacao");
+  situacao.setAttribute("role", "status");
+  return situacao;
 }
 
-export function camposFaltantes(endereco) {
-  return Object.entries(CAMPOS_OBRIGATORIOS)
+export function camposFaltantesSemCep(endereco) {
+  return Object.entries(CAMPOS_OBRIGATORIOS_SEM_CEP)
     .filter(([campo]) => !endereco[campo])
     .map(([, rotulo]) => rotulo);
 }
 
-async function preencherPeloCep(formulario, situacao) {
-  if (!limparCep(formulario.elements.cep.value)) return;
-  situacao.textContent = "Buscando endereço pelo CEP…";
-  try {
-    const completo = await completarPorCep(lerEndereco(formulario));
-    ["uf", "municipio", "bairro", "rua"].forEach((campo) => {
-      const controle = formulario.elements[campo];
-      if (!controle.value && completo[campo]) controle.value = completo[campo];
-    });
-    situacao.textContent = "";
-  } catch (erro) {
-    console.error(erro);
-    situacao.textContent = "Não consegui consultar o CEP agora; preencha o endereço manualmente.";
-  }
+export function descreverCandidato(endereco) {
+  const rua = endereco.complemento ? `${endereco.rua} (${endereco.complemento})` : endereco.rua;
+  return `${formatarCep(endereco.cep)} — ${rua}, ${endereco.bairro}, ${endereco.municipio}/${endereco.uf}`;
 }
 
-function criarCampos(ufsDisponiveis, sufixo) {
-  return [
-    criarCampo("CEP (opcional, preenche o restante)", criarEntradaTexto("cep", "postal-code"), `cep-${sufixo}`),
+function criarFormularioCep(sufixo) {
+  const formulario = Object.assign(criarElemento("form", "formulario-locais"), { noValidate: true });
+  const campoCep = criarEntradaTexto("cep", "postal-code", { inputMode: "numeric", placeholder: "00000-000" });
+  const botaoLocalizacao = criarBotao("botao--secundario", "Usar minha localização");
+  const botaoNaoSei = criarBotao("botao--link", "Não sei meu CEP");
+  const acoes = criarElemento("div", "conversa__acoes");
+  acoes.append(botaoLocalizacao, criarBotao("botao--primario", "Buscar locais", "submit"));
+  const situacao = criarSituacao();
+  formulario.append(criarCampo("CEP", campoCep, `cep-${sufixo}`), botaoNaoSei, acoes, situacao);
+  return { formulario, campoCep, botaoLocalizacao, botaoNaoSei, situacao };
+}
+
+function criarFormularioSemCep(ufsDisponiveis, sufixo) {
+  const formulario = Object.assign(criarElemento("form", "formulario-locais formulario-locais--sem-cep"), { noValidate: true, hidden: true });
+  const candidatos = criarElemento("div", "candidatos-cep");
+  const situacao = criarSituacao();
+  formulario.append(
+    criarElemento("p", null, "Informe seu endereço para descobrir o CEP:"),
     criarCampo("Estado", criarSelectUf(ufsDisponiveis), `uf-${sufixo}`),
     criarCampo("Município", criarEntradaTexto("municipio", "address-level2"), `municipio-${sufixo}`),
-    criarCampo("Bairro", criarEntradaTexto("bairro", "address-level3"), `bairro-${sufixo}`),
-    criarCampo("Rua", criarEntradaTexto("rua", "address-line1"), `rua-${sufixo}`),
-    criarCampo("Número (opcional)", criarEntradaTexto("numero", "off"), `numero-${sufixo}`),
-  ];
+    criarCampo("Rua (sem abreviações)", criarEntradaTexto("rua", "address-line1"), `rua-${sufixo}`),
+    criarCampo("Número", criarEntradaTexto("numero", "off", { inputMode: "numeric" }), `numero-${sufixo}`),
+    criarBotao("botao--primario", "Descobrir CEP", "submit"),
+    situacao,
+    candidatos,
+  );
+  return { formulario, candidatos, situacao };
 }
 
-function criarAcoes() {
-  const acoes = criarElemento("div", "conversa__acoes");
-  const botaoLocalizacao = Object.assign(
-    criarElemento("button", "botao botao--secundario", "Usar minha localização"),
-    { type: "button" },
-  );
-  const botaoBuscar = Object.assign(criarElemento("button", "botao botao--primario", "Buscar locais"), { type: "submit" });
-  acoes.append(botaoLocalizacao, botaoBuscar);
-  return { acoes, botaoLocalizacao };
+function lerEnderecoSemCep(formulario) {
+  const valor = (nome) => formulario.elements[nome].value.trim();
+  return { uf: valor("uf"), municipio: valor("municipio"), rua: valor("rua"), numero: valor("numero") };
+}
+
+function renderizarCandidatos(enderecos, candidatos, aoEscolherCep) {
+  candidatos.replaceChildren();
+  if (enderecos.length === 0) return;
+  candidatos.append(criarElemento("p", null, enderecos.length === 1 ? "Seu CEP é:" : "Escolha o CEP do seu endereço:"));
+  enderecos.forEach((endereco) => {
+    const botao = criarBotao("botao--sugestao botao--candidato", descreverCandidato(endereco));
+    botao.addEventListener("click", () => aoEscolherCep(endereco.cep));
+    candidatos.append(botao);
+  });
+}
+
+async function descobrirCep(formularioSemCep, aoEscolherCep) {
+  const { formulario, candidatos, situacao } = formularioSemCep;
+  const endereco = lerEnderecoSemCep(formulario);
+  const faltantes = camposFaltantesSemCep(endereco);
+  if (faltantes.length > 0) {
+    situacao.textContent = `Preencha: ${faltantes.join(", ")}.`;
+    return;
+  }
+  situacao.textContent = "Procurando o CEP…";
+  try {
+    const enderecos = await buscarCepsPorEndereco(endereco);
+    situacao.textContent = enderecos.length
+      ? ""
+      : "Não encontrei CEP para esse endereço. Confira o nome da rua, sem abreviações, e o município.";
+    renderizarCandidatos(enderecos, candidatos, aoEscolherCep);
+  } catch (erro) {
+    if (!(erro instanceof ConsultaCepIndisponivelError)) throw erro;
+    console.error(erro);
+    situacao.textContent = "O serviço de CEP não respondeu. Tente novamente em instantes.";
+  }
 }
 
 function solicitarPosicaoNavegador() {
@@ -96,52 +126,62 @@ function solicitarPosicaoNavegador() {
   });
 }
 
-async function tratarUsoDaLocalizacao(formulario, situacao, aoUsarLocalizacao) {
-  const uf = formulario.elements.uf.value;
-  if (!uf) {
-    situacao.textContent = "Selecione o estado antes de usar sua localização.";
-    return;
-  }
+async function tratarUsoDaLocalizacao(situacao, aoUsarLocalizacao) {
   situacao.textContent = "Aguardando sua autorização no navegador…";
   try {
     const posicao = await solicitarPosicaoNavegador();
     situacao.textContent = "";
-    aoUsarLocalizacao({ uf, posicao });
+    aoUsarLocalizacao(posicao);
   } catch {
-    situacao.textContent = "Localização não autorizada. Preencha o endereço para continuar.";
+    situacao.textContent = "Localização não autorizada. Informe o CEP para continuar.";
   }
 }
 
-function tratarEnvio(formulario, situacao, aoEnviarEndereco) {
-  const endereco = lerEndereco(formulario);
-  const faltantes = camposFaltantes(endereco);
-  if (faltantes.length > 0) {
-    situacao.textContent = `Preencha: ${faltantes.join(", ")}.`;
+function enviarCep(formularioCep, aoEnviarCep) {
+  const cep = limparCep(formularioCep.campoCep.value);
+  if (!cep) {
+    formularioCep.situacao.textContent = "Digite um CEP com 8 números ou use “Não sei meu CEP”.";
     return;
   }
-  situacao.textContent = "";
-  aoEnviarEndereco(endereco);
+  formularioCep.situacao.textContent = "";
+  aoEnviarCep(cep);
 }
 
-export function criarFormularioEndereco({ ufsDisponiveis, sufixo, aoEnviarEndereco, aoUsarLocalizacao }) {
-  const formulario = criarElemento("form", "formulario-locais");
-  formulario.noValidate = true;
-  const situacao = criarElemento("p", "resultado__observacao");
-  situacao.setAttribute("role", "status");
-  const { acoes, botaoLocalizacao } = criarAcoes();
-  const privacidade = criarElemento(
+function criarAvisoPrivacidade() {
+  return criarElemento(
     "p",
     "resultado__observacao",
-    "O endereço é enviado ao ViaCEP e ao OpenStreetMap (Nominatim) só para obter coordenadas, e não é " +
-      "armazenado por este projeto. A localização do navegador é usada apenas neste aparelho.",
+    "O CEP e o endereço são enviados ao ViaCEP e ao OpenStreetMap (Nominatim) só para obter coordenadas, e não " +
+      "são armazenados por este projeto. A localização do navegador é usada apenas neste aparelho.",
   );
-  formulario.append(...criarCampos(ufsDisponiveis, sufixo), acoes, situacao, privacidade);
+}
 
-  formulario.elements.cep.addEventListener("change", () => preencherPeloCep(formulario, situacao));
-  botaoLocalizacao.addEventListener("click", () => tratarUsoDaLocalizacao(formulario, situacao, aoUsarLocalizacao));
-  formulario.addEventListener("submit", (evento) => {
+export function criarFormularioEndereco({ ufsDisponiveis, sufixo, aoEnviarCep, aoUsarLocalizacao }) {
+  const formularioCep = criarFormularioCep(sufixo);
+  const formularioSemCep = criarFormularioSemCep(ufsDisponiveis, `${sufixo}-sem-cep`);
+  const escolherCep = (cep) => {
+    formularioCep.campoCep.value = formatarCep(cep);
+    formularioSemCep.formulario.hidden = true;
+    enviarCep(formularioCep, aoEnviarCep);
+  };
+
+  formularioCep.formulario.addEventListener("submit", (evento) => {
     evento.preventDefault();
-    tratarEnvio(formulario, situacao, aoEnviarEndereco);
+    enviarCep(formularioCep, aoEnviarCep);
   });
-  return formulario;
+  formularioCep.botaoLocalizacao.addEventListener("click", () =>
+    tratarUsoDaLocalizacao(formularioCep.situacao, aoUsarLocalizacao),
+  );
+  formularioCep.botaoNaoSei.addEventListener("click", () => {
+    formularioSemCep.formulario.hidden = !formularioSemCep.formulario.hidden;
+    if (!formularioSemCep.formulario.hidden) formularioSemCep.formulario.elements.uf.focus();
+  });
+  formularioSemCep.formulario.addEventListener("submit", (evento) => {
+    evento.preventDefault();
+    descobrirCep(formularioSemCep, escolherCep);
+  });
+
+  const conteiner = criarElemento("div", "endereco");
+  conteiner.append(formularioCep.formulario, formularioSemCep.formulario, criarAvisoPrivacidade());
+  return conteiner;
 }
