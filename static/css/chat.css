@@ -173,3 +173,11 @@
   padding: 8px 10px;
   font-size: 0.92rem;
 }
+
+.botao--rota {
+  display: inline-block;
+  margin-top: 6px;
+  padding: 5px 16px;
+  font-size: 0.9rem;
+  text-decoration: none;
+}

@@ -1,4 +1,4 @@
-import { criarElemento, formatarData } from "./elementos_dom.js";
+import { criarElemento, criarLink, formatarData } from "./elementos_dom.js";
 import { GRUPO_POR_FRENTE, REFERENCIA_PROXIMIDADE } from "./selecao_estabelecimentos.js";
 
 const DESCRICAO_GRUPO = {
@@ -42,16 +42,36 @@ export function descreverOrigem(estabelecimento) {
   return `Fonte: CNES ${estabelecimento.cnes}, competência ${competencia}${atualizacao}.`;
 }
 
-export function renderizarEstabelecimento(estabelecimento) {
+// Usa nome e endereço (não as coordenadas) para o Google Maps achar o
+// estabelecimento pelo nome e mostrar horários e avaliações junto da rota.
+export function montarUrlRota(estabelecimento, uf) {
+  const { logradouro, numero, bairro } = estabelecimento.endereco;
+  const rua = [logradouro, numero].filter(Boolean).join(" ");
+  const destino = [estabelecimento.nome, rua, bairro, `${estabelecimento.municipio} - ${uf}`].filter(Boolean).join(", ");
+  return `https://www.google.com/maps/dir/?api=1&destination=${encodeURIComponent(destino)}`;
+}
+
+function criarBotaoRota(estabelecimento, uf) {
+  const link = criarLink(montarUrlRota(estabelecimento, uf), "Como chegar (Google Maps)");
+  link.className = "botao botao--secundario botao--rota";
+  link.setAttribute("aria-label", `Como chegar em ${estabelecimento.nome} pelo Google Maps (abre em nova aba)`);
+  return link;
+}
+
+export function renderizarEstabelecimento(estabelecimento, uf) {
   const descricao = DESCRICAO_GRUPO[estabelecimento.grupo];
   const cartao = criarElemento("div", `estabelecimento estabelecimento--${estabelecimento.grupo}`);
+  cartao.append(criarElemento("p", "estabelecimento__nome", estabelecimento.nome));
+  if (estabelecimento.razao_social && estabelecimento.razao_social !== estabelecimento.nome) {
+    cartao.append(criarElemento("p", "resultado__observacao", `Razão social: ${estabelecimento.razao_social}`));
+  }
   cartao.append(
-    criarElemento("p", "estabelecimento__nome", estabelecimento.nome),
     criarElemento("span", "estabelecimento__tipo", descricao.rotulo),
     criarElemento("p", null, descreverEndereco(estabelecimento)),
     criarElemento("p", null, descreverProximidade(estabelecimento)),
     criarElemento("p", "resultado__observacao", descricao.aviso),
     criarElemento("p", "resultado__observacao", descreverOrigem(estabelecimento)),
+    criarBotaoRota(estabelecimento, uf),
   );
   return cartao;
 }
