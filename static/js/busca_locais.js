@@ -11,7 +11,10 @@ const URL_PAINEL_FARMACIA_POPULAR =
 const DESCRICAO_GRUPO = {
   [GRUPO_POR_FRENTE.CBAF]: {
     rotulo: "Rede pública · medicamentos básicos",
-    aviso: "A lista de medicamentos do município e o estoque devem ser confirmados com a unidade.",
+    aviso:
+      "Na rede pública, a retirada costuma ser feita na unidade de referência do seu endereço, e algumas " +
+      "unidades atendem só públicos específicos. Confirme com a unidade se ela atende você, a lista de " +
+      "medicamentos do município e o estoque.",
   },
   [GRUPO_POR_FRENTE.FARMACIA_POPULAR_CNES]: {
     rotulo: "Farmácia Popular · segundo o CNES",
