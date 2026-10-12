@@ -6,20 +6,21 @@
 "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
 "data_referencia": "2026-10-08",
 "data_obtencao": "2026-10-12",
-"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+"nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
 },
 "uf": "DF",
 "estabelecimentos": [
 {
 "cnpj": "05284619000199",
 "cnes": null,
-"nome": "ALTAIR ASSUNCAO DA CUNHA DROGARIA - ME",
+"nome": "DROGARIA SOCIAL",
 "razao_social": "ALTAIR ASSUNCAO DA CUNHA DROGARIA - ME",
 "endereco": {
-"logradouro": "CL 103",
+"logradouro": "COMERCIO LOCAL CL 103 LOTE E-35",
 "numero": null,
 "bairro": "SANTA MARIA",
-"cep": null
+"cep": "72503200"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -33,13 +34,13 @@
 {
 "cnpj": "04303916000171",
 "cnes": null,
-"nome": "ALYNE CRISTHIAN FERREIRA - EPP",
+"nome": "DROGARIA DO JUNIOR",
 "razao_social": "ALYNE CRISTHIAN FERREIRA - EPP",
 "endereco": {
-"logradouro": "COMERCIO LOCAL BLOCO A",
+"logradouro": "SETOR SRE/S CL BLOCO A LOJAS 45, 49, 53 E 57",
 "numero": null,
 "bairro": "CRUZEIRO VELHO",
-"cep": null
+"cep": "70640515"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -53,13 +54,13 @@
 {
 "cnpj": "08692807000144",
 "cnes": null,
-"nome": "AM&M COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
+"nome": "DROGARIA FAMILIA",
 "razao_social": "AM&M COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
 "endereco": {
-"logradouro": "QUADRA 30 CO 22",
-"numero": null,
+"logradouro": "AVENIDA PARANOA QUADRA 30 CONJUNTO 22 LOTE 10 LOJA",
+"numero": "01",
 "bairro": "PARANOA",
-"cep": null
+"cep": "71573030"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -73,13 +74,13 @@
 {
 "cnpj": "07326938000145",
 "cnes": null,
-"nome": "AND DROGARIA LTDA - ME",
+"nome": "NOSSA PHARMA",
 "razao_social": "AND DROGARIA LTDA - ME",
 "endereco": {
-"logradouro": "LARA CONJUNTO A",
-"numero": null,
+"logradouro": "CONDOMÍNIO LARA CONJUNTO A LOTE",
+"numero": "01",
 "bairro": "NOVA COLINA (SOBRADINHO)",
-"cep": null
+"cep": "73270505"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -93,13 +94,13 @@
 {
 "cnpj": "17661409000151",
 "cnes": null,
-"nome": "BIGFARMA COMERCIO DE MEDICAMENTOS LTDA - ME",
+"nome": "DROGARIA BIGFARMA",
 "razao_social": "BIGFARMA COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
-"logradouro": "QUADRA 27 CO 19",
+"logradouro": "QUADRA QUADRA 27 CONJUNTO 19",
 "numero": null,
 "bairro": "PARANOA",
-"cep": null
+"cep": "71572707"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -113,13 +114,13 @@
 {
 "cnpj": "02010627000159",
 "cnes": null,
-"nome": "DC COMERCIO DE MEDICAMENTOS LTDA",
+"nome": "DROGACINTIA",
 "razao_social": "DC COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
-"logradouro": "CENTRAL BLOCOS 525/635",
-"numero": null,
+"logradouro": "AVENIDA CENTRAL BLOCOS 525/635 (LADO IMPAR) LOTE 565 LOJA",
+"numero": "01",
 "bairro": "NUCLEO BANDEIRANTE",
-"cep": null
+"cep": "71710520"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -136,7 +137,7 @@
 "nome": "DROGARIA SAUDE",
 "razao_social": "DF COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
 "endereco": {
-"logradouro": "QN 310 CO 1",
+"logradouro": "QUADRA QN",
 "numero": "310",
 "bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
 "cep": "72306701"
@@ -153,13 +154,13 @@
 {
 "cnpj": "06277527000144",
 "cnes": null,
-"nome": "DROGARIA 44 LTDA - ME",
+"nome": "DROGARIA 44",
 "razao_social": "DROGARIA 44 LTDA - ME",
 "endereco": {
-"logradouro": "QE 42 CO A",
-"numero": null,
+"logradouro": "E/Q 42/44 BLOCO A LOTE 01 LOJA",
+"numero": "14",
 "bairro": "GUARA II",
-"cep": null
+"cep": "71070015"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -173,13 +174,13 @@
 {
 "cnpj": "01276256000199",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "CSB 2",
+"logradouro": "QUADRA CSB 2",
 "numero": null,
 "bairro": "TAGUATINGA SUL (TAGUATINGA)",
-"cep": null
+"cep": "72015525"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -193,13 +194,13 @@
 {
 "cnpj": "01276256000270",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "SCN QUADRA 2 BL D",
+"logradouro": "QUADRA SCN QUADRA 2 BLOCO D",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70712040"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -213,13 +214,13 @@
 {
 "cnpj": "01276256000431",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "CNA 2",
+"logradouro": "QUADRA CNA 2",
 "numero": null,
 "bairro": "TAGUATINGA NORTE (TAGUATINGA)",
-"cep": null
+"cep": "72110025"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -233,13 +234,13 @@
 {
 "cnpj": "01276256000601",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "ALECRIM",
-"numero": null,
+"logradouro": "RUA ALECRIM LOTE",
+"numero": "15",
 "bairro": "NORTE (AGUAS CLARAS)",
-"cep": null
+"cep": "71909360"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -253,13 +254,13 @@
 {
 "cnpj": "01276256000784",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "CLS 309 BL C",
+"logradouro": "QUADRA SHCS CL QUADRA 309 BLOCO C",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70362530"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -273,13 +274,13 @@
 {
 "cnpj": "01276256000865",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "QUADRA 4",
-"numero": null,
+"logradouro": "QUADRA 04 NORTE LOTE 25 LOJAS",
+"numero": "01/02",
 "bairro": "SETOR NORTE (BRAZLANDIA)",
-"cep": null
+"cep": "72710040"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -293,13 +294,13 @@
 {
 "cnpj": "01276256000946",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "QNN 1 CO D",
-"numero": null,
+"logradouro": "QUADRA QNN 1 CONJUNTO D LOTE",
+"numero": "02",
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72225014"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -313,13 +314,13 @@
 {
 "cnpj": "01276256001080",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "QNN 20 CO P",
-"numero": null,
+"logradouro": "QUADRA EQ 31/33 LOTE",
+"numero": "05",
 "bairro": "CEILANDIA SUL (CEILANDIA)",
-"cep": null
+"cep": "71065901"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -333,13 +334,13 @@
 {
 "cnpj": "01276256001241",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "QN 314 CO 1",
+"logradouro": "QUADRA QN 314 CJ 1 LT 2",
 "numero": null,
 "bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
-"cep": null
+"cep": "72308201"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -353,13 +354,13 @@
 {
 "cnpj": "01276256001403",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "SHIN QI 13",
+"logradouro": "SETOR SHIN EPPN CANTEIRO CENTRAL LOTE 15 BLOCO B LOJA 22 E 26",
 "numero": null,
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
-"cep": null
+"cep": "71535000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -373,13 +374,13 @@
 {
 "cnpj": "01276256001675",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "QUADRA 103",
+"logradouro": "QUADRA QUADRA 103",
 "numero": null,
 "bairro": "RECANTO DAS EMAS",
-"cep": null
+"cep": "72600300"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -393,13 +394,13 @@
 {
 "cnpj": "01276256001756",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "SHIN QI 1",
-"numero": null,
+"logradouro": "SETOR SHIN EPPN CANTEIRO CENTRAL LOTE 03 LOJA",
+"numero": "10",
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
-"cep": null
+"cep": "71505000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -413,13 +414,13 @@
 {
 "cnpj": "01276256001918",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "DOS EUCALIPTOS QUADRA 107",
+"logradouro": "QUADRA SHCN CL 208",
 "numero": null,
 "bairro": "NORTE (AGUAS CLARAS)",
-"cep": null
+"cep": "70853540"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -433,13 +434,13 @@
 {
 "cnpj": "01276256002213",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "CENTRAL BLOCO 12",
-"numero": null,
+"logradouro": "QUADRA CENTRAL BLOCO 12 LOTE",
+"numero": "13",
 "bairro": "SOBRADINHO",
-"cep": null
+"cep": "73010522"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -453,13 +454,13 @@
 {
 "cnpj": "01276256002302",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "CLS 302 BL B",
-"numero": null,
+"logradouro": "QUADRA SHCS CL QD 302 - A BLOCO D LOJA",
+"numero": "07",
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70338520"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -473,13 +474,13 @@
 {
 "cnpj": "01276256002566",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "205",
-"numero": null,
+"logradouro": "AVENIDA PAU BRASIL LOTE",
+"numero": "10",
 "bairro": "SUL (AGUAS CLARAS)",
-"cep": null
+"cep": "71926000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -493,13 +494,13 @@
 {
 "cnpj": "01276256002647",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "EQ 35/36 BL E",
-"numero": null,
+"logradouro": "VILA SAO JOSE EQ 35/36 BLOCO E LOTE",
+"numero": "01",
 "bairro": "VILA SAO JOSE (BRAZLANDIA)",
-"cep": null
+"cep": "72735515"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -513,13 +514,13 @@
 {
 "cnpj": "01276256002809",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "COPAIBA",
-"numero": null,
+"logradouro": "RUA COPAIBA LOTE",
+"numero": "01",
 "bairro": "NORTE (AGUAS CLARAS)",
-"cep": null
+"cep": "71919540"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -533,13 +534,13 @@
 {
 "cnpj": "01276256002990",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "QSE 13",
+"logradouro": "QUADRA CLSW 104 BLOCO C",
 "numero": null,
 "bairro": "TAGUATINGA SUL (TAGUATINGA)",
-"cep": null
+"cep": "70670533"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -553,13 +554,13 @@
 {
 "cnpj": "01276256003457",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "DAS PAINEIRAS",
-"numero": null,
+"logradouro": "RUA DAS PAINEIRAS LOTE 03 E RUA 30 NORTE LOTE 04 LOJA",
+"numero": "13",
 "bairro": "NORTE (AGUAS CLARAS)",
-"cep": null
+"cep": "71918000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -573,13 +574,13 @@
 {
 "cnpj": "01276256003538",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "AREA ESPECIAL 4",
+"logradouro": "AREA ESPECIAL 04 LOTE G E H BLOCO B",
 "numero": null,
 "bairro": "GUARA II",
-"cep": null
+"cep": "71070640"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -593,13 +594,13 @@
 {
 "cnpj": "01276256003880",
 "cnes": null,
-"nome": "DROGARIA ALAMEDA LTDA",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA ALAMEDA LTDA",
 "endereco": {
-"logradouro": "CLSW 303 BL C",
-"numero": null,
+"logradouro": "QUADRA QN 7 CONJUNTO 4 LOTE",
+"numero": "16",
 "bairro": "SETOR SUDOESTE",
-"cep": null
+"cep": "71805704"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -613,13 +614,13 @@
 {
 "cnpj": "08404574000137",
 "cnes": null,
-"nome": "DROGARIA ALMEIDA E OLIVEIRA LTDA - ME",
+"nome": "DROGARIA DENIS",
 "razao_social": "DROGARIA ALMEIDA E OLIVEIRA LTDA - ME",
 "endereco": {
-"logradouro": "QN 14B CO 5",
-"numero": null,
+"logradouro": "QUADRA QN 14-B CONJUNTO 05 LOTE",
+"numero": "22",
 "bairro": "RIACHO FUNDO II",
-"cep": null
+"cep": "71881125"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -633,13 +634,13 @@
 {
 "cnpj": "10520119000149",
 "cnes": null,
-"nome": "DROGARIA ARUANDA E JANAINA LTDA - ME",
+"nome": "DROGARIA LUARA",
 "razao_social": "DROGARIA ARUANDA E JANAINA LTDA - ME",
 "endereco": {
-"logradouro": "13 CONJUNTO D",
-"numero": null,
+"logradouro": "QUADRA 13 CONJUNTO D LOTE",
+"numero": "23A",
 "bairro": "ARAPOANGA (PLANALTINA)",
-"cep": null
+"cep": "73368386"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -653,13 +654,13 @@
 {
 "cnpj": "12028058000122",
 "cnes": null,
-"nome": "DROGARIA B E B LTDA - ME",
+"nome": "FARMACIAS DESCONTAO",
 "razao_social": "DROGARIA B E B LTDA - ME",
 "endereco": {
-"logradouro": "QS 402 CO B",
-"numero": null,
+"logradouro": "QUADRA QS 402 CONJUNTO B",
+"numero": "LT 01",
 "bairro": "SAMAMBAIA NORTE",
-"cep": null
+"cep": "72318522"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -673,13 +674,13 @@
 {
 "cnpj": "06926940000192",
 "cnes": null,
-"nome": "DROGARIA BELA VISTA LTDA",
+"nome": "DROGARIA COLORADO",
 "razao_social": "DROGARIA BELA VISTA LTDA",
 "endereco": {
-"logradouro": "ROD DF-150 KM 2,5",
+"logradouro": "CONDOMINIO SOLAR DE ATHENAS",
 "numero": null,
 "bairro": "GRANDE COLORADO (SOBRADINHO)",
-"cep": null
+"cep": "73105903"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -693,13 +694,13 @@
 {
 "cnpj": "07393162000186",
 "cnes": null,
-"nome": "DROGARIA BEM VIVER LTDA - ME",
+"nome": "DROGARIA BEM VIVER",
 "razao_social": "DROGARIA BEM VIVER LTDA - ME",
 "endereco": {
-"logradouro": "CL 216",
+"logradouro": "QUADRA CL 216",
 "numero": null,
 "bairro": "SANTA MARIA",
-"cep": null
+"cep": "72546220"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -713,13 +714,13 @@
 {
 "cnpj": "17247286000107",
 "cnes": null,
-"nome": "DROGARIA BERNA LTDA - ME",
+"nome": "DROGARIA ANA LUISA",
 "razao_social": "DROGARIA BERNA LTDA - ME",
 "endereco": {
-"logradouro": "df RF II QS 14 CONJUNTO 03 LOTE 14 loja 01",
+"logradouro": "QUADRA QS 14 BLOCO D",
 "numero": null,
 "bairro": "RIACHO FUNDO II",
-"cep": null
+"cep": "71884550"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -733,13 +734,13 @@
 {
 "cnpj": "00372383000129",
 "cnes": null,
-"nome": "DROGARIA BRASIL LTDA",
+"nome": "DROGARIA BRASIL",
 "razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
-"logradouro": "SHCES QUADRA 303 BL C",
+"logradouro": "QUADRA SHCE/S QUADRA 303 CL BLOCO C",
 "numero": null,
 "bairro": "CRUZEIRO NOVO",
-"cep": null
+"cep": "70650333"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -753,13 +754,13 @@
 {
 "cnpj": "00372383000200",
 "cnes": null,
-"nome": "DROGARIA BRASIL LTDA",
+"nome": "DROGARIA BRASIL FILIAL I",
 "razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
-"logradouro": "SHC/AOS AREA ESPECIAL 4/5 CL",
+"logradouro": "SETOR SHC/AOS AREA ESPECIAL 4/5 CL",
 "numero": null,
 "bairro": "AREA OCTOGONAL",
-"cep": null
+"cep": "70660655"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -773,13 +774,13 @@
 {
 "cnpj": "00372383000471",
 "cnes": null,
-"nome": "DROGARIA BRASIL LTDA",
+"nome": "DROGARIA BRASIL FILIAL II",
 "razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
-"logradouro": "CLSW 300B BL 1",
+"logradouro": "QUADRA SHC/SW CLSW 300-B BLOCO 01 LOJAS 26, 27 E 28",
 "numero": null,
 "bairro": "SETOR SUDOESTE",
-"cep": null
+"cep": "70673073"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -793,13 +794,13 @@
 {
 "cnpj": "00372383000714",
 "cnes": null,
-"nome": "DROGARIA BRASIL LTDA",
+"nome": "DROGARIA BRASIL",
 "razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
-"logradouro": "DO EXERCITO",
+"logradouro": "AVENIDA DO EXERCITO",
 "numero": null,
 "bairro": "SETOR MILITAR URBANO",
-"cep": null
+"cep": "70630000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -813,13 +814,13 @@
 {
 "cnpj": "00372383000803",
 "cnes": null,
-"nome": "DROGARIA BRASIL LTDA",
+"nome": "DROGARIA BRASIL",
 "razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
-"logradouro": "CLSW 105 BL C",
+"logradouro": "SETOR CLSW 105 BLOCO C",
 "numero": null,
 "bairro": "SETOR SUDOESTE",
-"cep": null
+"cep": "70670433"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -833,13 +834,13 @@
 {
 "cnpj": "00372383000986",
 "cnes": null,
-"nome": "DROGARIA BRASIL LTDA",
+"nome": "DROGARIA BRASIL",
 "razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
-"logradouro": "SRES AREA ESPECIAL BLOCO C",
+"logradouro": "SETOR SRE/SUL CL BLOCO C",
 "numero": null,
 "bairro": "CRUZEIRO VELHO",
-"cep": null
+"cep": "70640630"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -853,13 +854,13 @@
 {
 "cnpj": "00372383001010",
 "cnes": null,
-"nome": "DROGARIA BRASIL LTDA",
+"nome": "DROGARIA BRASIL",
 "razao_social": "DROGARIA BRASIL LTDA",
 "endereco": {
-"logradouro": "SHCES QUADRA 1501 BL I",
+"logradouro": "SETOR SHCES QUADRA 1501 BLOCO I",
 "numero": null,
 "bairro": "CRUZEIRO NOVO",
-"cep": null
+"cep": "70658519"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -873,13 +874,13 @@
 {
 "cnpj": "97536452000124",
 "cnes": null,
-"nome": "DROGARIA CARDOSO E SILVA LTDA - EPP",
+"nome": "DROGARIA MINAS GERAIS",
 "razao_social": "DROGARIA CARDOSO E SILVA LTDA - EPP",
 "endereco": {
-"logradouro": "CLS 214 BL B",
+"logradouro": "SETOR SHC/SUL, COMERCIO LOCAL, QUADRA 214",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70293520"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -893,13 +894,13 @@
 {
 "cnpj": "12091996000177",
 "cnes": null,
-"nome": "DROGARIA CARLOS & LARA LTDA - ME",
+"nome": "DROGARIA VIDA",
 "razao_social": "DROGARIA CARLOS & LARA LTDA - ME",
 "endereco": {
-"logradouro": "QN 305 CO 1",
+"logradouro": "QUADRA QN 305 CONJUNTO 1 LOTE 02",
 "numero": null,
 "bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
-"cep": null
+"cep": "72305201"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -913,13 +914,13 @@
 {
 "cnpj": "08606173000160",
 "cnes": null,
-"nome": "DROGARIA CLAUDIANA LTDA - ME",
+"nome": "DROGARIA MAIS SOCIAL",
 "razao_social": "DROGARIA CLAUDIANA LTDA - ME",
 "endereco": {
-"logradouro": "QNP 9",
-"numero": null,
+"logradouro": "OUTROS QNP 09 CONJUNTO U LOTE",
+"numero": "50",
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72240800"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -936,8 +937,8 @@
 "nome": "DROGA FORTE",
 "razao_social": "DROGARIA CNJ LTDA",
 "endereco": {
-"logradouro": "CNJ 1",
-"numero": "89",
+"logradouro": "QUADRA CNJ 1 PROJECAO B LOTE",
+"numero": "8 E 9",
 "bairro": "TAGUATINGA NORTE (TAGUATINGA)",
 "cep": "72140015"
 },
@@ -953,13 +954,13 @@
 {
 "cnpj": "07773909000121",
 "cnes": null,
-"nome": "DROGARIA CRUZEIRO NOVO LTDA",
+"nome": "DROGAFORTE",
 "razao_social": "DROGARIA CRUZEIRO NOVO LTDA",
 "endereco": {
-"logradouro": "SHCES QUADRA 603 BL C",
+"logradouro": "QUADRA SHCE/S 603 BLOCO C LOJA 34",
 "numero": null,
 "bairro": "CRUZEIRO NOVO",
-"cep": null
+"cep": "70655633"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -976,10 +977,10 @@
 "nome": "DROGARIA DA ECONOMIA SAO SEBASTIAO LTDA",
 "razao_social": "DROGARIA DA ECONOMIA SAO SEBASTIAO LTDA",
 "endereco": {
-"logradouro": "DA GAMELEIRA",
-"numero": null,
+"logradouro": "RUA DA GAMELEIRA",
+"numero": "600",
 "bairro": "CENTRO (SAO SEBASTIAO)",
-"cep": null
+"cep": "71691084"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -993,13 +994,13 @@
 {
 "cnpj": "04224951000103",
 "cnes": null,
-"nome": "DROGARIA DISTRITO SAUDE LTDA",
+"nome": "DROGARIA DISTRITO SAUDE",
 "razao_social": "DROGARIA DISTRITO SAUDE LTDA",
 "endereco": {
-"logradouro": "CND 2",
-"numero": null,
+"logradouro": "QUADRA CND 2 LOTES 18,19 E",
+"numero": "20",
 "bairro": "TAGUATINGA NORTE (TAGUATINGA)",
-"cep": null
+"cep": "72120025"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1013,13 +1014,13 @@
 {
 "cnpj": "13505274000184",
 "cnes": null,
-"nome": "DROGARIA DIVINA BACELAR LTDA",
+"nome": "DROGARIA SAUDE E VIDA",
 "razao_social": "DROGARIA DIVINA BACELAR LTDA",
 "endereco": {
-"logradouro": "EQNP 30/34 BL F",
-"numero": null,
+"logradouro": "QUADRA EQNP 30/34 BLOCO F LOTE 03 LOJA",
+"numero": "03",
 "bairro": "CEILANDIA SUL (CEILANDIA)",
-"cep": null
+"cep": "72236506"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1033,13 +1034,13 @@
 {
 "cnpj": "03730556000121",
 "cnes": null,
-"nome": "DROGARIA DROGAFORTE LTDA - ME",
+"nome": "DROGARIA MANGUEIRAL",
 "razao_social": "DROGARIA DROGAFORTE LTDA - ME",
 "endereco": {
-"logradouro": "SHMA - PRACA DE ATIVIDADES 4 - PA4 - PORTAL DAS CA",
+"logradouro": "SETOR SHMA - PRACA DE ATIVIDADES 4 - PA4 - PORTAL DAS CAVIUNAS",
 "numero": null,
 "bairro": "SAO SEBASTIAO",
-"cep": null
+"cep": "71699160"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1056,7 +1057,7 @@
 "nome": "DROGA VIDA",
 "razao_social": "DROGARIA DROGAFUJI LTDA",
 "endereco": {
-"logradouro": "QNO 2 CO A",
+"logradouro": "QUADRA QNO 02 CONJUNTO A LOTE",
 "numero": "06",
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
 "cep": "72250201"
@@ -1076,7 +1077,7 @@
 "nome": "DROGARIA SANTOS",
 "razao_social": "DROGARIA E PERFUMARIA BARBOSA & SILVA LTDA - EPP",
 "endereco": {
-"logradouro": "EQNP 7/11 BL E",
+"logradouro": "QUADRA EQNP 7/11 BLOCO E (COMERCIO)",
 "numero": "S/N",
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
 "cep": "72240545"
@@ -1096,10 +1097,10 @@
 "nome": "DROGARIA E PERFUMARIA BORGES LTDA-EPP",
 "razao_social": "DROGARIA E PERFUMARIA BORGES LTDA-EPP",
 "endereco": {
-"logradouro": "CLS 4 BL A",
-"numero": null,
+"logradouro": "OUTROS RF CLS 04 BLOCO A LOTE",
+"numero": "01",
 "bairro": "RIACHO FUNDO I",
-"cep": null
+"cep": "71820511"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1113,13 +1114,13 @@
 {
 "cnpj": "10912735000145",
 "cnes": null,
-"nome": "DROGARIA E PERFUMARIA CERTA LTDA - ME",
+"nome": "FARMACIAS DESCONTAO",
 "razao_social": "DROGARIA E PERFUMARIA CERTA LTDA - ME",
 "endereco": {
-"logradouro": "QSB 9",
-"numero": null,
+"logradouro": "QUADRA QSB 9 LOTE 39 LOJA",
+"numero": "01/02",
 "bairro": "TAGUATINGA SUL",
-"cep": null
+"cep": "72015590"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1133,13 +1134,13 @@
 {
 "cnpj": "07338333000174",
 "cnes": null,
-"nome": "DROGARIA ESTANCIA LTDA EPP",
+"nome": "DROGARIA IMPERIO",
 "razao_social": "DROGARIA ESTANCIA LTDA EPP",
 "endereco": {
-"logradouro": "ROD BR-020 KM 2,5",
+"logradouro": "CONDOMINIO IMPERIO DOS NOBRES MC 01 LOTE 23",
 "numero": null,
 "bairro": "REGIAO DOS LAGOS (SOBRADINHO)",
-"cep": null
+"cep": "73251901"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1153,13 +1154,13 @@
 {
 "cnpj": "00477265000185",
 "cnes": null,
-"nome": "DROGARIA ESTRELA LTDA",
+"nome": "SAO RAFAEL",
 "razao_social": "DROGARIA ESTRELA LTDA",
 "endereco": {
-"logradouro": "QUADRA 9",
+"logradouro": "QUADRA QUADRA 9",
 "numero": null,
 "bairro": "SETOR OESTE GAMA",
-"cep": null
+"cep": "72425090"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1173,13 +1174,13 @@
 {
 "cnpj": "08699200000196",
 "cnes": null,
-"nome": "DROGARIA FARIAS E BRITO LTDA - ME",
+"nome": "DROGARIA MARANHENSE",
 "razao_social": "DROGARIA FARIAS E BRITO LTDA - ME",
 "endereco": {
-"logradouro": "QUADRA 307 CO 16",
-"numero": null,
+"logradouro": "QUADRA QUADRA 307 CONJUNTO 16",
+"numero": "02",
 "bairro": "RECANTO DAS EMAS",
-"cep": null
+"cep": "72621417"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1193,13 +1194,13 @@
 {
 "cnpj": "00061325000184",
 "cnes": null,
-"nome": "DROGARIA FARMAFUJI",
+"nome": "DROGAFUJI",
 "razao_social": "DROGARIA FARMAFUJI",
 "endereco": {
-"logradouro": "EQNO 11/13 BL F",
+"logradouro": "QUADRA EQNO 11/13 BLOCO F LOTE 5",
 "numero": null,
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72255516"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1213,13 +1214,13 @@
 {
 "cnpj": "10891495000140",
 "cnes": null,
-"nome": "DROGARIA FATIMA LTDA",
+"nome": "DROGARIA FATIMA",
 "razao_social": "DROGARIA FATIMA LTDA",
 "endereco": {
-"logradouro": "CNR 1 CO C",
-"numero": null,
+"logradouro": "QUADRA CNR 01 CONJUNTO B LOTE 01 LOJA",
+"numero": "02",
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72275156"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1233,13 +1234,13 @@
 {
 "cnpj": "08273933000164",
 "cnes": null,
-"nome": "DROGARIA FM LTDA",
+"nome": "DROGARIA MESSIAS",
 "razao_social": "DROGARIA FM LTDA",
 "endereco": {
-"logradouro": "EQNP 26/30 BL G",
-"numero": null,
+"logradouro": "QUADRA EQNP 26/30 BLOCO G LOTE 01/02/03/04/05/06 LOJA",
+"numero": "03/04",
 "bairro": "CEILANDIA SUL (CEILANDIA)",
-"cep": null
+"cep": "72235547"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1256,7 +1257,7 @@
 "nome": "DROGAPLAN",
 "razao_social": "DROGARIA FORCA E VIDA LTDA",
 "endereco": {
-"logradouro": "QUADRA 203",
+"logradouro": "QUADRA 203, AVENIDA RECANTO DAS EMAS, LOTE 39, LOJA",
 "numero": "05",
 "bairro": "RECANTO DAS EMAS",
 "cep": "72610300"
@@ -1273,13 +1274,13 @@
 {
 "cnpj": "13008466000185",
 "cnes": null,
-"nome": "DROGARIA FORTALEZA LTDA",
+"nome": "DROGARIA MESSIAS",
 "razao_social": "DROGARIA FORTALEZA LTDA",
 "endereco": {
-"logradouro": "RUA 12 CH 312",
-"numero": null,
+"logradouro": "RUA 12 CHACARA 312A, LOTE",
+"numero": "01",
 "bairro": "SETOR HABITACIONAL VICENTE PIRES",
-"cep": null
+"cep": "72007725"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1293,13 +1294,13 @@
 {
 "cnpj": "17266929000160",
 "cnes": null,
-"nome": "DROGARIA GABRIEL AKIO LTDA - ME",
+"nome": "DROGARIA FAMILIA",
 "razao_social": "DROGARIA GABRIEL AKIO LTDA - ME",
 "endereco": {
-"logradouro": "QUADRA 6",
-"numero": null,
+"logradouro": "QUADRA 6 LOTE 05 LOJA",
+"numero": "01",
 "bairro": "SETOR OESTE (GAMA)",
-"cep": null
+"cep": "72425060"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1313,13 +1314,13 @@
 {
 "cnpj": "12020875000134",
 "cnes": null,
-"nome": "DROGARIA GONCALVES CRUZEIRO LTDA - EPP",
+"nome": "DROGAFORTE",
 "razao_social": "DROGARIA GONCALVES CRUZEIRO LTDA - EPP",
 "endereco": {
-"logradouro": "QR 408 CO 16",
-"numero": null,
+"logradouro": "QUADRA QR 408 CONJUNTO 16 LOTE",
+"numero": "01",
 "bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
-"cep": null
+"cep": "72318318"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1333,13 +1334,13 @@
 {
 "cnpj": "10926199000137",
 "cnes": null,
-"nome": "DROGARIA GONÇALVES E SILVA EIRELI",
+"nome": "DROGARIA NOVA FARMA",
 "razao_social": "DROGARIA GONÇALVES E SILVA EIRELI",
 "endereco": {
-"logradouro": "QR 323 CO 12",
-"numero": null,
+"logradouro": "QUADRA QR 323 CONJUNTO 12",
+"numero": "26",
 "bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
-"cep": null
+"cep": "72309612"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1353,13 +1354,13 @@
 {
 "cnpj": "19714749000129",
 "cnes": null,
-"nome": "DROGARIA H. S. J. LTDA - ME",
+"nome": "DROGARIA BEM ESTAR",
 "razao_social": "DROGARIA H. S. J. LTDA - ME",
 "endereco": {
-"logradouro": "ITAPOA",
-"numero": null,
+"logradouro": "QUADRA 03 LOTE",
+"numero": "01",
 "bairro": "ITAPOA I",
-"cep": null
+"cep": "71590000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1373,13 +1374,13 @@
 {
 "cnpj": "07817377000187",
 "cnes": null,
-"nome": "DROGARIA HIPER-FARMA LTDA ME",
+"nome": "DROGARIA HIPER-FARMA",
 "razao_social": "DROGARIA HIPER-FARMA LTDA ME",
 "endereco": {
-"logradouro": "QN 15C CO 4",
-"numero": null,
+"logradouro": "QUADRA QN 15C CONJUNTO 04 LOTE 09 LOJA",
+"numero": "01",
 "bairro": "RIACHO FUNDO II",
-"cep": null
+"cep": "71881334"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1393,13 +1394,13 @@
 {
 "cnpj": "05324097000101",
 "cnes": null,
-"nome": "DROGARIA IMPRENSA LTDA - ME",
+"nome": "DROGARIA DROGAREIS",
 "razao_social": "DROGARIA IMPRENSA LTDA - ME",
 "endereco": {
-"logradouro": "QE 28 BL A",
-"numero": null,
+"logradouro": "QUADRA SRIA QE 28 LOJA",
+"numero": "03",
 "bairro": "GUARA II",
-"cep": null
+"cep": "71060612"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1413,13 +1414,13 @@
 {
 "cnpj": "07234105000154",
 "cnes": null,
-"nome": "DROGARIA J & C LTDA ME",
+"nome": "FARMACIAS DESCONTAO",
 "razao_social": "DROGARIA J & C LTDA ME",
 "endereco": {
-"logradouro": "QSC 19",
-"numero": null,
+"logradouro": "QSC 19 CONJUNTO G CHACARA 26 LOJA",
+"numero": "01",
 "bairro": "TAGUATINGA SUL (TAGUATINGA)",
-"cep": null
+"cep": "72016190"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1433,13 +1434,13 @@
 {
 "cnpj": "00547992000171",
 "cnes": null,
-"nome": "DROGARIA JUNQUEIRA LTDA ME",
+"nome": "DROGARIA JUNQUEIRA",
 "razao_social": "DROGARIA JUNQUEIRA LTDA ME",
 "endereco": {
-"logradouro": "EQNN 22/24 BL A",
+"logradouro": "QUADRA EQNN 22/24 BL A LT 01",
 "numero": null,
 "bairro": "CEILANDIA SUL (CEILANDIA)",
-"cep": null
+"cep": "72220571"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1453,13 +1454,13 @@
 {
 "cnpj": "00615963000108",
 "cnes": null,
-"nome": "DROGARIA LUX LTDA ME",
+"nome": "DROGARIA LUX",
 "razao_social": "DROGARIA LUX LTDA ME",
 "endereco": {
-"logradouro": "QNM 18 CO A",
+"logradouro": "QUADRA QNM 18 CJ A LT 52",
 "numero": null,
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72210181"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1473,13 +1474,13 @@
 {
 "cnpj": "16746608000108",
 "cnes": null,
-"nome": "DROGARIA MACENA LTDA",
+"nome": "FARMA POPULAR DF",
 "razao_social": "DROGARIA MACENA LTDA",
 "endereco": {
-"logradouro": "CENTRAL BLOCO 10",
-"numero": null,
+"logradouro": "QUADRA CENTRAL BLOCO",
+"numero": "02",
 "bairro": "SOBRADINHO",
-"cep": null
+"cep": "73010520"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1493,13 +1494,13 @@
 {
 "cnpj": "10798357000110",
 "cnes": null,
-"nome": "DROGARIA MAIA LTDA",
+"nome": "DROGAMAIA",
 "razao_social": "DROGARIA MAIA LTDA",
 "endereco": {
-"logradouro": "RUA 5 CH 232",
+"logradouro": "SETOR RUA 5 CHACARA 232",
 "numero": null,
 "bairro": "SETOR HABITACIONAL VICENTE PIRES",
-"cep": null
+"cep": "72006125"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1513,13 +1514,13 @@
 {
 "cnpj": "03644953000180",
 "cnes": null,
-"nome": "DROGARIA MAIS VIDA LTDA ME",
+"nome": "DROGARIA MAIS VIDA",
 "razao_social": "DROGARIA MAIS VIDA LTDA ME",
 "endereco": {
-"logradouro": "QN 8C CO 3",
-"numero": null,
+"logradouro": "QUADRA QN 8C CONJUNTO 3 LOTE",
+"numero": "36",
 "bairro": "RIACHO FUNDO II",
-"cep": null
+"cep": "71880133"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1533,13 +1534,13 @@
 {
 "cnpj": "15142864000115",
 "cnes": null,
-"nome": "DROGARIA MARCOSFARMA LTDA - ME",
+"nome": "DROGARIA MARCOSFARMA",
 "razao_social": "DROGARIA MARCOSFARMA LTDA - ME",
 "endereco": {
-"logradouro": "QUADRA 18",
+"logradouro": "SETOR SETOR OESTE Q 18 LT 14",
 "numero": null,
 "bairro": "SETOR OESTE (GAMA)",
-"cep": null
+"cep": "72420180"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1553,13 +1554,13 @@
 {
 "cnpj": "08761040000168",
 "cnes": null,
-"nome": "DROGARIA MARIANE LTDA - ME",
+"nome": "DROGA VIDA DO TRABALHADOR",
 "razao_social": "DROGARIA MARIANE LTDA - ME",
 "endereco": {
-"logradouro": "QR 406 CO 16",
-"numero": null,
+"logradouro": "QUADRA QR 406 CONJUNTO 16 LOTE",
+"numero": "01",
 "bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
-"cep": null
+"cep": "72318217"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1573,13 +1574,13 @@
 {
 "cnpj": "12856638000108",
 "cnes": null,
-"nome": "DROGARIA MEDIVIDA LTDA",
+"nome": "DROGARIA MEDIVIDA",
 "razao_social": "DROGARIA MEDIVIDA LTDA",
 "endereco": {
-"logradouro": "ESPECIAL MERCADO 1",
+"logradouro": "AREA ESPECIAL MERCADO 02 LOJAS 01,02.14 E 15",
 "numero": null,
 "bairro": "SETOR INDUSTRIAL (GAMA)",
-"cep": null
+"cep": "72445015"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1593,13 +1594,13 @@
 {
 "cnpj": "07351986000193",
 "cnes": null,
-"nome": "DROGARIA MINAS CENTER LTDA",
+"nome": "DROGARIA FATIMA",
 "razao_social": "DROGARIA MINAS CENTER LTDA",
 "endereco": {
-"logradouro": "QNN 18 CONJUNTO H LOTE",
-"numero": null,
+"logradouro": "QUADRA QNN 18 CONJUNTO H LOTE",
+"numero": "03",
 "bairro": "CEILANDIA SUL (CEILANDIA)",
-"cep": null
+"cep": "72220188"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1613,13 +1614,13 @@
 {
 "cnpj": "07098159000130",
 "cnes": null,
-"nome": "DROGARIA MOEMA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA-ME",
+"nome": "DROGARIA SOCIAL",
 "razao_social": "DROGARIA MOEMA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA-ME",
 "endereco": {
-"logradouro": "QR 216 CO N",
+"logradouro": "SETOR NORTE QUADRA RESIDENCIAL 216 CONJUNTO N LOTE 16",
 "numero": null,
 "bairro": "SANTA MARIA",
-"cep": null
+"cep": "72546514"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1633,13 +1634,13 @@
 {
 "cnpj": "32906422000117",
 "cnes": null,
-"nome": "DROGARIA MONALISA LTDA",
+"nome": "DROGASER",
 "razao_social": "DROGARIA MONALISA LTDA",
 "endereco": {
-"logradouro": "EQNN 5/7 BL A",
+"logradouro": "QUADRA EQNN 5/7 BLOCO A (COMERCIO)",
 "numero": null,
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72225541"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1653,13 +1654,13 @@
 {
 "cnpj": "11278502000103",
 "cnes": null,
-"nome": "DROGARIA MONTE ALTO LTDA - ME",
+"nome": "FARMASETE DROGARIA",
 "razao_social": "DROGARIA MONTE ALTO LTDA - ME",
 "endereco": {
-"logradouro": "QR 317 CO A",
+"logradouro": "QUADRA QR 317 CONJUNTO A LOTE 20 LOJA 01",
 "numero": null,
 "bairro": "SANTA MARIA",
-"cep": null
+"cep": "72547601"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1673,13 +1674,13 @@
 {
 "cnpj": "06910233000108",
 "cnes": null,
-"nome": "DROGARIA MÁRTIRE SÃO SEBASTIÃO LTDA EPP",
+"nome": "DROGARIA FARMAC POPULAR",
 "razao_social": "DROGARIA MÁRTIRE SÃO SEBASTIÃO LTDA EPP",
 "endereco": {
-"logradouro": "QUADRA 2",
-"numero": null,
+"logradouro": "QDA 02 LOTE",
+"numero": "02",
 "bairro": "SETOR SUL (GAMA)",
-"cep": null
+"cep": "72415100"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1693,13 +1694,13 @@
 {
 "cnpj": "10461402000147",
 "cnes": null,
-"nome": "DROGARIA NOVA BAHIA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+"nome": "DROGARIA NOVA BAHIA",
 "razao_social": "DROGARIA NOVA BAHIA COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
 "endereco": {
-"logradouro": "QUADRA 30 CO 22",
-"numero": null,
+"logradouro": "QUADRA QUADRA",
+"numero": "30",
 "bairro": "PARANOA",
-"cep": null
+"cep": "71573030"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1716,7 +1717,7 @@
 "nome": "DROGARIA NOVO MUNDO",
 "razao_social": "DROGARIA NOVO MUNDO LTDA - ME",
 "endereco": {
-"logradouro": "EQNM 36/38 BL A",
+"logradouro": "QUADRA EQNM 36/38 BLOCO A LOJA",
 "numero": "06",
 "bairro": "TAGUATINGA NORTE (TAGUATINGA)",
 "cep": "72145511"
@@ -1733,13 +1734,13 @@
 {
 "cnpj": "00484543000121",
 "cnes": null,
-"nome": "DROGARIA PARANA LTDA",
+"nome": "DROGARIA PARANA",
 "razao_social": "DROGARIA PARANA LTDA",
 "endereco": {
-"logradouro": "QI 20 BL A",
-"numero": null,
+"logradouro": "QUADRA QI 20 BLOCO A LOTE",
+"numero": "16",
 "bairro": "GUARA I",
-"cep": null
+"cep": "71015616"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1753,13 +1754,13 @@
 {
 "cnpj": "01588508000115",
 "cnes": null,
-"nome": "DROGARIA PLAZA LTDA - EPP",
+"nome": "DROGARIA DO CORACAO",
 "razao_social": "DROGARIA PLAZA LTDA - EPP",
 "endereco": {
-"logradouro": "QUADRA 36 CO S/N",
+"logradouro": "QUADRA QS 614 CONJUNTO A LOTE 01",
 "numero": null,
 "bairro": "SETOR LESTE (GAMA)",
-"cep": null
+"cep": "72322581"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1776,7 +1777,7 @@
 "nome": "DROGARIA POLIDROGAS",
 "razao_social": "DROGARIA POLIDROGAS LTDA EPP",
 "endereco": {
-"logradouro": "QR 2 MO 3",
+"logradouro": "QUADRA QR 2 MODULO 3 MODULO INTERNO",
 "numero": "S/N",
 "bairro": "CANDANGOLANDIA",
 "cep": "71725213"
@@ -1796,7 +1797,7 @@
 "nome": "DROGARIA SANTA MARIA",
 "razao_social": "DROGARIA PRAZIFARMA EIRELI - ME",
 "endereco": {
-"logradouro": "QUADRA 1 CO H",
+"logradouro": "QUADRA QUADRA 1 CONJUNTO H",
 "numero": "219",
 "bairro": "SETOR NORTE (GAMA)",
 "cep": "72430108"
@@ -1813,13 +1814,13 @@
 {
 "cnpj": "24907925000421",
 "cnes": null,
-"nome": "DROGARIA PRO VIDA LTDA - ME",
+"nome": "DROGARIA PRO VIDA",
 "razao_social": "DROGARIA PRO VIDA LTDA - ME",
 "endereco": {
-"logradouro": "C 8",
+"logradouro": "QUADRA C 08 LT 01 LJ 02A",
 "numero": null,
 "bairro": "TAGUATINGA CENTRO (TAGUATINGA)",
-"cep": null
+"cep": "72010080"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1833,13 +1834,13 @@
 {
 "cnpj": "24907925000189",
 "cnes": null,
-"nome": "DROGARIA PRO VIDA LTDA EPP",
+"nome": "DROGARIA PRO VIDA",
 "razao_social": "DROGARIA PRO VIDA LTDA EPP",
 "endereco": {
-"logradouro": "EQNO 13/15 BL D",
+"logradouro": "QUADRA EQNO 13/15 BL D LT 06 LJ",
 "numero": null,
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72255524"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1853,13 +1854,13 @@
 {
 "cnpj": "24907925000340",
 "cnes": null,
-"nome": "DROGARIA PRO VIDA LTDA EPP",
+"nome": "DROGARIA PROVIDA",
 "razao_social": "DROGARIA PRO VIDA LTDA EPP",
 "endereco": {
-"logradouro": "EQNO 9/11 BL D",
+"logradouro": "SETOR SETOR O EQNO 9/11 BL D LT 6",
 "numero": null,
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72252504"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1873,13 +1874,13 @@
 {
 "cnpj": "17409785000153",
 "cnes": null,
-"nome": "DROGARIA R & N LTDA",
+"nome": "DROGARIA UNIAO PHARMA",
 "razao_social": "DROGARIA R & N LTDA",
 "endereco": {
-"logradouro": "EQNP 32/36 BL G",
+"logradouro": "QUADRA EQNP 32/36 BL G LT 1 A 6",
 "numero": null,
 "bairro": "CEILANDIA SUL (CEILANDIA)",
-"cep": null
+"cep": "72236537"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1893,13 +1894,13 @@
 {
 "cnpj": "10189792000148",
 "cnes": null,
-"nome": "DROGARIA R E J LTDA - ME",
+"nome": "FARMACIAS DESCONTAO",
 "razao_social": "DROGARIA R E J LTDA - ME",
 "endereco": {
-"logradouro": "QN 206 CO B",
-"numero": null,
+"logradouro": "QUADRA QN 206 CONJUNTO B LOTE",
+"numero": "03",
 "bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
-"cep": null
+"cep": "72316502"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1913,13 +1914,13 @@
 {
 "cnpj": "38044798000146",
 "cnes": null,
-"nome": "DROGARIA RHEMA LTDA - ME",
+"nome": "DROGARIA CARLINHOS",
 "razao_social": "DROGARIA RHEMA LTDA - ME",
 "endereco": {
-"logradouro": "QUADRA 2",
+"logradouro": "QUADRA QUADRA 2",
 "numero": null,
 "bairro": "VEREDAS (BRAZLANDIA)",
-"cep": null
+"cep": "72725200"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1933,13 +1934,13 @@
 {
 "cnpj": "05290365000111",
 "cnes": null,
-"nome": "DROGARIA RODRIGUES LTDA - ME",
+"nome": "DROGARIA POPULAR DOS GENERICOS",
 "razao_social": "DROGARIA RODRIGUES LTDA - ME",
 "endereco": {
-"logradouro": "CLS 406 BL A",
+"logradouro": "SHC/SUL CL QUADRA 406 BLOCO A",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70255510"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1953,13 +1954,13 @@
 {
 "cnpj": "00447821000170",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SHCS CL QUADRA 102",
+"logradouro": "SETOR SHCS CL QUADRA 102",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70330535"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1973,13 +1974,13 @@
 {
 "cnpj": "00447821000332",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLS 102 BL C",
+"logradouro": "SETOR SHCS COMERCIO LOCAL QUADRA 102",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70330535"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -1993,13 +1994,13 @@
 {
 "cnpj": "00447821000413",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLN 116 BL B",
+"logradouro": "QUADRA SHCN CL QUADRA 116 BLOCO B",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70773520"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2013,13 +2014,13 @@
 {
 "cnpj": "00447821000502",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SCS QUADRA 7",
+"logradouro": "SETOR SCS QUADRA 7",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70307000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2033,13 +2034,13 @@
 {
 "cnpj": "00447821000685",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLN 314 BL A",
+"logradouro": "SETOR HC/NORTE CL QD 314 BLOCO A",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70767510"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2053,10 +2054,10 @@
 {
 "cnpj": "00447821000766",
 "cnes": "4038002",
-"nome": "DROGARIA ROSARIO FL 306",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "C 12",
+"logradouro": "QUADRA C 12",
 "numero": "S/N",
 "bairro": "TAGUATINGA CENTRO (TAGUATINGA)",
 "cep": "72010120"
@@ -2073,13 +2074,13 @@
 {
 "cnpj": "00447821001061",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLSW 103 BL B",
+"logradouro": "SETOR CLSW 103 BLOCO B",
 "numero": null,
 "bairro": "SETOR SUDOESTE",
-"cep": null
+"cep": "70670522"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2093,13 +2094,13 @@
 {
 "cnpj": "00447821001142",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QNH AREA ESPECIAL 4",
+"logradouro": "SETOR H NORTE AREA ESPECIAL UNIDADE 41 PAC",
 "numero": null,
 "bairro": "TAGUATINGA NORTE (TAGUATINGA)",
-"cep": null
+"cep": "72130613"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2116,10 +2117,10 @@
 "nome": "DROGARIA ROSARIO S/A",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLSW 104 BL C",
+"logradouro": "SETOR SHC/SW CLSW 104 BLOCO C LOJAS 20 22 24 26 52 E 72 74 TERREO",
 "numero": null,
 "bairro": "SETOR SUDOESTE",
-"cep": null
+"cep": "70670533"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2136,10 +2137,10 @@
 "nome": "DROGARIA ROSARIO S/A",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "AOS 2/8",
+"logradouro": "SETOR SHC/AOS EA 02/08 LOTE 05",
 "numero": null,
 "bairro": "AREA OCTOGONAL",
-"cep": null
+"cep": "70660900"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2153,13 +2154,13 @@
 {
 "cnpj": "00447821001657",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QUADRA 8 BL 18",
-"numero": null,
+"logradouro": "QUADRA 8 BLOCO 18 LOTES",
+"numero": "8/9",
 "bairro": "SOBRADINHO",
-"cep": null
+"cep": "73005518"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2173,13 +2174,13 @@
 {
 "cnpj": "00447821001819",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLN 216 BL C",
+"logradouro": "SETOR SHCN CL QUADRA 216",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70875530"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2193,13 +2194,13 @@
 {
 "cnpj": "00447821001908",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLS 209 BL C",
+"logradouro": "QUADRA SHCS CL QD 209",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70272530"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2213,13 +2214,13 @@
 {
 "cnpj": "00447821002033",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CA 1",
+"logradouro": "SETOR SHIN EPPN CANTEIRO CENTRAL LOTE 03",
 "numero": null,
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
-"cep": null
+"cep": "71503501"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2233,13 +2234,13 @@
 {
 "cnpj": "00447821002114",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SHIN QI 2",
+"logradouro": "SETOR SHIN EPPN CANTEIRO CENTRAL LOTE 02 LOJA 01",
 "numero": null,
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
-"cep": null
+"cep": "71510000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2253,13 +2254,13 @@
 {
 "cnpj": "00447821002386",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "RECANTO QUADRA 206",
+"logradouro": "AVENIDA RECANTO QUADRA 206",
 "numero": null,
 "bairro": "RECANTO DAS EMAS",
-"cep": null
+"cep": "72610626"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2273,13 +2274,13 @@
 {
 "cnpj": "00447821002548",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QS 412 CONJUNTO D LOTE 2",
+"logradouro": "QUADRA QS 412 CONJUNTO D LOTE 2",
 "numero": null,
 "bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
-"cep": null
+"cep": "72320554"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2293,13 +2294,13 @@
 {
 "cnpj": "00447821002629",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QUADRA 4",
+"logradouro": "QUADRA QN QUADRA 4",
 "numero": null,
 "bairro": "SETOR NORTE (BRAZLANDIA)",
-"cep": null
+"cep": "72710040"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2313,13 +2314,13 @@
 {
 "cnpj": "00447821002700",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QNM 33",
+"logradouro": "QUADRA QNM 33",
 "numero": null,
 "bairro": "CEILANDIA SUL (CEILANDIA)",
-"cep": null
+"cep": "72215335"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2333,13 +2334,13 @@
 {
 "cnpj": "00447821002890",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SHLS BLOCOS",
+"logradouro": "SETOR SHLS QUADRA 716 BLOCO H",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70390904"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2353,13 +2354,13 @@
 {
 "cnpj": "00447821003005",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLS 302 BL B",
+"logradouro": "SETOR SHCS CL QD 302 A BLOCO B",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70338520"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2373,13 +2374,13 @@
 {
 "cnpj": "00447821003196",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "DE INDUSTRIAS",
+"logradouro": "QUADRA INDUSTRIAL 01",
 "numero": null,
 "bairro": "SETOR LESTE (GAMA)",
-"cep": null
+"cep": "72445000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2393,13 +2394,13 @@
 {
 "cnpj": "00447821003277",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO LTDA",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CA 1",
+"logradouro": "SETOR SHIN CA 1 BL B",
 "numero": null,
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
-"cep": null
+"cep": "71503501"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2413,13 +2414,13 @@
 {
 "cnpj": "00447821003358",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO LTDA",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SHIN EQI 9/10",
-"numero": null,
+"logradouro": "SETOR SHIN EPPN CANTEIRO CENTRAL LOTE",
+"numero": "11",
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
-"cep": null
+"cep": "71515400"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2433,13 +2434,13 @@
 {
 "cnpj": "00447821003510",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QUADRA 302 CO 7",
-"numero": null,
+"logradouro": "QUADRA QD 302 CONJUNTO 7 LOTE",
+"numero": "01",
 "bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
-"cep": null
+"cep": "72300643"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2453,13 +2454,13 @@
 {
 "cnpj": "00447821003781",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "PAU BRASIL LOTE 13",
+"logradouro": "AVENIDA PAU BRASIL LOTE 13",
 "numero": null,
 "bairro": "SUL (AGUAS CLARAS)",
-"cep": null
+"cep": "71926000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2473,13 +2474,13 @@
 {
 "cnpj": "00447821003862",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "4A CHACARA 01 LOTE",
-"numero": null,
+"logradouro": "RUA 4A CHACARA 01 LOTE",
+"numero": "1/2",
 "bairro": "SETOR HABITACIONAL VICENTE PIRES",
-"cep": null
+"cep": "72006200"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2493,13 +2494,13 @@
 {
 "cnpj": "00447821004249",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QUADRA 103 CO S/N",
+"logradouro": "QUADRA 103 AVENIDA RECANTO DAS EMAS",
 "numero": null,
 "bairro": "RECANTO DAS EMAS",
-"cep": null
+"cep": "72600329"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2513,13 +2514,13 @@
 {
 "cnpj": "00447821004320",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "COMERCIAL",
-"numero": null,
+"logradouro": "AVENIDA COMERCIAL LOTE 2181 E",
+"numero": "2171",
 "bairro": "CENTRO (SAO SEBASTIAO)",
-"cep": null
+"cep": "71691083"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2533,13 +2534,13 @@
 {
 "cnpj": "00447821004591",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CRNW 510 BL A",
-"numero": null,
+"logradouro": "SETOR SHCNW CRNW QD 510",
+"numero": "4",
 "bairro": "SETOR NOROESTE",
-"cep": null
+"cep": "70688140"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2553,13 +2554,13 @@
 {
 "cnpj": "00447821004753",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "2 AREA ESPECIAL 4",
+"logradouro": "QUADRA 2 AREA ESPECIAL 4",
 "numero": null,
 "bairro": "SETOR DE INDUSTRIAS BERNARDO SAYAO (NUCLEO BANDEIR",
-"cep": null
+"cep": "71736209"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2573,13 +2574,13 @@
 {
 "cnpj": "00447821005725",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "DAS ARAUCARIAS",
+"logradouro": "AVENIDA DAS ARAUCARIAS LOTE 1665 LOJA 03, 04",
 "numero": null,
 "bairro": "SUL (AGUAS CLARAS)",
-"cep": null
+"cep": "71936250"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2593,13 +2594,13 @@
 {
 "cnpj": "00447821005806",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "DAS ARAUCARIAS",
-"numero": null,
+"logradouro": "QUADRA QNO 2 CONJUNTO H LOTE",
+"numero": "2",
 "bairro": "SUL (AGUAS CLARAS)",
-"cep": null
+"cep": "72250200"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2613,13 +2614,13 @@
 {
 "cnpj": "00447821005997",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "DAS CASTANHEIRAS",
-"numero": null,
+"logradouro": "AVENIDA DAS CASTANHEIRAS LOTE",
+"numero": "1060",
 "bairro": "NORTE (AGUAS CLARAS)",
-"cep": null
+"cep": "71900100"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2633,13 +2634,13 @@
 {
 "cnpj": "00447821006020",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "36",
+"logradouro": "RUA 36 NORTE LOTE 05 BLOCO 10 LOJAS 41, 42, E 43",
 "numero": null,
 "bairro": "NORTE (AGUAS CLARAS)",
-"cep": null
+"cep": "71919180"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2653,13 +2654,13 @@
 {
 "cnpj": "00447821006101",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "DAS ARAUCARIAS",
-"numero": null,
+"logradouro": "AVENIDA DAS ARAUCARIAS LT",
+"numero": "1605",
 "bairro": "SUL (AGUAS CLARAS)",
-"cep": null
+"cep": "71936250"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2673,13 +2674,13 @@
 {
 "cnpj": "00447821006292",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "DAS ARAUCARIAS",
-"numero": null,
+"logradouro": "AVENIDA AVENIDA DAS ARAUCARIAS, LOTE",
+"numero": "1325",
 "bairro": "SUL (AGUAS CLARAS)",
-"cep": null
+"cep": "71936250"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2693,13 +2694,13 @@
 {
 "cnpj": "00447821006454",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLN 106 BL B",
-"numero": null,
+"logradouro": "QUADRA CLN 106 BLOCO B LOJA 24,38,48",
+"numero": "54",
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70742520"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2713,13 +2714,13 @@
 {
 "cnpj": "00447821006535",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "12 CHACARA 129A CONJUNTO A",
-"numero": null,
+"logradouro": "RUA 12 CHACARA 129A CONJUNTO A",
+"numero": "18",
 "bairro": "SETOR HABITACIONAL VICENTE PIRES",
-"cep": null
+"cep": "72007750"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2733,13 +2734,13 @@
 {
 "cnpj": "00447821006616",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLS 114 BL C",
+"logradouro": "SETOR HC/SUL CL QUADRA 114 BLOCO C LOJA 09",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70377530"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2753,13 +2754,13 @@
 {
 "cnpj": "00447821006705",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QNM 12",
+"logradouro": "QUADRA QNM 12 VIA NM 12A LT 24",
 "numero": null,
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72210120"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2773,13 +2774,13 @@
 {
 "cnpj": "00447821006888",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QN 314 CO 1",
+"logradouro": "QUADRA QN 314 CONJUNTO 1 LT 1",
 "numero": null,
 "bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
-"cep": null
+"cep": "72308201"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2793,13 +2794,13 @@
 {
 "cnpj": "00447821006969",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLN 111 BL B",
+"logradouro": "SETOR SHCN CL QUADRA 111 BLOCO B",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70754520"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2813,13 +2814,13 @@
 {
 "cnpj": "00447821007000",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SHA CONJUNTO 1 CH 60",
+"logradouro": "SETOR SHA CONJUNTO 1 CHACARA 60",
 "numero": null,
 "bairro": "SETOR HABITACIONAL ARNIQUEIRA (AGUAS CLA",
-"cep": null
+"cep": "71993205"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2833,13 +2834,13 @@
 {
 "cnpj": "00447821007183",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "INDEPENDENCIA",
-"numero": null,
+"logradouro": "AVENIDA INDEPENDENCIA QUADRA 34 LOTE",
+"numero": "05",
 "bairro": "SETOR TRADICIONAL (PLANALTINA)",
-"cep": null
+"cep": "73330002"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2853,13 +2854,13 @@
 {
 "cnpj": "00447821007264",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "STN",
+"logradouro": "SETOR TERMINAL NORTE",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70770912"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2873,13 +2874,13 @@
 {
 "cnpj": "00447821007345",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QNN 1 CO D",
+"logradouro": "QUADRA QNN 1 CONJUNTO D",
 "numero": null,
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72225014"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2893,13 +2894,13 @@
 {
 "cnpj": "00447821007507",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SDN",
+"logradouro": "SETOR DN CONJUNTO A LOJA T 26",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70077900"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2913,11 +2914,11 @@
 {
 "cnpj": "00447821007698",
 "cnes": "3256790",
-"nome": "DROGARIA ROSARIO FL 352",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SIBIPIRUNA",
-"numero": "S/N",
+"logradouro": "AVENIDA SIBIPIRUNA LOTE",
+"numero": "06",
 "bairro": "SUL (AGUAS CLARAS)",
 "cep": "71928720"
 },
@@ -2933,10 +2934,10 @@
 {
 "cnpj": "00447821007779",
 "cnes": "4001753",
-"nome": "DROGARIA ROSARIO FL 354",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLS 102 BL C",
+"logradouro": "SETOR HC/SUL CL QUADRA 102 BLOCO C LOJA 19, 23",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70330535"
@@ -2953,10 +2954,10 @@
 {
 "cnpj": "00447821007850",
 "cnes": "3417697",
-"nome": "DROGARIA ROSARIO FL 356",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLS 302 BL D",
+"logradouro": "SETOR HC/SUL CL QUADRA 302-A BLOCO D LOJA 29",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70338540"
@@ -2973,13 +2974,13 @@
 {
 "cnpj": "00447821007930",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLNW 10/11 LO G",
+"logradouro": "QUADRA CLNW 10/11 BLOCO G",
 "numero": null,
 "bairro": "SETOR NOROESTE",
-"cep": null
+"cep": "70686635"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -2993,13 +2994,13 @@
 {
 "cnpj": "00447821008074",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLNW 6/7 LO A",
+"logradouro": "SETOR SHCNW CLNW QD 6/7 BLOCO A",
 "numero": null,
 "bairro": "SETOR NOROESTE",
-"cep": null
+"cep": "70686008"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3013,13 +3014,13 @@
 {
 "cnpj": "00447821008236",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QNM 18 CO B",
+"logradouro": "QUADRA QNM 18 CONJUNTO B",
 "numero": null,
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72210182"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3033,13 +3034,13 @@
 {
 "cnpj": "00447821008317",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QUADRA 17 CO 9",
+"logradouro": "QUADRA QD 17 CONJUNTO 9",
 "numero": null,
 "bairro": "PARANOA",
-"cep": null
+"cep": "71571710"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3053,13 +3054,13 @@
 {
 "cnpj": "00447821008406",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SHIS QI 11",
+"logradouro": "SETOR SHIS QI 11 BLOCO K",
 "numero": null,
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
-"cep": null
+"cep": "71625205"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3073,13 +3074,13 @@
 {
 "cnpj": "00447821008589",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLN 209 BL C",
+"logradouro": "QUADRA SHCN CL QD. 209 BLOCO C",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70854530"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3093,13 +3094,13 @@
 {
 "cnpj": "00447821008740",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QE 11 AREA ESPECIAL L LOJAS 13,14,15,16,17 E 18",
+"logradouro": "QUADRA QE 11 AREA ESPECIAL L LOJAS 13,14,15,16,17 E 18",
 "numero": null,
 "bairro": "GUARA I",
-"cep": null
+"cep": "71020721"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3113,13 +3114,13 @@
 {
 "cnpj": "00447821008821",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "EQ 31/33",
+"logradouro": "QUADRA EQ 31/33",
 "numero": null,
 "bairro": "GUARA II",
-"cep": null
+"cep": "71065901"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3133,13 +3134,13 @@
 {
 "cnpj": "00447821008902",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "JARDIM BOTANICO I",
+"logradouro": "SETOR SH JARDIM BOTANICO AVENIDA DO SOL",
 "numero": null,
 "bairro": "SETOR HABITACIONAL JARDIM BOTANICO",
-"cep": null
+"cep": "71680383"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3153,13 +3154,13 @@
 {
 "cnpj": "00447821009046",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SHIS QI 15 BL E",
+"logradouro": "SETOR SHIS CL QI 15 BLOCO E",
 "numero": null,
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
-"cep": null
+"cep": "71635570"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3173,13 +3174,13 @@
 {
 "cnpj": "00447821009127",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SHIS QI 25",
+"logradouro": "QUADRA SHIS CL QI 25",
 "numero": null,
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
-"cep": null
+"cep": "71660200"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3193,13 +3194,13 @@
 {
 "cnpj": "00447821009208",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SHIS QI 9/11 BL C",
+"logradouro": "SETOR SHI/SUL QI 09 BLOCO C LOJA 18, 24, 40 E 46",
 "numero": null,
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
-"cep": null
+"cep": "71625035"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3213,13 +3214,13 @@
 {
 "cnpj": "00447821009470",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "SHIS QI 5 BL C",
+"logradouro": "SETOR SHIS CC QI 05 BLOCO C LOJAS 25 E 33 SALA 26",
 "numero": null,
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
-"cep": null
+"cep": "71615530"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3233,13 +3234,13 @@
 {
 "cnpj": "00447821009550",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CENTRAL BLOCOS 525/635",
-"numero": null,
+"logradouro": "AVENIDA CENTRAL BLOCOS (LADO IMPAR) 525/635",
+"numero": "585",
 "bairro": "NUCLEO BANDEIRANTE",
-"cep": null
+"cep": "71710520"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3253,13 +3254,13 @@
 {
 "cnpj": "00447821009631",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CENTRAL",
+"logradouro": "AVENIDA CENTRAL",
 "numero": null,
 "bairro": "VILA NOVA (SAO SEBASTIAO)",
-"cep": null
+"cep": "71693165"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3273,13 +3274,13 @@
 {
 "cnpj": "00447821009712",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QS 408 CO B",
-"numero": null,
+"logradouro": "QUADRA QS 408 CONJUNTO B BLOCO A LOTE",
+"numero": "02",
 "bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
-"cep": null
+"cep": "72318592"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3293,13 +3294,13 @@
 {
 "cnpj": "00447821009984",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLSW 103 BL B",
+"logradouro": "QUADRA CLSW 301 BLOCO B",
 "numero": null,
 "bairro": "SETOR SUDOESTE",
-"cep": null
+"cep": "70670522"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3313,13 +3314,13 @@
 {
 "cnpj": "00447821010052",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CLSW 102 BL C",
+"logradouro": "SETOR SHC/SW CLSW 102 BLOCO C LOJAS 24,26,48,50 E 52 TERREO",
 "numero": null,
 "bairro": "SETOR SUDOESTE",
-"cep": null
+"cep": "70670513"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3333,13 +3334,13 @@
 {
 "cnpj": "00447821010133",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QUADRA 4",
-"numero": null,
+"logradouro": "QUADRA 04 COMERCIO LOCAL",
+"numero": "CL 08",
 "bairro": "SOBRADINHO",
-"cep": null
+"cep": "73025040"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3353,13 +3354,13 @@
 {
 "cnpj": "00447821010214",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CENTRAL LOTE M",
-"numero": null,
+"logradouro": "QUADRA CENTRAL BLOCO 10",
+"numero": "LT 10",
 "bairro": "SOBRADINHO",
-"cep": null
+"cep": "73010700"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3373,13 +3374,13 @@
 {
 "cnpj": "00447821010303",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QUADRA 1 CO G",
+"logradouro": "QUADRA QUADRA 1 CONJUNTO G",
 "numero": null,
 "bairro": "SETOR SUL (GAMA)",
-"cep": null
+"cep": "72410107"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3393,13 +3394,13 @@
 {
 "cnpj": "00447821010648",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QUADRA 201 CO 17",
-"numero": null,
+"logradouro": "QUADRA AVENIDA RECANTO DAS EMAS QUADRA 201 LOTE 17 LOJA",
+"numero": "01",
 "bairro": "RECANTO DAS EMAS",
-"cep": null
+"cep": "72610117"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3413,10 +3414,10 @@
 {
 "cnpj": "00447821010729",
 "cnes": "0990841",
-"nome": "DROGARIA ROSARIO FL 344",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "JACARANDA",
+"logradouro": "AVENIDA JACARANDA, LOTE",
 "numero": "16",
 "bairro": "SUL (AGUAS CLARAS)",
 "cep": "71927540"
@@ -3433,13 +3434,13 @@
 {
 "cnpj": "00447821012268",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QI 27",
+"logradouro": "QUADRA QI 27 BLOCO A",
 "numero": null,
 "bairro": "GUARA II",
-"cep": null
+"cep": "71060270"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3453,13 +3454,13 @@
 {
 "cnpj": "00447821014120",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "QUADRA 12 CO 1",
-"numero": null,
+"logradouro": "QUADRA QD 12 CL",
+"numero": "01",
 "bairro": "SOBRADINHO",
-"cep": null
+"cep": "73011005"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3473,13 +3474,13 @@
 {
 "cnpj": "00447821015798",
 "cnes": null,
-"nome": "DROGARIA ROSARIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSARIO S/A",
 "endereco": {
-"logradouro": "CL 214 BL D",
+"logradouro": "SETOR NORTE CL 214 LOTE D",
 "numero": null,
 "bairro": "SANTA MARIA",
-"cep": null
+"cep": "72544224"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3493,13 +3494,13 @@
 {
 "cnpj": "00447821000251",
 "cnes": null,
-"nome": "DROGARIA ROSÁRIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSÁRIO S/A",
 "endereco": {
-"logradouro": "CLN 312 BL E",
+"logradouro": "SETOR SHCN CL QD 312 BLOCO E",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70765550"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3513,13 +3514,13 @@
 {
 "cnpj": "00447821001576",
 "cnes": null,
-"nome": "DROGARIA ROSÁRIO S/A",
+"nome": "DROGARIA ROSARIO",
 "razao_social": "DROGARIA ROSÁRIO S/A",
 "endereco": {
-"logradouro": "CLN 306 BL B",
+"logradouro": "QUADRA SHCN CL QD 306 BLOCO B",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70745520"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3533,13 +3534,13 @@
 {
 "cnpj": "10564431000134",
 "cnes": null,
-"nome": "DROGARIA S&P LTDA",
+"nome": "NATALFARMA",
 "razao_social": "DROGARIA S&P LTDA",
 "endereco": {
-"logradouro": "A",
-"numero": null,
+"logradouro": "RUA A",
+"numero": "LT 10",
 "bairro": "RESIDENCIAL SANDRAY (PLANALTINA)",
-"cep": null
+"cep": "73366053"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3553,13 +3554,13 @@
 {
 "cnpj": "00740506000137",
 "cnes": null,
-"nome": "DROGARIA SANTA LUCIA LTDA",
+"nome": "DROGARIA SANTA LUCIA",
 "razao_social": "DROGARIA SANTA LUCIA LTDA",
 "endereco": {
-"logradouro": "SHCN CL QUADRA 407 BLOCO C TERREO",
+"logradouro": "QUADRA SHCN CL QUADRA 407 BLOCO C TERREO",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70855530"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3573,13 +3574,13 @@
 {
 "cnpj": "10259805000108",
 "cnes": null,
-"nome": "DROGARIA SANTA TEREZA LTDA ME",
+"nome": "DROGARIA SANTA TEREZA",
 "razao_social": "DROGARIA SANTA TEREZA LTDA ME",
 "endereco": {
-"logradouro": "TERCEIRA AVENIDA BLOCOS 518A/680A",
-"numero": null,
+"logradouro": "AVENIDA 3A. AVENIDA TIPO COMERCIO LOTE",
+"numero": "662A",
 "bairro": "NUCLEO BANDEIRANTE",
-"cep": null
+"cep": "71720525"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3593,10 +3594,10 @@
 {
 "cnpj": "61412110042826",
 "cnes": "5083400",
-"nome": "DROGARIA SAO PAULO 2647",
+"nome": "DROGARIA SAO PAULO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "CNC 3",
+"logradouro": "QUADRA CNC 3",
 "numero": "12",
 "bairro": "TAGUATINGA NORTE (TAGUATINGA)",
 "cep": "72115535"
@@ -3613,13 +3614,13 @@
 {
 "cnpj": "61412110051906",
 "cnes": null,
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIAS PACHECO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "CLS 304 BL A",
-"numero": null,
+"logradouro": "QUADRA SHCS CL",
+"numero": "304",
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70337510"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3633,13 +3634,13 @@
 {
 "cnpj": "61412110053356",
 "cnes": null,
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIA PACHECO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "SQS 112 BL B",
+"logradouro": "SETOR SHCS CL QD 112 BLOCO B",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70375020"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3653,10 +3654,10 @@
 {
 "cnpj": "61412110054328",
 "cnes": "8110190",
-"nome": "DROGARIA PACHECO 0639",
+"nome": "DROGARIAS PACHECO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "CLS 302 BL A",
+"logradouro": "QUADRA SHCS CL QD 302 -A, BLOCO A",
 "numero": "34",
 "bairro": "ASA SUL",
 "cep": "70338510"
@@ -3673,13 +3674,13 @@
 {
 "cnpj": "61412110056614",
 "cnes": null,
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIAS PACHECO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "CLS 407 BL D",
+"logradouro": "QUADRA CLS 407 BLOCO D",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70256540"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3693,10 +3694,10 @@
 {
 "cnpj": "61412110057262",
 "cnes": "0453234",
-"nome": "DROGARIA SAO PAULO 646 413 SUL PAC",
+"nome": "DROGARIA SAO PAULO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "CLS 413 BL D",
+"logradouro": "QUADRA SHCS CL QD 413 BLOCO D",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70296540"
@@ -3713,10 +3714,10 @@
 {
 "cnpj": "61412110058234",
 "cnes": "4523229",
-"nome": "DROGARIAS PACHECO DPA 0653",
+"nome": "DROGARIAS PACHECO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "CLS 107 BL D",
+"logradouro": "QUADRA SHCS CL QD 107",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70346540"
@@ -3733,13 +3734,13 @@
 {
 "cnpj": "61412110058315",
 "cnes": null,
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIAS PACHECO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "DAS ARAUCARIAS",
-"numero": null,
+"logradouro": "AVENIDA DAS ARAUCARIAS LOTE",
+"numero": "1.325",
 "bairro": "SUL (AGUAS CLARAS)",
-"cep": null
+"cep": "71936250"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3753,10 +3754,10 @@
 {
 "cnpj": "61412110058404",
 "cnes": "4954068",
-"nome": "DROGARIAS PACHECO DSP0663",
+"nome": "DROGARIAS PACHECO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "DAS CASTANHEIRAS",
+"logradouro": "AVENIDA CASTANHEIRAS LOTES 1.310 E 1.370",
 "numero": "S/N",
 "bairro": "NORTE (AGUAS CLARAS)",
 "cep": "71900100"
@@ -3773,13 +3774,13 @@
 {
 "cnpj": "61412110061022",
 "cnes": null,
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIAS PACHECO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "SMDB CONJUNTO 12 BL H",
+"logradouro": "SETOR SMDB CONJUNTO 12 BLOCO H",
 "numero": null,
 "bairro": "SETOR DE MANSOES DOM BOSCO (LAGO SUL)",
-"cep": null
+"cep": "71680118"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3793,13 +3794,13 @@
 {
 "cnpj": "61412110061294",
 "cnes": null,
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIAS PACHECO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "CLN 315 BL B",
+"logradouro": "QUADRA CLN 315 BLOCO B",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70774520"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3813,13 +3814,13 @@
 {
 "cnpj": "61412110064714",
 "cnes": null,
-"nome": "DROGARIA SAO PAULO S.A.",
+"nome": "DROGARIAS PACHECO",
 "razao_social": "DROGARIA SAO PAULO S.A.",
 "endereco": {
-"logradouro": "CL 116",
+"logradouro": "QUADRA CL 116 LOTE D",
 "numero": null,
 "bairro": "SANTA MARIA",
-"cep": null
+"cep": "72546200"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3833,10 +3834,10 @@
 {
 "cnpj": "00368589000185",
 "cnes": "4587057",
-"nome": "DROGARIA SAO RAFAEL",
+"nome": "ATACADAO DROGARIA SAO RAFAEL",
 "razao_social": "DROGARIA SAO RAFAEL LTDA",
 "endereco": {
-"logradouro": "QUADRA 9",
+"logradouro": "QUADRA 09 LOTE",
 "numero": "01",
 "bairro": "SETOR OESTE (GAMA)",
 "cep": "72425090"
@@ -3853,13 +3854,13 @@
 {
 "cnpj": "09519155000103",
 "cnes": null,
-"nome": "DROGARIA SHALOM LTDA",
+"nome": "DROGARIA GENERICA SHALOM",
 "razao_social": "DROGARIA SHALOM LTDA",
 "endereco": {
-"logradouro": "QNQ",
-"numero": null,
+"logradouro": "QUADRA QNQ",
+"numero": "02",
 "bairro": "ST. Q/CEILANDIA",
-"cep": null
+"cep": "72270201"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3873,13 +3874,13 @@
 {
 "cnpj": "07767624000188",
 "cnes": null,
-"nome": "DROGARIA SOCIAL GENERICA LTDA ME",
+"nome": "DROGARIA SOCIAL",
 "razao_social": "DROGARIA SOCIAL GENERICA LTDA ME",
 "endereco": {
-"logradouro": "QNP 25 CO A",
-"numero": null,
+"logradouro": "QUADRA QNP 25 CONJUNTO A LOTE",
+"numero": "16",
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72242101"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3893,13 +3894,13 @@
 {
 "cnpj": "33521022000156",
 "cnes": null,
-"nome": "DROGARIA SODRE LTDA - ME",
+"nome": "ULTRA POPULAR",
 "razao_social": "DROGARIA SODRE LTDA - ME",
 "endereco": {
-"logradouro": "QNM 17 CO H",
+"logradouro": "QUADRA QNM 17 CJ H LT 44 LJ",
 "numero": null,
 "bairro": "CEILANDIA SUL (CEILANDIA)",
-"cep": null
+"cep": "72215178"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3916,10 +3917,10 @@
 "nome": "DROGARIA STILO LTDA - ME",
 "razao_social": "DROGARIA STILO LTDA - ME",
 "endereco": {
-"logradouro": "QNM 2",
-"numero": null,
+"logradouro": "QUADRA QNM 02 CJ E LT",
+"numero": "04",
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72210020"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3933,13 +3934,13 @@
 {
 "cnpj": "07060632000190",
 "cnes": null,
-"nome": "DROGARIA TAKECHI LTDA",
+"nome": "DROGARIA FAMILIA REDE DA ECONOMIA",
 "razao_social": "DROGARIA TAKECHI LTDA",
 "endereco": {
-"logradouro": "QUADRA 1 CO G",
-"numero": null,
+"logradouro": "QUADRA 01 CONJUNTO G LOTE 25 LOJA",
+"numero": "02",
 "bairro": "SETOR SUL (GAMA)",
-"cep": null
+"cep": "72410107"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3953,13 +3954,13 @@
 {
 "cnpj": "07807849000110",
 "cnes": null,
-"nome": "DROGARIA ULTRA-FARMA LTDA",
+"nome": "DROGARIA ECONOMICA",
 "razao_social": "DROGARIA ULTRA-FARMA LTDA",
 "endereco": {
-"logradouro": "QS 410 CO B",
-"numero": null,
+"logradouro": "QUADRA QS 410 CONJUNTO F LOTES",
+"numero": "01E03",
 "bairro": "SAMAMBAIA NORTE (SAMAMBAIA)",
-"cep": null
+"cep": "72320526"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3973,13 +3974,13 @@
 {
 "cnpj": "09488068000136",
 "cnes": null,
-"nome": "DROGARIA VIDE BULA LTDA - ME",
+"nome": "DROGARIA VIDE BULA",
 "razao_social": "DROGARIA VIDE BULA LTDA - ME",
 "endereco": {
-"logradouro": "QR 502 CO 1",
+"logradouro": "QUADRA QR 502 CJ 1 LT 1",
 "numero": null,
 "bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
-"cep": null
+"cep": "72310401"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -3993,13 +3994,13 @@
 {
 "cnpj": "00844944000145",
 "cnes": null,
-"nome": "DROGARIA VIENNA LTDA",
+"nome": "DROGA VIDA DO TRABALHADOR",
 "razao_social": "DROGARIA VIENNA LTDA",
 "endereco": {
-"logradouro": "QN 513 CO A",
-"numero": null,
+"logradouro": "QUADRA QN 513 CONJUNTO A LOTE",
+"numero": "01",
 "bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
-"cep": null
+"cep": "72315501"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -4013,13 +4014,13 @@
 {
 "cnpj": "03841714000110",
 "cnes": null,
-"nome": "DROGARIA VITAL LTDA - ME",
+"nome": "DROGARIA HIPERFARMA",
 "razao_social": "DROGARIA VITAL LTDA - ME",
 "endereco": {
-"logradouro": "QN 15A CO 1",
-"numero": null,
+"logradouro": "QUADRA QN 15 ACONJUNTO 01 LOTE 01 LOJA",
+"numero": "01",
 "bairro": "RIACHO FUNDO II",
-"cep": null
+"cep": "71881311"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -4036,7 +4037,7 @@
 "nome": "DROGASIL DS 0428",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "CSB 6",
+"logradouro": "SETOR CSB 6 LT 01/02",
 "numero": "S/N",
 "bairro": "TAGUATINGA SUL (TAGUATINGA)",
 "cep": "72015565"
@@ -4056,7 +4057,7 @@
 "nome": "DROGASIL DS 0429",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "Q SCN QUADRA 5 BLOCO A",
+"logradouro": "SETOR COMERCIAL NORTE QUADRA 05 BLOCO A",
 "numero": "S/N",
 "bairro": "ASA NORTE",
 "cep": "70715900"
@@ -4076,7 +4077,7 @@
 "nome": "DROGASIL DS 0430",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "SHIS QI 11",
+"logradouro": "SETOR SHIS/CL QI 11 BL O",
 "numero": "S/N",
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
 "cep": "71625205"
@@ -4096,7 +4097,7 @@
 "nome": "DROGASIL DS 0431",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "CLS 102 BL C",
+"logradouro": "SETOR SETOR DE HABITACOES COLETIVAS SUL/CL QD 102 BL C",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70330535"
@@ -4116,7 +4117,7 @@
 "nome": "DROGASIL DS 0432",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "SHIS QI 5 BL C",
+"logradouro": "SETOR SHIS/CC QI 5 BL C",
 "numero": "S/N",
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
 "cep": "71615530"
@@ -4136,7 +4137,7 @@
 "nome": "DROGASIL DS 0433",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "ST SMAS",
+"logradouro": "SETOR AREAS ISOLADAS/SUDOESTE AREA 6580",
 "numero": "S/N",
 "bairro": "ZONA INDUSTRIAL (GUARA)",
 "cep": "71219900"
@@ -4156,7 +4157,7 @@
 "nome": "DROGASIL DS 0435",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "CLN 308 BL E",
+"logradouro": "SETOR SHCN CL QD 308 BLOCO E",
 "numero": "S/N",
 "bairro": "ASA NORTE",
 "cep": "70747550"
@@ -4176,7 +4177,7 @@
 "nome": "DROGASIL DS0440",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "QS 1 RU 210",
+"logradouro": "QUADRA QS 1 RUA 210 LOTE 40 SALAO 1001,1002,1003",
 "numero": "S/N",
 "bairro": "AREAL (AGUAS CLARAS)",
 "cep": "71950770"
@@ -4196,7 +4197,7 @@
 "nome": "DROGASIL DS0442",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "CLN 210 BL C",
+"logradouro": "SETOR SHCN CL QD 210 BL C",
 "numero": "S/N",
 "bairro": "ASA NORTE",
 "cep": "70862530"
@@ -4216,7 +4217,7 @@
 "nome": "DROGASIL DS0443",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "SHIS QI 5 BL C",
+"logradouro": "SETOR SHIS QI 5 BLOCO C",
 "numero": "S/N",
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
 "cep": "71615530"
@@ -4236,7 +4237,7 @@
 "nome": "DROGASIL DS0444",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "CLS 314 BL D",
+"logradouro": "SETOR SHCS CL QUADRA 314 BLOCO D",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70383540"
@@ -4256,7 +4257,7 @@
 "nome": "DROGASIL DS0436",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "CLSW 104 BL C",
+"logradouro": "SETOR SHC/SW CLSW 104 BL C",
 "numero": "S/N",
 "bairro": "SETOR SUDOESTE",
 "cep": "70670533"
@@ -4276,7 +4277,7 @@
 "nome": "DROGASIL DS 0446",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "CLN 104 BL D",
+"logradouro": "SETOR SHCN CL QUADRA 104 BLOCO D",
 "numero": "S/N",
 "bairro": "ASA NORTE",
 "cep": "70733540"
@@ -4296,7 +4297,7 @@
 "nome": "DROGASIL DS0439",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "Q SCS QUADRA 7 BLOCO A",
+"logradouro": "SETOR COMERCIAL SUL, QUADRA 07, BLOCO A, LOJA 01 T TERREO, PARTE",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70307902"
@@ -4316,7 +4317,7 @@
 "nome": "DROGASIL DS0438",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "CLS 102 BL C",
+"logradouro": "SETOR SETOR DE HABITACOES COLETIVAS SUL/CL QD 102 BL C",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70330535"
@@ -4336,7 +4337,7 @@
 "nome": "DROGASIL DS2286",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "RECANTO QUADRA 300",
+"logradouro": "AVENIDA RECANTO DAS EMAS QUADRA 300",
 "numero": "S/N",
 "bairro": "RECANTO DAS EMAS",
 "cep": "72620159"
@@ -4356,7 +4357,7 @@
 "nome": "DROGASIL DS 0448",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "CLS 111 BL C",
+"logradouro": "SETOR SETOR DE HABITACOES COLETIVAS SUL/CL QD 111 BL C",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70374530"
@@ -4376,7 +4377,7 @@
 "nome": "DROGASIL DS 0453",
 "razao_social": "DROGASIL S/A",
 "endereco": {
-"logradouro": "CENTRAL BLOCOS 379/505",
+"logradouro": "AVENIDA NB AVENIDA CENTRAL LT 487/493",
 "numero": "S/N",
 "bairro": "NUCLEO BANDEIRANTE",
 "cep": "71710510"
@@ -4396,7 +4397,7 @@
 "nome": "DROGASIL DS0450",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "RODOVIARIA DE BRASILIA",
+"logradouro": "TERMINAL RODOVIARIO DO PLANO PILOTO, PLATAFORMA MEZANINO",
 "numero": "S/N",
 "bairro": "ZONA CIVICO-ADMINISTRATIVA",
 "cep": "70089000"
@@ -4413,10 +4414,10 @@
 {
 "cnpj": "61585865035028",
 "cnes": "4702352",
-"nome": "DROGASIL DS0454",
+"nome": "DROGASIL",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "SHLS",
+"logradouro": "SETOR SETOR HOSPITAR LOCAL SUL QUADRA 716 CONJUNTO B BLOCO 05",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70390700"
@@ -4436,7 +4437,7 @@
 "nome": "DROGASIL DS0451",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "CA 4",
+"logradouro": "SETOR SHIN CA 04 BLOCO A LOJA 28/29/30",
 "numero": "S/N",
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
 "cep": "71503504"
@@ -4456,7 +4457,7 @@
 "nome": "DROGASIL DS0459",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "CLSW 302 BL B",
+"logradouro": "SETOR CLSW 302 BLOCO B",
 "numero": "S/N",
 "bairro": "SETOR SUDOESTE",
 "cep": "70673612"
@@ -4476,7 +4477,7 @@
 "nome": "DROGASIL DS 0458",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "DAS PITANGUEIRAS",
+"logradouro": "RUA PITANGUEIRAS LOTE 01, RUA ALECRIM LOTE 02",
 "numero": "S/N",
 "bairro": "SUL (AGUAS CLARAS)",
 "cep": "71938540"
@@ -4496,7 +4497,7 @@
 "nome": "DROGASIL DS 0460",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "CLN 315 BL C",
+"logradouro": "SETOR SHCN CL QUADRA 315 BLOCO C",
 "numero": "S/N",
 "bairro": "ASA NORTE",
 "cep": "70774530"
@@ -4516,8 +4517,8 @@
 "nome": "DROGASIL DS1863",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "AEN 19",
-"numero": "19",
+"logradouro": "AREA ESPECIAL NORTE",
+"numero": "LOTE19",
 "bairro": "SETOR NORTE (PLANALTINA)",
 "cep": "73340190"
 },
@@ -4536,7 +4537,7 @@
 "nome": "DROGASIL DS 0476",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "CLS 102 BL A",
+"logradouro": "QUADRA SHCS CL 102 BLOCO A",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70330515"
@@ -4556,7 +4557,7 @@
 "nome": "DROGASIL DS0477",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "CLS 307 BL D",
+"logradouro": "SETOR HABITACOES COLETIVAS SUL - COMERCIO LOCAL",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70354540"
@@ -4576,7 +4577,7 @@
 "nome": "DROGASIL DS 0486",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "CLS 116 BL B",
+"logradouro": "SETOR SHCS CL QUADRA 116 BLOCO B",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70386520"
@@ -4596,8 +4597,8 @@
 "nome": "DROGASIL DS 0489",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "QN 314 CO 1",
-"numero": "S/N",
+"logradouro": "QUADRA QN 314 CONJUNTO 1 LOTE",
+"numero": "1",
 "bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
 "cep": "72308201"
 },
@@ -4616,7 +4617,7 @@
 "nome": "DROGASIL DS 0480",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "INDEPENDENCIA",
+"logradouro": "AVENIDA INDEPENDENCIA QUADRAS 34 LOTE",
 "numero": "06",
 "bairro": "SETOR TRADICIONAL (PLANALTINA)",
 "cep": "73330002"
@@ -4636,7 +4637,7 @@
 "nome": "DROGASIL DS 0482",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "QNN 1 CO C",
+"logradouro": "QUADRA QNN 01 CONJ C LOTE 03",
 "numero": "S/N",
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
 "cep": "72225013"
@@ -4656,7 +4657,7 @@
 "nome": "DROGASIL DS0475",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "CLN 307 BL C",
+"logradouro": "SETOR DE HABITACOES COLETIVAS NORTE - COMERCIO LOCAL",
 "numero": "S/N",
 "bairro": "ASA NORTE",
 "cep": "70746530"
@@ -4676,7 +4677,7 @@
 "nome": "DROGASIL DS 0481",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "CENTRAL BLOCO 12",
+"logradouro": "QUADRA SB - CENTRAL",
 "numero": "S/N",
 "bairro": "SOBRADINHO",
 "cep": "73010522"
@@ -4696,7 +4697,7 @@
 "nome": "DROGASIL DS 1741",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "QUADRA 55",
+"logradouro": "QUADRA QUADRA 55 LOTE 09",
 "numero": "S/N",
 "bairro": "SETOR CENTRAL (GAMA)",
 "cep": "72405550"
@@ -4716,7 +4717,7 @@
 "nome": "DROGASIL DS0473",
 "razao_social": "DROGASIL SA",
 "endereco": {
-"logradouro": "C 8",
+"logradouro": "QUADRA C 08",
 "numero": "S/N",
 "bairro": "TAGUATINGA CENTRO (TAGUATINGA)",
 "cep": "72010080"
@@ -4736,8 +4737,8 @@
 "nome": "DROGARIA PARACATU",
 "razao_social": "DRPGARIA PARACATU LTDA EPP",
 "endereco": {
-"logradouro": "EQNP 30/34 BL B",
-"numero": "S/N",
+"logradouro": "QUADRA EQNP 30/34 BLOCO B LOJAS",
+"numero": "01/02",
 "bairro": "CEILANDIA SUL (CEILANDIA)",
 "cep": "72236502"
 },
@@ -4753,13 +4754,13 @@
 {
 "cnpj": "07331331000153",
 "cnes": null,
-"nome": "EDILFARMA DROGARIA LTDA",
+"nome": "DROGARIA EDILFARMA",
 "razao_social": "EDILFARMA DROGARIA LTDA",
 "endereco": {
-"logradouro": "COMERCIAL",
-"numero": null,
+"logradouro": "AVENIDA COMERCIAL",
+"numero": "1471",
 "bairro": "CENTRO (SAO SEBASTIAO)",
-"cep": null
+"cep": "71691082"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -4773,11 +4774,11 @@
 {
 "cnpj": "06626253030573",
 "cnes": "0876747",
-"nome": "FARMACIAS PAGUE MENOS 305",
+"nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "CLS 309 BL D",
-"numero": "0",
+"logradouro": "SETOR SHCS CL QD 309, BLOCO D LOJA",
+"numero": "01",
 "bairro": "ASA SUL",
 "cep": "70362540"
 },
@@ -4793,10 +4794,10 @@
 {
 "cnpj": "06626253033750",
 "cnes": "0869996",
-"nome": "FARMACIAS PAGUE MENOS 337",
+"nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "CLN 311 BL A",
+"logradouro": "QUADRA SHC/NORTE CL QUADRA 311 BLOCO A",
 "numero": "0",
 "bairro": "ASA NORTE",
 "cep": "70757510"
@@ -4813,13 +4814,13 @@
 {
 "cnpj": "06626253038396",
 "cnes": null,
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "CLN 106 BL C",
+"logradouro": "SETOR SHCN CL QD 106 BLOCO C",
 "numero": null,
 "bairro": "ASA NORTE",
-"cep": null
+"cep": "70742530"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -4833,10 +4834,10 @@
 {
 "cnpj": "06626253041931",
 "cnes": "0820806",
-"nome": "FARMACIAS PAGUE MENOS 419",
+"nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "CRS 516 BL B",
+"logradouro": "SETOR SHCS CR QD 516 BL B LJ 25, 28",
 "numero": "516",
 "bairro": "ASA SUL",
 "cep": "70381525"
@@ -4853,13 +4854,13 @@
 {
 "cnpj": "06626253053786",
 "cnes": null,
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FAMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "CLS 407 BL D",
+"logradouro": "SETOR SHCS CL QD 407 BLOCO D",
 "numero": null,
 "bairro": "ASA SUL",
-"cep": null
+"cep": "70256540"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -4873,13 +4874,13 @@
 {
 "cnpj": "06626253062262",
 "cnes": null,
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "CRNW 511 BL A",
-"numero": null,
+"logradouro": "SETOR SHCNW CRNW QUADRA 511 BL A",
+"numero": "01",
 "bairro": "SETOR NOROESTE",
-"cep": null
+"cep": "70688260"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -4893,10 +4894,10 @@
 {
 "cnpj": "06626253064044",
 "cnes": "8504954",
-"nome": "PAGUE MENOS 640",
+"nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "CLSW 304 BL B",
+"logradouro": "SETOR SHCSW CLSW 304 BL B",
 "numero": "S/N",
 "bairro": "SETOR SUDOESTE",
 "cep": "70673632"
@@ -4913,13 +4914,13 @@
 {
 "cnpj": "03396064000141",
 "cnes": null,
-"nome": "G & B COMERCIO DE PRODUTOS FARMACEUTICOS LTDA ME",
+"nome": "DROGARIA BRASILIA",
 "razao_social": "G & B COMERCIO DE PRODUTOS FARMACEUTICOS LTDA ME",
 "endereco": {
-"logradouro": "NOVA",
+"logradouro": "RUA NOVA (ACAMP DFL)LOTE 41 PARTE",
 "numero": null,
 "bairro": "VILA PLANALTO",
-"cep": null
+"cep": "70803170"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -4933,13 +4934,13 @@
 {
 "cnpj": "09033940000151",
 "cnes": null,
-"nome": "HIPERFARMA DROGARIA E PERFUMARIA LTDA - ME",
+"nome": "DROGARIA PHD",
 "razao_social": "HIPERFARMA DROGARIA E PERFUMARIA LTDA - ME",
 "endereco": {
-"logradouro": "AGUAS CLARAS QS 08",
-"numero": null,
+"logradouro": "QUADRA QS 08, AVENIDA AGUAS CLARAS, LOTE",
+"numero": "C62/63",
 "bairro": "AREAL (AGUAS CLARAS)",
-"cep": null
+"cep": "71974000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -4953,13 +4954,13 @@
 {
 "cnpj": "02006666000182",
 "cnes": null,
-"nome": "J & V COMERCIO DE MEDICAMENTOS LTDA ME",
+"nome": "DROGARIA E PERFUMARIA PARANOA",
 "razao_social": "J & V COMERCIO DE MEDICAMENTOS LTDA ME",
 "endereco": {
-"logradouro": "QUADRA 26 CO 20",
+"logradouro": "QUADRA 26 CONJUNTO 20",
 "numero": null,
 "bairro": "PARANOA",
-"cep": null
+"cep": "71572607"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -4973,13 +4974,13 @@
 {
 "cnpj": "08979790000100",
 "cnes": null,
-"nome": "J G DROGARIA LTDA - ME",
+"nome": "DROGARIA ALCANCE",
 "razao_social": "J G DROGARIA LTDA - ME",
 "endereco": {
-"logradouro": "QNG 11",
-"numero": null,
+"logradouro": "QUADRA QNG 11 LOTE 41 LOJA",
+"numero": "01",
 "bairro": "TAGUATINGA NORTE (TAGUATINGA)",
-"cep": null
+"cep": "72130110"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -4993,13 +4994,13 @@
 {
 "cnpj": "08998355000123",
 "cnes": null,
-"nome": "JB COMERCIO DE FARMACO LTDA - ME",
+"nome": "DROGA LIDER",
 "razao_social": "JB COMERCIO DE FARMACO LTDA - ME",
 "endereco": {
-"logradouro": "EQ 13/15",
-"numero": null,
+"logradouro": "ENTRE QUADRA EQ 13/15 LOTE",
+"numero": "03/06",
 "bairro": "SETOR SUL (GAMA)",
-"cep": null
+"cep": "72410730"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5013,13 +5014,13 @@
 {
 "cnpj": "12163373000162",
 "cnes": null,
-"nome": "JC SIQUEIRA DROGARIA LTDA - ME",
+"nome": "CRISTINA FARMA",
 "razao_social": "JC SIQUEIRA DROGARIA LTDA - ME",
 "endereco": {
-"logradouro": "2",
-"numero": null,
+"logradouro": "AVENIDA 2, QUADRA 17, LOTE",
+"numero": "13",
 "bairro": "RESIDENCIAL DO BOSQUE (SAO SEBASTIAO)",
-"cep": null
+"cep": "71694024"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5033,13 +5034,13 @@
 {
 "cnpj": "07555572000186",
 "cnes": null,
-"nome": "L & L DROGARIA E PERFUMARIA LTDA - ME",
+"nome": "DROGARIA ALTERNATIVA",
 "razao_social": "L & L DROGARIA E PERFUMARIA LTDA - ME",
 "endereco": {
-"logradouro": "AR 9 CO 1",
-"numero": null,
+"logradouro": "ÁREA AR 09 CONJUNTO 01 LOTE 01 LOJA",
+"numero": "01",
 "bairro": "SETOR OESTE (SOBRADINHO II)",
-"cep": null
+"cep": "73062001"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5053,13 +5054,13 @@
 {
 "cnpj": "05699088000103",
 "cnes": null,
-"nome": "LEANDRO RESENDE SOUZA SILVA ME",
+"nome": "DROGARIA FORTE VIDA",
 "razao_social": "LEANDRO RESENDE SOUZA SILVA ME",
 "endereco": {
-"logradouro": "QUADRA 31",
-"numero": null,
+"logradouro": "QUADRA QUADRA 31 LOTE",
+"numero": "03",
 "bairro": "DEL LAGO I (ITAPOA)",
-"cep": null
+"cep": "71591305"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5076,8 +5077,8 @@
 "nome": "DROGALANA",
 "razao_social": "LUANA DE FREITAS MOREIRA - ME",
 "endereco": {
-"logradouro": "QS 108",
-"numero": "01",
+"logradouro": "QUADRA QS 108 CONJUNTO 02 LOTE",
+"numero": "05",
 "bairro": "SAMAMBAIA SUL (SAMAMBAIA)",
 "cep": "72302520"
 },
@@ -5093,13 +5094,13 @@
 {
 "cnpj": "15426586000128",
 "cnes": null,
-"nome": "MAGELA PRODUTOS FARMACEUTICOS LTDA",
+"nome": "DROGARIA GENERICA",
 "razao_social": "MAGELA PRODUTOS FARMACEUTICOS LTDA",
 "endereco": {
-"logradouro": "QNO 19 CO A",
-"numero": null,
+"logradouro": "QUADRA QNO 19 CONJUNTO A",
+"numero": "03",
 "bairro": "CEILANDIA NORTE (CEILANDIA)",
-"cep": null
+"cep": "72261061"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5116,7 +5117,7 @@
 "nome": "DROGARIA SAO LUIZ",
 "razao_social": "MR DROGARIA LTDA",
 "endereco": {
-"logradouro": "QUADRA 39",
+"logradouro": "QUADRA QUADRA 39",
 "numero": "23",
 "bairro": "SETOR CENTRAL (GAMA)",
 "cep": "72405390"
@@ -5133,13 +5134,13 @@
 {
 "cnpj": "14870212000134",
 "cnes": null,
-"nome": "NIC DROGARIA LTDA",
+"nome": "NATALFARMA",
 "razao_social": "NIC DROGARIA LTDA",
 "endereco": {
-"logradouro": "1, LOTE",
-"numero": null,
+"logradouro": "QUADRA 1, LOTE",
+"numero": "99",
 "bairro": "VILA SAO JOSE (SAO SEBASTIAO)",
-"cep": null
+"cep": "71693001"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5153,13 +5154,13 @@
 {
 "cnpj": "01260392000190",
 "cnes": null,
-"nome": "PAGUE MENOS COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
+"nome": "DROGARIA DOUGLAS",
 "razao_social": "PAGUE MENOS COMERCIO DE PRODUTOS FARMACEUTICOS LTDA",
 "endereco": {
-"logradouro": "QUADRA 9",
-"numero": null,
+"logradouro": "QUADRA 09 LOTE 10 LOJA",
+"numero": "01",
 "bairro": "SETOR LESTE (GAMA)",
-"cep": null
+"cep": "72450090"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5173,13 +5174,13 @@
 {
 "cnpj": "04745752000132",
 "cnes": null,
-"nome": "PHARMACIA MAMEDE LTDA",
+"nome": "PHARMAC",
 "razao_social": "PHARMACIA MAMEDE LTDA",
 "endereco": {
-"logradouro": "SHIS QI 13",
-"numero": null,
+"logradouro": "QUADRA SHIS CL QI 13 BLOCO H LOJA",
+"numero": "05",
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS SUL",
-"cep": null
+"cep": "71635013"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5193,13 +5194,13 @@
 {
 "cnpj": "00551689000142",
 "cnes": null,
-"nome": "PHARMAGRAN DROGARIA EIRELI",
+"nome": "PHARMAGRAN DRUGSTORE",
 "razao_social": "PHARMAGRAN DROGARIA EIRELI",
 "endereco": {
-"logradouro": "EQNL 10/12 BL B",
-"numero": null,
+"logradouro": "QUADRA EQNL 10/12 BLOCO B LOJAS",
+"numero": "04/05",
 "bairro": "TAGUATINGA NORTE (TAGUATINGA)",
-"cep": null
+"cep": "72155522"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5213,13 +5214,13 @@
 {
 "cnpj": "02699690000144",
 "cnes": null,
-"nome": "POPULAR COMERCIO DE MEDICAMENTOS LTDA - ME",
+"nome": "FARMANOSSA",
 "razao_social": "POPULAR COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
-"logradouro": "QUADRA 4 CO A",
+"logradouro": "QUADRA 4 CONJUNTO A LOTE 7",
 "numero": null,
 "bairro": "VARJAO",
-"cep": null
+"cep": "71555103"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5233,13 +5234,13 @@
 {
 "cnpj": "07304319000150",
 "cnes": null,
-"nome": "R. D. T DROGARIA LTDA ME",
+"nome": "DROGARIA MENOR PRECO",
 "razao_social": "R. D. T DROGARIA LTDA ME",
 "endereco": {
-"logradouro": "QNJ 26",
-"numero": null,
+"logradouro": "QUADRA QNJ 26 LOTE",
+"numero": "01",
 "bairro": "TAGUATINGA NORTE (TAGUATINGA)",
-"cep": null
+"cep": "72140260"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5253,13 +5254,13 @@
 {
 "cnpj": "10924360000133",
 "cnes": null,
-"nome": "R.O.RODRIGUES & J.K.S.BESERRA LTDA - ME",
+"nome": "DROGAMIX",
 "razao_social": "R.O.RODRIGUES & J.K.S.BESERRA LTDA - ME",
 "endereco": {
-"logradouro": "PORTO RICO",
+"logradouro": "CONDOMINIO PORTO RICO",
 "numero": null,
 "bairro": "SANTA MARIA",
-"cep": null
+"cep": "72504003"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5276,7 +5277,7 @@
 "nome": "DROGASIL DS 0471",
 "razao_social": "RAIA DROGASIL S/A",
 "endereco": {
-"logradouro": "CNC 3",
+"logradouro": "QUADRA CNC 03",
 "numero": "S/N",
 "bairro": "TAGUATINGA NORTE (TAGUATINGA)",
 "cep": "72115535"
@@ -5296,7 +5297,7 @@
 "nome": "DROGASIL DS 0484",
 "razao_social": "RAIA DROGASIL S/A",
 "endereco": {
-"logradouro": "QUADRA 1 CO G",
+"logradouro": "SETOR SUL RESIDENCIAL",
 "numero": "S/N",
 "bairro": "SETOR SUL (GAMA)",
 "cep": "72410107"
@@ -5316,7 +5317,7 @@
 "nome": "DROGASIL DS 0784",
 "razao_social": "RAIA DROGASIL S/A",
 "endereco": {
-"logradouro": "CLS 305 BL D",
+"logradouro": "SETOR CLS 305 BLOCO D",
 "numero": "S/N",
 "bairro": "ASA SUL",
 "cep": "70352540"
@@ -5336,7 +5337,7 @@
 "nome": "DROGASIL DS0747",
 "razao_social": "RAIA DROGASIL S/A",
 "endereco": {
-"logradouro": "CLN 303",
+"logradouro": "SETOR SHCN - CL - QUADRA 303 - BLOCO E",
 "numero": "S/N",
 "bairro": "ASA NORTE",
 "cep": "70735500"
@@ -5356,7 +5357,7 @@
 "nome": "DROGASIL DS0752",
 "razao_social": "RAIA DROGASIL S/A",
 "endereco": {
-"logradouro": "CLN 204 BL C",
+"logradouro": "SETOR SHCN CL QUADRA 204 BLOCO C LOJA 02,03,04,05 TERREO",
 "numero": "S/N",
 "bairro": "ASA NORTE",
 "cep": "70842530"
@@ -5373,13 +5374,13 @@
 {
 "cnpj": "03359898000187",
 "cnes": null,
-"nome": "REDE BRASIL EMPREENDIMENTOS FARMACEUTICOS LTDA",
+"nome": "REDE BRASIL DRUGSTORE",
 "razao_social": "REDE BRASIL EMPREENDIMENTOS FARMACEUTICOS LTDA",
 "endereco": {
-"logradouro": "ESTRUTURAL",
-"numero": null,
+"logradouro": "SETOR SCSV QUADRA 01 CONJUNTO 02 LOTE",
+"numero": "04",
 "bairro": "VILA ESTRUTURAL",
-"cep": null
+"cep": "71300000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5393,13 +5394,13 @@
 {
 "cnpj": "19376483000151",
 "cnes": null,
-"nome": "ROGERIO SANTOS ROSA - ME",
+"nome": "DROGARIA COMUNITARIA",
 "razao_social": "ROGERIO SANTOS ROSA - ME",
 "endereco": {
-"logradouro": "QUADRA 13 CO 7",
-"numero": null,
+"logradouro": "QUADRA QUADRA 13 CONJUNTO 7 LOTE",
+"numero": "01",
 "bairro": "PARANOA",
-"cep": null
+"cep": "71571313"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5413,13 +5414,13 @@
 {
 "cnpj": "13985470000101",
 "cnes": null,
-"nome": "SANTOS MARINHO COMERCIO DE MEDICAMENTOS LTDA",
+"nome": "BAND FARMA",
 "razao_social": "SANTOS MARINHO COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
-"logradouro": "CENTRAL BLOCOS 294/372",
+"logradouro": "AVENIDA AVENIDA CENTRAL LOTE 336/342",
 "numero": null,
 "bairro": "NUCLEO BANDEIRANTE",
-"cep": null
+"cep": "71720500"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5433,13 +5434,13 @@
 {
 "cnpj": "08784194000175",
 "cnes": null,
-"nome": "SAUDE E BELEZA COMERCIO DE MEDICAMENTOS LTDA",
+"nome": "ATACADAO PRECO JUSTO",
 "razao_social": "SAUDE E BELEZA COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
-"logradouro": "QUADRA 7 CONJUNTO A LOTE",
-"numero": null,
+"logradouro": "CONDOMINIO COND RIO NEGRO MODULO 4 LOTE",
+"numero": "4",
 "bairro": "VARJAO",
-"cep": null
+"cep": "73093900"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5453,13 +5454,13 @@
 {
 "cnpj": "03556637000157",
 "cnes": null,
-"nome": "SO BELA COMERCIO DE MEDICAMENTOS LTDA - ME",
+"nome": "DROGARIA ECONOMICA",
 "razao_social": "SO BELA COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
-"logradouro": "QUADRA 109",
-"numero": null,
+"logradouro": "QUADRA 109 AVENIDA RECANTO DAS EMAS LOTE 5 LOJA",
+"numero": "3",
 "bairro": "RECANTO DAS EMAS",
-"cep": null
+"cep": "72602100"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5473,13 +5474,13 @@
 {
 "cnpj": "03575434000108",
 "cnes": null,
-"nome": "SUELY REIS E SILVA - ME",
+"nome": "DROGARIA MEDIVIDA",
 "razao_social": "SUELY REIS E SILVA - ME",
 "endereco": {
-"logradouro": "MERCADO  01 LOJAS",
-"numero": null,
+"logradouro": "MERCADO 01 LOJAS",
+"numero": "68/69",
 "bairro": "GAMA",
-"cep": null
+"cep": "72491010"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5493,13 +5494,13 @@
 {
 "cnpj": "07628809000101",
 "cnes": null,
-"nome": "TERG COMERCIO DE MEDICAMENTOS LTDA - ME",
+"nome": "DROGARIA SAUDE",
 "razao_social": "TERG COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
-"logradouro": "CENTRAL",
-"numero": null,
+"logradouro": "AVENIDA CENTRAL",
+"numero": "581",
 "bairro": "VILA NOVA (SAO SEBASTIAO)",
-"cep": null
+"cep": "71693165"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5513,13 +5514,13 @@
 {
 "cnpj": "16384368000130",
 "cnes": null,
-"nome": "VERA E DILSON DROGARIA BARBOSA LTDA - ME",
+"nome": "DROGARIA DROGAMINAS",
 "razao_social": "VERA E DILSON DROGARIA BARBOSA LTDA - ME",
 "endereco": {
-"logradouro": "RUA 6 CH 272",
+"logradouro": "RUA 03",
 "numero": null,
 "bairro": "SETOR HABITACIONAL VICENTE PIRES",
-"cep": null
+"cep": "73858000"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5533,13 +5534,13 @@
 {
 "cnpj": "13472805000180",
 "cnes": null,
-"nome": "VIEIRA & VIEIRA COMERCIO DE MEDICAMENTOS LTDA - ME",
+"nome": "FARMANOSSA",
 "razao_social": "VIEIRA & VIEIRA COMERCIO DE MEDICAMENTOS LTDA - ME",
 "endereco": {
-"logradouro": "VARJAO DO TORTO",
-"numero": null,
+"logradouro": "QUADRA QUADRA 9 CONJUNTO B",
+"numero": "02",
 "bairro": "SETOR DE HABITACOES INDIVIDUAIS NORTE",
-"cep": null
+"cep": "71555346"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",
@@ -5553,13 +5554,13 @@
 {
 "cnpj": "17878743000161",
 "cnes": null,
-"nome": "W.E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
+"nome": "DROGARIA S & S",
 "razao_social": "W.E COMERCIO DE PRODUTOS FARMACEUTICOS LTDA - ME",
 "endereco": {
-"logradouro": "QUADRA 1 CO 3",
-"numero": null,
+"logradouro": "QUADRA QUADRA 1 CONJUNTO 3 LOTE",
+"numero": "04",
 "bairro": "MORRO AZUL (SAO SEBASTIAO)",
-"cep": null
+"cep": "71691243"
 },
 "codigo_municipio": "530010",
 "municipio": "Brasília",

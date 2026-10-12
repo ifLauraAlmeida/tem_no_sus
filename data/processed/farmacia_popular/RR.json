@@ -6,20 +6,21 @@
 "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
 "data_referencia": "2026-10-08",
 "data_obtencao": "2026-10-12",
-"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+"nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
 },
 "uf": "RR",
 "estabelecimentos": [
 {
 "cnpj": "16631042000160",
 "cnes": null,
-"nome": "ANGELA M C SILVA - ME",
+"nome": "FARMA VIDA",
 "razao_social": "ANGELA M C SILVA - ME",
 "endereco": {
-"logradouro": "GETULIO VARGAS",
+"logradouro": "AVENIDA GETULIO VARGAS",
 "numero": null,
 "bairro": "MULTIRAO",
-"cep": null
+"cep": "69350000"
 },
 "codigo_municipio": "140005",
 "municipio": "Alto Alegre",
@@ -33,13 +34,13 @@
 {
 "cnpj": "03852851000150",
 "cnes": null,
-"nome": "CENTER FARMA LTDA ME",
+"nome": "CENTER FARMA",
 "razao_social": "CENTER FARMA LTDA ME",
 "endereco": {
-"logradouro": "LAURA PINHEIRO MAIA",
-"numero": null,
+"logradouro": "RUA LAURA PINHEIRO MAIA",
+"numero": "937",
 "bairro": "PINTOLANDIA",
-"cep": null
+"cep": "69316738"
 },
 "codigo_municipio": "140010",
 "municipio": "Boa Vista",
@@ -56,7 +57,7 @@
 "nome": "DROGARIA MEGAFARMA",
 "razao_social": "DROGARIA MEGAFARMA LTDA",
 "endereco": {
-"logradouro": "CAPITAO JULIO BEZERRA",
+"logradouro": "AVENIDA CAP. JULIO BEZERRA",
 "numero": "1253",
 "bairro": "SAO FRANCISCO",
 "cep": "69305025"
@@ -76,10 +77,10 @@
 "nome": "DROGARIA MEGAFARMA LTDA",
 "razao_social": "DROGARIA MEGAFARMA LTDA",
 "endereco": {
-"logradouro": "VILLE ROY",
-"numero": null,
+"logradouro": "AVENIDA VILLE ROY",
+"numero": "1544",
 "bairro": "CACARI",
-"cep": null
+"cep": "69307725"
 },
 "codigo_municipio": "140010",
 "municipio": "Boa Vista",
@@ -96,10 +97,10 @@
 "nome": "DROGARIA POPULAR LTDA",
 "razao_social": "DROGARIA POPULAR LTDA",
 "endereco": {
-"logradouro": "MARIO HOMEM DE MELO",
-"numero": null,
+"logradouro": "AVENIDA MARIO HOMEM DE MELO",
+"numero": "2313",
 "bairro": "MECEJANA",
-"cep": null
+"cep": "69304350"
 },
 "codigo_municipio": "140010",
 "municipio": "Boa Vista",
@@ -113,13 +114,13 @@
 {
 "cnpj": "00866557000100",
 "cnes": null,
-"nome": "EDIMAR P LIMA & CIA LTDA",
+"nome": "DROGARIA POPULAR II",
 "razao_social": "EDIMAR P LIMA & CIA LTDA",
 "endereco": {
-"logradouro": "GENERAL ATAIDE TEIVE",
-"numero": null,
+"logradouro": "AVENIDA GENERAL ATAIDE TEIVE",
+"numero": "4724",
 "bairro": "TANCREDO NEVES",
-"cep": null
+"cep": "69313520"
 },
 "codigo_municipio": "140010",
 "municipio": "Boa Vista",
@@ -136,7 +137,7 @@
 "nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "GETULIO VARGAS",
+"logradouro": "AVENIDA GETULIO VARGAS",
 "numero": "6070",
 "bairro": "CENTRO",
 "cep": "69301030"
@@ -156,7 +157,7 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "GENERAL ATAIDE TEIVE",
+"logradouro": "AVENIDA ATAIDE TEIVE",
 "numero": "5300",
 "bairro": "TANCREDO NEVES",
 "cep": "69313520"
@@ -176,7 +177,7 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "VILLE ROY",
+"logradouro": "AVENIDA VILLE ROY",
 "numero": "5050",
 "bairro": "SAO FRANCISCO",
 "cep": "69305098"
@@ -196,7 +197,7 @@
 "nome": "ULTRAPHARMA",
 "razao_social": "GOMES E SANTANA LTDA",
 "endereco": {
-"logradouro": "CENTENARIO",
+"logradouro": "AVENIDA CENTENARIO",
 "numero": "2182",
 "bairro": "CINTURAO VERDE",
 "cep": "69301970"
@@ -216,7 +217,7 @@
 "nome": "FARMA VIP",
 "razao_social": "J J BARBOSA CARVALHO & CIA. LTDA. ME",
 "endereco": {
-"logradouro": "GENERAL ATAIDE TEIVE",
+"logradouro": "AVENIDA GAL. ATAIDE TEIVE",
 "numero": "3933",
 "bairro": "ASA BRANCA",
 "cep": "69312242"
@@ -233,13 +234,13 @@
 {
 "cnpj": "84019132000155",
 "cnes": null,
-"nome": "JUDIVAN F LIRA ME",
+"nome": "DROGARIA SAO CAMILO",
 "razao_social": "JUDIVAN F LIRA ME",
 "endereco": {
-"logradouro": "JOCA FARIAS",
-"numero": null,
+"logradouro": "RUA JOCA FARIAS",
+"numero": "887",
 "bairro": "CARANA",
-"cep": null
+"cep": "69313612"
 },
 "codigo_municipio": "140010",
 "municipio": "Boa Vista",
@@ -256,7 +257,7 @@
 "nome": "DROGARIA AMAZONAS",
 "razao_social": "LEITAO & COSTA LTDA ME",
 "endereco": {
-"logradouro": "DAS FLORES",
+"logradouro": "AVENIDA VIA DAS FLORES",
 "numero": "2114",
 "bairro": "PRICUMA",
 "cep": "69309393"
@@ -276,7 +277,7 @@
 "nome": "UNIAOFARMA",
 "razao_social": "LIRA E COSTA LTDA",
 "endereco": {
-"logradouro": "CARLOS PEREIRA DE MELO",
+"logradouro": "AVENIDA CARLOS PEREIRA DE MELO",
 "numero": "2331",
 "bairro": "CAIMBE",
 "cep": "69312212"
@@ -296,7 +297,7 @@
 "nome": "FARMA NOVA",
 "razao_social": "PAIVA & SOARES LTDA - ME",
 "endereco": {
-"logradouro": "BELO HORIZONTE",
+"logradouro": "RUA BELO HORIZONTE",
 "numero": "79",
 "bairro": "NOVA CIDADE",
 "cep": "69316214"
@@ -316,7 +317,7 @@
 "nome": "FARMAVISTA",
 "razao_social": "SILVEIRA & CAMPOS LTDA - ME",
 "endereco": {
-"logradouro": "NIVALDO DA CONCEICAO GUTIERREZ",
+"logradouro": "RUA NIVALDO DA CONCEICAO GUTIERREZ",
 "numero": "201",
 "bairro": "NOVA CANAA",
 "cep": "69314386"
@@ -333,13 +334,13 @@
 {
 "cnpj": "29994930000190",
 "cnes": null,
-"nome": "L R PINHEIRO COUTINHO & CIA LTDA",
+"nome": "DROGARIA ALVORADA",
 "razao_social": "L R PINHEIRO COUTINHO & CIA LTDA",
 "endereco": {
-"logradouro": "ARACAJU",
+"logradouro": "RUA ARACAJU",
 "numero": null,
 "bairro": "CENTRO",
-"cep": null
+"cep": "69378000"
 },
 "codigo_municipio": "140023",
 "municipio": "Caroebe",

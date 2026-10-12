@@ -6,20 +6,21 @@
 "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
 "data_referencia": "2026-10-08",
 "data_obtencao": "2026-10-12",
-"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+"nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
 },
 "uf": "AL",
 "estabelecimentos": [
 {
 "cnpj": "16692260000105",
 "cnes": null,
-"nome": "F CORREIA DA SILVA FARMACIA - ME",
+"nome": "FARMACIA SILVA",
 "razao_social": "F CORREIA DA SILVA FARMACIA - ME",
 "endereco": {
-"logradouro": "POVOADO TABULEIRO GRANDE",
+"logradouro": "SITIO POVOADO TABULEIRO GRANDE",
 "numero": null,
 "bairro": "POVOADO",
-"cep": null
+"cep": "57660000"
 },
 "codigo_municipio": "270020",
 "municipio": "Anadia",
@@ -33,13 +34,13 @@
 {
 "cnpj": "16780567000168",
 "cnes": null,
-"nome": "L C FERNANDES FARMACIA - ME - ME",
+"nome": "FARMACIA POPULAR DE ANADIA",
 "razao_social": "L C FERNANDES FARMACIA - ME - ME",
 "endereco": {
-"logradouro": "DR CAMPELO DE ALMEIDA",
-"numero": null,
+"logradouro": "PRACA DR CAMPELO DE ALMEIDA",
+"numero": "239",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57660000"
 },
 "codigo_municipio": "270020",
 "municipio": "Anadia",
@@ -53,13 +54,13 @@
 {
 "cnpj": "05230009002156",
 "cnes": null,
-"nome": "COMERCIAL DRUGSTORE LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "COMERCIAL DRUGSTORE LTDA",
 "endereco": {
-"logradouro": "LUIZ PEREIRA LIMA",
-"numero": null,
+"logradouro": "PRACA LUIZ PEREIRA LIMA",
+"numero": "227",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57300015"
 },
 "codigo_municipio": "270030",
 "municipio": "Arapiraca",
@@ -73,13 +74,13 @@
 {
 "cnpj": "05325467000397",
 "cnes": null,
-"nome": "D A L COMERCIO LTDA - ME",
+"nome": "DROGALIMA",
 "razao_social": "D A L COMERCIO LTDA - ME",
 "endereco": {
-"logradouro": "PAULO AFONSO",
-"numero": null,
+"logradouro": "RUA PAULO AFONSO",
+"numero": "329",
 "bairro": "PRIMAVERA",
-"cep": null
+"cep": "57304000"
 },
 "codigo_municipio": "270030",
 "municipio": "Arapiraca",
@@ -93,13 +94,13 @@
 {
 "cnpj": "06198619003235",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "FERNANDES LIMA",
-"numero": null,
+"logradouro": "RUA FERNANDES LIMA",
+"numero": "14",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57300070"
 },
 "codigo_municipio": "270030",
 "municipio": "Arapiraca",
@@ -113,13 +114,13 @@
 {
 "cnpj": "06198619004800",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "LUIZ PEREIRA LIMA",
-"numero": null,
+"logradouro": "PRACA LUIZ PEREIRA LIMA",
+"numero": "353",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57300015"
 },
 "codigo_municipio": "270030",
 "municipio": "Arapiraca",
@@ -133,13 +134,13 @@
 {
 "cnpj": "06198619005955",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "TRINTA DE OUTUBRO",
-"numero": null,
+"logradouro": "RUA TRINTA DE OUTUBRO",
+"numero": "217",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57300380"
 },
 "codigo_municipio": "270030",
 "municipio": "Arapiraca",
@@ -153,13 +154,13 @@
 {
 "cnpj": "12451050000336",
 "cnes": null,
-"nome": "FARMACIA NACIONAL LTDA - EPP",
+"nome": "DROGARIAS ULTRA POPULAR",
 "razao_social": "FARMACIA NACIONAL LTDA - EPP",
 "endereco": {
-"logradouro": "PEDRO NUNES DE ALBUQUERQUE",
-"numero": null,
+"logradouro": "RUA PEDRO NUNES DE ALBUQUERQUE",
+"numero": "222",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57300550"
 },
 "codigo_municipio": "270030",
 "municipio": "Arapiraca",
@@ -173,13 +174,13 @@
 {
 "cnpj": "07335550000100",
 "cnes": null,
-"nome": "J ROBERTO DE JESUS MEDICAMENTOS - EPP",
+"nome": "DROGARIA REAL",
 "razao_social": "J ROBERTO DE JESUS MEDICAMENTOS - EPP",
 "endereco": {
-"logradouro": "EXPEDICIONARIOS BRASILEIROS",
-"numero": null,
+"logradouro": "RUA EXP BRASILEIROS",
+"numero": "575",
 "bairro": "ELDORADO",
-"cep": null
+"cep": "57306000"
 },
 "codigo_municipio": "270030",
 "municipio": "Arapiraca",
@@ -193,13 +194,13 @@
 {
 "cnpj": "03402150000110",
 "cnes": null,
-"nome": "VALMIR OLIVEIRA BARBOSA DROGARIA - ME",
+"nome": "DROGARIA VICENTE MAGALHAES",
 "razao_social": "VALMIR OLIVEIRA BARBOSA DROGARIA - ME",
 "endereco": {
-"logradouro": "VICENTE MAGALHAES",
-"numero": null,
+"logradouro": "RUA VICENTE MAGALHAES",
+"numero": "742",
 "bairro": "BANANEIRA",
-"cep": null
+"cep": "57318450"
 },
 "codigo_municipio": "270030",
 "municipio": "Arapiraca",
@@ -213,13 +214,13 @@
 {
 "cnpj": "19252526000197",
 "cnes": null,
-"nome": "ARNON S R FARMA LTDA",
+"nome": "FARMACIA DO TRABALHADOR BRASILEIRO",
 "razao_social": "ARNON S R FARMA LTDA",
 "endereco": {
-"logradouro": "PEDRO PEREIRA ACIOLI",
-"numero": null,
+"logradouro": "AVENIDA PEDRO PEREIRA ACIOLI",
+"numero": "322",
 "bairro": "JOSE PAULINO",
-"cep": null
+"cep": "57690000"
 },
 "codigo_municipio": "270040",
 "municipio": "Atalaia",
@@ -233,13 +234,13 @@
 {
 "cnpj": "32088625000143",
 "cnes": null,
-"nome": "E A N DA SILVA FARMACIA",
+"nome": "FARMACIA DO TRABALHADOR DA BARRA",
 "razao_social": "E A N DA SILVA FARMACIA",
 "endereco": {
-"logradouro": "BENEDITO CASADO",
-"numero": null,
+"logradouro": "AVENIDA BENEDITO CASADO",
+"numero": "743",
 "bairro": "BARRA 01",
-"cep": null
+"cep": "57925000"
 },
 "codigo_municipio": "270050",
 "municipio": "Barra de Santo Antônio",
@@ -253,13 +254,13 @@
 {
 "cnpj": "32088625000224",
 "cnes": null,
-"nome": "E A N DA SILVA FARMACIA",
+"nome": "FARMACIA DO TRABALHADOR DA BARRA",
 "razao_social": "E A N DA SILVA FARMACIA",
 "endereco": {
-"logradouro": "AVENIDA CECILIA CANDIDA DA SILVA",
-"numero": null,
+"logradouro": "AVENIDA AVENIDA CECILIA CANDIDA DA SILVA",
+"numero": "710",
 "bairro": "ILHA DA CROA",
-"cep": null
+"cep": "57925000"
 },
 "codigo_municipio": "270050",
 "municipio": "Barra de Santo Antônio",
@@ -273,13 +274,13 @@
 {
 "cnpj": "04162881000106",
 "cnes": null,
-"nome": "JOSE MATIAS DROGARIA",
+"nome": "DROGARIA NOSSA SENHORA DA PENHA",
 "razao_social": "JOSE MATIAS DROGARIA",
 "endereco": {
-"logradouro": "SANTA MARIA",
-"numero": null,
+"logradouro": "AVENIDA SANTA MARIA",
+"numero": "533",
 "bairro": "SAO PEDRO",
-"cep": null
+"cep": "57420056"
 },
 "codigo_municipio": "270070",
 "municipio": "Batalha",
@@ -296,7 +297,7 @@
 "nome": "DROGARIA JEANE",
 "razao_social": "DROGARIA JEANE LTDA.",
 "endereco": {
-"logradouro": "11 DE NOVEMBRO",
+"logradouro": "PRACA 11 DE NOVEMBRO",
 "numero": "50",
 "bairro": "CENTRO",
 "cep": "57680000"
@@ -313,13 +314,13 @@
 {
 "cnpj": "14379182000168",
 "cnes": null,
-"nome": "GLAUCIO GOMES LOPES - ME",
+"nome": "FARMACIA DO TRABALHADOR CACIMBINHENSE",
 "razao_social": "GLAUCIO GOMES LOPES - ME",
 "endereco": {
-"logradouro": "CORONEL CLARINDO AMORIM",
-"numero": null,
+"logradouro": "RUA CORONEL CLARINDO AMORIM",
+"numero": "197",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57570000"
 },
 "codigo_municipio": "270120",
 "municipio": "Cacimbinhas",
@@ -333,13 +334,13 @@
 {
 "cnpj": "14207312000185",
 "cnes": null,
-"nome": "M J S. RIBEIRO - ME",
+"nome": "DROGARIA N S DO LIVRAMENTO",
 "razao_social": "M J S. RIBEIRO - ME",
 "endereco": {
-"logradouro": "IZAURA TOLEDO COSTA",
-"numero": null,
+"logradouro": "AVENIDA IZAURA TOLEDO COSTA",
+"numero": "01",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57770000"
 },
 "codigo_municipio": "270130",
 "municipio": "Cajueiro",
@@ -353,13 +354,13 @@
 {
 "cnpj": "12040691000136",
 "cnes": null,
-"nome": "ALEX FERREIRA DOS SANTOS",
+"nome": "FARMACIA DO TRABALHADOR",
 "razao_social": "ALEX FERREIRA DOS SANTOS",
 "endereco": {
-"logradouro": "ENOQUE BARBOSA",
-"numero": null,
+"logradouro": "PRACA ENOQUE BARBOSA",
+"numero": "215",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57350000"
 },
 "codigo_municipio": "270150",
 "municipio": "Campo Grande",
@@ -373,13 +374,13 @@
 {
 "cnpj": "03759648000134",
 "cnes": null,
-"nome": "ELAINE MARIA FARIAS DE OLIVEIRA",
+"nome": "FARMACIA FARIAS",
 "razao_social": "ELAINE MARIA FARIAS DE OLIVEIRA",
 "endereco": {
-"logradouro": "JOAQUIM TETE",
-"numero": null,
+"logradouro": "AVENIDA JOAQUIM TETE",
+"numero": "289",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57530000"
 },
 "codigo_municipio": "270160",
 "municipio": "Canapi",
@@ -393,13 +394,13 @@
 {
 "cnpj": "42223830000128",
 "cnes": null,
-"nome": "E M P RIBEIRO COMERCIO E DROGARIA",
+"nome": "REDE BEM DROGARIAS",
 "razao_social": "E M P RIBEIRO COMERCIO E DROGARIA",
 "endereco": {
-"logradouro": "JUVENCIO CORREIA ARAUJO",
-"numero": null,
+"logradouro": "RUA JUVENCIO CORREIA ARAUJO",
+"numero": "892",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57780000"
 },
 "codigo_municipio": "270170",
 "municipio": "Capela",
@@ -413,13 +414,13 @@
 {
 "cnpj": "51284049000154",
 "cnes": null,
-"nome": "M. M. NEVES LTDA",
+"nome": "MEL FARMA",
 "razao_social": "M. M. NEVES LTDA",
 "endereco": {
-"logradouro": "ROBSON MEDEIROS DE MELO",
+"logradouro": "AVENIDA ROBSON MEDEIROS DE MELO",
 "numero": null,
 "bairro": "CENTRO",
-"cep": null
+"cep": "57780000"
 },
 "codigo_municipio": "270170",
 "municipio": "Capela",
@@ -433,13 +434,13 @@
 {
 "cnpj": "24409261000390",
 "cnes": null,
-"nome": "GERALDO MESSIAS DE OLIVEIRA FILHO LTDA",
+"nome": "FARMACIA DO TRABALHADOR BRASIL",
 "razao_social": "GERALDO MESSIAS DE OLIVEIRA FILHO LTDA",
 "endereco": {
-"logradouro": "CONEGO JOSE BULHOES",
-"numero": null,
+"logradouro": "PRACA CONEGO JOSE BULHOES",
+"numero": "41",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57535000"
 },
 "codigo_municipio": "270180",
 "municipio": "Carneiros",
@@ -453,13 +454,13 @@
 {
 "cnpj": "45634493000150",
 "cnes": null,
-"nome": "DROGARIA TENORIO LTDA",
+"nome": "DROGARIA TENORIO",
 "razao_social": "DROGARIA TENORIO LTDA",
 "endereco": {
-"logradouro": "HIGINO CAZUZA",
-"numero": null,
+"logradouro": "RUA HIGINO CAZUZA",
+"numero": "91",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57325000"
 },
 "codigo_municipio": "270200",
 "municipio": "Coité do Nóia",
@@ -473,13 +474,13 @@
 {
 "cnpj": "05156696000163",
 "cnes": null,
-"nome": "MARIA DE FATIMA MIZAEL DA SILVA LTDA",
+"nome": "DROGARIA SAO PEDRO",
 "razao_social": "MARIA DE FATIMA MIZAEL DA SILVA LTDA",
 "endereco": {
-"logradouro": "GOVERNADOR LUIZ CAVALCANTE",
-"numero": null,
+"logradouro": "RUA GOVERNADOR LUIZ CAVALCANTE",
+"numero": "74",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57325000"
 },
 "codigo_municipio": "270200",
 "municipio": "Coité do Nóia",
@@ -493,13 +494,13 @@
 {
 "cnpj": "09318207000183",
 "cnes": null,
-"nome": "FARMACIA PEREIRA LTDA",
+"nome": "FARMACIA DO TRABALHADOR REGIONAL",
 "razao_social": "FARMACIA PEREIRA LTDA",
 "endereco": {
-"logradouro": "15 DE NOVEMBRO",
-"numero": null,
+"logradouro": "RUA PADRE FRANCISCO",
+"numero": "174",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57975000"
 },
 "codigo_municipio": "270210",
 "municipio": "Colônia Leopoldina",
@@ -513,13 +514,13 @@
 {
 "cnpj": "02316261000140",
 "cnes": null,
-"nome": "DROGCENTRO LTDA",
+"nome": "DROGCENTRO",
 "razao_social": "DROGCENTRO LTDA",
 "endereco": {
-"logradouro": "LINDOLFO SIMOES",
-"numero": null,
+"logradouro": "RUA LINDOLFO SIMOES",
+"numero": "69",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57230000"
 },
 "codigo_municipio": "270230",
 "municipio": "Coruripe",
@@ -533,13 +534,13 @@
 {
 "cnpj": "14562217000108",
 "cnes": null,
-"nome": "G. L. DROGARIA N S DO PERPETUO SOCORRO LTDA - ME",
+"nome": "FARMACIA DO BARATINHO",
 "razao_social": "G. L. DROGARIA N S DO PERPETUO SOCORRO LTDA - ME",
 "endereco": {
-"logradouro": "ANTONIO LUIZ DOS SANTOS",
-"numero": null,
+"logradouro": "RUA ANTONIO LUIZ DOS SANTOS",
+"numero": "18",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57230000"
 },
 "codigo_municipio": "270230",
 "municipio": "Coruripe",
@@ -553,13 +554,13 @@
 {
 "cnpj": "04970318000156",
 "cnes": null,
-"nome": "EMERSON CLECIO CALIXTO SIQUEIRA - ME",
+"nome": "FARMACIA DO TRABALHADOR",
 "razao_social": "EMERSON CLECIO CALIXTO SIQUEIRA - ME",
 "endereco": {
-"logradouro": "MANOEL NUNES DA SILVA",
-"numero": null,
+"logradouro": "PRAÇA MANOEL NUNES DA SILVA",
+"numero": "60",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57320000"
 },
 "codigo_municipio": "270235",
 "municipio": "Craíbas",
@@ -573,13 +574,13 @@
 {
 "cnpj": "05462423000147",
 "cnes": null,
-"nome": "DROGARIA FARMACENTER LTDA",
+"nome": "DROGARIA FARMACENTER",
 "razao_social": "DROGARIA FARMACENTER LTDA",
 "endereco": {
-"logradouro": "DELMIRO GOUVEIA",
-"numero": null,
+"logradouro": "PRACA DELMIRO GOUVEIA",
+"numero": "145",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57480000"
 },
 "codigo_municipio": "270240",
 "municipio": "Delmiro Gouveia",
@@ -596,7 +597,7 @@
 "nome": "FARMACIA FARIAS",
 "razao_social": "HUMBERTO JORGE FARIAS DE OLIVEIRA",
 "endereco": {
-"logradouro": "PRESIDENTE CASTELO BRANCO",
+"logradouro": "AVENIDA PRESIDENTE CASTELO BRANCO",
 "numero": "299",
 "bairro": "CENTRO",
 "cep": "57480000"
@@ -613,13 +614,13 @@
 {
 "cnpj": "09592388000131",
 "cnes": null,
-"nome": "ALBERTO EUZEBIO DA SILVA - ME",
+"nome": "JULLY FARMA",
 "razao_social": "ALBERTO EUZEBIO DA SILVA - ME",
 "endereco": {
-"logradouro": "DA INDEPENDENCIA",
-"numero": null,
+"logradouro": "PRAÇA DA INDEPENDENCIA",
+"numero": "25",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57560000"
 },
 "codigo_municipio": "270250",
 "municipio": "Dois Riachos",
@@ -636,10 +637,10 @@
 "nome": "DEYSE JANE MONTEIRO BEZERRA DE SIQUEIRA - ME",
 "razao_social": "DEYSE JANE MONTEIRO BEZERRA DE SIQUEIRA - ME",
 "endereco": {
-"logradouro": "MIGUEL VIEIRA DE NOVAIS",
-"numero": null,
+"logradouro": "AVENIDA MIGUEL VIEIRA DE NOVAIS",
+"numero": "44",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57560000"
 },
 "codigo_municipio": "270250",
 "municipio": "Dois Riachos",
@@ -653,13 +654,13 @@
 {
 "cnpj": "21210934000128",
 "cnes": null,
-"nome": "E. S. DE AMORIM",
+"nome": "FARMACIA SAO JOAO",
 "razao_social": "E. S. DE AMORIM",
 "endereco": {
-"logradouro": "PADRE LUDUGERO",
-"numero": null,
+"logradouro": "RUA PADRE LUDUGERO",
+"numero": "56",
 "bairro": "PREFEITO ALDABERON DUARTE",
-"cep": null
+"cep": "57625180"
 },
 "codigo_municipio": "270255",
 "municipio": "Estrela de Alagoas",
@@ -673,13 +674,13 @@
 {
 "cnpj": "32831874000187",
 "cnes": null,
-"nome": "J. J. DE OLIVEIRA NETO DROGARIA",
+"nome": "FARMACIA DO TRABALHADOR",
 "razao_social": "J. J. DE OLIVEIRA NETO DROGARIA",
 "endereco": {
-"logradouro": "PREFEITO ENEAS SIMPLICIO",
-"numero": null,
+"logradouro": "RUA PREFEITO ENEAS SIMPLICIO",
+"numero": "47",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57625000"
 },
 "codigo_municipio": "270255",
 "municipio": "Estrela de Alagoas",
@@ -693,13 +694,13 @@
 {
 "cnpj": "17514771000108",
 "cnes": null,
-"nome": "S S DA SILVA SANTOS - ME",
+"nome": "FARMACIA DO TRABALHADOR FEIRAGRANDENSE",
 "razao_social": "S S DA SILVA SANTOS - ME",
 "endereco": {
-"logradouro": "TEIXEIRA DE FREITAS",
-"numero": null,
+"logradouro": "AVENIDA TEIXEIRA DE FREITAS",
+"numero": "2",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57340000"
 },
 "codigo_municipio": "270260",
 "municipio": "Feira Grande",
@@ -713,13 +714,13 @@
 {
 "cnpj": "40907966000121",
 "cnes": null,
-"nome": "J. F. B. PINHEIRO FARMACIA - ME",
+"nome": "DROGARIA SAO FRANCISCO",
 "razao_social": "J. F. B. PINHEIRO FARMACIA - ME",
 "endereco": {
-"logradouro": "SAO JOSE",
-"numero": null,
+"logradouro": "RUA SAO JOSE",
+"numero": "06",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57360000"
 },
 "codigo_municipio": "270290",
 "municipio": "Girau do Ponciano",
@@ -733,13 +734,13 @@
 {
 "cnpj": "09318207000264",
 "cnes": null,
-"nome": "FARMACIA PEREIRA LTDA - ME",
+"nome": "FARMACIA DO TRABALHADOR REGIONAL",
 "razao_social": "FARMACIA PEREIRA LTDA - ME",
 "endereco": {
-"logradouro": "DRA JANETE DE ARAUJO",
-"numero": null,
+"logradouro": "RUA DRA JANETE DE ARAUJO",
+"numero": "33",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57890970"
 },
 "codigo_municipio": "270300",
 "municipio": "Ibateguara",
@@ -753,13 +754,13 @@
 {
 "cnpj": "14970796000110",
 "cnes": null,
-"nome": "NIVALDO ALVES CORREIA - ME",
+"nome": "FARMACIA CORREIA",
 "razao_social": "NIVALDO ALVES CORREIA - ME",
 "endereco": {
-"logradouro": "DOUTORA JANETE DE ARAUJO",
-"numero": null,
+"logradouro": "RUA DOUTORA JANETE DE ARAUJO",
+"numero": "23",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57890000"
 },
 "codigo_municipio": "270300",
 "municipio": "Ibateguara",
@@ -773,13 +774,13 @@
 {
 "cnpj": "10838555000160",
 "cnes": null,
-"nome": "JOSE FERREIRA DE LIMA DROGARIA ME",
+"nome": "DROGARIA ROMISA",
 "razao_social": "JOSE FERREIRA DE LIMA DROGARIA ME",
 "endereco": {
-"logradouro": "DO COMERCIO",
-"numero": null,
+"logradouro": "RUA DO COMERCIO",
+"numero": "62",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57620000"
 },
 "codigo_municipio": "270310",
 "municipio": "Igaci",
@@ -793,13 +794,13 @@
 {
 "cnpj": "21983447000106",
 "cnes": null,
-"nome": "DROGATOP COMERCIO DE MEDICAMENTOS LTDA",
+"nome": "DROGATOP",
 "razao_social": "DROGATOP COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
-"logradouro": "NOSSA SENHORA APARECIDA",
-"numero": null,
+"logradouro": "RUA NOSSA SENHORA APARECIDA",
+"numero": "150",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57280000"
 },
 "codigo_municipio": "270320",
 "municipio": "Igreja Nova",
@@ -813,13 +814,13 @@
 {
 "cnpj": "02684542000156",
 "cnes": null,
-"nome": "HUMBERTO JORGE FARIAS DE OLIVEIRA LTDA",
+"nome": "FARMACIA FARIAS",
 "razao_social": "HUMBERTO JORGE FARIAS DE OLIVEIRA LTDA",
 "endereco": {
-"logradouro": "DO COMERCIO",
-"numero": null,
+"logradouro": "RUA DO COMERCIO",
+"numero": "99",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57545000"
 },
 "codigo_municipio": "270330",
 "municipio": "Inhapi",
@@ -833,13 +834,13 @@
 {
 "cnpj": "19130155000170",
 "cnes": null,
-"nome": "KRISHNA SISNANDO ARAUJO AMORIM - ME",
+"nome": "LABOFARMA",
 "razao_social": "KRISHNA SISNANDO ARAUJO AMORIM - ME",
 "endereco": {
-"logradouro": "SANTO ANTONIO",
-"numero": null,
+"logradouro": "RUA SANTO ANTONIO",
+"numero": "222",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57430000"
 },
 "codigo_municipio": "270340",
 "municipio": "Jacaré dos Homens",
@@ -856,10 +857,10 @@
 "nome": "IVONETE BARBOSA GOMES - ME",
 "razao_social": "IVONETE BARBOSA GOMES - ME",
 "endereco": {
-"logradouro": "SANTA CRUZ",
-"numero": null,
+"logradouro": "RUA SANTA CRUZ",
+"numero": "66",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57244000"
 },
 "codigo_municipio": "270375",
 "municipio": "Jequiá da Praia",
@@ -873,13 +874,13 @@
 {
 "cnpj": "53418754000122",
 "cnes": null,
-"nome": "MIX MED PHARMA LTDA",
+"nome": "MIX MED PHARMA",
 "razao_social": "MIX MED PHARMA LTDA",
 "endereco": {
-"logradouro": "DOUTOR TEOFILO DE BARROS",
-"numero": null,
+"logradouro": "RUA DOUTOR TEOFILO DE BARROS",
+"numero": "23",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57980000"
 },
 "codigo_municipio": "270380",
 "municipio": "Joaquim Gomes",
@@ -893,13 +894,13 @@
 {
 "cnpj": "02287961000154",
 "cnes": null,
-"nome": "DROGARIA DOIS IRMAOS LTDA",
+"nome": "DROGARIA DOIS IRMAOS",
 "razao_social": "DROGARIA DOIS IRMAOS LTDA",
 "endereco": {
-"logradouro": "PADRE ANTONIO PROCOPIO",
-"numero": null,
+"logradouro": "RUA PADRE ANTONIO PROCOPIO",
+"numero": "82",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57270000"
 },
 "codigo_municipio": "270400",
 "municipio": "Junqueiro",
@@ -913,13 +914,13 @@
 {
 "cnpj": "27314326000140",
 "cnes": null,
-"nome": "WALLACE DE LIMA E SILVA MG FARMACIA",
+"nome": "HIPER POPULAR",
 "razao_social": "WALLACE DE LIMA E SILVA MG FARMACIA",
 "endereco": {
-"logradouro": "VICENTE FERREIRA DE FARIAS",
-"numero": null,
+"logradouro": "RUA VICENTE FERREIRA DE FARIAS",
+"numero": "0188",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57330000"
 },
 "codigo_municipio": "270410",
 "municipio": "Lagoa da Canoa",
@@ -936,10 +937,10 @@
 "nome": "VALMIR OLIVEIRA BARBOSA DROGARIA - ME",
 "razao_social": "VALMIR OLIVEIRA BARBOSA DROGARIA - ME",
 "endereco": {
-"logradouro": "MAJOR LUIZ CARLOS",
-"numero": null,
+"logradouro": "RUA MAJOR LUIZ CARLOS",
+"numero": "50",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57260000"
 },
 "codigo_municipio": "270420",
 "municipio": "Limoeiro de Anadia",
@@ -956,7 +957,7 @@
 "nome": "FARMACIA POPULAR PRECO BAIXO",
 "razao_social": "A M DE ESPINDOLA NETO",
 "endereco": {
-"logradouro": "DR JULIO MARQUES LUZ",
+"logradouro": "AVENIDA DR JULIO MARQUES LUZ",
 "numero": "2019",
 "bairro": "JATIUCA",
 "cep": "57035700"
@@ -973,13 +974,13 @@
 {
 "cnpj": "05230009000617",
 "cnes": null,
-"nome": "COMERCIAL DRUGSTORE LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "COMERCIAL DRUGSTORE LTDA",
 "endereco": {
-"logradouro": "JUCA SAMPAIO",
-"numero": null,
+"logradouro": "AVENIDA JUCA SAMPAIO",
+"numero": "154",
 "bairro": "FEITOSA",
-"cep": null
+"cep": "57042530"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -993,13 +994,13 @@
 {
 "cnpj": "05230009000889",
 "cnes": null,
-"nome": "COMERCIAL DRUGSTORE LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "COMERCIAL DRUGSTORE LTDA",
 "endereco": {
-"logradouro": "MOREIRA LIMA",
-"numero": null,
+"logradouro": "AVENIDA MOREIRA LIMA",
+"numero": "367",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57020220"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1013,13 +1014,13 @@
 {
 "cnpj": "05230009000960",
 "cnes": null,
-"nome": "COMERCIAL DRUGSTORE LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "COMERCIAL DRUGSTORE LTDA",
 "endereco": {
-"logradouro": "TOMAS ESPINDOLA",
-"numero": null,
+"logradouro": "AVENIDA TOMAS ESPINDOLA",
+"numero": "630",
 "bairro": "FAROL",
-"cep": null
+"cep": "57051000"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1033,13 +1034,13 @@
 {
 "cnpj": "05230009001184",
 "cnes": null,
-"nome": "COMERCIAL DRUGSTORE LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "COMERCIAL DRUGSTORE LTDA",
 "endereco": {
-"logradouro": "LOURIVAL MELO MOTA",
-"numero": null,
+"logradouro": "AVENIDA LOURIVAL MELO MOTA",
+"numero": "13930",
 "bairro": "CIDADE UNIVERSITARIA",
-"cep": null
+"cep": "57072000"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1053,13 +1054,13 @@
 {
 "cnpj": "05230009001265",
 "cnes": null,
-"nome": "COMERCIAL DRUGSTORE LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "COMERCIAL DRUGSTORE LTDA",
 "endereco": {
-"logradouro": "MOREIRA LIMA",
-"numero": null,
+"logradouro": "AVENIDA MOREIRA LIMA",
+"numero": "153",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57020220"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1073,13 +1074,13 @@
 {
 "cnpj": "05230009001346",
 "cnes": null,
-"nome": "COMERCIAL DRUGSTORE LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "COMERCIAL DRUGSTORE LTDA",
 "endereco": {
-"logradouro": "DOUTOR DURVAL DE GOIS MONTEIRO",
-"numero": null,
+"logradouro": "AVENIDA DURVAL DE GOES MONTEIRO",
+"numero": "4030",
 "bairro": "SANTA LUCIA",
-"cep": null
+"cep": "57082160"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1093,13 +1094,13 @@
 {
 "cnpj": "05230009001427",
 "cnes": null,
-"nome": "COMERCIAL DRUGSTORE LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "COMERCIAL DRUGSTORE LTDA",
 "endereco": {
-"logradouro": "FERNANDES LIMA",
-"numero": null,
+"logradouro": "AVENIDA FERNANDES LIMA",
+"numero": "471",
 "bairro": "FAROL",
-"cep": null
+"cep": "57055000"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1113,13 +1114,13 @@
 {
 "cnpj": "05230009001508",
 "cnes": null,
-"nome": "COMERCIAL DRUGSTORE LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "COMERCIAL DRUGSTORE LTDA",
 "endereco": {
-"logradouro": "JOAO DAVINO",
-"numero": null,
+"logradouro": "AVENIDA JOAO DAVINO",
+"numero": "383",
 "bairro": "MANGABEIRAS",
-"cep": null
+"cep": "57037590"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1133,13 +1134,13 @@
 {
 "cnpj": "05230009002580",
 "cnes": null,
-"nome": "COMERCIAL DRUGSTORE LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "COMERCIAL DRUGSTORE LTDA",
 "endereco": {
-"logradouro": "PROFESSORA MARIA ESTHER DA COSTA BARROS",
-"numero": null,
+"logradouro": "RUA PROFESSORA MARIA ESTHER DA COSTA BARROS",
+"numero": "644",
 "bairro": "JATIUCA",
-"cep": null
+"cep": "57036840"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1153,13 +1154,13 @@
 {
 "cnpj": "03004699000156",
 "cnes": null,
-"nome": "DROGA C LTDA",
+"nome": "DROGA C",
 "razao_social": "DROGA C LTDA",
 "endereco": {
-"logradouro": "DOUTOR DURVAL DE GOIS MONTEIRO",
-"numero": null,
+"logradouro": "AVENIDA DURVAL DE GOES MONTEIRO",
+"numero": "3212",
 "bairro": "TABULEIRO DO MARTINS",
-"cep": null
+"cep": "57061000"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1173,13 +1174,13 @@
 {
 "cnpj": "35266097000163",
 "cnes": null,
-"nome": "DROGA LUZ LTDA",
+"nome": "FARMACIA DO TRABALHADOR DE ALAGOAS",
 "razao_social": "DROGA LUZ LTDA",
 "endereco": {
-"logradouro": "PROFESSOR SANDOVAL ARROXELAS",
-"numero": null,
+"logradouro": "AVENIDA PROFESSOR SANDOVAL ARROXELAS",
+"numero": "130",
 "bairro": "PONTA VERDE",
-"cep": null
+"cep": "57035230"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1196,10 +1197,10 @@
 "nome": "DROGARIA BARROS LTDA - EPP",
 "razao_social": "DROGARIA BARROS LTDA - EPP",
 "endereco": {
-"logradouro": "PROFESSOR JOSE DA SILVEIRA CAMERINO",
-"numero": null,
+"logradouro": "RUA PROFESSOR JOSE DA SILVEIRA CAMERINO",
+"numero": "1026",
 "bairro": "PINHEIRO",
-"cep": null
+"cep": "57057250"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1216,10 +1217,10 @@
 "nome": "DROGARIA CLIMA BOM LTDA",
 "razao_social": "DROGARIA CLIMA BOM LTDA",
 "endereco": {
-"logradouro": "DR. JOAO CRISOSTOMO FARIAS",
-"numero": null,
+"logradouro": "RUA DR. JOAO CRISOSTOMO FARIAS",
+"numero": "140",
 "bairro": "TABULEIRO DOS MARTINS",
-"cep": null
+"cep": "57071090"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1236,10 +1237,10 @@
 "nome": "DROGARIA COMENDADOR LTDA",
 "razao_social": "DROGARIA COMENDADOR LTDA",
 "endereco": {
-"logradouro": "COMENDADOR LEAO",
-"numero": null,
+"logradouro": "AVENIDA COMENDADOR LEAO",
+"numero": "972",
 "bairro": "POCO",
-"cep": null
+"cep": "57025000"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1253,13 +1254,13 @@
 {
 "cnpj": "03668154000144",
 "cnes": null,
-"nome": "DROGARIA MACHADO LTDA - ME",
+"nome": "DROGA M",
 "razao_social": "DROGARIA MACHADO LTDA - ME",
 "endereco": {
-"logradouro": "VEREADOR DARIO MARSIGLIA",
-"numero": null,
+"logradouro": "AVENIDA VEREADOR DARIO MARSIGLIA",
+"numero": "304",
 "bairro": "TABULEIRO DO MARTINS",
-"cep": null
+"cep": "57081015"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1273,13 +1274,13 @@
 {
 "cnpj": "06198619000562",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "FERNANDES LIMA",
-"numero": null,
+"logradouro": "AVENIDA FERNANDES LIMA",
+"numero": "2576",
 "bairro": "GRUTA DE LOURDES",
-"cep": null
+"cep": "57052400"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1293,13 +1294,13 @@
 {
 "cnpj": "06198619001291",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "DEPUTADO JOSE LAGES",
-"numero": null,
+"logradouro": "RUA DEPUTADO JOSE LAGES",
+"numero": "427",
 "bairro": "PONTA VERDE",
-"cep": null
+"cep": "57035330"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1313,13 +1314,13 @@
 {
 "cnpj": "06198619001453",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "JANGADEIROS ALAGOANOS",
-"numero": null,
+"logradouro": "RUA JANGADEIROS ALAGOANOS",
+"numero": "1300",
 "bairro": "PAJUCARA",
-"cep": null
+"cep": "57030000"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1333,13 +1334,13 @@
 {
 "cnpj": "06198619001887",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "PADRE SIZENANDO SILVA",
-"numero": null,
+"logradouro": "RUA PADRE SIZENANDO SILVA",
+"numero": "92",
 "bairro": "JACINTINHO",
-"cep": null
+"cep": "57041610"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1356,10 +1357,10 @@
 "nome": "DROGATIM DROGARIAS LTDA",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "SIQUEIRA CAMPOS",
+"logradouro": "AVENIDA SIQUEIRA CAMPOS",
 "numero": null,
 "bairro": "TRAPICHE DA BARRA",
-"cep": null
+"cep": "57010645"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1373,13 +1374,13 @@
 {
 "cnpj": "06198619002697",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "PRATAGY",
-"numero": null,
+"logradouro": "AVENIDA PRATAGY",
+"numero": "588",
 "bairro": "BENEDITO BENTES",
-"cep": null
+"cep": "57084092"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1393,13 +1394,13 @@
 {
 "cnpj": "06198619003073",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "AV COMENDADOR GUSTAVO PAIVA 2990",
-"numero": null,
+"logradouro": "AVENIDA COMENDADOR GUSTAVO PAIVA",
+"numero": "2990",
 "bairro": "MANGABEIRAS",
-"cep": null
+"cep": "57037901"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1413,13 +1414,13 @@
 {
 "cnpj": "06198619003901",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "FERNANDES LIMA",
-"numero": null,
+"logradouro": "AVENIDA FERNANDES LIMA",
+"numero": "3590",
 "bairro": "GRUTA DE LOURDES",
-"cep": null
+"cep": "57052400"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1433,13 +1434,13 @@
 {
 "cnpj": "06198619005360",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "FERNANDES LIMA",
+"logradouro": "AVENIDA FERNANDES LIMA",
 "numero": null,
 "bairro": "GRUTA DE LOURDES",
-"cep": null
+"cep": "57052400"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1453,13 +1454,13 @@
 {
 "cnpj": "06198619005793",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "MENINO MARCELO",
-"numero": null,
+"logradouro": "AVENIDA MENINO MARCELO",
+"numero": "15",
 "bairro": "SERRARIA",
-"cep": null
+"cep": "57046000"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1473,13 +1474,13 @@
 {
 "cnpj": "13651985000167",
 "cnes": null,
-"nome": "E L DE ARAUJO FARMACIA - ME",
+"nome": "FARMACIA DO TRABALHADOR DE ALAGOAS",
 "razao_social": "E L DE ARAUJO FARMACIA - ME",
 "endereco": {
-"logradouro": "ZACARIAS FONTAN DE MELO",
-"numero": null,
+"logradouro": "RUA ZACARIAS FONTAN DE MELO",
+"numero": "12",
 "bairro": "TABULEIRO DOS MARTINS",
-"cep": null
+"cep": "57062971"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1496,7 +1497,7 @@
 "nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S.A.",
 "endereco": {
-"logradouro": "LUIZ CALHEIROS JUNIOR",
+"logradouro": "RUA DOUTOR ALFREDO OITICICA",
 "numero": "20",
 "bairro": "FAROL",
 "cep": "57055230"
@@ -1516,10 +1517,10 @@
 "nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S.A.",
 "endereco": {
-"logradouro": "ALVARO OTACILIO",
+"logradouro": "RODOVIA BR 104",
 "numero": "7093",
 "bairro": "PONTA VERDE",
-"cep": "57035180"
+"cep": "57120000"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1536,7 +1537,7 @@
 "nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S.A.",
 "endereco": {
-"logradouro": "FERNANDES LIMA",
+"logradouro": "AVENIDA FERNANDES LIMA",
 "numero": "315",
 "bairro": "FAROL",
 "cep": "57055000"
@@ -1556,7 +1557,7 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S.A.",
 "endereco": {
-"logradouro": "JOAO DAVINO",
+"logradouro": "AVENIDA JOAO DAVINO",
 "numero": "266",
 "bairro": "MANGABEIRAS",
 "cep": "57037590"
@@ -1576,10 +1577,10 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S.A.",
 "endereco": {
-"logradouro": "JOSE TENORIO DE ALBUQUERQUE LINS",
+"logradouro": "AVENIDA GETULIO VARGAS",
 "numero": "4500",
 "bairro": "SERRARIA",
-"cep": "57045140"
+"cep": "57046350"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1596,8 +1597,8 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S.A.",
 "endereco": {
-"logradouro": "DOUTOR DURVAL DE GOIS MONTEIRO",
-"numero": "32",
+"logradouro": "AVENIDA DOUTOR DURVAL DE GOES MONTEIRO",
+"numero": "10305",
 "bairro": "TABULEIRO DO MARTINS",
 "cep": "57061000"
 },
@@ -1616,7 +1617,7 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "JANGADEIROS ALAGOANOS",
+"logradouro": "RUA JANGADEIROS ALAGOANOS",
 "numero": "1173",
 "bairro": "PAJUCARA",
 "cep": "57030000"
@@ -1636,10 +1637,10 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "ENGENHEIRO MARIO DE GUSMAO",
-"numero": "441",
+"logradouro": "AVENIDA DEPUTADA CECI CUNHA",
+"numero": "23",
 "bairro": "PONTA VERDE",
-"cep": "57035000"
+"cep": "57312485"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1656,7 +1657,7 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "MOREIRA LIMA",
+"logradouro": "AVENIDA MOREIRA LIMA",
 "numero": "263",
 "bairro": "CENTRO",
 "cep": "57020220"
@@ -1676,10 +1677,10 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "DEPUTADO JOSE LAGES",
+"logradouro": "RUA DEPUTADO JOSE LAGES",
 "numero": "627",
 "bairro": "PONTA VERDE",
-"cep": "57080000"
+"cep": "57035330"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1696,10 +1697,10 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "JUCA SAMPAIO",
-"numero": "2179",
+"logradouro": "AVENIDA JUCA SAMPAIO",
+"numero": "2179-A",
 "bairro": "FEITOSA",
-"cep": "57080000"
+"cep": "57042530"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1716,10 +1717,10 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "FERNANDES LIMA",
+"logradouro": "AVENIDA FERNANDES LIMA",
 "numero": "3500",
 "bairro": "GRUTA DE LOURDES",
-"cep": "57052400"
+"cep": "57052403"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1733,13 +1734,13 @@
 {
 "cnpj": "41159252000145",
 "cnes": null,
-"nome": "F TORRES VIEIRA ME",
+"nome": "MEGA FARMA PLUS",
 "razao_social": "F TORRES VIEIRA ME",
 "endereco": {
-"logradouro": "DR. ANDRE PAPINI GOIS QD. A 5",
-"numero": null,
+"logradouro": "AVENIDA DR. ANDRE PAPINI GOIS QD. A 5",
+"numero": "340",
 "bairro": "CIDADE UNIVERSITARIA",
-"cep": null
+"cep": "57073340"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1753,13 +1754,13 @@
 {
 "cnpj": "15494462000180",
 "cnes": null,
-"nome": "FARMACIA SANTA ANITA LTDA - ME",
+"nome": "FARMACIA DO TRABALHADOR DE ALAGOAS",
 "razao_social": "FARMACIA SANTA ANITA LTDA - ME",
 "endereco": {
-"logradouro": "FERNANDES LIMA",
-"numero": null,
+"logradouro": "AVENIDA FERNANDES LIMA",
+"numero": "2654",
 "bairro": "FAROL",
-"cep": null
+"cep": "57055000"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1773,13 +1774,13 @@
 {
 "cnpj": "15511317000160",
 "cnes": null,
-"nome": "FARMACIA SAO SEVERINO LTDA - ME",
+"nome": "FARMACIA DO TRABALHADOR DE ALAGOAS",
 "razao_social": "FARMACIA SAO SEVERINO LTDA - ME",
 "endereco": {
-"logradouro": "DOUTOR DURVAL DE GOIS MONTEIRO",
-"numero": null,
+"logradouro": "AVENIDA DR DURVAL DE GOES MONTEIRO",
+"numero": "4012",
 "bairro": "SANTA LUCIA",
-"cep": null
+"cep": "57082160"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1793,13 +1794,13 @@
 {
 "cnpj": "04444703000160",
 "cnes": null,
-"nome": "H. PORTO VIEIRA LTDA-ME",
+"nome": "MEGA FARMA",
 "razao_social": "H. PORTO VIEIRA LTDA-ME",
 "endereco": {
-"logradouro": "PRATAGY",
-"numero": null,
+"logradouro": "AVENIDA PRATAGY, QD B-53",
+"numero": "540",
 "bairro": "BENEDITO BENTES",
-"cep": null
+"cep": "57084080"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1813,13 +1814,13 @@
 {
 "cnpj": "41182072000265",
 "cnes": null,
-"nome": "MAX DROGARIA LTDA ME",
+"nome": "MAX DROGARIA",
 "razao_social": "MAX DROGARIA LTDA ME",
 "endereco": {
-"logradouro": "SANTA ROSA",
-"numero": null,
+"logradouro": "RUA SANTA ROSA",
+"numero": "01",
 "bairro": "VERGEL DO LAGO",
-"cep": null
+"cep": "57015180"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1833,13 +1834,13 @@
 {
 "cnpj": "07294449000159",
 "cnes": null,
-"nome": "PATRICIA DA SILVA CARVALHO SENNA - ME",
+"nome": "FARMACIA SAGRADA FAMILIA",
 "razao_social": "PATRICIA DA SILVA CARVALHO SENNA - ME",
 "endereco": {
-"logradouro": "JORNALISTA JOSE NILTON DE OLIVEIRA CORRE",
-"numero": null,
+"logradouro": "RUA JORNALISTA NILTON OLIVEIRA",
+"numero": "2528",
 "bairro": "JACARECICA",
-"cep": null
+"cep": "57038680"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1853,13 +1854,13 @@
 {
 "cnpj": "12057505000171",
 "cnes": null,
-"nome": "R J INACIO COMERCIO LTDA - ME",
+"nome": "FARMACIA DO TRABALHADOR DE ALAGOAS",
 "razao_social": "R J INACIO COMERCIO LTDA - ME",
 "endereco": {
-"logradouro": "MOREIRA LIMA",
-"numero": null,
+"logradouro": "AVENIDA MOREIRA LIMA",
+"numero": "150",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57020220"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1876,10 +1877,10 @@
 "nome": "RAIA DROGASIL",
 "razao_social": "RAIA DROGASIL S/A",
 "endereco": {
-"logradouro": "FERNANDES LIMA",
+"logradouro": "AVENIDA FERNANDES LIMA",
 "numero": "452",
 "bairro": "FAROL",
-"cep": "57080000"
+"cep": "57050000"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1893,13 +1894,13 @@
 {
 "cnpj": "13265300000144",
 "cnes": null,
-"nome": "RENAN OLIVEIRA DE ARAUJO - ME",
+"nome": "RENAN FARMA",
 "razao_social": "RENAN OLIVEIRA DE ARAUJO - ME",
 "endereco": {
-"logradouro": "MINISTRO MARIO ANDREAZZA",
-"numero": null,
+"logradouro": "AVENIDA MINISTRO MARIO ANDREAZZA",
+"numero": "100",
 "bairro": "VERGEL DO LAGO",
-"cep": null
+"cep": "57015880"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1913,13 +1914,13 @@
 {
 "cnpj": "02961743000153",
 "cnes": null,
-"nome": "S M SOUTO LOU FARMACIA - ME",
+"nome": "DROGARIA DOS POBRES",
 "razao_social": "S M SOUTO LOU FARMACIA - ME",
 "endereco": {
-"logradouro": "COMENDADOR LEAO",
-"numero": null,
+"logradouro": "AVENIDA DOUTOR FABIO WANDERLEY",
+"numero": "25",
 "bairro": "POCO",
-"cep": null
+"cep": "57072760"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1933,13 +1934,13 @@
 {
 "cnpj": "40920803000189",
 "cnes": null,
-"nome": "VIEIRA E SILVA FARMACIA LTDA - ME",
+"nome": "DROGARIA FREI DAMIAO",
 "razao_social": "VIEIRA E SILVA FARMACIA LTDA - ME",
 "endereco": {
-"logradouro": "SANTO ANTONIO",
-"numero": null,
+"logradouro": "RUA SANTO ANTONIO",
+"numero": "846",
 "bairro": "PONTA GROSSA",
-"cep": null
+"cep": "57014680"
 },
 "codigo_municipio": "270430",
 "municipio": "Maceió",
@@ -1953,13 +1954,13 @@
 {
 "cnpj": "20729815000113",
 "cnes": null,
-"nome": "FARMACIA LABOFARMA LTDA - ME",
+"nome": "LABOFARMA",
 "razao_social": "FARMACIA LABOFARMA LTDA - ME",
 "endereco": {
-"logradouro": "R WALFRIDO JERONIMO DA ROCHA",
-"numero": null,
+"logradouro": "RUA R WALFRIDO JERONIMO DA ROCHA",
+"numero": "87",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57580000"
 },
 "codigo_municipio": "270440",
 "municipio": "Major Isidoro",
@@ -1973,13 +1974,13 @@
 {
 "cnpj": "47502244000136",
 "cnes": null,
-"nome": "J I DA S BARBOSA MEDICAMENTOS",
+"nome": "FARMACIA SANTA TEREZINHA",
 "razao_social": "J I DA S BARBOSA MEDICAMENTOS",
 "endereco": {
-"logradouro": "JOSE DELFINO FILHO",
-"numero": null,
+"logradouro": "TRAVESSA JOSE DELFINO FILHO",
+"numero": "59",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57730000"
 },
 "codigo_municipio": "270490",
 "municipio": "Mar Vermelho",
@@ -1993,13 +1994,13 @@
 {
 "cnpj": "03924692000152",
 "cnes": null,
-"nome": "ROZILEIDE MATIAS DE AZEVEDO - ME",
+"nome": "REDE FARMA",
 "razao_social": "ROZILEIDE MATIAS DE AZEVEDO - ME",
 "endereco": {
-"logradouro": "SAGRADA FAMILIA",
-"numero": null,
+"logradouro": "RUA SAGRADA FAMILIA",
+"numero": "04",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57520000"
 },
 "codigo_municipio": "270460",
 "municipio": "Maravilha",
@@ -2013,13 +2014,13 @@
 {
 "cnpj": "08610677000153",
 "cnes": null,
-"nome": "JOSE ARCANJO DA SILVA NETO - ME",
+"nome": "DROGARIA NORTELUS",
 "razao_social": "JOSE ARCANJO DA SILVA NETO - ME",
 "endereco": {
-"logradouro": "RUA BARAO DE ALAGOAS",
-"numero": null,
+"logradouro": "RUA RUA BARAO DE ALAGOAS",
+"numero": "04",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57160000"
 },
 "codigo_municipio": "270470",
 "municipio": "Marechal Deodoro",
@@ -2036,10 +2037,10 @@
 "nome": "MARIA TEREZA BARROS DE ARAUJO - ME",
 "razao_social": "MARIA TEREZA BARROS DE ARAUJO - ME",
 "endereco": {
-"logradouro": "DOS CAJUEIROS",
-"numero": null,
+"logradouro": "RUA DOS CAJUEIROS",
+"numero": "65",
 "bairro": "TAPERAGUA",
-"cep": null
+"cep": "57160000"
 },
 "codigo_municipio": "270470",
 "municipio": "Marechal Deodoro",
@@ -2053,13 +2054,13 @@
 {
 "cnpj": "35565548000163",
 "cnes": null,
-"nome": "JOSE CARLOS FERNANDES DOS SANTOS",
+"nome": "POUPEMAIS FARMA",
 "razao_social": "JOSE CARLOS FERNANDES DOS SANTOS",
 "endereco": {
-"logradouro": "COMERCIO",
-"numero": null,
+"logradouro": "RUA COMERCIO",
+"numero": "29",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57670000"
 },
 "codigo_municipio": "270480",
 "municipio": "Maribondo",
@@ -2076,10 +2077,10 @@
 "nome": "FARMACIA FARIAS LTDA",
 "razao_social": "FARMACIA FARIAS LTDA",
 "endereco": {
-"logradouro": "UBALDO MALTA",
-"numero": null,
+"logradouro": "RUA UBALDO MALTA",
+"numero": "84",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57540000"
 },
 "codigo_municipio": "270500",
 "municipio": "Mata Grande",
@@ -2093,13 +2094,13 @@
 {
 "cnpj": "07978167000170",
 "cnes": null,
-"nome": "P. R. FERNANDES DE BARROS - ME",
+"nome": "DROGARIA SAO JOSE",
 "razao_social": "P. R. FERNANDES DE BARROS - ME",
 "endereco": {
-"logradouro": "FLORIANO PEIXOTO",
-"numero": null,
+"logradouro": "RUA FLORIANO PEIXOTO",
+"numero": "268",
 "bairro": "CONJ. TEOTONIO VILELA",
-"cep": null
+"cep": "57990000"
 },
 "codigo_municipio": "270520",
 "municipio": "Messias",
@@ -2113,13 +2114,13 @@
 {
 "cnpj": "41701912000178",
 "cnes": null,
-"nome": "BELLA FARMA FARMACIA LTDA.",
+"nome": "BELLA FARMA",
 "razao_social": "BELLA FARMA FARMACIA LTDA.",
 "endereco": {
-"logradouro": "BELARMINO VIEIRA BARROS",
-"numero": null,
+"logradouro": "RUA BELARMINO VIEIRA BARROS",
+"numero": "204",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57615000"
 },
 "codigo_municipio": "270530",
 "municipio": "Minador do Negrão",
@@ -2133,13 +2134,13 @@
 {
 "cnpj": "24072984000184",
 "cnes": null,
-"nome": "FARMACIA AGRAMED LTDA",
+"nome": "FARMACIA AGRA MED",
 "razao_social": "FARMACIA AGRAMED LTDA",
 "endereco": {
-"logradouro": "ANTONIO PRUDENTE DE MELO",
-"numero": null,
+"logradouro": "RUA ANTONIO PRUDENTE DE MELO",
+"numero": "51",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57440000"
 },
 "codigo_municipio": "270540",
 "municipio": "Monteirópolis",
@@ -2153,13 +2154,13 @@
 {
 "cnpj": "20708908000161",
 "cnes": null,
-"nome": "TORRES E BEZERRA COMERCIO DE MEDICAMENTOS LTDA",
+"nome": "DROGARIA TORRES",
 "razao_social": "TORRES E BEZERRA COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
-"logradouro": "DO COMERCIO",
-"numero": null,
+"logradouro": "RUA DO COMERCIO",
+"numero": "73",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57440000"
 },
 "codigo_municipio": "270540",
 "municipio": "Monteirópolis",
@@ -2176,8 +2177,8 @@
 "nome": "GORETEFARMA",
 "razao_social": "M G PINO E CIA LTDA ME",
 "endereco": {
-"logradouro": "FIRMINO DE QUEIROZ",
-"numero": "88",
+"logradouro": "RUA FIRMINO DE QUEIROZ",
+"numero": "88-A",
 "bairro": "CENTRO",
 "cep": "57820000"
 },
@@ -2193,13 +2194,13 @@
 {
 "cnpj": "00284937000136",
 "cnes": null,
-"nome": "ELIZANGELA SILVA",
+"nome": "FARMACIA POPULAR",
 "razao_social": "ELIZANGELA SILVA",
 "endereco": {
-"logradouro": "JOAO FRANCISCO SOARES",
-"numero": null,
+"logradouro": "RUA JOAO FRANCISCO SOARES",
+"numero": "22",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57470000"
 },
 "codigo_municipio": "270580",
 "municipio": "Olho d'Água do Casado",
@@ -2213,13 +2214,13 @@
 {
 "cnpj": "06198619002859",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "VIEIRA DE BRITO",
-"numero": null,
+"logradouro": "AVENIDA VIEIRA DE BRITO",
+"numero": "55",
 "bairro": "SAO CRISTOVAO",
-"cep": null
+"cep": "57601100"
 },
 "codigo_municipio": "270630",
 "municipio": "Palmeira dos Índios",
@@ -2233,13 +2234,13 @@
 {
 "cnpj": "08529011000256",
 "cnes": null,
-"nome": "EDLA ALESSANDRA BORGES MACHADO DE OLIVEIRA",
+"nome": "FARMACIA FARIAS",
 "razao_social": "EDLA ALESSANDRA BORGES MACHADO DE OLIVEIRA",
 "endereco": {
-"logradouro": "CICERO TEIXEIRA",
+"logradouro": "RUA CICERO TEIXEIRA",
 "numero": null,
 "bairro": "CENTRO",
-"cep": null
+"cep": "57475000"
 },
 "codigo_municipio": "270642",
 "municipio": "Pariconha",
@@ -2253,13 +2254,13 @@
 {
 "cnpj": "32265283000351",
 "cnes": null,
-"nome": "M C GALDINO ANJOS - FARMACIA",
+"nome": "FARMAPAZ",
 "razao_social": "M C GALDINO ANJOS - FARMACIA",
 "endereco": {
-"logradouro": "CICERO TEIXEIRA LIMA",
-"numero": null,
+"logradouro": "RUA CICERO TEIXEIRA LIMA",
+"numero": "8",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57475000"
 },
 "codigo_municipio": "270642",
 "municipio": "Pariconha",
@@ -2276,8 +2277,8 @@
 "nome": "FARMACIA DO TRABALHADOR PRECO BAIXO",
 "razao_social": "A M DE ESPINDOLA NETO - ME",
 "endereco": {
-"logradouro": "NOVA",
-"numero": "122",
+"logradouro": "RUA NOVA",
+"numero": "222",
 "bairro": "CENTRO",
 "cep": "57935000"
 },
@@ -2293,13 +2294,13 @@
 {
 "cnpj": "06198619006099",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "WANDERLEY",
-"numero": null,
+"logradouro": "AVENIDA WANDERLEY",
+"numero": "559",
 "bairro": "SANTA LUCIA",
-"cep": null
+"cep": "57200000"
 },
 "codigo_municipio": "270670",
 "municipio": "Penedo",
@@ -2313,13 +2314,13 @@
 {
 "cnpj": "00284937000306",
 "cnes": null,
-"nome": "ELIZANGELA SILVA",
+"nome": "FARMACIA POPULAR",
 "razao_social": "ELIZANGELA SILVA",
 "endereco": {
-"logradouro": "DELMIRO GOUVEIA",
-"numero": null,
+"logradouro": "AVENIDA DELMIRO GOUVEIA",
+"numero": "85",
 "bairro": "NOSSA SENHORA DA SAUDE",
-"cep": null
+"cep": "57460000"
 },
 "codigo_municipio": "270710",
 "municipio": "Piranhas",
@@ -2336,10 +2337,10 @@
 "nome": "J A S RODRIGUES - ME",
 "razao_social": "J A S RODRIGUES - ME",
 "endereco": {
-"logradouro": "BERNARDO SOARES DE SOUZA",
-"numero": null,
+"logradouro": "AVENIDA BERNARDO SOARES DE SOUZA",
+"numero": "70",
 "bairro": "DISTRITO PIAU",
-"cep": null
+"cep": "57460000"
 },
 "codigo_municipio": "270710",
 "municipio": "Piranhas",
@@ -2353,13 +2354,13 @@
 {
 "cnpj": "31970231000151",
 "cnes": null,
-"nome": "LUZIANE MAYRA V DA SILVA FARMACIA LTDA",
+"nome": "FARMACIA POPULAR",
 "razao_social": "LUZIANE MAYRA V DA SILVA FARMACIA LTDA",
 "endereco": {
-"logradouro": "BERNARDO SOARES DE SOUZA",
-"numero": null,
+"logradouro": "AVENIDA MARIA BERNARDO SOARES SOUZA",
+"numero": "38",
 "bairro": "DISTRITO PIAU",
-"cep": null
+"cep": "57467080"
 },
 "codigo_municipio": "270710",
 "municipio": "Piranhas",
@@ -2373,13 +2374,13 @@
 {
 "cnpj": "09318207000345",
 "cnes": null,
-"nome": "FARMACIA PEREIRA LTDA",
+"nome": "FARMACIA DO TRABALHADOR REGIONAL",
 "razao_social": "FARMACIA PEREIRA LTDA",
 "endereco": {
-"logradouro": "DR FERNANDES LIMA",
-"numero": null,
+"logradouro": "RUA DR FERNANDES LIMA",
+"numero": "19",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57900970"
 },
 "codigo_municipio": "270730",
 "municipio": "Porto Calvo",
@@ -2396,7 +2397,7 @@
 "nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "PRESIDENTE GETULIO VARGAS",
+"logradouro": "AVENIDA PRESIDENTE GETULIO VARGAS",
 "numero": "39",
 "bairro": "CENTRO",
 "cep": "57100000"
@@ -2413,13 +2414,13 @@
 {
 "cnpj": "15218814000174",
 "cnes": null,
-"nome": "V B G DE OMENA FARMACIA - ME",
+"nome": "FARMACIA AEROMED",
 "razao_social": "V B G DE OMENA FARMACIA - ME",
 "endereco": {
-"logradouro": "BR 104, KM 91",
-"numero": null,
+"logradouro": "RODOVIA BR 104, KM 91",
+"numero": "50",
 "bairro": "PREF ANTONIO L DE SOUZA",
-"cep": null
+"cep": "57100000"
 },
 "codigo_municipio": "270770",
 "municipio": "Rio Largo",
@@ -2433,13 +2434,13 @@
 {
 "cnpj": "34832464000186",
 "cnes": null,
-"nome": "SANTOS CAVALCANTE FARMACIA LTDA",
+"nome": "FARMACIA SAO JORGE",
 "razao_social": "SANTOS CAVALCANTE FARMACIA LTDA",
 "endereco": {
-"logradouro": "DO LIVRAMENTO",
-"numero": null,
+"logradouro": "RUA DO LIVRAMENTO",
+"numero": "151",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57257000"
 },
 "codigo_municipio": "270780",
 "municipio": "Roteiro",
@@ -2456,8 +2457,8 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "CORONEL LUCENA MARANHAO",
-"numero": "0220",
+"logradouro": "RUA CORONEL LUCENA MARANHAO",
+"numero": "220",
 "bairro": "MONUMENTO",
 "cep": "57500000"
 },
@@ -2473,13 +2474,13 @@
 {
 "cnpj": "17341782000125",
 "cnes": null,
-"nome": "JONAS ALMEIDA DA SILVA LTDA",
+"nome": "FARMACIA MARIA HELENA",
 "razao_social": "JONAS ALMEIDA DA SILVA LTDA",
 "endereco": {
-"logradouro": "SILVESTRE PERICLES",
-"numero": null,
+"logradouro": "RUA SILVESTRE PERICLES",
+"numero": "22",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57840000"
 },
 "codigo_municipio": "270810",
 "municipio": "Santana do Mundaú",
@@ -2493,13 +2494,13 @@
 {
 "cnpj": "24409261000209",
 "cnes": null,
-"nome": "GERALDO MESSIAS DE OLIVEIRA FILHO LTDA",
+"nome": "FARMACIA DO TRABALHADOR BRASIL",
 "razao_social": "GERALDO MESSIAS DE OLIVEIRA FILHO LTDA",
 "endereco": {
-"logradouro": "DO COMERCIO",
-"numero": null,
+"logradouro": "AVENIDA DO COMERCIO",
+"numero": "89",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57515000"
 },
 "codigo_municipio": "270895",
 "municipio": "Senador Rui Palmeira",
@@ -2513,13 +2514,13 @@
 {
 "cnpj": "03653693000100",
 "cnes": null,
-"nome": "JOSE GEORGE P. CORREIA - ME",
+"nome": "AUGUSTO FARMA",
 "razao_social": "JOSE GEORGE P. CORREIA - ME",
 "endereco": {
-"logradouro": "DOUTOR OSCA GORDILHO",
-"numero": null,
+"logradouro": "RUA DOUTOR OSCA GORDILHO",
+"numero": "172",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57860000"
 },
 "codigo_municipio": "270830",
 "municipio": "São José da Laje",
@@ -2533,13 +2534,13 @@
 {
 "cnpj": "09268552000150",
 "cnes": null,
-"nome": "J. F. DO NASCIMENTO ROCHA - ME",
+"nome": "REDE FARMA",
 "razao_social": "J. F. DO NASCIMENTO ROCHA - ME",
 "endereco": {
-"logradouro": "ELISIO MAIA",
-"numero": null,
+"logradouro": "AVENIDA ELISIO MAIA",
+"numero": "183",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57445000"
 },
 "codigo_municipio": "270840",
 "municipio": "São José da Tapera",
@@ -2553,13 +2554,13 @@
 {
 "cnpj": "06198619003405",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "CORONEL MIGUEL CESAR TEIXEIRA",
-"numero": null,
+"logradouro": "PRAÇA CORONEL MIGUEL CESAR TEIXEIRA",
+"numero": "04",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57240007"
 },
 "codigo_municipio": "270860",
 "municipio": "São Miguel dos Campos",
@@ -2573,13 +2574,13 @@
 {
 "cnpj": "11305013000195",
 "cnes": null,
-"nome": "TENORIO & CAVALCANTE LTDA - ME",
+"nome": "FARMACIA SAO JORGE",
 "razao_social": "TENORIO & CAVALCANTE LTDA - ME",
 "endereco": {
-"logradouro": "DOUTOR ROMULO DE ALMEIDA",
-"numero": null,
+"logradouro": "RUA DOUTOR ROMULO DE ALMEIDA",
+"numero": "99",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57240022"
 },
 "codigo_municipio": "270860",
 "municipio": "São Miguel dos Campos",
@@ -2593,13 +2594,13 @@
 {
 "cnpj": "09207511000153",
 "cnes": null,
-"nome": "A F DOS SANTOS FARMACIA - ME",
+"nome": "POUPEMAIS FARMA",
 "razao_social": "A F DOS SANTOS FARMACIA - ME",
 "endereco": {
-"logradouro": "ANTONIO CUSTODIO PORTO",
-"numero": null,
+"logradouro": "AVENIDA ANTONIO CUSTODIO PORTO",
+"numero": "471",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57275000"
 },
 "codigo_municipio": "270880",
 "municipio": "São Sebastião",
@@ -2613,13 +2614,13 @@
 {
 "cnpj": "23028312000109",
 "cnes": null,
-"nome": "DROGARIA POPULAR DO BRASIL LTDA",
+"nome": "DROGARIA POPULAR DO BRASIL",
 "razao_social": "DROGARIA POPULAR DO BRASIL LTDA",
 "endereco": {
-"logradouro": "PADRE CICERO",
-"numero": null,
+"logradouro": "PRACA PADRE CICERO",
+"numero": "83",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57640970"
 },
 "codigo_municipio": "270910",
 "municipio": "Taquarana",
@@ -2633,13 +2634,13 @@
 {
 "cnpj": "07659446000171",
 "cnes": null,
-"nome": "DROGARIA PAPS LTDA",
+"nome": "PAPS",
 "razao_social": "DROGARIA PAPS LTDA",
 "endereco": {
-"logradouro": "TEOFILO PEREIRA",
-"numero": null,
+"logradouro": "RUA TEOFILO PEREIRA",
+"numero": "306",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57265045"
 },
 "codigo_municipio": "270915",
 "municipio": "Teotônio Vilela",
@@ -2653,13 +2654,13 @@
 {
 "cnpj": "02992593000145",
 "cnes": null,
-"nome": "W S DROGARIA SANTA LUZIA LTDA",
+"nome": "DROGARIA SANTA LUZIA",
 "razao_social": "W S DROGARIA SANTA LUZIA LTDA",
 "endereco": {
-"logradouro": "MARIA JEANE MOREIRA SAMPAIO",
-"numero": null,
+"logradouro": "AVENIDA MARIA JEANE MOREIRA SAMPAIO",
+"numero": "321",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57265120"
 },
 "codigo_municipio": "270915",
 "municipio": "Teotônio Vilela",
@@ -2673,13 +2674,13 @@
 {
 "cnpj": "51144787000104",
 "cnes": null,
-"nome": "MELO MEDEIROS DROGARIA LTDA",
+"nome": "DROGARIA PAGUE MENOS",
 "razao_social": "MELO MEDEIROS DROGARIA LTDA",
 "endereco": {
-"logradouro": "CORONEL NETO",
-"numero": null,
+"logradouro": "PRACA CORONEL NETO",
+"numero": "80",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57370000"
 },
 "codigo_municipio": "270920",
 "municipio": "Traipu",
@@ -2693,13 +2694,13 @@
 {
 "cnpj": "46765515000183",
 "cnes": null,
-"nome": "PHARMA K COMERCIO DE MEDICAMENTOS LTDA",
+"nome": "PHARMA K",
 "razao_social": "PHARMA K COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
-"logradouro": "DISTRITO MUMBAÇA",
+"logradouro": "SITIO DISTRITO MUMBAÇA",
 "numero": null,
 "bairro": "ZONA RURAL",
-"cep": null
+"cep": "57370000"
 },
 "codigo_municipio": "270920",
 "municipio": "Traipu",
@@ -2713,13 +2714,13 @@
 {
 "cnpj": "13229812000155",
 "cnes": null,
-"nome": "DROGARIA CENTRAL LTDA",
+"nome": "DROGARIAS SAMPAIO",
 "razao_social": "DROGARIA CENTRAL LTDA",
 "endereco": {
-"logradouro": "MAL DEODORO DA FONSECA",
-"numero": null,
+"logradouro": "RUA MAL DEODORO DA FONSECA",
+"numero": "59",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57800000"
 },
 "codigo_municipio": "270930",
 "municipio": "União dos Palmares",
@@ -2733,13 +2734,13 @@
 {
 "cnpj": "06198619005602",
 "cnes": null,
-"nome": "DROGATIM DROGARIAS LTDA",
+"nome": "FARMACIA PERMANENTE",
 "razao_social": "DROGATIM DROGARIAS LTDA",
 "endereco": {
-"logradouro": "MONSENHOR CLOVIS DUARTE DE BARROS",
-"numero": null,
+"logradouro": "AVENIDA MONSENHOR CLOVIS DUARTE DE BARROS",
+"numero": "210",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57800970"
 },
 "codigo_municipio": "270930",
 "municipio": "União dos Palmares",
@@ -2753,13 +2754,13 @@
 {
 "cnpj": "08529011000175",
 "cnes": null,
-"nome": "EDLA ALESSANDRA BORGES MACHADO DE OLIVEIRA - ME",
+"nome": "FARMACIA FARIAS",
 "razao_social": "EDLA ALESSANDRA BORGES MACHADO DE OLIVEIRA - ME",
 "endereco": {
-"logradouro": "SAO BENTO",
-"numero": null,
+"logradouro": "RUA SAO BENTO",
+"numero": "19",
 "bairro": "CENTRO",
-"cep": null
+"cep": "57490000"
 },
 "codigo_municipio": "270010",
 "municipio": "Água Branca",

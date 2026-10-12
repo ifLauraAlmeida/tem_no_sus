@@ -6,20 +6,21 @@
 "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
 "data_referencia": "2026-10-08",
 "data_obtencao": "2026-10-12",
-"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+"nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
 },
 "uf": "AC",
 "estabelecimentos": [
 {
 "cnpj": "06626253045686",
 "cnes": null,
-"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
+"nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "DOUTOR MANOEL MARINHO MONTE",
-"numero": null,
+"logradouro": "AVENIDA DOUTOR MANOEL MARINHO MONTE",
+"numero": "801",
 "bairro": "BOTEQUINS",
-"cep": null
+"cep": "69932000"
 },
 "codigo_municipio": "120010",
 "municipio": "Brasiléia",
@@ -36,7 +37,7 @@
 "nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "CORONEL MANCIO LIMA",
+"logradouro": "AVENIDA CORONEL MANCIO LIMA",
 "numero": "421",
 "bairro": "BAIXA",
 "cep": "69980000"
@@ -53,13 +54,13 @@
 {
 "cnpj": "06011700000168",
 "cnes": null,
-"nome": "H. R. LIMA",
+"nome": "DROGARIA CRUZEIRO",
 "razao_social": "H. R. LIMA",
 "endereco": {
-"logradouro": "CEL. MANCIO LIMA",
-"numero": null,
+"logradouro": "AVENIDA CEL. MANCIO LIMA",
+"numero": "169",
 "bairro": "CENTRO",
-"cep": null
+"cep": "69980000"
 },
 "codigo_municipio": "120020",
 "municipio": "Cruzeiro do Sul",
@@ -73,13 +74,13 @@
 {
 "cnpj": "04509006000140",
 "cnes": null,
-"nome": "SERGIO CARLOS VIEIRA - EPP",
+"nome": "DROGARIA E COMERCIAL CENTRAL",
 "razao_social": "SERGIO CARLOS VIEIRA - EPP",
 "endereco": {
-"logradouro": "EPITACIO PESSOA",
-"numero": null,
+"logradouro": "AVENIDA EPITACIO PESSOA",
+"numero": "476",
 "bairro": "CENTRO",
-"cep": null
+"cep": "69928000"
 },
 "codigo_municipio": "120038",
 "municipio": "Plácido de Castro",
@@ -96,10 +97,10 @@
 "nome": "PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "NACOES UNIDAS",
+"logradouro": "AVENIDA NACOES UNIDAS",
 "numero": "2890",
 "bairro": "ESTACAO EXPERIMENTAL",
-"cep": "69900715"
+"cep": "69912600"
 },
 "codigo_municipio": "120040",
 "municipio": "Rio Branco",
@@ -116,7 +117,7 @@
 "nome": "FARMACIA DO CONSUMIDOR",
 "razao_social": "J CRUZ LTDA - EPP",
 "endereco": {
-"logradouro": "6 DE AGOSTO",
+"logradouro": "RUA 06 DE AGOSTO",
 "numero": "209",
 "bairro": "SEIS DE AGOSTO",
 "cep": "69905629"

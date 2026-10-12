@@ -6,17 +6,18 @@
 "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
 "data_referencia": "2026-10-08",
 "data_obtencao": "2026-10-12",
-"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+"nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
 },
 "uf": "AP",
 "estabelecimentos": [
 {
 "cnpj": "18393870000133",
 "cnes": "8314438",
-"nome": "REDE FARMACIA POPULAR FARMACIA DRUGSTORE",
+"nome": "REDE FARMACIA POPULAR - FARMACIA DRUGSTORE",
 "razao_social": "DROGAO POPULAR LTDA",
 "endereco": {
-"logradouro": "GUANABARA",
+"logradouro": "RUA GUANABARA",
 "numero": "768",
 "bairro": "PACOVAL",
 "cep": "68908360"
@@ -36,7 +37,7 @@
 "nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "ELIEZER LEVY",
+"logradouro": "RUA ELIZER LEVY",
 "numero": "1902",
 "bairro": "CENTRAL",
 "cep": "68900083"
@@ -56,7 +57,7 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "TIRADENTES",
+"logradouro": "RUA TIRADENTES",
 "numero": "844",
 "bairro": "CENTRAL",
 "cep": "68900098"
@@ -76,7 +77,7 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "GUANABARA",
+"logradouro": "RUA GUANABARA",
 "numero": "126",
 "bairro": "PACOVAL",
 "cep": "68908360"
@@ -93,10 +94,10 @@
 {
 "cnpj": "14440437000150",
 "cnes": "8314411",
-"nome": "REDE FARMACIA POPULAR FARMACIA DRUGSTORE",
+"nome": "REDE FARMACIA POPULAR - FARMACIA DRUGSTORE",
 "razao_social": "FARMACIA DO POVO LTDA",
 "endereco": {
-"logradouro": "CICERO MARQUES DE SOUZA",
+"logradouro": "RUA CICERO MARQUES DE SOUZA",
 "numero": "2474",
 "bairro": "NOVO HORIZONTE",
 "cep": "68909803"
@@ -116,7 +117,7 @@
 "nome": "REDE FARMACIA POPULAR",
 "razao_social": "FARMACIA PRECO POPULAR LTDA - EPP",
 "endereco": {
-"logradouro": "LEOPOLDO MACHADO",
+"logradouro": "RUA LEOPOLDO MACHADO",
 "numero": "1991",
 "bairro": "CENTRAL",
 "cep": "68900067"
@@ -133,10 +134,10 @@
 {
 "cnpj": "11242801000180",
 "cnes": "8314403",
-"nome": "REDE FARMACIA POPULAR FARMACIA DRUGSTORE",
+"nome": "REDE FARMACIA POPULAR - FARMACIA DRUGSTORE",
 "razao_social": "VENANCIO E VENANCIO LTDA",
 "endereco": {
-"logradouro": "GENERAL RONDON",
+"logradouro": "RUA GENERAL RONDON",
 "numero": "1046",
 "bairro": "JULIAO RAMOS",
 "cep": "68908181"
@@ -153,13 +154,13 @@
 {
 "cnpj": "27284669000109",
 "cnes": null,
-"nome": "JK SUPLEMENTOS LTDA",
+"nome": "CN FARMA",
 "razao_social": "JK SUPLEMENTOS LTDA",
 "endereco": {
-"logradouro": "BR 156",
-"numero": null,
+"logradouro": "RODOVIA BR 156",
+"numero": "608",
 "bairro": "CENTRO",
-"cep": null
+"cep": "68980000"
 },
 "codigo_municipio": "160050",
 "municipio": "Oiapoque",
@@ -173,13 +174,13 @@
 {
 "cnpj": "16889181000199",
 "cnes": "0642614",
-"nome": "REDE FARMACIA POPULAR FARMACIA DRUGSTORE",
+"nome": "REDE FARMACIA POPULAR - FARMACIA DRUGSTORE",
 "razao_social": "DROGARIA ULTRA POPULAR LTDA",
 "endereco": {
-"logradouro": "PEDRO SALVADOR DINIZ",
+"logradouro": "RUA PEDRO SALVADOR DINIZ",
 "numero": "923",
 "bairro": "CENTRAL",
-"cep": "68925001"
+"cep": "68925180"
 },
 "codigo_municipio": "160060",
 "municipio": "Santana",
@@ -196,7 +197,7 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "SOUZA MAR",
+"logradouro": "RUA JOSE BRUNO DE OLIVEIRA GOMES",
 "numero": "632",
 "bairro": "COMERCIAL",
 "cep": "68925186"

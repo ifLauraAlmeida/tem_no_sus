@@ -6,20 +6,21 @@
 "url": "https://infoms.saude.gov.br/extensions/SEIDIGI_DEMAS_PFPB_ENDERECOS/index.html",
 "data_referencia": "2026-10-08",
 "data_obtencao": "2026-10-12",
-"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ"
+"coordenadas": "CNES, base completa BASE_DE_DADOS_CNES_202608.ZIP, cruzada pelo CNPJ",
+"nome_fantasia_e_endereco": "Receita Federal, dados abertos do CNPJ (2026-09), cruzados pelo CNPJ"
 },
 "uf": "AM",
 "estabelecimentos": [
 {
 "cnpj": "53039908000175",
 "cnes": null,
-"nome": "H. L. XAVIER",
+"nome": "PROSPERAR FARMA",
 "razao_social": "H. L. XAVIER",
 "endereco": {
-"logradouro": "GETULIO VARGAS",
-"numero": null,
+"logradouro": "AVENIDA GETULIO VARGAS",
+"numero": "01",
 "bairro": "NOSSA SENHORA DE FATIMA",
-"cep": null
+"cep": "69880000"
 },
 "codigo_municipio": "130140",
 "municipio": "Eirunepé",
@@ -33,13 +34,13 @@
 {
 "cnpj": "41900984000144",
 "cnes": null,
-"nome": "RAYSA LOPES FELICIANO",
+"nome": "FARMA MAIS",
 "razao_social": "RAYSA LOPES FELICIANO",
 "endereco": {
-"logradouro": "ESTRADA MARIANO",
+"logradouro": "RUA ESTRADA MARIANO",
 "numero": null,
 "bairro": "SANTA RITA",
-"cep": null
+"cep": "69870000"
 },
 "codigo_municipio": "130150",
 "municipio": "Envira",
@@ -56,7 +57,7 @@
 "nome": "DROGARIA DO TRABALHADOR",
 "razao_social": "L. LIMA DA SILVA LTDA",
 "endereco": {
-"logradouro": "RIO MADEIRA",
+"logradouro": "RUA RIO MADEIRA",
 "numero": "2043",
 "bairro": "SAO PEDRO",
 "cep": "69800000"
@@ -73,13 +74,13 @@
 {
 "cnpj": "10554536000102",
 "cnes": null,
-"nome": "L. P. V. DA SILVA",
+"nome": "FARMACIA AURORA",
 "razao_social": "L. P. V. DA SILVA",
 "endereco": {
-"logradouro": "COSTA E SILVA",
-"numero": null,
+"logradouro": "RUA COSTA E SILVA",
+"numero": "110",
 "bairro": "CENTRO",
-"cep": null
+"cep": "69660000"
 },
 "codigo_municipio": "130230",
 "municipio": "Jutaí",
@@ -93,13 +94,13 @@
 {
 "cnpj": "09648661000100",
 "cnes": null,
-"nome": "FRANCINETE SILVA DE SOUZA - ME",
+"nome": "DROGARIA AGAPE",
 "razao_social": "FRANCINETE SILVA DE SOUZA - ME",
 "endereco": {
-"logradouro": "CEL. LUIZ GOMES",
-"numero": null,
+"logradouro": "AVENIDA CEL. LUIZ GOMES",
+"numero": "356",
 "bairro": "CENTRO",
-"cep": null
+"cep": "69830000"
 },
 "codigo_municipio": "130240",
 "municipio": "Lábrea",
@@ -113,13 +114,13 @@
 {
 "cnpj": "06626253044108",
 "cnes": "2886812",
-"nome": "EMPREENDIMENTOS PAGUE MENOS S A",
+"nome": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "PEDRO RATTES",
+"logradouro": "BOULEVARD PEDRO RATTES",
 "numero": "693",
 "bairro": "CENTRO",
-"cep": "69400030"
+"cep": "69400296"
 },
 "codigo_municipio": "130250",
 "municipio": "Manacapuru",
@@ -136,10 +137,10 @@
 "nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S.A.",
 "endereco": {
-"logradouro": "JOAO VALERIO",
+"logradouro": "AVENIDA JOAO VALERIO",
 "numero": "280",
 "bairro": "NOSSA SENHORA DAS GRACAS",
-"cep": "69050010"
+"cep": "69053140"
 },
 "codigo_municipio": "130260",
 "municipio": "Manaus",
@@ -156,10 +157,10 @@
 "nome": "FARMACIAS PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "AUTAZ MIRIM",
-"numero": "5981",
+"logradouro": "AVENIDA AUTAZ MIRIM",
+"numero": "5881",
 "bairro": "SAO JOSE OPERARIO",
-"cep": "69083000"
+"cep": "69085000"
 },
 "codigo_municipio": "130260",
 "municipio": "Manaus",
@@ -176,7 +177,7 @@
 "nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "CARVALHO LEAL",
+"logradouro": "AVENIDA CARVALHO LEAL",
 "numero": "1259",
 "bairro": "CACHOEIRINHA",
 "cep": "69065000"
@@ -196,7 +197,7 @@
 "nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "ANDRE ARAUJO",
+"logradouro": "AVENIDA ANDRE ARAUJO",
 "numero": "72",
 "bairro": "ADRIANOPOLIS",
 "cep": "69057025"
@@ -216,7 +217,7 @@
 "nome": "FARMACIA PAGUE MENOS",
 "razao_social": "EMPREENDIMENTOS PAGUE MENOS S/A",
 "endereco": {
-"logradouro": "BRASIL",
+"logradouro": "AVENIDA BRASIL",
 "numero": "2395",
 "bairro": "COMPENSA",
 "cep": "69036110"
@@ -233,13 +234,13 @@
 {
 "cnpj": "08894878000120",
 "cnes": null,
-"nome": "J S ISHIDA - ME",
+"nome": "PAJE FARMA",
 "razao_social": "J S ISHIDA - ME",
 "endereco": {
-"logradouro": "PRESIDENTE DUTRA",
-"numero": null,
+"logradouro": "AVENIDA PRESIDENTE DUTRA",
+"numero": "441",
 "bairro": "SAO RAIMUNDO",
-"cep": null
+"cep": "69027110"
 },
 "codigo_municipio": "130260",
 "municipio": "Manaus",
@@ -253,13 +254,13 @@
 {
 "cnpj": "36514912000129",
 "cnes": null,
-"nome": "NEILA MEDEIROS SALGADO",
+"nome": "FARMACIA PRECO CERTO",
 "razao_social": "NEILA MEDEIROS SALGADO",
 "endereco": {
-"logradouro": "PEDRO TINOCO",
-"numero": null,
+"logradouro": "TRAVESSA PEDRO TINOCO",
+"numero": "49",
 "bairro": "CENTRO",
-"cep": null
+"cep": "69280000"
 },
 "codigo_municipio": "130270",
 "municipio": "Manicoré",
@@ -273,13 +274,13 @@
 {
 "cnpj": "22111693000122",
 "cnes": null,
-"nome": "E DE CASTRO BRITO",
+"nome": "DROGARIA + VIDA",
 "razao_social": "E DE CASTRO BRITO",
 "endereco": {
-"logradouro": "GOVERNADOR BARAO DE SAO DOMINGOS",
-"numero": null,
+"logradouro": "RUA GOVERNADOR BARAO DE SAO DOMINGOS",
+"numero": "24",
 "bairro": "CENTRO",
-"cep": null
+"cep": "69117000"
 },
 "codigo_municipio": "130356",
 "municipio": "Rio Preto da Eva",
@@ -293,13 +294,13 @@
 {
 "cnpj": "04003658000108",
 "cnes": null,
-"nome": "C DE F M PAES - ME",
+"nome": "DROGARIA DR. LOBATO",
 "razao_social": "C DE F M PAES - ME",
 "endereco": {
-"logradouro": "CASTELO BRANCO",
-"numero": null,
+"logradouro": "AVENIDA CASTELO BRANCO",
+"numero": "140",
 "bairro": "FORTALEZA",
-"cep": null
+"cep": "69750000"
 },
 "codigo_municipio": "130380",
 "municipio": "São Gabriel da Cachoeira",
@@ -313,13 +314,13 @@
 {
 "cnpj": "31206240000170",
 "cnes": null,
-"nome": "M S L COMERCIO DE MEDICAMENTOS LTDA",
+"nome": "ELSHADAY FARMA MIX",
 "razao_social": "M S L COMERCIO DE MEDICAMENTOS LTDA",
 "endereco": {
-"logradouro": "DA AMIZADE",
+"logradouro": "AVENIDA DA AMIZADE",
 "numero": null,
 "bairro": "CENTRO",
-"cep": null
+"cep": "69640000"
 },
 "codigo_municipio": "130406",
 "municipio": "Tabatinga",
