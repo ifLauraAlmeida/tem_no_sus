@@ -3,3 +3,4 @@ pyreaddbc==2.0.4
 dbfread==2.0.7
 pytest==9.1.1
 pdfplumber==0.11.10
+websocket-client==1.9.2
