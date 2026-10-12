@@ -15,6 +15,7 @@ from pathlib import Path
 from pipeline.farmacia_popular import cadastro_receita
 from pipeline.farmacia_popular.cadastro_receita import CadastroReceita
 from pipeline.farmacia_popular.coordenadas_cnes import LocalizacaoCnes, indexar_por_cnpj, ler_tb_estabelecimento
+from pipeline.localidades.centro_cep import CentrosCep
 from pipeline.farmacia_popular.painel_credenciadas import (
     URL_PAINEL,
     FarmaciaCredenciada,
@@ -31,12 +32,30 @@ def primeiro_preenchido(*valores: str | None) -> str | None:
     return next((valor for valor in valores if valor), None)
 
 
+PRECISAO_ENDERECO = "endereco"
+PRECISAO_CENTRO_CEP = "centro_cep"
+
+
+def localizar(localizacao: LocalizacaoCnes | None, cep: str | None, centros_cep: CentrosCep) -> dict:
+    # Coordenada do CNES quando existe; senão, estimativa pelo centro do CEP (CNEFE/IBGE).
+    if localizacao and localizacao.latitude is not None:
+        return {"latitude": localizacao.latitude, "longitude": localizacao.longitude, "precisao_localizacao": PRECISAO_ENDERECO}
+    centro = centros_cep.centro(cep)
+    if centro:
+        return {"latitude": centro[0], "longitude": centro[1], "precisao_localizacao": PRECISAO_CENTRO_CEP}
+    return {"latitude": None, "longitude": None, "precisao_localizacao": None}
+
+
 def montar_farmacia(
-    farmacia: FarmaciaCredenciada, localizacao: LocalizacaoCnes | None, receita: CadastroReceita | None
+    farmacia: FarmaciaCredenciada,
+    localizacao: LocalizacaoCnes | None,
+    receita: CadastroReceita | None,
+    centros_cep: CentrosCep,
 ) -> dict:
     # O painel traz só a razão social e o logradouro sem número. O nome
     # fantasia (como a farmácia aparece na fachada e nos mapas), o endereço
     # completo e o CEP vêm da Receita; o CNES complementa e dá as coordenadas.
+    cep = primeiro_preenchido(receita and receita.cep, localizacao and localizacao.cep)
     return {
         "cnpj": farmacia.cnpj,
         "cnes": localizacao.cnes if localizacao else None,
@@ -48,12 +67,11 @@ def montar_farmacia(
             "logradouro": primeiro_preenchido(receita and receita.logradouro, farmacia.logradouro),
             "numero": primeiro_preenchido(receita and receita.numero, localizacao and localizacao.numero),
             "bairro": primeiro_preenchido(farmacia.bairro, receita and receita.bairro),
-            "cep": primeiro_preenchido(receita and receita.cep, localizacao and localizacao.cep),
+            "cep": cep,
         },
         "codigo_municipio": farmacia.codigo_municipio,
         "municipio": farmacia.municipio,
-        "latitude": localizacao.latitude if localizacao else None,
-        "longitude": localizacao.longitude if localizacao else None,
+        **localizar(localizacao, cep, centros_cep),
         "frentes": ["FARMACIA_POPULAR"],
         "data_credenciamento": farmacia.data_credenciamento,
     }
@@ -63,11 +81,12 @@ def agrupar_por_uf(
     farmacias: list[FarmaciaCredenciada],
     localizacoes: dict[str, LocalizacaoCnes],
     cadastros_receita: dict[str, CadastroReceita],
+    centros_cep: CentrosCep,
 ) -> dict[str, list[dict]]:
     por_uf: dict[str, list[dict]] = defaultdict(list)
     for farmacia in sorted(farmacias, key=lambda f: (f.uf, f.municipio, f.nome, f.cnpj)):
         cnpj = farmacia.cnpj
-        por_uf[farmacia.uf].append(montar_farmacia(farmacia, localizacoes.get(cnpj), cadastros_receita.get(cnpj)))
+        por_uf[farmacia.uf].append(montar_farmacia(farmacia, localizacoes.get(cnpj), cadastros_receita.get(cnpj), centros_cep))
     return dict(por_uf)
 
 
@@ -79,7 +98,8 @@ def descrever_fonte(data_referencia: str, caminho_base_cnes: Path, diretorio_rec
         "url": URL_PAINEL,
         "data_referencia": data_referencia,
         "data_obtencao": date.today().isoformat(),
-        "coordenadas": f"CNES, base completa {caminho_base_cnes.name}, cruzada pelo CNPJ",
+        "coordenadas": f"CNES, base completa {caminho_base_cnes.name}, cruzada pelo CNPJ; "
+        "sem coordenada no CNES, centro do CEP calculado pelo CNEFE (IBGE, Censo 2022)",
         "nome_fantasia_e_endereco": f"Receita Federal, dados abertos do CNPJ ({diretorio_receita.name}), cruzados pelo CNPJ",
     }
 
@@ -88,10 +108,12 @@ def gravar_por_uf(farmacias_por_uf: dict[str, list[dict]], fonte: dict, diretori
     diretorio.mkdir(parents=True, exist_ok=True)
     indice = {}
     for uf, farmacias in farmacias_por_uf.items():
-        com_coordenadas = sum(1 for farmacia in farmacias if farmacia["latitude"] is not None)
+        por_precisao = {precisao: sum(1 for f in farmacias if f["precisao_localizacao"] == precisao)
+                        for precisao in (PRECISAO_ENDERECO, PRECISAO_CENTRO_CEP)}
         conteudo = {"fonte": fonte, "uf": uf, "estabelecimentos": farmacias}
         (diretorio / f"{uf}.json").write_text(json.dumps(conteudo, ensure_ascii=False, indent=0), encoding="utf-8")
-        indice[uf] = {"farmacias": len(farmacias), "com_coordenadas": com_coordenadas}
+        indice[uf] = {"farmacias": len(farmacias), "localizacao_por_endereco": por_precisao["endereco"],
+                      "localizacao_por_centro_cep": por_precisao["centro_cep"]}
     conteudo_indice = {"fonte": fonte, "ufs": dict(sorted(indice.items()))}
     (diretorio / "indice.json").write_text(json.dumps(conteudo_indice, ensure_ascii=False, indent=1), encoding="utf-8")
 
@@ -119,7 +141,8 @@ def gerar_base_farmacia_popular(
         len(farmacias), com_coordenadas, len(cadastros_receita), com_fantasia,
     )
     fonte = descrever_fonte(resultado["dataReferencia"], caminho_base_cnes, diretorio_receita)
-    gravar_por_uf(agrupar_por_uf(farmacias, localizacoes, cadastros_receita), fonte, diretorio_saida)
+    farmacias_por_uf = agrupar_por_uf(farmacias, localizacoes, cadastros_receita, CentrosCep())
+    gravar_por_uf(farmacias_por_uf, fonte, diretorio_saida)
 
 
 def main() -> None:
