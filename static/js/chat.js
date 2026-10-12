@@ -1,6 +1,7 @@
 import { buscarMedicamento, separarEntradas, SITUACAO } from "./busca_medicamentos.js";
 import { criarElemento, criarLink, formatarData } from "./elementos_dom.js";
 import { oferecerBuscaDeLocais } from "./busca_locais.js";
+import { aplicarSugestao, sugerirGrafias } from "./sugestao_grafia.js";
 
 const CAMINHO_ELENCO = "data/reference/farmacia_popular_elenco.json";
 const EXEMPLO_RECEITA = "Losartana 50 mg\nMetformina 500 mg\nDipirona 500 mg";
@@ -67,14 +68,30 @@ const TEXTOS_SITUACAO = {
     explicacao: "O princípio ativo consta no elenco, mas não na concentração informada. Concentrações listadas:",
   },
   [SITUACAO.NAO_IDENTIFICADO]: {
-    rotulo: "não identificado",
+    rotulo: "possivelmente não coberto",
     explicacao:
-      "Não encontrado no elenco do Farmácia Popular. Isso não significa que não seja ofertado pelo SUS: " +
-      "ele pode constar na RENAME ou na lista do seu município, que esta ferramenta ainda não consulta.",
+      "Possivelmente este medicamento não é coberto pelo Farmácia Popular, ou o nome não foi digitado " +
+      "corretamente. Confira a grafia na receita. Ele ainda pode ser ofertado pelo SUS em listas que " +
+      "esta ferramenta não consulta, como a do seu município.",
   },
 };
 
-function renderizarResultado(entrada, resultado) {
+function renderizarSugestoes(entrada, elenco) {
+  const sugestoes = sugerirGrafias(entrada, elenco.itens);
+  if (sugestoes.length === 0) return null;
+  const bloco = criarElemento("div", "sugestoes");
+  bloco.append(criarElemento("span", null, "Você quis dizer: "));
+  sugestoes.forEach((sugestao) => {
+    const entradaCorrigida = aplicarSugestao(entrada, sugestao);
+    const botao = criarElemento("button", "botao botao--sugestao", entradaCorrigida);
+    botao.type = "button";
+    botao.addEventListener("click", () => consultarReceita(entradaCorrigida, elenco));
+    bloco.append(botao);
+  });
+  return bloco;
+}
+
+function renderizarResultado(entrada, resultado, elenco) {
   const textos = TEXTOS_SITUACAO[resultado.situacao];
   const cartao = criarElemento("div", `resultado resultado--${resultado.situacao}`);
   const titulo = criarElemento("p");
@@ -84,6 +101,10 @@ function renderizarResultado(entrada, resultado) {
   );
   cartao.append(titulo, criarElemento("p", null, textos.explicacao));
   if (resultado.itens.length > 0) cartao.append(listarItens(resultado.itens));
+  if (resultado.situacao === SITUACAO.NAO_IDENTIFICADO) {
+    const sugestoes = renderizarSugestoes(entrada, elenco);
+    if (sugestoes) cartao.append(sugestoes);
+  }
 
   resultado.itens
     .filter((item) => item.observacao)
@@ -113,11 +134,17 @@ function consultarReceita(textoReceita, elenco) {
   adicionarMensagem("usuario", entradas.join("\n"));
   adicionarMensagem("sistema", [
     "Resultado da consulta no elenco do Farmácia Popular:",
-    ...resultados.map(({ entrada, resultado }) => renderizarResultado(entrada, resultado)),
+    ...resultados.map(({ entrada, resultado }) => renderizarResultado(entrada, resultado, elenco)),
   ]);
 
   const algumEncontrado = resultados.some(({ resultado }) => resultado.itens.length > 0);
-  if (!algumEncontrado) return;
+  if (!algumEncontrado) {
+    adicionarMensagem(
+      "sistema",
+      "Nenhum medicamento informado foi identificado como coberto. Confira os nomes na receita e tente novamente.",
+    );
+    return;
+  }
   adicionarMensagem("sistema", mensagemProximosPassos(elenco.fonte));
   oferecerBuscaDeLocais(adicionarMensagem);
 }

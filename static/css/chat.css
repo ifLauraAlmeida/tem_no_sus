@@ -129,3 +129,19 @@
   border: 1px solid var(--azul-claro);
   margin-bottom: 6px;
 }
+
+.sugestoes {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+  margin-top: 6px;
+  font-size: 0.92rem;
+}
+.botao--sugestao {
+  background: var(--branco);
+  color: var(--azul);
+  padding: 3px 14px;
+  font-size: 0.9rem;
+}
+.botao--sugestao:hover { background: var(--azul-fundo); }
