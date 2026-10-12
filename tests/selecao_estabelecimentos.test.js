@@ -93,3 +93,11 @@ test("se o mais próximo já está longe, aceita os demais até o dobro da dist�
   );
   assert.deepEqual(selecionarComDiversidade(ordenados).map((e) => e.nome), ["ubs-30km", "fp-50km"]);
 });
+
+test("restringe aos tipos de local permitidos", () => {
+  const ordenados = ordenarPorProximidade(
+    [estabelecimento("ubs", ["CBAF"]), estabelecimento("fp", ["FARMACIA_POPULAR_CNES"])],
+    { gruposPermitidos: new Set(["rede_publica_basica"]) },
+  );
+  assert.deepEqual(ordenados.map((e) => e.nome), ["ubs"]);
+});

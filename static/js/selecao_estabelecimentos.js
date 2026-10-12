@@ -47,12 +47,15 @@ function compararProximidade(bairroNormalizado) {
   };
 }
 
-export function ordenarPorProximidade(estabelecimentos, { municipio, bairro, posicaoUsuario }) {
+// gruposPermitidos restringe aos tipos de local compatíveis com os
+// medicamentos consultados; sem ele, aceita qualquer grupo conhecido.
+export function ordenarPorProximidade(estabelecimentos, { municipio, bairro, posicaoUsuario, gruposPermitidos }) {
   const comparar = compararProximidade(bairro ? normalizarTexto(bairro) : "");
+  const grupoAceito = (grupo) => grupo !== null && (!gruposPermitidos || gruposPermitidos.has(grupo));
   return estabelecimentos
     .filter((estabelecimento) => !municipio || estabelecimento.codigo_municipio === municipio)
     .map((estabelecimento) => comDistancia(estabelecimento, posicaoUsuario))
-    .filter((estabelecimento) => estabelecimento.grupo !== null)
+    .filter((estabelecimento) => grupoAceito(estabelecimento.grupo))
     .sort(comparar);
 }
 
